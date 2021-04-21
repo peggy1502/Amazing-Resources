@@ -2,17 +2,18 @@
 List of references and online resources that I find very useful
 
 ## Courses
-fast.ai
-- https://www.fast.ai/
+fast.ai (https://www.fast.ai/)
 
-MIT Deep Learning 6.S191
-- http://introtodeeplearning.com/
+MIT Deep Learning 6.S191 (http://introtodeeplearning.com/)
 
-AWS Machine Learning University
-- https://aws.amazon.com/machine-learning/mlu/
+AWS Machine Learning University (https://aws.amazon.com/machine-learning/mlu/)
 
 
-## 
+## Video Tutorials
 
-Scanner App for Math and Science
-- https://mathpix.com/
+https://www.3blue1brown.com/
+http://matrixmultiplication.xyz/
+
+## Utilities 
+
+Scanner App for Math and Science (https://mathpix.com/)
