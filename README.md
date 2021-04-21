@@ -1,5 +1,5 @@
 # Amazing Resources
-List of references and online resources that I find very useful 👍   
+List of references and online resources that I find very useful.
 
 ## 👍 Courses / Tutorials
 
@@ -16,10 +16,6 @@ List of references and online resources that I find very useful 👍
 - XGBoost - Notes on Parameter Tuning (https://xgboost.readthedocs.io/en/latest/tutorials/param_tuning.html)
 - Kaggle (https://www.kaggle.com/learn)
 
-## 👍 Blogs
-- Machine Learning Mastery (https://machinelearningmastery.com/)
-- https://terenceshin.com/
-
 ## 👍 Videos
 - DeepLearningAI (https://www.youtube.com/c/Deeplearningai/playlists)
 - Nuts and Bolts of Applying Deep Learning (Andrew Ng) (https://www.youtube.com/watch?v=F1ka6a13S9I)
@@ -29,7 +25,7 @@ List of references and online resources that I find very useful 👍
 - 3Blue1Brown (https://www.3blue1brown.com/)
 - Matrix Multiplication (http://matrixmultiplication.xyz/)
 
-## 👍 Book
+## 👍 Books
 - The Hundred-Page Machine Learning Book (http://themlbook.com/wiki/doku.php)
 - Machine Learning Engineering (http://www.mlebook.com/wiki/doku.php)
 
@@ -70,13 +66,16 @@ List of references and online resources that I find very useful 👍
 - Machine Learning Glossary (https://developers.google.com/machine-learning/glossary/)
 
 ## 👍 GitHub Repositories
-- https://github.com/aws/amazon-sagemaker-examples
-- MLOps workshop with Amazon SageMaker (https://github.com/aws-samples/amazon-sagemaker-mlops-workshop)
+- Amazon SageMaker Examples (https://github.com/aws/amazon-sagemaker-examples)
+- MLOps Workshop with Amazon SageMaker (https://github.com/aws-samples/amazon-sagemaker-mlops-workshop)
 - Managed Spot Training and Checkpointing for built-in XGBoost (https://github.com/aws-samples/amazon-sagemaker-managed-spot-training/blob/main/xgboost_built_in_managed_spot_training_checkpointing/xgboost_built_in_managed_spot_training_checkpointing.ipynb)
-- https://github.com/rwightman/pytorch-image-models
-- MIT 6.S191: Introduction to Deep Learning (https://github.com/aamini/introtodeeplearning/)
+- PyTorch Image Models (https://github.com/rwightman/pytorch-image-models)
+- MIT 6.S191: Introduction to Deep Learning - Labs (https://github.com/aamini/introtodeeplearning/)
 - GitHub Profile README Generator (https://github.com/rahuldkjain/github-profile-readme-generator)
 
+## 👍 Blogs
+- Machine Learning Mastery (https://machinelearningmastery.com/)
+- https://terenceshin.com/
 
 ## 👍 Utilities 
 - Scanner App for Math and Science (https://mathpix.com/)
