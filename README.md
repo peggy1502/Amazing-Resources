@@ -24,6 +24,7 @@ List of references and online resources that I find very useful.
 - Improve Data Science Team Productivity Using Amazon SageMaker Studio - AWS Online Tech Talks (https://www.youtube.com/watch?v=-WzkbdioMJE)
 - 3Blue1Brown (https://www.3blue1brown.com/)
 - Matrix Multiplication (http://matrixmultiplication.xyz/)
+- Making Friends with Machine Learning (https://decision.substack.com/p/making-friends-with-machine-learning)
 
 ## 👍 Books
 - The Hundred-Page Machine Learning Book (http://themlbook.com/wiki/doku.php)
@@ -33,6 +34,8 @@ List of references and online resources that I find very useful.
 
 #### CNN
 - CNNs from different viewpoints (https://medium.com/impactai/cnns-from-different-viewpoints-fab7f52d159c)
+- Image Kernels - Explained Visually (https://setosa.io/ev/image-kernels/)
+- Increase the Accuracy of Your CNN by Following These 5 Tips I Learned From the Kaggle Community (https://towardsdatascience.com/increase-the-accuracy-of-your-cnn-by-following-these-5-tips-i-learned-from-the-kaggle-community-27227ad39554)
 
 #### RNN
 - Understanding LSTM Networks (http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
@@ -55,6 +58,15 @@ List of references and online resources that I find very useful.
 - Nuts and Bolts of Optimization (https://www.linkedin.com/pulse/nuts-bolts-optimization-chandra-mohan-lingam)
 - Neural Style Transfer with tf.keras (https://aihub.cloud.google.com/p/products%2F7f7495dd-6f66-4f8a-8c30-15f211ad6957)
 - An overview of gradient descent optimization algorithms (https://ruder.io/optimizing-gradient-descent/)
+- Why Momentum Really Works (https://distill.pub/2017/momentum/)
+- How to Choose an Activation Function for Deep Learning (https://machinelearningmastery.com/choose-an-activation-function-for-deep-learning/)
+- Customer Segmentation in Online Retail (https://towardsdatascience.com/customer-segmentation-in-online-retail-1fc707a6f9e6)
+- Exploring ExplainerDashBoard, the easiest way to Develop Interactive DashBoards (https://towardsdatascience.com/build-dashboards-in-less-than-10-lines-of-code-835e9abeae4b)
+- Optimizing costs for machine learning with Amazon SageMaker (https://aws.amazon.com/blogs/machine-learning/optimizing-costs-for-machine-learning-with-amazon-sagemaker/)
+- Stock Prices Prediction Using Machine Learning and Deep Learning Techniques (with Python codes) (https://www.analyticsvidhya.com/blog/2018/10/predicting-stock-price-machine-learningnd-deep-learning-techniques-python)
+- I trained a model. What is next? (https://ternaus.blog/tutorial/2020/08/28/Trained-model-what-is-next.html)
+- How I Built and Deployed a Fun Serverless Machine Learning App (https://towardsdatascience.com/building-and-deploying-cartoonify-b4786b382d7e)
+
 
 #### Colab
 - Google Colab Tips for Power Users (https://amitness.com/2020/06/google-colaboratory-tips/)
@@ -75,10 +87,21 @@ List of references and online resources that I find very useful.
 - PyTorch Image Models (https://github.com/rwightman/pytorch-image-models)
 - MIT 6.S191: Introduction to Deep Learning - Labs (https://github.com/aamini/introtodeeplearning/)
 - GitHub Profile README Generator (https://github.com/rahuldkjain/github-profile-readme-generator)
+- https://github.com/ChandraLingam/AmazonSageMakerCourse
+- https://github.com/eugeneyan/applied-ml
+
+## 👍 Kaggle
+https://www.kaggle.com/andradaolteanu
 
 ## 👍 Blogs
-- Machine Learning Mastery (https://machinelearningmastery.com/)
+- Machine Learning Mastery (https://machinelearningmastery.com/start-here/)
+- Analytics Vidhya (https://www.analyticsvidhya.com/blog/)
+- Cassie Kozyrkov - Decision Intelligence (https://decision.substack.com/)
+- Kaggle Winner's Blog (https://medium.com/kaggle-blog)
 - https://terenceshin.com/
 
 ## 👍 Utilities 
 - Scanner App for Math and Science (https://mathpix.com/)
+
+## 👍 Maths 
+https://www.mathsisfun.com/
