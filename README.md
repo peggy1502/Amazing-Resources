@@ -17,6 +17,7 @@ List of references and online resources that I find very useful.
 - Kaggle (https://www.kaggle.com/learn)
 
 ## 👍 Videos
+- Making Friends with Machine Learning (https://decision.substack.com/p/making-friends-with-machine-learning)
 - DeepLearningAI (https://www.youtube.com/c/Deeplearningai/playlists)
 - Nuts and Bolts of Applying Deep Learning (Andrew Ng) (https://www.youtube.com/watch?v=F1ka6a13S9I)
 - NIPS 2016 tutorial: "Nuts and bolts of building AI applications using Deep Learning" by Andrew Ng (https://www.youtube.com/watch?v=wjqaz6m42wU)
@@ -24,7 +25,7 @@ List of references and online resources that I find very useful.
 - Improve Data Science Team Productivity Using Amazon SageMaker Studio - AWS Online Tech Talks (https://www.youtube.com/watch?v=-WzkbdioMJE)
 - 3Blue1Brown (https://www.3blue1brown.com/)
 - Matrix Multiplication (http://matrixmultiplication.xyz/)
-- Making Friends with Machine Learning (https://decision.substack.com/p/making-friends-with-machine-learning)
+- Intellipaat - Data Science Online Course (https://www.youtube.com/watch?v=82pV44hr7kQ)
 
 ## 👍 Books
 - The Hundred-Page Machine Learning Book (http://themlbook.com/wiki/doku.php)
@@ -70,6 +71,7 @@ List of references and online resources that I find very useful.
 
 #### Colab
 - Google Colab Tips for Power Users (https://amitness.com/2020/06/google-colaboratory-tips/)
+- Configuring Google Colab Like A Pro (https://medium.com/@robertbracco1/configuring-google-colab-like-a-pro-d61c253f7573)
 
 #### Python
 - Data Preprocessing Concepts with Python (https://pub.towardsai.net/data-preprocessing-concepts-with-python-b93c63f14bb6)
@@ -98,7 +100,8 @@ https://www.kaggle.com/andradaolteanu
 - Analytics Vidhya (https://www.analyticsvidhya.com/blog/)
 - Cassie Kozyrkov - Decision Intelligence (https://decision.substack.com/)
 - Kaggle Winner's Blog (https://medium.com/kaggle-blog)
-- https://terenceshin.com/
+- Terrence Shin (https://terenceshin.com/)
+- Sylvain Gugger (https://sgugger.github.io/)
 
 ## 👍 Utilities 
 - Scanner App for Math and Science (https://mathpix.com/)
