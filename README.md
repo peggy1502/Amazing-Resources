@@ -1,7 +1,7 @@
-# Amazing-Resources
-List of references and online resources that I find very useful
+# Amazing Resources
+List of references and online resources that I find very useful 👍   
 
-## Courses / Tutorials
+## 👍 Courses / Tutorials
 
 - fast.ai (https://www.fast.ai/)
 - MIT 6.S191: Introduction to Deep Learning (http://introtodeeplearning.com/)
@@ -16,11 +16,11 @@ List of references and online resources that I find very useful
 - XGBoost - Notes on Parameter Tuning (https://xgboost.readthedocs.io/en/latest/tutorials/param_tuning.html)
 - Kaggle (https://www.kaggle.com/learn)
 
-## Blogs
+## 👍 Blogs
 - Machine Learning Mastery (https://machinelearningmastery.com/)
 - https://terenceshin.com/
 
-## Videos
+## 👍 Videos
 - DeepLearningAI (https://www.youtube.com/c/Deeplearningai/playlists)
 - Nuts and Bolts of Applying Deep Learning (Andrew Ng) (https://www.youtube.com/watch?v=F1ka6a13S9I)
 - NIPS 2016 tutorial: "Nuts and bolts of building AI applications using Deep Learning" by Andrew Ng (https://www.youtube.com/watch?v=wjqaz6m42wU)
@@ -29,17 +29,17 @@ List of references and online resources that I find very useful
 - 3Blue1Brown (https://www.3blue1brown.com/)
 - Matrix Multiplication (http://matrixmultiplication.xyz/)
 
-## Book
+## 👍 Book
 - The Hundred-Page Machine Learning Book (http://themlbook.com/wiki/doku.php)
 - Machine Learning Engineering (http://www.mlebook.com/wiki/doku.php)
 
-## Articles
+## 👍 Articles
 
-### RNN
+#### RNN
 - Understanding LSTM Networks (http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
 - A Visual Guide to Recurrent Layers in Keras (https://amitness.com/2020/04/recurrent-layers-keras/)
 
-### NLP
+#### NLP
 - A Visual Guide to FastText Word Embeddings (https://amitness.com/2020/06/fasttext-embeddings/)
 - The Illustrated Word2vec (https://jalammar.github.io/illustrated-word2vec/)
 - An Intuitive Understanding of Word Embeddings: From Count Vectors to Word2Vec (https://www.analyticsvidhya.com/blog/2017/06/word-embeddings-count-word2veec/)
@@ -47,29 +47,29 @@ List of references and online resources that I find very useful
 - How to Develop Word Embeddings in Python with Gensim (https://machinelearningmastery.com/develop-word-embeddings-python-gensim/)
 - Interactive Analysis of Sentence Embeddings (https://amitness.com/interactive-sentence-embeddings/)
 
-### Collaborative Filtering
+#### Collaborative Filtering
 - Understanding Matrix Factorization for recommender systems (https://towardsdatascience.com/understanding-matrix-factorization-for-recommender-systems-4d3c5e67f2c9)
 - Building a Music Recommendation Engine with Probabilistic Matrix Factorization in PyTorch (https://towardsdatascience.com/building-a-music-recommendation-engine-with-probabilistic-matrix-factorization-in-pytorch-7d2934067d4a)
 
-### General ML/DL Articles
+#### General ML/DL Articles
 - The best machine learning and deep learning libraries (https://morioh.com/p/73998ba2a04e)
 - Nuts and Bolts of Optimization (https://www.linkedin.com/pulse/nuts-bolts-optimization-chandra-mohan-lingam)
 - Neural Style Transfer with tf.keras (https://aihub.cloud.google.com/p/products%2F7f7495dd-6f66-4f8a-8c30-15f211ad6957)
 - An overview of gradient descent optimization algorithms (https://ruder.io/optimizing-gradient-descent/)
 
-### Colab
+#### Colab
 - Google Colab Tips for Power Users (https://amitness.com/2020/06/google-colaboratory-tips/)
 
-### Python
+#### Python
 - Data Preprocessing Concepts with Python (https://pub.towardsai.net/data-preprocessing-concepts-with-python-b93c63f14bb6)
 - 7 Actionable Tips on How to Use Python to Become a Finance Guru (https://sdsclub.com/7-actionable-tips-on-how-to-use-python-to-become-a-finance-guru/)
 
-## Misc
+## 👍 Misc
 - AI Hub (https://aihub.cloud.google.com/)
 - A Visual Guide to Regular Expression (https://amitness.com/regex/)
 - Machine Learning Glossary (https://developers.google.com/machine-learning/glossary/)
 
-## GitHub Repositories
+## 👍 GitHub Repositories
 - https://github.com/aws/amazon-sagemaker-examples
 - MLOps workshop with Amazon SageMaker (https://github.com/aws-samples/amazon-sagemaker-mlops-workshop)
 - Managed Spot Training and Checkpointing for built-in XGBoost (https://github.com/aws-samples/amazon-sagemaker-managed-spot-training/blob/main/xgboost_built_in_managed_spot_training_checkpointing/xgboost_built_in_managed_spot_training_checkpointing.ipynb)
@@ -78,5 +78,5 @@ List of references and online resources that I find very useful
 - GitHub Profile README Generator (https://github.com/rahuldkjain/github-profile-readme-generator)
 
 
-## Utilities 
+## 👍 Utilities 
 - Scanner App for Math and Science (https://mathpix.com/)
