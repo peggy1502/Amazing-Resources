@@ -1,5 +1,5 @@
 # Amazing Resources
-List of references and online resources related to machine learning / deep learning / data science that I find very useful.
+List of references and online resources related to machine learning, deep learning, and data science that I find very useful.
 
 ## 👍 Courses / Tutorials
 
@@ -43,6 +43,7 @@ List of references and online resources related to machine learning / deep learn
 - A Beginner's Guide To Understanding Convolutional Neural Networks Part 2 (https://adeshpande3.github.io/A-Beginner%27s-Guide-To-Understanding-Convolutional-Neural-Networks-Part-2/)
 - The 9 Deep Learning Papers You Need To Know About (Understanding CNNs Part 3) (https://adeshpande3.github.io/The-9-Deep-Learning-Papers-You-Need-To-Know-About.html)
 - PyTorch layer dimensions: what size and why? (https://towardsdatascience.com/pytorch-layer-dimensions-what-sizes-should-they-be-and-why-4265a41e01fd)
+- PyTorch :: Understanding Tensors (Part 1) (https://dev.to/tbhaxor/pytorch-understanding-tensors-part-1-od8)
 
 
 #### RNN
