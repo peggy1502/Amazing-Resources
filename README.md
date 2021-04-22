@@ -5,6 +5,7 @@ List of references and online resources related to machine learning, deep learni
 
 - fast.ai (https://www.fast.ai/)
 - MIT 6.S191: Introduction to Deep Learning (http://introtodeeplearning.com/)
+- Stanford University CS231n: Convolutional Neural Networks for Visual Recognition (http://cs231n.stanford.edu/)
 - AWS Machine Learning University (https://aws.amazon.com/machine-learning/mlu/)
 - DEEP LEARNING WITH PYTORCH: A 60 MINUTE BLITZ (https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html)
 - TensorFlow Tutorials (https://www.tensorflow.org/tutorials/)
