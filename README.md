@@ -1,5 +1,5 @@
 # Amazing Resources
-List of references and online resources that I find very useful.
+List of references and online resources related to machine learning / deep learning / data science that I find very useful.
 
 ## 👍 Courses / Tutorials
 
@@ -37,6 +37,10 @@ List of references and online resources that I find very useful.
 - CNNs from different viewpoints (https://medium.com/impactai/cnns-from-different-viewpoints-fab7f52d159c)
 - Image Kernels - Explained Visually (https://setosa.io/ev/image-kernels/)
 - Increase the Accuracy of Your CNN by Following These 5 Tips I Learned From the Kaggle Community (https://towardsdatascience.com/increase-the-accuracy-of-your-cnn-by-following-these-5-tips-i-learned-from-the-kaggle-community-27227ad39554)
+- A Beginner's Guide To Understanding Convolutional Neural Networks (https://adeshpande3.github.io/A-Beginner%27s-Guide-To-Understanding-Convolutional-Neural-Networks/)
+- A Beginner's Guide To Understanding Convolutional Neural Networks Part 2 (https://adeshpande3.github.io/A-Beginner%27s-Guide-To-Understanding-Convolutional-Neural-Networks-Part-2/)
+- The 9 Deep Learning Papers You Need To Know About (Understanding CNNs Part 3) (https://adeshpande3.github.io/The-9-Deep-Learning-Papers-You-Need-To-Know-About.html)
+
 
 #### RNN
 - Understanding LSTM Networks (http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
@@ -89,11 +93,11 @@ List of references and online resources that I find very useful.
 - PyTorch Image Models (https://github.com/rwightman/pytorch-image-models)
 - MIT 6.S191: Introduction to Deep Learning - Labs (https://github.com/aamini/introtodeeplearning/)
 - GitHub Profile README Generator (https://github.com/rahuldkjain/github-profile-readme-generator)
-- https://github.com/ChandraLingam/AmazonSageMakerCourse
-- https://github.com/eugeneyan/applied-ml
+- Applied ML (https://github.com/eugeneyan/applied-ml)
+- Amazon SageMaker Course by Chandra Lingam (https://github.com/ChandraLingam/AmazonSageMakerCourse)
 
 ## 👍 Kaggle
-https://www.kaggle.com/andradaolteanu
+- https://www.kaggle.com/andradaolteanu
 
 ## 👍 Blogs
 - Machine Learning Mastery (https://machinelearningmastery.com/start-here/)
@@ -107,4 +111,4 @@ https://www.kaggle.com/andradaolteanu
 - Scanner App for Math and Science (https://mathpix.com/)
 
 ## 👍 Maths 
-https://www.mathsisfun.com/
+- https://www.mathsisfun.com/
