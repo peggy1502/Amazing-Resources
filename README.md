@@ -25,7 +25,6 @@ List of references and online resources related to data science, machine learnin
 - Amazon SageMaker Technical Deep Dive Series (https://www.youtube.com/watch?v=uQc8Itd4UTs&list=PLhr1KZpdzukcOr_6j_zmSrvYnLUtgqsZz&index=2)
 - Improve Data Science Team Productivity Using Amazon SageMaker Studio - AWS Online Tech Talks (https://www.youtube.com/watch?v=-WzkbdioMJE)
 - 3Blue1Brown (https://www.3blue1brown.com/)
-- Matrix Multiplication (http://matrixmultiplication.xyz/)
 - Intellipaat - Data Science Online Course (https://www.youtube.com/watch?v=82pV44hr7kQ)
 
 ## 👍 Books
@@ -116,4 +115,5 @@ List of references and online resources related to data science, machine learnin
 - Scanner App for Math and Science (https://mathpix.com/)
 
 ## 👍 Maths 
-- https://www.mathsisfun.com/
+- Maths is Fun (https://www.mathsisfun.com/)
+- Matrix Multiplication (http://matrixmultiplication.xyz/)
