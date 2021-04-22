@@ -34,12 +34,15 @@ List of references and online resources related to machine learning / deep learn
 ## 👍 Articles
 
 #### CNN
+- Applied Deep Learning - Part 3: Autoencoders (https://towardsdatascience.com/applied-deep-learning-part-3-autoencoders-1c083af4d798)
+- Applied Deep Learning - Part 4: Convolutional Neural Networks (https://towardsdatascience.com/applied-deep-learning-part-4-convolutional-neural-networks-584bc134c1e2)
 - CNNs from different viewpoints (https://medium.com/impactai/cnns-from-different-viewpoints-fab7f52d159c)
 - Image Kernels - Explained Visually (https://setosa.io/ev/image-kernels/)
 - Increase the Accuracy of Your CNN by Following These 5 Tips I Learned From the Kaggle Community (https://towardsdatascience.com/increase-the-accuracy-of-your-cnn-by-following-these-5-tips-i-learned-from-the-kaggle-community-27227ad39554)
 - A Beginner's Guide To Understanding Convolutional Neural Networks (https://adeshpande3.github.io/A-Beginner%27s-Guide-To-Understanding-Convolutional-Neural-Networks/)
 - A Beginner's Guide To Understanding Convolutional Neural Networks Part 2 (https://adeshpande3.github.io/A-Beginner%27s-Guide-To-Understanding-Convolutional-Neural-Networks-Part-2/)
 - The 9 Deep Learning Papers You Need To Know About (Understanding CNNs Part 3) (https://adeshpande3.github.io/The-9-Deep-Learning-Papers-You-Need-To-Know-About.html)
+- PyTorch layer dimensions: what size and why? (https://towardsdatascience.com/pytorch-layer-dimensions-what-sizes-should-they-be-and-why-4265a41e01fd)
 
 
 #### RNN
