@@ -1,5 +1,5 @@
 # Amazing Resources
-List of references and online resources related to machine learning, deep learning, and data science that I find very useful.
+List of references and online resources related to data science, machine learning and deep learning.
 
 ## 👍 Courses / Tutorials
 
