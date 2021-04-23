@@ -20,6 +20,7 @@ List of references and online resources related to data science, machine learnin
 ## 👍 Videos
 - Making Friends with Machine Learning (https://decision.substack.com/p/making-friends-with-machine-learning)
 - DeepLearningAI (https://www.youtube.com/c/Deeplearningai/playlists)
+- Deep Learning for Computer Vision (Andrej Karpathy, OpenAI) (https://www.youtube.com/watch?v=u6aEYuemt0M)
 - Nuts and Bolts of Applying Deep Learning (Andrew Ng) (https://www.youtube.com/watch?v=F1ka6a13S9I)
 - NIPS 2016 tutorial: "Nuts and bolts of building AI applications using Deep Learning" by Andrew Ng (https://www.youtube.com/watch?v=wjqaz6m42wU)
 - Amazon SageMaker Technical Deep Dive Series (https://www.youtube.com/watch?v=uQc8Itd4UTs&list=PLhr1KZpdzukcOr_6j_zmSrvYnLUtgqsZz&index=2)
@@ -89,6 +90,7 @@ List of references and online resources related to data science, machine learnin
 - AI Hub (https://aihub.cloud.google.com/)
 - A Visual Guide to Regular Expression (https://amitness.com/regex/)
 - Machine Learning Glossary (https://developers.google.com/machine-learning/glossary/)
+- ConvNetJS - Deep Learning in your browser (https://cs.stanford.edu/people/karpathy/convnetjs/)
 
 ## 👍 GitHub Repositories
 - Amazon SageMaker Examples (https://github.com/aws/amazon-sagemaker-examples)
