@@ -117,6 +117,7 @@ List of references and online resources related to data science, machine learnin
 - Terrence Shin (https://terenceshin.com/)
 - Sylvain Gugger (https://sgugger.github.io/)
 - Jason Yosinski (https://yosinski.com/)
+- Lankinen (Fast.ai Lesson notes) (https://lankinen.medium.com/)
 
 ## 👍 Maths 
 - Maths is Fun (https://www.mathsisfun.com/)
