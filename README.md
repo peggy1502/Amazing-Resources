@@ -7,6 +7,7 @@ List of references and online resources related to data science, machine learnin
 - MIT 6.S191: Introduction to Deep Learning (http://introtodeeplearning.com/)
 - Stanford University CS231n: Convolutional Neural Networks for Visual Recognition (http://cs231n.stanford.edu/)
 - AWS Machine Learning University (https://aws.amazon.com/machine-learning/mlu/)
+- AI Hub (https://aihub.cloud.google.com/)
 - DEEP LEARNING WITH PYTORCH: A 60 MINUTE BLITZ (https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html)
 - TensorFlow Tutorials (https://www.tensorflow.org/tutorials/)
 - Keras Guide (https://www.tensorflow.org/guide/keras/sequential_model)
@@ -87,11 +88,11 @@ List of references and online resources related to data science, machine learnin
 - Data Preprocessing Concepts with Python (https://pub.towardsai.net/data-preprocessing-concepts-with-python-b93c63f14bb6)
 - 7 Actionable Tips on How to Use Python to Become a Finance Guru (https://sdsclub.com/7-actionable-tips-on-how-to-use-python-to-become-a-finance-guru/)
 
-## 👍 Misc
-- AI Hub (https://aihub.cloud.google.com/)
+## 👍 Interesting and Fun
 - A Visual Guide to Regular Expression (https://amitness.com/regex/)
 - Machine Learning Glossary (https://developers.google.com/machine-learning/glossary/)
 - ConvNetJS - Deep Learning in your browser (https://cs.stanford.edu/people/karpathy/convnetjs/)
+- Classifier Playground (https://www.ccom.ucsd.edu/~cdeotte/programs/classify.html)
 - YOLO: Real-Time Object Detection (https://pjreddie.com/darknet/yolo/)
 
 ## 👍 GitHub Repositories
@@ -105,6 +106,7 @@ List of references and online resources related to data science, machine learnin
 - Amazon SageMaker Course by Chandra Lingam (https://github.com/ChandraLingam/AmazonSageMakerCourse)
 
 ## 👍 Kaggle
+- https://www.kaggle.com/cdeotte
 - https://www.kaggle.com/andradaolteanu
 
 ## 👍 Blogs
@@ -116,9 +118,10 @@ List of references and online resources related to data science, machine learnin
 - Sylvain Gugger (https://sgugger.github.io/)
 - Jason Yosinski (https://yosinski.com/)
 
-## 👍 Utilities 
-- Scanner App for Math and Science (https://mathpix.com/)
-
 ## 👍 Maths 
 - Maths is Fun (https://www.mathsisfun.com/)
 - Matrix Multiplication (http://matrixmultiplication.xyz/)
+
+## 👍 Utilities 
+- Scanner App for Math and Science (https://mathpix.com/)
+
