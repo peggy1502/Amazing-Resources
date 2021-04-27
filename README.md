@@ -37,7 +37,6 @@ List of references and online resources related to data science, machine learnin
 ## 👍 Articles
 
 #### CNN
-- Applied Deep Learning - Part 3: Autoencoders (https://towardsdatascience.com/applied-deep-learning-part-3-autoencoders-1c083af4d798)
 - Applied Deep Learning - Part 4: Convolutional Neural Networks (https://towardsdatascience.com/applied-deep-learning-part-4-convolutional-neural-networks-584bc134c1e2)
 - CNNs from different viewpoints (https://medium.com/impactai/cnns-from-different-viewpoints-fab7f52d159c)
 - Image Kernels - Explained Visually (https://setosa.io/ev/image-kernels/)
@@ -78,6 +77,7 @@ List of references and online resources related to data science, machine learnin
 - Stock Prices Prediction Using Machine Learning and Deep Learning Techniques (with Python codes) (https://www.analyticsvidhya.com/blog/2018/10/predicting-stock-price-machine-learningnd-deep-learning-techniques-python)
 - I trained a model. What is next? (https://ternaus.blog/tutorial/2020/08/28/Trained-model-what-is-next.html)
 - How I Built and Deployed a Fun Serverless Machine Learning App (https://towardsdatascience.com/building-and-deploying-cartoonify-b4786b382d7e)
+- Applied Deep Learning - Part 3: Autoencoders (https://towardsdatascience.com/applied-deep-learning-part-3-autoencoders-1c083af4d798)
 
 
 #### Colab
@@ -100,6 +100,7 @@ List of references and online resources related to data science, machine learnin
 - MLOps Workshop with Amazon SageMaker (https://github.com/aws-samples/amazon-sagemaker-mlops-workshop)
 - Managed Spot Training and Checkpointing for built-in XGBoost (https://github.com/aws-samples/amazon-sagemaker-managed-spot-training/blob/main/xgboost_built_in_managed_spot_training_checkpointing/xgboost_built_in_managed_spot_training_checkpointing.ipynb)
 - PyTorch Image Models (https://github.com/rwightman/pytorch-image-models)
+- EfficientNet PyTorch (https://github.com/lukemelas/EfficientNet-PyTorch)
 - MIT 6.S191: Introduction to Deep Learning - Labs (https://github.com/aamini/introtodeeplearning/)
 - GitHub Profile README Generator (https://github.com/rahuldkjain/github-profile-readme-generator)
 - Applied ML (https://github.com/eugeneyan/applied-ml)
