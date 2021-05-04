@@ -79,6 +79,7 @@ List of references and online resources related to data science, machine learnin
 - I trained a model. What is next? (https://ternaus.blog/tutorial/2020/08/28/Trained-model-what-is-next.html)
 - How I Built and Deployed a Fun Serverless Machine Learning App (https://towardsdatascience.com/building-and-deploying-cartoonify-b4786b382d7e)
 - Applied Deep Learning - Part 3: Autoencoders (https://towardsdatascience.com/applied-deep-learning-part-3-autoencoders-1c083af4d798)
+- Finding Good Learning Rate and The One Cycle Policy (https://towardsdatascience.com/finding-good-learning-rate-and-the-one-cycle-policy-7159fe1db5d6)
 
 
 #### Colab
