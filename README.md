@@ -59,6 +59,7 @@ List of references and online resources related to data science, machine learnin
 - Intuitive Understanding of Seq2seq model & Attention Mechanism in Deep Learning (https://medium.com/analytics-vidhya/intuitive-understanding-of-seq2seq-model-attention-mechanism-in-deep-learning-1c1c24aace1e)
 - How to Develop Word Embeddings in Python with Gensim (https://machinelearningmastery.com/develop-word-embeddings-python-gensim/)
 - Interactive Analysis of Sentence Embeddings (https://amitness.com/interactive-sentence-embeddings/)
+- Cosine Similarity for Vector Space Models (Part III) (https://blog.christianperone.com/2013/09/machine-learning-cosine-similarity-for-vector-space-models-part-iii/)
 
 #### Collaborative Filtering
 - Understanding Matrix Factorization for recommender systems (https://towardsdatascience.com/understanding-matrix-factorization-for-recommender-systems-4d3c5e67f2c9)
