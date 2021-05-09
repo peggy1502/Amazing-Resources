@@ -4,6 +4,7 @@ List of references and online resources related to data science, machine learnin
 ## 👍 Courses / Tutorials
 
 - fast.ai (https://www.fast.ai/)
+- Walk with fastai (https://walkwithfastai.com/)
 - MIT 6.S191: Introduction to Deep Learning (http://introtodeeplearning.com/)
 - Stanford University CS231n: Convolutional Neural Networks for Visual Recognition (http://cs231n.stanford.edu/)
 - AWS Machine Learning University (https://aws.amazon.com/machine-learning/mlu/)
