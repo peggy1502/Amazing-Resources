@@ -82,6 +82,7 @@ List of references and online resources related to data science, machine learnin
 - Applied Deep Learning - Part 3: Autoencoders (https://towardsdatascience.com/applied-deep-learning-part-3-autoencoders-1c083af4d798)
 - Finding Good Learning Rate and The One Cycle Policy (https://towardsdatascience.com/finding-good-learning-rate-and-the-one-cycle-policy-7159fe1db5d6)
 - Understanding Fastai's fit_one_cycle method (https://iconof.com/1cycle-learning-rate-policy/)
+- Pytorch to fastai, Bridging the Gap (https://muellerzr.github.io/fastblog/2021/02/14/Pytorchtofastai.html)
 
 
 #### Colab
@@ -123,6 +124,7 @@ List of references and online resources related to data science, machine learnin
 - Sylvain Gugger (https://sgugger.github.io/)
 - Jason Yosinski (https://yosinski.com/)
 - Lankinen (Fast.ai Lesson notes) (https://lankinen.medium.com/)
+- Zachary Mueller (https://muellerzr.github.io/fastblog/)
 
 ## 👍 Maths 
 - Maths is Fun (https://www.mathsisfun.com/)
