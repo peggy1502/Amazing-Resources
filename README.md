@@ -18,6 +18,7 @@ List of references and online resources related to data science, machine learnin
 - XGBoost (https://xgboost.readthedocs.io/en/latest/index.html)
 - XGBoost - Notes on Parameter Tuning (https://xgboost.readthedocs.io/en/latest/tutorials/param_tuning.html)
 - Kaggle (https://www.kaggle.com/learn)
+- ML Cheatsheet (https://ml-cheatsheet.readthedocs.io/en/latest/index.html)
 
 ## 👍 Videos
 - Making Friends with Machine Learning (https://decision.substack.com/p/making-friends-with-machine-learning)
