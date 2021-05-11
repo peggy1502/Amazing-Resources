@@ -117,6 +117,7 @@ List of references and online resources related to data science, machine learnin
 - https://www.kaggle.com/andradaolteanu
 
 ## 👍 Blogs
+- Data.gov.sg Blog (https://blog.data.gov.sg/)
 - Machine Learning Mastery (https://machinelearningmastery.com/start-here/)
 - Analytics Vidhya (https://www.analyticsvidhya.com/blog/)
 - Cassie Kozyrkov - Decision Intelligence (https://decision.substack.com/)
@@ -130,6 +131,7 @@ List of references and online resources related to data science, machine learnin
 ## 👍 Maths 
 - Maths is Fun (https://www.mathsisfun.com/)
 - Matrix Multiplication (http://matrixmultiplication.xyz/)
+- The Matrix Calculus You Need For Deep Learning (https://explained.ai/matrix-calculus/)
 
 ## 👍 Utilities 
 - Scanner App for Math and Science (https://mathpix.com/)
