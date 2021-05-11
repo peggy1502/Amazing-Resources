@@ -118,6 +118,7 @@ List of references and online resources related to data science, machine learnin
 
 ## 👍 Blogs
 - Data.gov.sg Blog (https://blog.data.gov.sg/)
+- GovTech’s Data Science and Artificial Intelligence Division (DSAID) (https://medium.com/dsaid-govtech)
 - Machine Learning Mastery (https://machinelearningmastery.com/start-here/)
 - Analytics Vidhya (https://www.analyticsvidhya.com/blog/)
 - Cassie Kozyrkov - Decision Intelligence (https://decision.substack.com/)
