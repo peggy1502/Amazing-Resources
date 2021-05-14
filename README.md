@@ -31,6 +31,7 @@ List of references and online resources related to data science, machine learnin
 - Improve Data Science Team Productivity Using Amazon SageMaker Studio - AWS Online Tech Talks (https://www.youtube.com/watch?v=-WzkbdioMJE)
 - 3Blue1Brown (https://www.3blue1brown.com/)
 - Intellipaat - Data Science Online Course (https://www.youtube.com/watch?v=82pV44hr7kQ)
+- Jay Alammar (https://www.youtube.com/channel/UCmOwsoHty5PrmE-3QhUBfPQ/videos)
 
 ## 👍 Books
 - The Hundred-Page Machine Learning Book (http://themlbook.com/wiki/doku.php)
@@ -62,6 +63,7 @@ List of references and online resources related to data science, machine learnin
 - How to Develop Word Embeddings in Python with Gensim (https://machinelearningmastery.com/develop-word-embeddings-python-gensim/)
 - Interactive Analysis of Sentence Embeddings (https://amitness.com/interactive-sentence-embeddings/)
 - Cosine Similarity for Vector Space Models (Part III) (https://blog.christianperone.com/2013/09/machine-learning-cosine-similarity-for-vector-space-models-part-iii/)
+- The Annotated Transformer (http://nlp.seas.harvard.edu/2018/04/03/attention.html)
 
 #### Collaborative Filtering
 - Understanding Matrix Factorization for recommender systems (https://towardsdatascience.com/understanding-matrix-factorization-for-recommender-systems-4d3c5e67f2c9)
@@ -128,6 +130,8 @@ List of references and online resources related to data science, machine learnin
 - Jason Yosinski (https://yosinski.com/)
 - Lankinen (Fast.ai Lesson notes) (https://lankinen.medium.com/)
 - Zachary Mueller (https://muellerzr.github.io/fastblog/)
+- Jay Alammar (http://jalammar.github.io/)
+- colah's blog - Christopher Olah (https://colah.github.io/)
 
 ## 👍 Maths 
 - Maths is Fun (https://www.mathsisfun.com/)
