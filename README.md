@@ -117,11 +117,12 @@ List of references and online resources related to data science, machine learnin
 - Applied ML (https://github.com/eugeneyan/applied-ml)
 - Amazon SageMaker Course by Chandra Lingam (https://github.com/ChandraLingam/AmazonSageMakerCourse)
 - A detailed example of how to generate your data in parallel with PyTorch (https://github.com/shervinea/pytorch-data-generator) (https://stanford.edu/~shervine/blog/pytorch-how-to-generate-data-parallel)
-- 
+- Keras vs. PyTorch: Alien vs. Predator recognition with transfer learning (https://github.com/deepsense-ai/Keras-PyTorch-AvP-transfer-learning)
 
 ## 👍 Kaggle
 - https://www.kaggle.com/cdeotte
 - https://www.kaggle.com/andradaolteanu
+- VGG16 Transfer Learning - Pytorch (https://www.kaggle.com/carloalbertobarbano/vgg16-transfer-learning-pytorch)
 
 ## 👍 Blogs
 - Data.gov.sg Blog (https://blog.data.gov.sg/)
