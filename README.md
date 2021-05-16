@@ -40,6 +40,7 @@ List of references and online resources related to data science, machine learnin
 ## 👍 Articles
 
 #### CNN
+- Convolutional Neural Networks cheatsheet (https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-convolutional-neural-networks)
 - Applied Deep Learning - Part 4: Convolutional Neural Networks (https://towardsdatascience.com/applied-deep-learning-part-4-convolutional-neural-networks-584bc134c1e2)
 - CNNs from different viewpoints (https://medium.com/impactai/cnns-from-different-viewpoints-fab7f52d159c)
 - Image Kernels - Explained Visually (https://setosa.io/ev/image-kernels/)
@@ -70,6 +71,7 @@ List of references and online resources related to data science, machine learnin
 - Building a Music Recommendation Engine with Probabilistic Matrix Factorization in PyTorch (https://towardsdatascience.com/building-a-music-recommendation-engine-with-probabilistic-matrix-factorization-in-pytorch-7d2934067d4a)
 
 #### General ML/DL Articles
+- Deep Learning cheatsheet (https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-deep-learning)
 - The best machine learning and deep learning libraries (https://morioh.com/p/73998ba2a04e)
 - Nuts and Bolts of Optimization (https://www.linkedin.com/pulse/nuts-bolts-optimization-chandra-mohan-lingam)
 - Neural Style Transfer with tf.keras (https://aihub.cloud.google.com/p/products%2F7f7495dd-6f66-4f8a-8c30-15f211ad6957)
@@ -93,6 +95,7 @@ List of references and online resources related to data science, machine learnin
 - Configuring Google Colab Like A Pro (https://medium.com/@robertbracco1/configuring-google-colab-like-a-pro-d61c253f7573)
 
 #### Python
+- Data manipulation with Python (https://www.mit.edu/~amidi/teaching/data-science-tools/study-guide/data-manipulation-with-python/)
 - Data Preprocessing Concepts with Python (https://pub.towardsai.net/data-preprocessing-concepts-with-python-b93c63f14bb6)
 - 7 Actionable Tips on How to Use Python to Become a Finance Guru (https://sdsclub.com/7-actionable-tips-on-how-to-use-python-to-become-a-finance-guru/)
 
@@ -113,6 +116,8 @@ List of references and online resources related to data science, machine learnin
 - GitHub Profile README Generator (https://github.com/rahuldkjain/github-profile-readme-generator)
 - Applied ML (https://github.com/eugeneyan/applied-ml)
 - Amazon SageMaker Course by Chandra Lingam (https://github.com/ChandraLingam/AmazonSageMakerCourse)
+- A detailed example of how to generate your data in parallel with PyTorch (https://github.com/shervinea/pytorch-data-generator) (https://stanford.edu/~shervine/blog/pytorch-how-to-generate-data-parallel)
+- 
 
 ## 👍 Kaggle
 - https://www.kaggle.com/cdeotte
