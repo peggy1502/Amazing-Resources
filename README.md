@@ -115,7 +115,7 @@ List of references and online resources related to data science, machine learnin
 - GitHub Profile README Generator (https://github.com/rahuldkjain/github-profile-readme-generator)
 - Applied ML (https://github.com/eugeneyan/applied-ml)
 - Amazon SageMaker Course by Chandra Lingam (https://github.com/ChandraLingam/AmazonSageMakerCourse)
-- A detailed example of how to generate your data in parallel with PyTorch (https://github.com/shervinea/pytorch-data-generator) (https://stanford.edu/~shervine/blog/pytorch-how-to-generate-data-parallel)
+- A detailed example of how to generate your data in parallel with PyTorch (https://github.com/shervinea/pytorch-data-generator)
 - Keras vs. PyTorch: Alien vs. Predator recognition with transfer learning (https://github.com/deepsense-ai/Keras-PyTorch-AvP-transfer-learning)
 
 ## 👍 Kaggle
@@ -154,6 +154,7 @@ List of references and online resources related to data science, machine learnin
 - PyTorch :: Understanding Tensors (Part 1) (https://dev.to/tbhaxor/pytorch-understanding-tensors-part-1-od8)
 - VGG16 Transfer Learning - Pytorch (https://www.kaggle.com/carloalbertobarbano/vgg16-transfer-learning-pytorch)
 - Pytorch to fastai, Bridging the Gap (https://muellerzr.github.io/fastblog/2021/02/14/Pytorchtofastai.html)
+- A detailed example of how to generate your data in parallel with PyTorch (https://stanford.edu/~shervine/blog/pytorch-how-to-generate-data-parallel)
 
 
 ## 🔦 PyTorch-Related Discussions
