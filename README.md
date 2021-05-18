@@ -48,8 +48,6 @@ List of references and online resources related to data science, machine learnin
 - A Beginner's Guide To Understanding Convolutional Neural Networks (https://adeshpande3.github.io/A-Beginner%27s-Guide-To-Understanding-Convolutional-Neural-Networks/)
 - A Beginner's Guide To Understanding Convolutional Neural Networks Part 2 (https://adeshpande3.github.io/A-Beginner%27s-Guide-To-Understanding-Convolutional-Neural-Networks-Part-2/)
 - The 9 Deep Learning Papers You Need To Know About (Understanding CNNs Part 3) (https://adeshpande3.github.io/The-9-Deep-Learning-Papers-You-Need-To-Know-About.html)
-- PyTorch layer dimensions: what size and why? (https://towardsdatascience.com/pytorch-layer-dimensions-what-sizes-should-they-be-and-why-4265a41e01fd)
-- PyTorch :: Understanding Tensors (Part 1) (https://dev.to/tbhaxor/pytorch-understanding-tensors-part-1-od8)
 
 
 #### RNN
@@ -87,7 +85,6 @@ List of references and online resources related to data science, machine learnin
 - Applied Deep Learning - Part 3: Autoencoders (https://towardsdatascience.com/applied-deep-learning-part-3-autoencoders-1c083af4d798)
 - Finding Good Learning Rate and The One Cycle Policy (https://towardsdatascience.com/finding-good-learning-rate-and-the-one-cycle-policy-7159fe1db5d6)
 - Understanding Fastai's fit_one_cycle method (https://iconof.com/1cycle-learning-rate-policy/)
-- Pytorch to fastai, Bridging the Gap (https://muellerzr.github.io/fastblog/2021/02/14/Pytorchtofastai.html)
 
 
 #### Colab
@@ -122,7 +119,6 @@ List of references and online resources related to data science, machine learnin
 ## 👍 Kaggle
 - https://www.kaggle.com/cdeotte
 - https://www.kaggle.com/andradaolteanu
-- VGG16 Transfer Learning - Pytorch (https://www.kaggle.com/carloalbertobarbano/vgg16-transfer-learning-pytorch)
 
 ## 👍 Blogs
 - Data.gov.sg Blog (https://blog.data.gov.sg/)
@@ -147,12 +143,17 @@ List of references and online resources related to data science, machine learnin
 ## 👍 Utilities 
 - Scanner App for Math and Science (https://mathpix.com/)
 
-## 👍 PyTorch-Related
+## 🔦 PyTorch-Related
 - Finetuning Torchvision Models (https://pytorch.org/tutorials/beginner/finetuning_torchvision_models_tutorial.html)
 - Transfer Learning with ResNet in PyTorch (https://www.pluralsight.com/guides/introduction-to-resnet)
 - Notes in pytorch to deal with ConvNets (https://github.com/mortezamg63/Accessing-and-modifying-different-layers-of-a-pretrained-model-in-pytorch/blob/master/README.md)
 - Some important Pytorch tasks - A concise summary from a vision researcher (https://spandan-madan.github.io/A-Collection-of-important-tasks-in-pytorch/)
+- PyTorch layer dimensions: what size and why? (https://towardsdatascience.com/pytorch-layer-dimensions-what-sizes-should-they-be-and-why-4265a41e01fd)
+- PyTorch :: Understanding Tensors (Part 1) (https://dev.to/tbhaxor/pytorch-understanding-tensors-part-1-od8)
+- VGG16 Transfer Learning - Pytorch (https://www.kaggle.com/carloalbertobarbano/vgg16-transfer-learning-pytorch)
+- Pytorch to fastai, Bridging the Gap (https://muellerzr.github.io/fastblog/2021/02/14/Pytorchtofastai.html)
 
-## 👍 PyTorch-Related Discussions
+
+## 🔦 PyTorch-Related Discussions
 - How to modify a pretrained model (https://discuss.pytorch.org/t/how-to-modify-a-pretrained-model/60509)
 - Module.children() vs Module.modules() (https://discuss.pytorch.org/t/module-children-vs-module-modules/4551)
