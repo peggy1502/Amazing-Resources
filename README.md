@@ -36,6 +36,8 @@ List of references and online resources related to data science, machine learnin
 ## 👍 Books
 - The Hundred-Page Machine Learning Book (http://themlbook.com/wiki/doku.php)
 - Machine Learning Engineering (http://www.mlebook.com/wiki/doku.php)
+- The fastai book (https://github.com/fastai/fastbook)
+- https://books.google.com.sg/books?id=yATuDwAAQBAJ&pg=PA470&lpg=PA470&dq=AdaptiveConcatPool2d+vs+AdaptiveAvgPool2d&source=bl&ots=NKltks4CYL&sig=ACfU3U2xJo3iFtgSSLpQoUGEFYzrouhYzQ&hl=en&sa=X&ved=2ahUKEwiy29KGzNLwAhUUVH0KHTqSC3YQ6AEwCXoECAYQAw#v=onepage&q&f=false
 
 ## 👍 Articles
 
@@ -157,3 +159,5 @@ List of references and online resources related to data science, machine learnin
 ## 🔦 PyTorch-Related Discussions
 - How to modify a pretrained model (https://discuss.pytorch.org/t/how-to-modify-a-pretrained-model/60509)
 - Module.children() vs Module.modules() (https://discuss.pytorch.org/t/module-children-vs-module-modules/4551)
+- What is the distinct usage of the AdaptiveConcatPool2d layer? (https://forums.fast.ai/t/what-is-the-distinct-usage-of-the-adaptiveconcatpool2d-layer/7600)
+- Splitting a pretrained model in groups of layers (https://forums.fast.ai/t/splitting-a-pretrained-model-in-groups-of-layers/33012/2)
