@@ -147,3 +147,12 @@ List of references and online resources related to data science, machine learnin
 ## 👍 Utilities 
 - Scanner App for Math and Science (https://mathpix.com/)
 
+## 👍 PyTorch-Related
+- Finetuning Torchvision Models (https://pytorch.org/tutorials/beginner/finetuning_torchvision_models_tutorial.html)
+- Transfer Learning with ResNet in PyTorch (https://www.pluralsight.com/guides/introduction-to-resnet)
+- Notes in pytorch to deal with ConvNets (https://github.com/mortezamg63/Accessing-and-modifying-different-layers-of-a-pretrained-model-in-pytorch/blob/master/README.md)
+- Some important Pytorch tasks - A concise summary from a vision researcher (https://spandan-madan.github.io/A-Collection-of-important-tasks-in-pytorch/)
+
+## 👍 PyTorch-Related Discussions
+- How to modify a pretrained model (https://discuss.pytorch.org/t/how-to-modify-a-pretrained-model/60509)
+- Module.children() vs Module.modules() (https://discuss.pytorch.org/t/module-children-vs-module-modules/4551)
