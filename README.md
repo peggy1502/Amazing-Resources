@@ -117,6 +117,7 @@ List of references and online resources related to data science, machine learnin
 - Amazon SageMaker Course by Chandra Lingam (https://github.com/ChandraLingam/AmazonSageMakerCourse)
 - A detailed example of how to generate your data in parallel with PyTorch (https://github.com/shervinea/pytorch-data-generator)
 - Keras vs. PyTorch: Alien vs. Predator recognition with transfer learning (https://github.com/deepsense-ai/Keras-PyTorch-AvP-transfer-learning)
+- Deep Learning with Catalyst (https://github.com/catalyst-team/dl-course)
 
 ## 👍 Kaggle
 - https://www.kaggle.com/cdeotte
