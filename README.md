@@ -123,6 +123,7 @@ List of references and online resources related to data science, machine learnin
 - A detailed example of how to generate your data in parallel with PyTorch (https://github.com/shervinea/pytorch-data-generator)
 - Keras vs. PyTorch: Alien vs. Predator recognition with transfer learning (https://github.com/deepsense-ai/Keras-PyTorch-AvP-transfer-learning)
 - Deep Learning with Catalyst (https://github.com/catalyst-team/dl-course)
+- sgugger - Deep Learning Notebooks (https://github.com/sgugger/Deep-Learning)
 
 ## 👍 Kaggle
 - https://www.kaggle.com/cdeotte
@@ -163,9 +164,12 @@ List of references and online resources related to data science, machine learnin
 - Pytorch to fastai, Bridging the Gap (https://muellerzr.github.io/fastblog/2021/02/14/Pytorchtofastai.html)
 - A detailed example of how to generate your data in parallel with PyTorch (https://stanford.edu/~shervine/blog/pytorch-how-to-generate-data-parallel)
 - Automatic Mixed Precision Training for Deep Learning using PyTorch (https://debuggercafe.com/automatic-mixed-precision-training-for-deep-learning-using-pytorch/)
+- Cyclic Learning Rates and One Cycle Policy (https://github.com/nachiket273/One_Cycle_Policy)
+- Cyclical LR and momentums (https://github.com/sgugger/Deep-Learning/blob/master/Cyclical%20LR%20and%20momentums.ipynb)
 
 ## 🔦 PyTorch-Related Discussions
 - How to modify a pretrained model (https://discuss.pytorch.org/t/how-to-modify-a-pretrained-model/60509)
 - Module.children() vs Module.modules() (https://discuss.pytorch.org/t/module-children-vs-module-modules/4551)
 - What is the distinct usage of the AdaptiveConcatPool2d layer? (https://forums.fast.ai/t/what-is-the-distinct-usage-of-the-adaptiveconcatpool2d-layer/7600)
 - Splitting a pretrained model in groups of layers (https://forums.fast.ai/t/splitting-a-pretrained-model-in-groups-of-layers/33012/2)
+- x.data (https://stackoverflow.com/questions/51743214/is-data-still-useful-in-pytorch)
