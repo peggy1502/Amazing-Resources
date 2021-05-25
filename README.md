@@ -39,6 +39,11 @@ List of references and online resources related to data science, machine learnin
 - The fastai book (https://github.com/fastai/fastbook)
 - https://books.google.com.sg/books?id=yATuDwAAQBAJ&pg=PA470&lpg=PA470&dq=AdaptiveConcatPool2d+vs+AdaptiveAvgPool2d&source=bl&ots=NKltks4CYL&sig=ACfU3U2xJo3iFtgSSLpQoUGEFYzrouhYzQ&hl=en&sa=X&ved=2ahUKEwiy29KGzNLwAhUUVH0KHTqSC3YQ6AEwCXoECAYQAw#v=onepage&q&f=false
 
+## 👍 Papers
+- Cyclical Learning Rates for Training Neural Networks (https://arxiv.org/abs/1506.01186)
+- Decoupled Weight Decay Regularization (https://arxiv.org/abs/1711.05101)
+- ReadNet: A Hierarchical Transformer Framework for Web Article Readability Analysis (https://link.springer.com/chapter/10.1007/978-3-030-45439-5_3)
+
 ## 👍 Articles
 
 #### CNN
@@ -145,6 +150,7 @@ List of references and online resources related to data science, machine learnin
 
 ## 👍 Utilities 
 - Scanner App for Math and Science (https://mathpix.com/)
+- Readability (https://pypi.org/project/readability/)
 
 ## 🔦 PyTorch-Related
 - Finetuning Torchvision Models (https://pytorch.org/tutorials/beginner/finetuning_torchvision_models_tutorial.html)
@@ -156,7 +162,7 @@ List of references and online resources related to data science, machine learnin
 - VGG16 Transfer Learning - Pytorch (https://www.kaggle.com/carloalbertobarbano/vgg16-transfer-learning-pytorch)
 - Pytorch to fastai, Bridging the Gap (https://muellerzr.github.io/fastblog/2021/02/14/Pytorchtofastai.html)
 - A detailed example of how to generate your data in parallel with PyTorch (https://stanford.edu/~shervine/blog/pytorch-how-to-generate-data-parallel)
-
+- Automatic Mixed Precision Training for Deep Learning using PyTorch (https://debuggercafe.com/automatic-mixed-precision-training-for-deep-learning-using-pytorch/)
 
 ## 🔦 PyTorch-Related Discussions
 - How to modify a pretrained model (https://discuss.pytorch.org/t/how-to-modify-a-pretrained-model/60509)
