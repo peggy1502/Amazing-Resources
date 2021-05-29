@@ -124,6 +124,7 @@ List of references and online resources related to data science, machine learnin
 - Keras vs. PyTorch: Alien vs. Predator recognition with transfer learning (https://github.com/deepsense-ai/Keras-PyTorch-AvP-transfer-learning)
 - Deep Learning with Catalyst (https://github.com/catalyst-team/dl-course)
 - sgugger - Deep Learning Notebooks (https://github.com/sgugger/Deep-Learning)
+- Yang Zhang - fast.ai machine learning course notes (https://gist.github.com/yang-zhang/7ce6e6e7174c35ae26b7ce0dba1999d2)
 
 ## 👍 Kaggle
 - https://www.kaggle.com/cdeotte
@@ -166,6 +167,7 @@ List of references and online resources related to data science, machine learnin
 - Automatic Mixed Precision Training for Deep Learning using PyTorch (https://debuggercafe.com/automatic-mixed-precision-training-for-deep-learning-using-pytorch/)
 - Cyclic Learning Rates and One Cycle Policy (https://github.com/nachiket273/One_Cycle_Policy)
 - Cyclical LR and momentums (https://github.com/sgugger/Deep-Learning/blob/master/Cyclical%20LR%20and%20momentums.ipynb)
+- Pytorch Loss Functions in Plain Python (https://zhang-yang.medium.com/pytorch-loss-funtions-in-plain-python-b79c05f8b53f)
 
 ## 🔦 PyTorch-Related Discussions
 - How to modify a pretrained model (https://discuss.pytorch.org/t/how-to-modify-a-pretrained-model/60509)
