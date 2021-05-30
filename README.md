@@ -32,6 +32,7 @@ List of references and online resources related to data science, machine learnin
 - 3Blue1Brown (https://www.3blue1brown.com/)
 - Intellipaat - Data Science Online Course (https://www.youtube.com/watch?v=82pV44hr7kQ)
 - Jay Alammar (https://www.youtube.com/channel/UCmOwsoHty5PrmE-3QhUBfPQ/videos)
+- Abhishek Thakur (https://www.youtube.com/c/AbhishekThakurAbhi/playlists)
 
 ## 👍 Books
 - The Hundred-Page Machine Learning Book (http://themlbook.com/wiki/doku.php)
