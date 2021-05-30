@@ -36,6 +36,7 @@ List of references and online resources related to data science, machine learnin
 ## 👍 Books
 - The Hundred-Page Machine Learning Book (http://themlbook.com/wiki/doku.php)
 - Machine Learning Engineering (http://www.mlebook.com/wiki/doku.php)
+- Approaching Almost Any Machine Learning Problem (https://github.com/abhi1thakur/approachingalmost/blob/master/AAAMLP.pdf)
 - The fastai book (https://github.com/fastai/fastbook)
 - https://books.google.com.sg/books?id=yATuDwAAQBAJ&pg=PA470&lpg=PA470&dq=AdaptiveConcatPool2d+vs+AdaptiveAvgPool2d&source=bl&ots=NKltks4CYL&sig=ACfU3U2xJo3iFtgSSLpQoUGEFYzrouhYzQ&hl=en&sa=X&ved=2ahUKEwiy29KGzNLwAhUUVH0KHTqSC3YQ6AEwCXoECAYQAw#v=onepage&q&f=false
 
@@ -102,6 +103,7 @@ List of references and online resources related to data science, machine learnin
 - Data manipulation with Python (https://www.mit.edu/~amidi/teaching/data-science-tools/study-guide/data-manipulation-with-python/)
 - Data Preprocessing Concepts with Python (https://pub.towardsai.net/data-preprocessing-concepts-with-python-b93c63f14bb6)
 - 7 Actionable Tips on How to Use Python to Become a Finance Guru (https://sdsclub.com/7-actionable-tips-on-how-to-use-python-to-become-a-finance-guru/)
+- Cross-validation (https://www.datamuni.com/@abhishek/basics-of-cross-validation)
 
 ## 👍 Interesting and Fun
 - A Visual Guide to Regular Expression (https://amitness.com/regex/)
@@ -125,6 +127,7 @@ List of references and online resources related to data science, machine learnin
 - Deep Learning with Catalyst (https://github.com/catalyst-team/dl-course)
 - sgugger - Deep Learning Notebooks (https://github.com/sgugger/Deep-Learning)
 - Yang Zhang - fast.ai machine learning course notes (https://gist.github.com/yang-zhang/7ce6e6e7174c35ae26b7ce0dba1999d2)
+- Tez: a simple pytorch trainer (https://github.com/abhi1thakur/tez)
 
 ## 👍 Kaggle
 - https://www.kaggle.com/cdeotte
@@ -144,6 +147,7 @@ List of references and online resources related to data science, machine learnin
 - Zachary Mueller (https://muellerzr.github.io/fastblog/)
 - Jay Alammar (http://jalammar.github.io/)
 - colah's blog - Christopher Olah (https://colah.github.io/)
+- DataMuni (https://www.datamuni.com/)
 
 ## 👍 Maths 
 - Maths is Fun (https://www.mathsisfun.com/)
