@@ -158,6 +158,7 @@ List of references and online resources related to data science, machine learnin
 ## 👍 Utilities 
 - Scanner App for Math and Science (https://mathpix.com/)
 - Readability (https://pypi.org/project/readability/)
+- ipdb.set_trace() Commands (https://xxx-cook-book.gitbooks.io/python-cook-book/content/Debug/ipdb.html)
 
 ## 🔦 PyTorch-Related
 - Finetuning Torchvision Models (https://pytorch.org/tutorials/beginner/finetuning_torchvision_models_tutorial.html)
@@ -169,10 +170,11 @@ List of references and online resources related to data science, machine learnin
 - VGG16 Transfer Learning - Pytorch (https://www.kaggle.com/carloalbertobarbano/vgg16-transfer-learning-pytorch)
 - Pytorch to fastai, Bridging the Gap (https://muellerzr.github.io/fastblog/2021/02/14/Pytorchtofastai.html)
 - A detailed example of how to generate your data in parallel with PyTorch (https://stanford.edu/~shervine/blog/pytorch-how-to-generate-data-parallel)
-- Automatic Mixed Precision Training for Deep Learning using PyTorch (https://debuggercafe.com/automatic-mixed-precision-training-for-deep-learning-using-pytorch/)
 - Cyclic Learning Rates and One Cycle Policy (https://github.com/nachiket273/One_Cycle_Policy)
 - Cyclical LR and momentums (https://github.com/sgugger/Deep-Learning/blob/master/Cyclical%20LR%20and%20momentums.ipynb)
 - Pytorch Loss Functions in Plain Python (https://zhang-yang.medium.com/pytorch-loss-funtions-in-plain-python-b79c05f8b53f)
+- Automatic Mixed Precision Training for Deep Learning using PyTorch (https://debuggercafe.com/automatic-mixed-precision-training-for-deep-learning-using-pytorch/)
+- A developer-friendly guide to mixed precision training with PyTorch (https://spell.ml/blog/mixed-precision-training-with-pytorch-Xuk7YBEAACAASJam)
 
 ## 🔦 PyTorch-Related Discussions
 - How to modify a pretrained model (https://discuss.pytorch.org/t/how-to-modify-a-pretrained-model/60509)
