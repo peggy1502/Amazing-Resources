@@ -37,7 +37,7 @@ List of references and online resources related to data science, machine learnin
 ## 👍 Books
 - The Hundred-Page Machine Learning Book (http://themlbook.com/wiki/doku.php)
 - Machine Learning Engineering (http://www.mlebook.com/wiki/doku.php)
-- Approaching Almost Any Machine Learning Problem (https://github.com/abhi1thakur/approachingalmost/blob/master/AAAMLP.pdf)
+- Approaching (Almost) Any Machine Learning Problem (https://github.com/abhi1thakur/approachingalmost/blob/master/AAAMLP.pdf)
 - The fastai book (https://github.com/fastai/fastbook)
 - https://books.google.com.sg/books?id=yATuDwAAQBAJ&pg=PA470&lpg=PA470&dq=AdaptiveConcatPool2d+vs+AdaptiveAvgPool2d&source=bl&ots=NKltks4CYL&sig=ACfU3U2xJo3iFtgSSLpQoUGEFYzrouhYzQ&hl=en&sa=X&ved=2ahUKEwiy29KGzNLwAhUUVH0KHTqSC3YQ6AEwCXoECAYQAw#v=onepage&q&f=false
 
@@ -45,6 +45,7 @@ List of references and online resources related to data science, machine learnin
 - Cyclical Learning Rates for Training Neural Networks (https://arxiv.org/abs/1506.01186)
 - Decoupled Weight Decay Regularization (https://arxiv.org/abs/1711.05101)
 - ReadNet: A Hierarchical Transformer Framework for Web Article Readability Analysis (https://link.springer.com/chapter/10.1007/978-3-030-45439-5_3)
+- Mixed Precision Training (https://arxiv.org/pdf/1710.03740.pdf)
 
 ## 👍 Articles
 
@@ -94,6 +95,7 @@ List of references and online resources related to data science, machine learnin
 - Applied Deep Learning - Part 3: Autoencoders (https://towardsdatascience.com/applied-deep-learning-part-3-autoencoders-1c083af4d798)
 - Finding Good Learning Rate and The One Cycle Policy (https://towardsdatascience.com/finding-good-learning-rate-and-the-one-cycle-policy-7159fe1db5d6)
 - Understanding Fastai's fit_one_cycle method (https://iconof.com/1cycle-learning-rate-policy/)
+- Approaching (Almost) Any Machine Learning Problem (https://www.linkedin.com/pulse/approaching-almost-any-machine-learning-problem-abhishek-thakur)
 
 
 #### Colab
