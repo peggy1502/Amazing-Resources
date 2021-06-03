@@ -184,3 +184,4 @@ List of references and online resources related to data science, machine learnin
 - What is the distinct usage of the AdaptiveConcatPool2d layer? (https://forums.fast.ai/t/what-is-the-distinct-usage-of-the-adaptiveconcatpool2d-layer/7600)
 - Splitting a pretrained model in groups of layers (https://forums.fast.ai/t/splitting-a-pretrained-model-in-groups-of-layers/33012/2)
 - x.data (https://stackoverflow.com/questions/51743214/is-data-still-useful-in-pytorch)
+- model.eval() vs with torch.no_grad() (https://discuss.pytorch.org/t/model-eval-vs-with-torch-no-grad/19615)
