@@ -178,6 +178,7 @@ List of references and online resources related to data science, machine learnin
 - Automatic Mixed Precision Training for Deep Learning using PyTorch (https://debuggercafe.com/automatic-mixed-precision-training-for-deep-learning-using-pytorch/)
 - A developer-friendly guide to mixed precision training with PyTorch (https://spell.ml/blog/mixed-precision-training-with-pytorch-Xuk7YBEAACAASJam)
 - Making Pytorch Transformer Twice as Fast on Sequence Generation (https://scale.com/blog/pytorch-improvements)
+- Transformer Details Not Described in The Paper (https://tunz.kr/post/4)
 
 ## 🔦 PyTorch-Related Discussions
 - How to modify a pretrained model (https://discuss.pytorch.org/t/how-to-modify-a-pretrained-model/60509)
