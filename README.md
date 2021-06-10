@@ -33,6 +33,7 @@ List of references and online resources related to data science, machine learnin
 - Intellipaat - Data Science Online Course (https://www.youtube.com/watch?v=82pV44hr7kQ)
 - Jay Alammar (https://www.youtube.com/channel/UCmOwsoHty5PrmE-3QhUBfPQ/videos)
 - Abhishek Thakur (https://www.youtube.com/c/AbhishekThakurAbhi/playlists)
+- PyTorch Performance Tuning Guide - Szymon Migacz, NVIDIA (https://www.youtube.com/watch?v=9mS1fIYj1So)
 
 ## 👍 Books
 - The Hundred-Page Machine Learning Book (http://themlbook.com/wiki/doku.php)
@@ -151,6 +152,7 @@ List of references and online resources related to data science, machine learnin
 - Jay Alammar (http://jalammar.github.io/)
 - colah's blog - Christopher Olah (https://colah.github.io/)
 - DataMuni (https://www.datamuni.com/)
+- Chris McCormick (https://mccormickml.com/)
 
 ## 👍 Maths 
 - Maths is Fun (https://www.mathsisfun.com/)
@@ -179,6 +181,9 @@ List of references and online resources related to data science, machine learnin
 - A developer-friendly guide to mixed precision training with PyTorch (https://spell.ml/blog/mixed-precision-training-with-pytorch-Xuk7YBEAACAASJam)
 - Making Pytorch Transformer Twice as Fast on Sequence Generation (https://scale.com/blog/pytorch-improvements)
 - Transformer Details Not Described in The Paper (https://tunz.kr/post/4)
+- A collection of tips for speeding up learning and reasoning with PyTorch (https://qiita.com/sugulu_Ogawa_ISID/items/62f5f7adee083d96a587)
+- Implement Early Stopping in PyTorch (https://qiita.com/ku_a_i/items/ba33c9ce3449da23b503)
+- BERT Fine-Tuning Tutorial with PyTorch (https://mccormickml.com/2019/07/22/BERT-fine-tuning/)
 
 ## 🔦 PyTorch-Related Discussions
 - How to modify a pretrained model (https://discuss.pytorch.org/t/how-to-modify-a-pretrained-model/60509)
