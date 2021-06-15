@@ -5,6 +5,7 @@ List of references and online resources related to data science, machine learnin
 
 - fast.ai (https://www.fast.ai/)
 - Walk with fastai (https://walkwithfastai.com/)
+- Hugging Face Course (https://huggingface.co/course/chapter1)
 - MIT 6.S191: Introduction to Deep Learning (http://introtodeeplearning.com/)
 - Stanford University CS231n: Convolutional Neural Networks for Visual Recognition (http://cs231n.stanford.edu/)
 - AWS Machine Learning University (https://aws.amazon.com/machine-learning/mlu/)
@@ -43,10 +44,11 @@ List of references and online resources related to data science, machine learnin
 - https://books.google.com.sg/books?id=yATuDwAAQBAJ&pg=PA470&lpg=PA470&dq=AdaptiveConcatPool2d+vs+AdaptiveAvgPool2d&source=bl&ots=NKltks4CYL&sig=ACfU3U2xJo3iFtgSSLpQoUGEFYzrouhYzQ&hl=en&sa=X&ved=2ahUKEwiy29KGzNLwAhUUVH0KHTqSC3YQ6AEwCXoECAYQAw#v=onepage&q&f=false
 
 ## 👍 Papers
-- Cyclical Learning Rates for Training Neural Networks (https://arxiv.org/abs/1506.01186)
-- Decoupled Weight Decay Regularization (https://arxiv.org/abs/1711.05101)
-- ReadNet: A Hierarchical Transformer Framework for Web Article Readability Analysis (https://link.springer.com/chapter/10.1007/978-3-030-45439-5_3)
-- Mixed Precision Training (https://arxiv.org/pdf/1710.03740.pdf)
+- 2015 Cyclical Learning Rates for Training Neural Networks (https://arxiv.org/abs/1506.01186)
+- 2017 Decoupled Weight Decay Regularization (https://arxiv.org/abs/1711.05101)
+- 2020 ReadNet: A Hierarchical Transformer Framework for Web Article Readability Analysis (https://link.springer.com/chapter/10.1007/978-3-030-45439-5_3)
+- 2018 Mixed Precision Training (https://arxiv.org/pdf/1710.03740.pdf)
+- 2021 A Survey of Transformers (https://arxiv.org/pdf/2106.04554.pdf)
 
 ## 👍 Articles
 
