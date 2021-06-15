@@ -49,8 +49,8 @@ List of references and online resources related to data science, machine learnin
 ## 👍 Papers
 - 2015 Cyclical Learning Rates for Training Neural Networks (https://arxiv.org/abs/1506.01186)
 - 2017 Decoupled Weight Decay Regularization (https://arxiv.org/abs/1711.05101)
-- 2020 ReadNet: A Hierarchical Transformer Framework for Web Article Readability Analysis (https://link.springer.com/chapter/10.1007/978-3-030-45439-5_3)
 - 2018 Mixed Precision Training (https://arxiv.org/pdf/1710.03740.pdf)
+- 2020 ReadNet: A Hierarchical Transformer Framework for Web Article Readability Analysis (https://link.springer.com/chapter/10.1007/978-3-030-45439-5_3)
 - 2021 A Survey of Transformers (https://arxiv.org/pdf/2106.04554.pdf)
 
 ## 👍 Articles
