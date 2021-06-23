@@ -80,6 +80,7 @@ List of references and online resources related to data science, machine learnin
 - Interactive Analysis of Sentence Embeddings (https://amitness.com/interactive-sentence-embeddings/)
 - Cosine Similarity for Vector Space Models (Part III) (https://blog.christianperone.com/2013/09/machine-learning-cosine-similarity-for-vector-space-models-part-iii/)
 - The Annotated Transformer (http://nlp.seas.harvard.edu/2018/04/03/attention.html)
+- Deconstructing BERT, Part 2: Visualizing the Inner Workings of Attention (https://towardsdatascience.com/deconstructing-bert-part-2-visualizing-the-inner-workings-of-attention-60a16d86b5c1)
 
 #### Collaborative Filtering
 - Understanding Matrix Factorization for recommender systems (https://towardsdatascience.com/understanding-matrix-factorization-for-recommender-systems-4d3c5e67f2c9)
@@ -138,6 +139,7 @@ List of references and online resources related to data science, machine learnin
 - sgugger - Deep Learning Notebooks (https://github.com/sgugger/Deep-Learning)
 - Yang Zhang - fast.ai machine learning course notes (https://gist.github.com/yang-zhang/7ce6e6e7174c35ae26b7ce0dba1999d2)
 - Tez: a simple pytorch trainer (https://github.com/abhi1thakur/tez)
+- BertViz - tool for visualizing attention in Transformer model (https://github.com/jessevig/bertviz)
 
 ## 👍 Kaggle
 - https://www.kaggle.com/cdeotte
@@ -169,6 +171,7 @@ List of references and online resources related to data science, machine learnin
 - Scanner App for Math and Science (https://mathpix.com/)
 - Readability (https://pypi.org/project/readability/)
 - ipdb.set_trace() Commands (https://xxx-cook-book.gitbooks.io/python-cook-book/content/Debug/ipdb.html)
+- Writing Math Equations in Jupyter Notebook: A Naive Introduction (https://medium.com/analytics-vidhya/writing-math-equations-in-jupyter-notebook-a-naive-introduction-a5ce87b9a214)
 
 ## 🔦 PyTorch-Related
 - Finetuning Torchvision Models (https://pytorch.org/tutorials/beginner/finetuning_torchvision_models_tutorial.html)
@@ -191,6 +194,7 @@ List of references and online resources related to data science, machine learnin
 - Implement Early Stopping in PyTorch (https://qiita.com/ku_a_i/items/ba33c9ce3449da23b503)
 - BERT Fine-Tuning Tutorial with PyTorch (https://mccormickml.com/2019/07/22/BERT-fine-tuning/)
 - Utilizing Transformer Representations Efficiently (https://www.kaggle.com/rhtsingh/utilizing-transformer-representations-efficiently)
+- Visualize BERT sequence embeddings: An unseen way (https://towardsdatascience.com/visualize-bert-sequence-embeddings-an-unseen-way-1d6a351e4568)
 
 ## 🔦 PyTorch-Related Discussions
 - How to modify a pretrained model (https://discuss.pytorch.org/t/how-to-modify-a-pretrained-model/60509)
