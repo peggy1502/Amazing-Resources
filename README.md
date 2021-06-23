@@ -190,6 +190,7 @@ List of references and online resources related to data science, machine learnin
 - A collection of tips for speeding up learning and reasoning with PyTorch (https://qiita.com/sugulu_Ogawa_ISID/items/62f5f7adee083d96a587)
 - Implement Early Stopping in PyTorch (https://qiita.com/ku_a_i/items/ba33c9ce3449da23b503)
 - BERT Fine-Tuning Tutorial with PyTorch (https://mccormickml.com/2019/07/22/BERT-fine-tuning/)
+- Utilizing Transformer Representations Efficiently (https://www.kaggle.com/rhtsingh/utilizing-transformer-representations-efficiently)
 
 ## 🔦 PyTorch-Related Discussions
 - How to modify a pretrained model (https://discuss.pytorch.org/t/how-to-modify-a-pretrained-model/60509)
@@ -198,3 +199,4 @@ List of references and online resources related to data science, machine learnin
 - Splitting a pretrained model in groups of layers (https://forums.fast.ai/t/splitting-a-pretrained-model-in-groups-of-layers/33012/2)
 - x.data (https://stackoverflow.com/questions/51743214/is-data-still-useful-in-pytorch)
 - model.eval() vs with torch.no_grad() (https://discuss.pytorch.org/t/model-eval-vs-with-torch-no-grad/19615)
+- How do we resume training by using the last LR? (https://www.kaggle.com/c/seti-breakthrough-listen/discussion/247574)
