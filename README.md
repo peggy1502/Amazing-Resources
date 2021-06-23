@@ -201,3 +201,4 @@ List of references and online resources related to data science, machine learnin
 - model.eval() vs with torch.no_grad() (https://discuss.pytorch.org/t/model-eval-vs-with-torch-no-grad/19615)
 - How do we resume training by using the last LR? (https://www.kaggle.com/c/seti-breakthrough-listen/discussion/247574)
 - Tensor view vs. permute (https://stackoverflow.com/questions/51143206/difference-between-tensor-permute-and-tensor-view-in-pytorch)
+- Torch stack() vs. cat() (https://stackoverflow.com/questions/54307225/whats-the-difference-between-torch-stack-and-torch-cat-functions/54307331)
