@@ -104,6 +104,7 @@ List of references and online resources related to data science, machine learnin
 - Finding Good Learning Rate and The One Cycle Policy (https://towardsdatascience.com/finding-good-learning-rate-and-the-one-cycle-policy-7159fe1db5d6)
 - Understanding Fastai's fit_one_cycle method (https://iconof.com/1cycle-learning-rate-policy/)
 - Approaching (Almost) Any Machine Learning Problem (https://www.linkedin.com/pulse/approaching-almost-any-machine-learning-problem-abhishek-thakur)
+- KAGGLE ENSEMBLING GUIDE (https://mlwave.com/kaggle-ensembling-guide/)
 
 
 #### Colab
@@ -140,6 +141,7 @@ List of references and online resources related to data science, machine learnin
 - Yang Zhang - fast.ai machine learning course notes (https://gist.github.com/yang-zhang/7ce6e6e7174c35ae26b7ce0dba1999d2)
 - Tez: a simple pytorch trainer (https://github.com/abhi1thakur/tez)
 - BertViz - tool for visualizing attention in Transformer model (https://github.com/jessevig/bertviz)
+- Kaggle-Ensemble-Guide (https://github.com/MLWave/Kaggle-Ensemble-Guide)
 
 ## 👍 Kaggle
 - https://www.kaggle.com/cdeotte
@@ -166,6 +168,7 @@ List of references and online resources related to data science, machine learnin
 - Maths is Fun (https://www.mathsisfun.com/)
 - Matrix Multiplication (http://matrixmultiplication.xyz/)
 - The Matrix Calculus You Need For Deep Learning (https://explained.ai/matrix-calculus/)
+- Geometric Mean (https://www.mathsisfun.com/numbers/geometric-mean.html)
 
 ## 👍 Utilities 
 - Scanner App for Math and Science (https://mathpix.com/)
