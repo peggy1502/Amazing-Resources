@@ -26,6 +26,7 @@ List of references and online resources related to data science, machine learnin
 - The Super Duper NLP Repo (https://notebooks.quantumstat.com/)
 - Hugging Face Transformers Notebooks (https://huggingface.co/transformers/master/notebooks.html)
 - Hugging FaceCommunity Notebooks (https://huggingface.co/transformers/master/community.html)
+- Machine Learning for Beginners (https://github.com/microsoft/ML-For-Beginners)
 
 ## 👍 Videos
 - Making Friends with Machine Learning (https://decision.substack.com/p/making-friends-with-machine-learning)
