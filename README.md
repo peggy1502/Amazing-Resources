@@ -210,3 +210,4 @@ List of references and online resources related to data science, machine learnin
 - How do we resume training by using the last LR? (https://www.kaggle.com/c/seti-breakthrough-listen/discussion/247574)
 - Tensor view vs. permute (https://stackoverflow.com/questions/51143206/difference-between-tensor-permute-and-tensor-view-in-pytorch)
 - Torch stack() vs. cat() (https://stackoverflow.com/questions/54307225/whats-the-difference-between-torch-stack-and-torch-cat-functions/54307331)
+- Why do transformers use layer norm instead of batch norm? (https://stats.stackexchange.com/questions/474440/why-do-transformers-use-layer-norm-instead-of-batch-norm)
