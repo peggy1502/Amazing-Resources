@@ -153,8 +153,7 @@ List of references and online resources related to data science, machine learnin
 - Kaggle-Ensemble-Guide (https://github.com/MLWave/Kaggle-Ensemble-Guide)
 
 ## 👍 Kaggle
-- https://www.kaggle.com/cdeotte
-- https://www.kaggle.com/andradaolteanu
+- https://www.kaggle.com/bextuychiev/notebooks
 
 ## 👍 Blogs
 - Data.gov.sg Blog (https://blog.data.gov.sg/)
