@@ -109,6 +109,11 @@ List of references and online resources related to data science, machine learnin
 - Understanding Fastai's fit_one_cycle method (https://iconof.com/1cycle-learning-rate-policy/)
 - Approaching (Almost) Any Machine Learning Problem (https://www.linkedin.com/pulse/approaching-almost-any-machine-learning-problem-abhishek-thakur)
 - KAGGLE ENSEMBLING GUIDE (https://mlwave.com/kaggle-ensembling-guide/)
+- 7 Cool Python Packages Kagglers Are Using Without Telling You (https://towardsdatascience.com/7-cool-python-packages-kagglers-are-using-without-telling-you-e83298781cf4)
+
+#### EDA
+- 📊 Automatic EDA Libraries 📚 Comparisson (https://www.kaggle.com/andreshg/automatic-eda-libraries-comparisson/)
+- [TPS-Jun] This is Original EDA & VIZ 😉 (https://www.kaggle.com/subinium/tps-jun-this-is-original-eda-viz/)
 
 
 #### Colab
