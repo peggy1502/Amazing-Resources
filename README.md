@@ -152,6 +152,7 @@ List of references and online resources related to data science, machine learnin
 - Tez: a simple pytorch trainer (https://github.com/abhi1thakur/tez)
 - BertViz - tool for visualizing attention in Transformer model (https://github.com/jessevig/bertviz)
 - Kaggle-Ensemble-Guide (https://github.com/MLWave/Kaggle-Ensemble-Guide)
+- Collection of useful data science topics along with code and articles (https://github.com/khuyentran1401/Data-science)
 
 ## 👍 Kaggle
 - https://www.kaggle.com/bextuychiev/notebooks
@@ -184,6 +185,7 @@ List of references and online resources related to data science, machine learnin
 - Readability (https://pypi.org/project/readability/)
 - ipdb.set_trace() Commands (https://xxx-cook-book.gitbooks.io/python-cook-book/content/Debug/ipdb.html)
 - Writing Math Equations in Jupyter Notebook: A Naive Introduction (https://medium.com/analytics-vidhya/writing-math-equations-in-jupyter-notebook-a-naive-introduction-a5ce87b9a214)
+- Manim Community - How to Create Mathematical Animations (https://docs.manim.community/en/stable/tutorials.html)
 
 ## 🔦 PyTorch-Related
 - Finetuning Torchvision Models (https://pytorch.org/tutorials/beginner/finetuning_torchvision_models_tutorial.html)
