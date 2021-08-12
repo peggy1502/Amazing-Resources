@@ -112,9 +112,11 @@ List of references and online resources related to data science, machine learnin
 - KAGGLE ENSEMBLING GUIDE (https://mlwave.com/kaggle-ensembling-guide/)
 - 7 Cool Python Packages Kagglers Are Using Without Telling You (https://towardsdatascience.com/7-cool-python-packages-kagglers-are-using-without-telling-you-e83298781cf4)
 
-#### EDA
+#### EDA / Data Visualization
+- Flowing Data (https://flowingdata.com/)
 - 📊 Automatic EDA Libraries 📚 Comparisson (https://www.kaggle.com/andreshg/automatic-eda-libraries-comparisson/)
 - [TPS-Jun] This is Original EDA & VIZ 😉 (https://www.kaggle.com/subinium/tps-jun-this-is-original-eda-viz/)
+- Netflix Data Visualization (https://www.kaggle.com/joshuaswords/netflix-data-visualization?scriptVersionId=58425238)(https://www.kaggle.com/joshuaswords)
 
 
 #### Colab
@@ -153,6 +155,7 @@ List of references and online resources related to data science, machine learnin
 - BertViz - tool for visualizing attention in Transformer model (https://github.com/jessevig/bertviz)
 - Kaggle-Ensemble-Guide (https://github.com/MLWave/Kaggle-Ensemble-Guide)
 - Collection of useful data science topics along with code and articles (https://github.com/khuyentran1401/Data-science)
+- Data Science Articles (https://github.com/parulnith/Data-Science-Articles/blob/main/README.md)
 
 ## 👍 Kaggle
 - https://www.kaggle.com/bextuychiev/notebooks
