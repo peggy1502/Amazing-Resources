@@ -86,6 +86,7 @@ List of references and online resources related to data science, machine learnin
 - The Annotated Transformer (http://nlp.seas.harvard.edu/2018/04/03/attention.html)
 - Deconstructing BERT, Part 2: Visualizing the Inner Workings of Attention (https://towardsdatascience.com/deconstructing-bert-part-2-visualizing-the-inner-workings-of-attention-60a16d86b5c1)
 - Beyond Classification With Transformers and Hugging Face (https://towardsdatascience.com/beyond-classification-with-transformers-and-hugging-face-d38c75f574fb)
+- Transformers Explained Visually (Part 3): Multi-head Attention, deep dive (https://towardsdatascience.com/transformers-explained-visually-part-3-multi-head-attention-deep-dive-1c1ff1024853)
 
 #### Collaborative Filtering
 - Understanding Matrix Factorization for recommender systems (https://towardsdatascience.com/understanding-matrix-factorization-for-recommender-systems-4d3c5e67f2c9)
