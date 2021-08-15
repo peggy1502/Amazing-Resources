@@ -118,7 +118,7 @@ List of references and online resources related to data science, machine learnin
 - 📊 Automatic EDA Libraries 📚 Comparisson (https://www.kaggle.com/andreshg/automatic-eda-libraries-comparisson/)
 - [TPS-Jun] This is Original EDA & VIZ 😉 (https://www.kaggle.com/subinium/tps-jun-this-is-original-eda-viz/)
 - Netflix Data Visualization (https://www.kaggle.com/joshuaswords/netflix-data-visualization?scriptVersionId=58425238)(https://www.kaggle.com/joshuaswords)
-
+- Custom Word Cloud (https://www.kaggle.com/tarzon/custom-word-cloud/notebook)
 
 #### Colab
 - Google Colab Tips for Power Users (https://amitness.com/2020/06/google-colaboratory-tips/)
