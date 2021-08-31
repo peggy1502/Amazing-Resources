@@ -191,6 +191,7 @@ List of references and online resources related to data science, machine learnin
 - ipdb.set_trace() Commands (https://xxx-cook-book.gitbooks.io/python-cook-book/content/Debug/ipdb.html)
 - Writing Math Equations in Jupyter Notebook: A Naive Introduction (https://medium.com/analytics-vidhya/writing-math-equations-in-jupyter-notebook-a-naive-introduction-a5ce87b9a214)
 - Manim Community - How to Create Mathematical Animations (https://docs.manim.community/en/stable/tutorials.html)
+- diagrams.net (https://www.diagrams.net/)
 
 ## 🔦 PyTorch-Related
 - Finetuning Torchvision Models (https://pytorch.org/tutorials/beginner/finetuning_torchvision_models_tutorial.html)
