@@ -114,6 +114,7 @@ List of references and online resources related to data science, machine learnin
 - 7 Cool Python Packages Kagglers Are Using Without Telling You (https://towardsdatascience.com/7-cool-python-packages-kagglers-are-using-without-telling-you-e83298781cf4)
 
 #### EDA / Data Visualization
+- Plotly Fundamentals (https://plotly.com/python/plotly-fundamentals/)
 - Flowing Data (https://flowingdata.com/)
 - 📊 Automatic EDA Libraries 📚 Comparisson (https://www.kaggle.com/andreshg/automatic-eda-libraries-comparisson/)
 - [TPS-Jun] This is Original EDA & VIZ 😉 (https://www.kaggle.com/subinium/tps-jun-this-is-original-eda-viz/)
