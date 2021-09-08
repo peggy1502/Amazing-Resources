@@ -115,6 +115,7 @@ List of references and online resources related to data science, machine learnin
 
 #### EDA / Data Visualization
 - Plotly Fundamentals (https://plotly.com/python/plotly-fundamentals/)
+- CSS Color (https://developer.mozilla.org/en-US/docs/Web/CSS/color_value)
 - Flowing Data (https://flowingdata.com/)
 - 📊 Automatic EDA Libraries 📚 Comparisson (https://www.kaggle.com/andreshg/automatic-eda-libraries-comparisson/)
 - [TPS-Jun] This is Original EDA & VIZ 😉 (https://www.kaggle.com/subinium/tps-jun-this-is-original-eda-viz/)
