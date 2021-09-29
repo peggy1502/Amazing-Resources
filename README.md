@@ -142,6 +142,8 @@ List of references and online resources related to data science, machine learnin
 
 ## 👍 GitHub Repositories
 - Amazon SageMaker Examples (https://github.com/aws/amazon-sagemaker-examples)
+- Amazon SageMaker Examples Notebooks (https://sagemaker-examples.readthedocs.io/en/latest/index.html)
+- Amazon SageMaker Course by Chandra Lingam (https://github.com/ChandraLingam/AmazonSageMakerCourse)
 - MLOps Workshop with Amazon SageMaker (https://github.com/aws-samples/amazon-sagemaker-mlops-workshop)
 - Managed Spot Training and Checkpointing for built-in XGBoost (https://github.com/aws-samples/amazon-sagemaker-managed-spot-training/blob/main/xgboost_built_in_managed_spot_training_checkpointing/xgboost_built_in_managed_spot_training_checkpointing.ipynb)
 - PyTorch Image Models (https://github.com/rwightman/pytorch-image-models)
@@ -149,7 +151,6 @@ List of references and online resources related to data science, machine learnin
 - MIT 6.S191: Introduction to Deep Learning - Labs (https://github.com/aamini/introtodeeplearning/)
 - GitHub Profile README Generator (https://github.com/rahuldkjain/github-profile-readme-generator)
 - Applied ML (https://github.com/eugeneyan/applied-ml)
-- Amazon SageMaker Course by Chandra Lingam (https://github.com/ChandraLingam/AmazonSageMakerCourse)
 - A detailed example of how to generate your data in parallel with PyTorch (https://github.com/shervinea/pytorch-data-generator)
 - Keras vs. PyTorch: Alien vs. Predator recognition with transfer learning (https://github.com/deepsense-ai/Keras-PyTorch-AvP-transfer-learning)
 - Deep Learning with Catalyst (https://github.com/catalyst-team/dl-course)
