@@ -161,6 +161,7 @@ List of references and online resources related to data science, machine learnin
 - Kaggle-Ensemble-Guide (https://github.com/MLWave/Kaggle-Ensemble-Guide)
 - Collection of useful data science topics along with code and articles (https://github.com/khuyentran1401/Data-science)
 - Data Science Articles (https://github.com/parulnith/Data-Science-Articles/blob/main/README.md)
+- Data Science Portfolio (https://github.com/MaartenGr/projects)
 - The Open Guide to Amazon Web Services (https://github.com/open-guides/og-aws)
 - Machine Learning Interviews (https://github.com/khangich/machine-learning-interview/)
 
