@@ -8,6 +8,7 @@ List of references and online resources related to data science, machine learnin
 - Hugging Face Course (https://huggingface.co/course/chapter1)
 - MIT 6.S191: Introduction to Deep Learning (http://introtodeeplearning.com/)
 - Stanford University CS231n: Convolutional Neural Networks for Visual Recognition (http://cs231n.stanford.edu/)
+- Yann LeCun’s Deep Learning Course at CDS (https://cds.nyu.edu/deep-learning)
 - UC Berkeley - Full Stack Deep Learning (https://fullstackdeeplearning.com/)
 - New York University - PyTorch Deep Learning (https://atcold.github.io/pytorch-Deep-Learning/)
 - AWS Machine Learning University (https://aws.amazon.com/machine-learning/mlu/)
