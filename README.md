@@ -140,6 +140,7 @@ List of references and online resources related to data science, machine learnin
 - ConvNetJS - Deep Learning in your browser (https://cs.stanford.edu/people/karpathy/convnetjs/)
 - Classifier Playground (https://www.ccom.ucsd.edu/~cdeotte/programs/classify.html)
 - YOLO: Real-Time Object Detection (https://pjreddie.com/darknet/yolo/)
+- Coder One - A virtual playground to practice, compete, and experiment with machine learning (https://www.gocoder.one/)
 
 ## 👍 GitHub Repositories
 - Amazon SageMaker Examples (https://github.com/aws/amazon-sagemaker-examples)
