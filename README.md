@@ -14,6 +14,7 @@ List of references and online resources related to data science, machine learnin
 - AWS Machine Learning University (https://aws.amazon.com/machine-learning/mlu/)
 - AI Hub (https://aihub.cloud.google.com/)
 - DEEP LEARNING WITH PYTORCH: A 60 MINUTE BLITZ (https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html)
+- Lightning Flash (https://lightning-flash.readthedocs.io/en/latest/index.html)
 - TensorFlow Tutorials (https://www.tensorflow.org/tutorials/)
 - Keras Guide (https://www.tensorflow.org/guide/keras/sequential_model)
 - Machine Learning Crash Course with TensorFlow APIs (https://developers.google.com/machine-learning/crash-course/ml-intro)
