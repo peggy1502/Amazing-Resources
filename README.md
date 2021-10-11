@@ -45,6 +45,7 @@ List of references and online resources related to data science, machine learnin
 - Abhishek Thakur (https://www.youtube.com/c/AbhishekThakurAbhi/playlists)
 - PyTorch Performance Tuning Guide - Szymon Migacz, NVIDIA (https://www.youtube.com/watch?v=9mS1fIYj1So)
 - NVIDIA Grandmaster Series (https://www.youtube.com/watch?v=bHuww-l_Sq0&list=PL5B692fm6--uXbxtmPJz5nu3Xmc1JUm3F)
+- Data Professor (https://www.youtube.com/c/DataProfessor/playlists)
 
 ## 👍 Books
 - The Hundred-Page Machine Learning Book (http://themlbook.com/wiki/doku.php)
