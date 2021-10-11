@@ -50,7 +50,6 @@ List of references and online resources related to data science, machine learnin
 - The Hundred-Page Machine Learning Book (http://themlbook.com/wiki/doku.php)
 - Machine Learning Engineering (http://www.mlebook.com/wiki/doku.php)
 - Approaching (Almost) Any Machine Learning Problem (https://github.com/abhishekkrthakur/approachingalmost/blob/master/AAAMLP.pdf)
-- How to become a data scientist in 30 days (https://github.com/abhishekkrthakur/how-to-become-a-ds-in-30-days/blob/main/book.pdf)
 - The fastai book (https://github.com/fastai/fastbook)
 - https://books.google.com.sg/books?id=yATuDwAAQBAJ&pg=PA470&lpg=PA470&dq=AdaptiveConcatPool2d+vs+AdaptiveAvgPool2d&source=bl&ots=NKltks4CYL&sig=ACfU3U2xJo3iFtgSSLpQoUGEFYzrouhYzQ&hl=en&sa=X&ved=2ahUKEwiy29KGzNLwAhUUVH0KHTqSC3YQ6AEwCXoECAYQAw#v=onepage&q&f=false
 - Introduction to Probability for Data Science (https://probability4datascience.com/index.html)
