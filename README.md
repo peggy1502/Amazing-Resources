@@ -95,6 +95,8 @@ List of references and online resources related to data science, machine learnin
 #### Collaborative Filtering
 - Understanding Matrix Factorization for recommender systems (https://towardsdatascience.com/understanding-matrix-factorization-for-recommender-systems-4d3c5e67f2c9)
 - Building a Music Recommendation Engine with Probabilistic Matrix Factorization in PyTorch (https://towardsdatascience.com/building-a-music-recommendation-engine-with-probabilistic-matrix-factorization-in-pytorch-7d2934067d4a)
+- Sparse Matrices (https://www.youtube.com/watch?v=Lhef_jxzqCg)
+- scipy.sparse.csr_matrix example (https://stackoverflow.com/questions/53254104/cant-understand-scipy-sparse-csr-matrix-example)
 
 #### General ML/DL Articles
 - Deep Learning cheatsheet (https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-deep-learning)
