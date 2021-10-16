@@ -29,6 +29,8 @@ List of references and online resources related to data science, machine learnin
 - Hugging Face Transformers Notebooks (https://huggingface.co/transformers/master/notebooks.html)
 - Hugging FaceCommunity Notebooks (https://huggingface.co/transformers/master/community.html)
 - Machine Learning for Beginners (https://github.com/microsoft/ML-For-Beginners)
+- Amazon SageMaker Python SDK (https://sagemaker.readthedocs.io/en/stable/index.html)
+- Boto3 documentation (https://boto3.amazonaws.com/v1/documentation/api/latest/index.html#)
 
 ## 👍 Videos
 - Making Friends with Machine Learning (https://decision.substack.com/p/making-friends-with-machine-learning)
