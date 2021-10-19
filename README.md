@@ -34,6 +34,7 @@ List of references and online resources related to data science, machine learnin
 
 ## 👍 Videos
 - Making Friends with Machine Learning (https://decision.substack.com/p/making-friends-with-machine-learning)
+- Artificial Intelligence - All in One (https://www.youtube.com/c/ArtificialIntelligenceAllinOne)
 - DeepLearningAI (https://www.youtube.com/c/Deeplearningai/playlists)
 - Deep Learning for Computer Vision (Andrej Karpathy, OpenAI) (https://www.youtube.com/watch?v=u6aEYuemt0M)
 - Deep Visualization Toolbox (https://www.youtube.com/watch?v=AgkfIQ4IGaM)
