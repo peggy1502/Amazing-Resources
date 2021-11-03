@@ -178,6 +178,7 @@ List of references and online resources related to data science, machine learnin
 - Data Science Portfolio (https://github.com/MaartenGr/projects)
 - The Open Guide to Amazon Web Services (https://github.com/open-guides/og-aws)
 - Machine Learning Interviews (https://github.com/khangich/machine-learning-interview/)
+- James Le (https://github.com/khanhnamle1994)
 
 ## 👍 Kaggle
 - https://www.kaggle.com/bextuychiev/notebooks
