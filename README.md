@@ -104,6 +104,7 @@ List of references and online resources related to data science, machine learnin
 - scipy.sparse.csr_matrix example (https://stackoverflow.com/questions/53254104/cant-understand-scipy-sparse-csr-matrix-example)
 - Understanding min_df and max_df in scikit CountVectorizer (https://stackoverflow.com/questions/27697766/understanding-min-df-and-max-df-in-scikit-countvectorizer)
 - Build a Recommendation Engine With Collaborative Filtering (https://realpython.com/build-recommendation-engine-collaborative-filtering/)
+- Recommendation System Series (https://towardsdatascience.com/recommendation-system-series-part-1-an-executive-guide-to-building-recommendation-system-608f83e2630a)
 
 #### General ML/DL Articles
 - Deep Learning cheatsheet (https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-deep-learning)
