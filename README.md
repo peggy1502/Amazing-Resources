@@ -210,6 +210,12 @@ List of references and online resources related to data science, machine learnin
 - The Matrix Calculus You Need For Deep Learning (https://explained.ai/matrix-calculus/)
 - Geometric Mean (https://www.mathsisfun.com/numbers/geometric-mean.html)
 
+## 👍 Datasets
+- Amazon Review Data (2018) (https://nijianmo.github.io/amazon/index.html)
+- Recommender Systems and Personalization Datasets (https://cseweb.ucsd.edu/~jmcauley/datasets.html)
+- Amazon product data (outdated?) (https://jmcauley.ucsd.edu/data/amazon/index.html)
+
+
 ## 👍 Utilities 
 - Scanner App for Math and Science (https://mathpix.com/)
 - Readability (https://pypi.org/project/readability/)
