@@ -214,6 +214,7 @@ List of references and online resources related to data science, machine learnin
 - Amazon Review Data (2018) (https://nijianmo.github.io/amazon/index.html)
 - Recommender Systems and Personalization Datasets (https://cseweb.ucsd.edu/~jmcauley/datasets.html)
 - Amazon product data (outdated?) (https://jmcauley.ucsd.edu/data/amazon/index.html)
+- Amazon Customer Reviews Dataset (https://s3.amazonaws.com/amazon-reviews-pds/readme.html)
 
 
 ## 👍 Utilities 
