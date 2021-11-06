@@ -216,7 +216,7 @@ List of references and online resources related to data science, machine learnin
 - Manim Community - How to Create Mathematical Animations (https://docs.manim.community/en/stable/tutorials.html)
 - diagrams.net (https://www.diagrams.net/)
 - Keyword Tool (https://keywordtool.io/)
-- Octoparse web scraping (https://www.octoparse.com/)
+- Octoparse web scraping (https://www.octoparse.com/blog/10-myths-about-web-scraping)
 
 ## 🔦 PyTorch-Related
 - Finetuning Torchvision Models (https://pytorch.org/tutorials/beginner/finetuning_torchvision_models_tutorial.html)
