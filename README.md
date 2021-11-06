@@ -97,7 +97,7 @@ List of references and online resources related to data science, machine learnin
 - Beyond Classification With Transformers and Hugging Face (https://towardsdatascience.com/beyond-classification-with-transformers-and-hugging-face-d38c75f574fb)
 - Transformers Explained Visually (Part 3): Multi-head Attention, deep dive (https://towardsdatascience.com/transformers-explained-visually-part-3-multi-head-attention-deep-dive-1c1ff1024853)
 
-#### Collaborative Filtering
+#### Collaborative Filtering / Recommender Systems
 - Understanding Matrix Factorization for recommender systems (https://towardsdatascience.com/understanding-matrix-factorization-for-recommender-systems-4d3c5e67f2c9)
 - Building a Music Recommendation Engine with Probabilistic Matrix Factorization in PyTorch (https://towardsdatascience.com/building-a-music-recommendation-engine-with-probabilistic-matrix-factorization-in-pytorch-7d2934067d4a)
 - Sparse Matrices (https://www.youtube.com/watch?v=Lhef_jxzqCg)
@@ -216,6 +216,7 @@ List of references and online resources related to data science, machine learnin
 - Manim Community - How to Create Mathematical Animations (https://docs.manim.community/en/stable/tutorials.html)
 - diagrams.net (https://www.diagrams.net/)
 - Keyword Tool (https://keywordtool.io/)
+- Octoparse web scraping (https://www.octoparse.com/)
 
 ## 🔦 PyTorch-Related
 - Finetuning Torchvision Models (https://pytorch.org/tutorials/beginner/finetuning_torchvision_models_tutorial.html)
