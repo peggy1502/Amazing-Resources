@@ -227,6 +227,8 @@ List of references and online resources related to data science, machine learnin
 - diagrams.net (https://www.diagrams.net/)
 - Keyword Tool (https://keywordtool.io/)
 - Octoparse web scraping (https://www.octoparse.com/blog/10-myths-about-web-scraping)
+- Capitalize My Title (https://capitalizemytitle.com/)
+- Free IEEE Citation Generator (https://www.citethisforme.com/citation-generator/ieee)
 
 ## 🔦 PyTorch-Related
 - Finetuning Torchvision Models (https://pytorch.org/tutorials/beginner/finetuning_torchvision_models_tutorial.html)
