@@ -211,6 +211,7 @@ List of references and online resources related to data science, machine learnin
 - Geometric Mean (https://www.mathsisfun.com/numbers/geometric-mean.html)
 
 ## 👍 Datasets
+- Best Public Datasets for Machine Learning and Data Science (https://pub.towardsai.net/best-datasets-for-machine-learning-data-science-computer-vision-nlp-ai-c9541058cf4f)
 - Amazon Review Data (2018) (https://nijianmo.github.io/amazon/index.html)
 - Recommender Systems and Personalization Datasets (https://cseweb.ucsd.edu/~jmcauley/datasets.html)
 - Amazon product data (outdated?) (https://jmcauley.ucsd.edu/data/amazon/index.html)
