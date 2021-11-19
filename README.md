@@ -32,6 +32,7 @@ List of references and online resources related to data science, machine learnin
 - Amazon SageMaker Python SDK (https://sagemaker.readthedocs.io/en/stable/index.html)
 - Boto3 documentation (https://boto3.amazonaws.com/v1/documentation/api/latest/index.html#)
 - BigQuery cookbook (https://support.google.com/analytics/answer/4419694#zippy=%2Cin-this-article)
+- Learn Python On AWS Workshop (https://learn-to-code.workshop.aws/)
 
 ## 👍 Videos
 - Making Friends with Machine Learning (https://decision.substack.com/p/making-friends-with-machine-learning)
