@@ -24,7 +24,6 @@ List of references and online resources related to data science, machine learnin
 - XGBoost (https://xgboost.readthedocs.io/en/latest/index.html)
 - XGBoost - Notes on Parameter Tuning (https://xgboost.readthedocs.io/en/latest/tutorials/param_tuning.html)
 - Kaggle (https://www.kaggle.com/learn)
-- ML Cheatsheet (https://ml-cheatsheet.readthedocs.io/en/latest/index.html)
 - The Super Duper NLP Repo (https://notebooks.quantumstat.com/)
 - Hugging Face Transformers Notebooks (https://huggingface.co/transformers/master/notebooks.html)
 - Hugging FaceCommunity Notebooks (https://huggingface.co/transformers/master/community.html)
@@ -33,6 +32,12 @@ List of references and online resources related to data science, machine learnin
 - Boto3 documentation (https://boto3.amazonaws.com/v1/documentation/api/latest/index.html#)
 - BigQuery cookbook (https://support.google.com/analytics/answer/4419694#zippy=%2Cin-this-article)
 - Learn Python On AWS Workshop (https://learn-to-code.workshop.aws/)
+
+## 👍 Cheat Sheets
+- Cheat Sheets for Machine Learning and Data Science (https://sites.google.com/view/datascience-cheat-sheets)
+- ML Cheatsheet (https://ml-cheatsheet.readthedocs.io/en/latest/index.html)
+- Convolutional Neural Networks cheatsheet (https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-convolutional-neural-networks)
+- Deep Learning cheatsheet (https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-deep-learning)
 
 ## 👍 Videos
 - Making Friends with Machine Learning (https://decision.substack.com/p/making-friends-with-machine-learning)
@@ -73,7 +78,6 @@ List of references and online resources related to data science, machine learnin
 ## 👍 Articles
 
 #### CNN
-- Convolutional Neural Networks cheatsheet (https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-convolutional-neural-networks)
 - Applied Deep Learning - Part 4: Convolutional Neural Networks (https://towardsdatascience.com/applied-deep-learning-part-4-convolutional-neural-networks-584bc134c1e2)
 - CNNs from different viewpoints (https://medium.com/impactai/cnns-from-different-viewpoints-fab7f52d159c)
 - Image Kernels - Explained Visually (https://setosa.io/ev/image-kernels/)
@@ -110,7 +114,6 @@ List of references and online resources related to data science, machine learnin
 - Recommendation System Series (https://towardsdatascience.com/recommendation-system-series-part-1-an-executive-guide-to-building-recommendation-system-608f83e2630a)
 
 #### General ML/DL Articles
-- Deep Learning cheatsheet (https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-deep-learning)
 - The best machine learning and deep learning libraries (https://morioh.com/p/73998ba2a04e)
 - Nuts and Bolts of Optimization (https://www.linkedin.com/pulse/nuts-bolts-optimization-chandra-mohan-lingam)
 - Neural Style Transfer with tf.keras (https://aihub.cloud.google.com/p/products%2F7f7495dd-6f66-4f8a-8c30-15f211ad6957)
