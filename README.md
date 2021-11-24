@@ -121,6 +121,7 @@ List of references and online resources related to data science, machine learnin
 #### Collaborative Filtering / Recommender Systems
 - Understanding Matrix Factorization for recommender systems (https://towardsdatascience.com/understanding-matrix-factorization-for-recommender-systems-4d3c5e67f2c9)
 - Building a Music Recommendation Engine with Probabilistic Matrix Factorization in PyTorch (https://towardsdatascience.com/building-a-music-recommendation-engine-with-probabilistic-matrix-factorization-in-pytorch-7d2934067d4a)
+- Customer Segmentation in Online Retail (https://towardsdatascience.com/customer-segmentation-in-online-retail-1fc707a6f9e6)
 - Sparse Matrices (https://www.youtube.com/watch?v=Lhef_jxzqCg)
 - scipy.sparse.csr_matrix example (https://stackoverflow.com/questions/53254104/cant-understand-scipy-sparse-csr-matrix-example)
 - Understanding min_df and max_df in scikit CountVectorizer (https://stackoverflow.com/questions/27697766/understanding-min-df-and-max-df-in-scikit-countvectorizer)
@@ -134,7 +135,6 @@ List of references and online resources related to data science, machine learnin
 - An overview of gradient descent optimization algorithms (https://ruder.io/optimizing-gradient-descent/)
 - Why Momentum Really Works (https://distill.pub/2017/momentum/)
 - How to Choose an Activation Function for Deep Learning (https://machinelearningmastery.com/choose-an-activation-function-for-deep-learning/)
-- Customer Segmentation in Online Retail (https://towardsdatascience.com/customer-segmentation-in-online-retail-1fc707a6f9e6)
 - Exploring ExplainerDashBoard, the easiest way to Develop Interactive DashBoards (https://towardsdatascience.com/build-dashboards-in-less-than-10-lines-of-code-835e9abeae4b)
 - Stock Prices Prediction Using Machine Learning and Deep Learning Techniques (with Python codes) (https://www.analyticsvidhya.com/blog/2018/10/predicting-stock-price-machine-learningnd-deep-learning-techniques-python)
 - I trained a model. What is next? (https://ternaus.blog/tutorial/2020/08/28/Trained-model-what-is-next.html)
@@ -144,7 +144,6 @@ List of references and online resources related to data science, machine learnin
 - Understanding Fastai's fit_one_cycle method (https://iconof.com/1cycle-learning-rate-policy/)
 - Approaching (Almost) Any Machine Learning Problem (https://www.linkedin.com/pulse/approaching-almost-any-machine-learning-problem-abhishek-thakur)
 - KAGGLE ENSEMBLING GUIDE (https://mlwave.com/kaggle-ensembling-guide/)
-- 7 Cool Python Packages Kagglers Are Using Without Telling You (https://towardsdatascience.com/7-cool-python-packages-kagglers-are-using-without-telling-you-e83298781cf4)
 
 #### EDA / Data Visualization
 - Plotly Fundamentals (https://plotly.com/python/plotly-fundamentals/)
@@ -164,6 +163,7 @@ List of references and online resources related to data science, machine learnin
 - Data Preprocessing Concepts with Python (https://pub.towardsai.net/data-preprocessing-concepts-with-python-b93c63f14bb6)
 - 7 Actionable Tips on How to Use Python to Become a Finance Guru (https://sdsclub.com/7-actionable-tips-on-how-to-use-python-to-become-a-finance-guru/)
 - Cross-validation (https://www.datamuni.com/@abhishek/basics-of-cross-validation)
+- 7 Cool Python Packages Kagglers Are Using Without Telling You (https://towardsdatascience.com/7-cool-python-packages-kagglers-are-using-without-telling-you-e83298781cf4)
 
 ## 👍 Interesting and Fun
 - A Visual Guide to Regular Expression (https://amitness.com/regex/)
