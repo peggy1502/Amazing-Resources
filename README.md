@@ -41,7 +41,6 @@ List of references and online resources related to data science, machine learnin
 - Amazon SageMaker Python SDK (https://sagemaker.readthedocs.io/en/stable/index.html)
 - Learn Python On AWS Workshop (https://learn-to-code.workshop.aws/)
 - Sagemaker Immersion Day - Self-Paced Lab (https://sagemaker-immersionday.workshop.aws/en/prerequisites/option2.html)
-- Optimizing costs for machine learning with Amazon SageMaker (https://aws.amazon.com/blogs/machine-learning/optimizing-costs-for-machine-learning-with-amazon-sagemaker/)
 - Starter kit for the AWS Deepracer Challenge (https://gitlab.aicrowd.com/deepracer/neurips-2021-aws-deepracer-starter-kit)
 - Amazon SageMaker Examples (https://github.com/aws/amazon-sagemaker-examples)
 - Amazon SageMaker Examples Notebooks (https://sagemaker-examples.readthedocs.io/en/latest/index.html)
@@ -51,6 +50,10 @@ List of references and online resources related to data science, machine learnin
 - The Open Guide to Amazon Web Services (https://github.com/open-guides/og-aws)
 - [Video] Amazon SageMaker Technical Deep Dive Series (https://www.youtube.com/watch?v=uQc8Itd4UTs&list=PLhr1KZpdzukcOr_6j_zmSrvYnLUtgqsZz&index=2)
 - [Video] Improve Data Science Team Productivity Using Amazon SageMaker Studio - AWS Online Tech Talks (https://www.youtube.com/watch?v=-WzkbdioMJE)
+- Optimizing costs for machine learning with Amazon SageMaker (https://aws.amazon.com/blogs/machine-learning/optimizing-costs-for-machine-learning-with-amazon-sagemaker/)
+- Choosing the right GPU for deep learning on AWS (https://towardsdatascience.com/choosing-the-right-gpu-for-deep-learning-on-aws-d69c157d8c86)
+- Select right ML instances for training and inference jobs (https://pages.awscloud.com/rs/112-TZM-766/images/AL-ML%20for%20Startups%20-%20Select%20the%20Right%20ML%20Instance.pdf)
+
 
 ## 👍 Videos
 - Making Friends with Machine Learning (https://decision.substack.com/p/making-friends-with-machine-learning)
@@ -187,7 +190,6 @@ List of references and online resources related to data science, machine learnin
 - Collection of useful data science topics along with code and articles (https://github.com/khuyentran1401/Data-science)
 - Data Science Articles (https://github.com/parulnith/Data-Science-Articles/blob/main/README.md)
 - Data Science Portfolio (https://github.com/MaartenGr/projects)
-- Machine Learning Interviews (https://github.com/khangich/machine-learning-interview/)
 - James Le (https://github.com/khanhnamle1994)
 
 ## 👍 Kaggle
@@ -236,6 +238,9 @@ List of references and online resources related to data science, machine learnin
 - Octoparse web scraping (https://www.octoparse.com/blog/10-myths-about-web-scraping)
 - Capitalize My Title (https://capitalizemytitle.com/)
 - Free IEEE Citation Generator (https://www.citethisforme.com/citation-generator/ieee)
+
+## 👍 Job / Interview Preparation
+- Machine Learning Interviews (https://github.com/khangich/machine-learning-interview/)
 
 ## 🔦 PyTorch-Related
 - Finetuning Torchvision Models (https://pytorch.org/tutorials/beginner/finetuning_torchvision_models_tutorial.html)
