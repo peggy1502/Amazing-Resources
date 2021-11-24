@@ -130,6 +130,7 @@ List of references and online resources related to data science, machine learnin
 - NVIDIA Merlin (https://medium.com/nvidia-merlin)
 - HugeCTR, a GPU-accelerated recommender framework (https://github.com/NVIDIA-Merlin/HugeCTR)
 - Recommender Systems at NVIDIA on Demand (https://www.nvidia.com/en-us/on-demand/search/?facet.mimetype[]=event%20session&layout=list&ncid=so-medi-419714&page=1&q=recommender%20systems&sort=date)
+- Recommender Systems Best Practices (https://resources.nvidia.com/en-us-recsys-white-paper/merlin-technical-ove)
 
 #### General ML/DL Articles
 - The best machine learning and deep learning libraries (https://morioh.com/p/73998ba2a04e)
