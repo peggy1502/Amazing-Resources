@@ -239,8 +239,10 @@ List of references and online resources related to data science, machine learnin
 - Capitalize My Title (https://capitalizemytitle.com/)
 - Free IEEE Citation Generator (https://www.citethisforme.com/citation-generator/ieee)
 
-## 👍 Job / Interview Preparation
+## 👍 Job / Interview / DS Portfolio
 - Machine Learning Interviews (https://github.com/khangich/machine-learning-interview/)
+- Creating a Data Science Portfolio (https://towardsdatascience.com/creating-a-data-science-portfolio-bd485382f49)
+- How to Build a Data Science Portfolio Website using Python (https://towardsdatascience.com/how-to-build-a-data-science-portfolio-website-using-python-79531426fde5)
 
 ## 🔦 PyTorch-Related
 - Finetuning Torchvision Models (https://pytorch.org/tutorials/beginner/finetuning_torchvision_models_tutorial.html)
