@@ -189,7 +189,6 @@ List of references and online resources related to data science, machine learnin
 - Kaggle-Ensemble-Guide (https://github.com/MLWave/Kaggle-Ensemble-Guide)
 - Collection of useful data science topics along with code and articles (https://github.com/khuyentran1401/Data-science)
 - Data Science Articles (https://github.com/parulnith/Data-Science-Articles/blob/main/README.md)
-- Data Science Portfolio (https://github.com/MaartenGr/projects)
 - James Le (https://github.com/khanhnamle1994)
 
 ## 👍 Kaggle
@@ -242,6 +241,7 @@ List of references and online resources related to data science, machine learnin
 ## 👍 Job / Interview / DS Portfolio
 - Machine Learning Interviews (https://github.com/khangich/machine-learning-interview/)
 - Creating a Data Science Portfolio (https://towardsdatascience.com/creating-a-data-science-portfolio-bd485382f49)
+- Data Science Portfolio (https://github.com/MaartenGr/projects)
 - How to Build a Data Science Portfolio Website using Python (https://towardsdatascience.com/how-to-build-a-data-science-portfolio-website-using-python-79531426fde5)
 
 ## 🔦 PyTorch-Related
