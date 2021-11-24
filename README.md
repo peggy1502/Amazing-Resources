@@ -128,6 +128,7 @@ List of references and online resources related to data science, machine learnin
 - Build a Recommendation Engine With Collaborative Filtering (https://realpython.com/build-recommendation-engine-collaborative-filtering/)
 - Recommendation System Series (https://towardsdatascience.com/recommendation-system-series-part-1-an-executive-guide-to-building-recommendation-system-608f83e2630a)
 - NVIDIA Merlin (https://medium.com/nvidia-merlin)
+- HugeCTR, a GPU-accelerated recommender framework (https://github.com/NVIDIA-Merlin/HugeCTR)
 
 #### General ML/DL Articles
 - The best machine learning and deep learning libraries (https://morioh.com/p/73998ba2a04e)
