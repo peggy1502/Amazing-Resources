@@ -127,6 +127,7 @@ List of references and online resources related to data science, machine learnin
 - Understanding min_df and max_df in scikit CountVectorizer (https://stackoverflow.com/questions/27697766/understanding-min-df-and-max-df-in-scikit-countvectorizer)
 - Build a Recommendation Engine With Collaborative Filtering (https://realpython.com/build-recommendation-engine-collaborative-filtering/)
 - Recommendation System Series (https://towardsdatascience.com/recommendation-system-series-part-1-an-executive-guide-to-building-recommendation-system-608f83e2630a)
+- NVIDIA Merlin (https://medium.com/nvidia-merlin)
 
 #### General ML/DL Articles
 - The best machine learning and deep learning libraries (https://morioh.com/p/73998ba2a04e)
