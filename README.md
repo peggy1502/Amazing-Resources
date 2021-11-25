@@ -19,6 +19,7 @@ List of references and online resources related to data science, machine learnin
 - Machine Learning Crash Course with TensorFlow APIs (https://developers.google.com/machine-learning/crash-course/ml-intro)
 - Crash Course - MXNet, Gluon (https://mxnet.apache.org/versions/1.8.0/api/python/docs/tutorials/getting-started/crash-course/index.html)
 - GluonCV: a Deep Learning Toolkit for Computer Vision (https://cv.gluon.ai/contents.html)
+- AutoGluon: AutoML for Text, Image, and Tabular Data (https://auto.gluon.ai/stable/index.html)
 - 10 minutes to pandas (https://pandas.pydata.org/pandas-docs/stable/user_guide/)
 - XGBoost (https://xgboost.readthedocs.io/en/latest/index.html)
 - XGBoost - Notes on Parameter Tuning (https://xgboost.readthedocs.io/en/latest/tutorials/param_tuning.html)
