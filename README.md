@@ -247,6 +247,7 @@ List of references and online resources related to data science, machine learnin
 - Creating a Data Science Portfolio (https://towardsdatascience.com/creating-a-data-science-portfolio-bd485382f49)
 - Data Science Portfolio (https://github.com/MaartenGr/projects)
 - How to Build a Data Science Portfolio Website using Python (https://towardsdatascience.com/how-to-build-a-data-science-portfolio-website-using-python-79531426fde5)
+- System Design Interview (https://systeminterview.com/scale-from-zero-to-millions-of-users.php)
 
 ## 🔦 PyTorch-Related
 - Finetuning Torchvision Models (https://pytorch.org/tutorials/beginner/finetuning_torchvision_models_tutorial.html)
