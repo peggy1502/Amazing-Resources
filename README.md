@@ -148,6 +148,7 @@ List of references and online resources related to data science, machine learnin
 - Understanding Fastai's fit_one_cycle method (https://iconof.com/1cycle-learning-rate-policy/)
 - Approaching (Almost) Any Machine Learning Problem (https://www.linkedin.com/pulse/approaching-almost-any-machine-learning-problem-abhishek-thakur)
 - KAGGLE ENSEMBLING GUIDE (https://mlwave.com/kaggle-ensembling-guide/)
+- Reading Larger than Memory CSVs with RAPIDS and Dask (https://medium.com/rapids-ai/reading-larger-than-memory-csvs-with-rapids-and-dask-e6e27dfa6c0f)
 
 #### EDA / Data Visualization
 - Plotly Fundamentals (https://plotly.com/python/plotly-fundamentals/)
@@ -216,6 +217,7 @@ List of references and online resources related to data science, machine learnin
 - Chris McCormick (https://mccormickml.com/)
 - Sebastian Ruder (https://ruder.io/)
 - Flipkart Tech Blog (https://tech.flipkart.com/)
+- RAPIDS AI (https://medium.com/rapids-ai)
 
 ## 👍 Maths 
 - Maths is Fun (https://www.mathsisfun.com/)
