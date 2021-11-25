@@ -215,6 +215,7 @@ List of references and online resources related to data science, machine learnin
 - DataMuni (https://www.datamuni.com/)
 - Chris McCormick (https://mccormickml.com/)
 - Sebastian Ruder (https://ruder.io/)
+- Flipkart Tech Blog (https://tech.flipkart.com/)
 
 ## 👍 Maths 
 - Maths is Fun (https://www.mathsisfun.com/)
