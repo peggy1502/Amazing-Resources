@@ -222,6 +222,8 @@ List of references and online resources related to data science, machine learnin
 - Sebastian Ruder (https://ruder.io/)
 - Flipkart Tech Blog (https://tech.flipkart.com/)
 - RAPIDS AI (https://medium.com/rapids-ai)
+- Pinterest Engineering (https://medium.com/pinterest-engineering)
+- Netflix Tech Blog (https://netflixtechblog.com/)
 
 ## 👍 Maths 
 - Maths is Fun (https://www.mathsisfun.com/)
