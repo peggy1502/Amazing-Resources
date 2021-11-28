@@ -199,6 +199,7 @@ List of references and online resources related to data science, machine learnin
 - Collection of useful data science topics along with code and articles (https://github.com/khuyentran1401/Data-science)
 - Data Science Articles (https://github.com/parulnith/Data-Science-Articles/blob/main/README.md)
 - James Le (https://github.com/khanhnamle1994)
+- Donne Martin (https://github.com/donnemartin)
 
 ## 👍 Kaggle
 - https://www.kaggle.com/bextuychiev/notebooks
@@ -257,6 +258,8 @@ List of references and online resources related to data science, machine learnin
 - Data Science Portfolio (https://github.com/MaartenGr/projects)
 - How to Build a Data Science Portfolio Website using Python (https://towardsdatascience.com/how-to-build-a-data-science-portfolio-website-using-python-79531426fde5)
 - System Design Interview (https://systeminterview.com/scale-from-zero-to-millions-of-users.php)
+- SYSTEM DESIGN INTERVIEW PREPARATION SERIES (https://www.codekarle.com/)
+- Gaurav Sen (https://www.youtube.com/channel/UCRPMAqdtSgd0Ipeef7iFsKw)
 
 ## 🔦 PyTorch-Related
 - Finetuning Torchvision Models (https://pytorch.org/tutorials/beginner/finetuning_torchvision_models_tutorial.html)
