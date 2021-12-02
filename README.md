@@ -202,6 +202,7 @@ List of references and online resources related to data science, machine learnin
 - Data Science Articles (https://github.com/parulnith/Data-Science-Articles/blob/main/README.md)
 - James Le (https://github.com/khanhnamle1994)
 - Donne Martin (https://github.com/donnemartin)
+- Fraud-Detection-Handbook (https://github.com/Fraud-Detection-Handbook)
 
 ## 👍 Kaggle
 - https://www.kaggle.com/bextuychiev/notebooks
