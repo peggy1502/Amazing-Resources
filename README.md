@@ -84,6 +84,7 @@ List of references and online resources related to data science, machine learnin
 - Introduction to Probability for Data Science (https://probability4datascience.com/index.html)
 - Dive into Deep Learning (https://d2l.ai/)
 - Personalized Machine Learning by Julian McAuley (https://cseweb.ucsd.edu/~jmcauley/pml/pml_book.pdf)
+- Machine Learning for Credit Card Fraud detection - Practical handbook (https://fraud-detection-handbook.github.io/fraud-detection-handbook/Foreword.html)
 
 ## 👍 Papers
 - 2015 Cyclical Learning Rates for Training Neural Networks (https://arxiv.org/abs/1506.01186)
