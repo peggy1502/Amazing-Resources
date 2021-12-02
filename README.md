@@ -73,6 +73,7 @@ List of references and online resources related to data science, machine learnin
 - NVIDIA Grandmaster Series (https://www.youtube.com/watch?v=bHuww-l_Sq0&list=PL5B692fm6--uXbxtmPJz5nu3Xmc1JUm3F)
 - Data Professor (https://www.youtube.com/c/DataProfessor/playlists)
 - Smart Home (https://www.youtube.com/c/AlexTeo/featured)
+- Neet Code (https://www.youtube.com/c/NeetCode/playlists)
 
 ## 👍 Books
 - The Hundred-Page Machine Learning Book (http://themlbook.com/wiki/doku.php)
@@ -260,6 +261,8 @@ List of references and online resources related to data science, machine learnin
 - System Design Interview (https://systeminterview.com/scale-from-zero-to-millions-of-users.php)
 - SYSTEM DESIGN INTERVIEW PREPARATION SERIES (https://www.codekarle.com/)
 - Gaurav Sen (https://www.youtube.com/channel/UCRPMAqdtSgd0Ipeef7iFsKw)
+- Coding Interview Solutions (https://www.youtube.com/playlist?list=PLot-Xpze53leF0FeHz2X0aG3zd0mr1AW_)
+- Leetcode Company Tag (https://github.com/xizhengszhang/Leetcode_company_frequency)
 
 ## 🔦 PyTorch-Related
 - Finetuning Torchvision Models (https://pytorch.org/tutorials/beginner/finetuning_torchvision_models_tutorial.html)
