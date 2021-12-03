@@ -255,6 +255,7 @@ List of references and online resources related to data science, machine learnin
 - Capitalize My Title (https://capitalizemytitle.com/)
 - Free IEEE Citation Generator (https://www.citethisforme.com/citation-generator/ieee)
 - Profile Pic Maker (https://pfpmaker.com/)
+- BlobCity AI Seed Projects (https://github.com/blobcity/ai-seed)
 
 ## 👍 Job / Interview / DS Portfolio
 - Machine Learning Interviews (https://github.com/khangich/machine-learning-interview/)
