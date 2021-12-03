@@ -254,6 +254,7 @@ List of references and online resources related to data science, machine learnin
 - Octoparse web scraping (https://www.octoparse.com/blog/10-myths-about-web-scraping)
 - Capitalize My Title (https://capitalizemytitle.com/)
 - Free IEEE Citation Generator (https://www.citethisforme.com/citation-generator/ieee)
+- Profile Pic Maker (https://pfpmaker.com/)
 
 ## 👍 Job / Interview / DS Portfolio
 - Machine Learning Interviews (https://github.com/khangich/machine-learning-interview/)
