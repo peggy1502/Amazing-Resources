@@ -204,6 +204,7 @@ List of references and online resources related to data science, machine learnin
 - James Le (https://github.com/khanhnamle1994)
 - Donne Martin (https://github.com/donnemartin)
 - Fraud-Detection-Handbook (https://github.com/Fraud-Detection-Handbook)
+- VADER-Sentiment-Analysis (https://github.com/cjhutto/vaderSentiment)
 
 ## 👍 Kaggle
 - https://www.kaggle.com/bextuychiev/notebooks
