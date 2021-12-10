@@ -29,6 +29,7 @@ List of references and online resources related to data science, machine learnin
 - Hugging FaceCommunity Notebooks (https://huggingface.co/transformers/master/community.html)
 - Machine Learning for Beginners (https://github.com/microsoft/ML-For-Beginners)
 - BigQuery cookbook (https://support.google.com/analytics/answer/4419694#zippy=%2Cin-this-article)
+- PythonAlgos (https://pythonalgos.com/resources/)
 
 ## 👍 Cheat Sheets
 - Cheat Sheets for Machine Learning and Data Science (https://sites.google.com/view/datascience-cheat-sheets)
