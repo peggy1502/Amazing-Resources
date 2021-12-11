@@ -273,6 +273,7 @@ List of references and online resources related to data science, machine learnin
 - Coding Interview Solutions (https://www.youtube.com/playlist?list=PLot-Xpze53leF0FeHz2X0aG3zd0mr1AW_)
 - Leetcode Company Tag (https://github.com/xizhengszhang/Leetcode_company_frequency)
 - Definitive Interview prep ROADMAP (https://www.codinginterview.com/interview-roadmap)
+- The complete guide to system design in 2022 (https://www.educative.io/blog/complete-guide-to-system-design#filestorage)
 
 ## 🔦 PyTorch-Related
 - Finetuning Torchvision Models (https://pytorch.org/tutorials/beginner/finetuning_torchvision_models_tutorial.html)
