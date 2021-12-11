@@ -210,8 +210,6 @@ List of references and online resources related to data science, machine learnin
 - https://www.kaggle.com/bextuychiev/notebooks
 
 ## 👍 Blogs
-- Data.gov.sg Blog (https://blog.data.gov.sg/)
-- GovTech’s Data Science and Artificial Intelligence Division (DSAID) (https://medium.com/dsaid-govtech)
 - Machine Learning Mastery (https://machinelearningmastery.com/start-here/)
 - Analytics Vidhya (https://www.analyticsvidhya.com/blog/)
 - Cassie Kozyrkov - Decision Intelligence (https://decision.substack.com/)
@@ -226,10 +224,15 @@ List of references and online resources related to data science, machine learnin
 - DataMuni (https://www.datamuni.com/)
 - Chris McCormick (https://mccormickml.com/)
 - Sebastian Ruder (https://ruder.io/)
+
+## 👍 Company Tech Blogs
+- Data.gov.sg Blog (https://blog.data.gov.sg/)
+- GovTech’s Data Science and Artificial Intelligence Division (DSAID) (https://medium.com/dsaid-govtech)
 - Flipkart Tech Blog (https://tech.flipkart.com/)
 - RAPIDS AI (https://medium.com/rapids-ai)
 - Pinterest Engineering (https://medium.com/pinterest-engineering)
 - Netflix Tech Blog (https://netflixtechblog.com/)
+- Uber Engineering (https://eng.uber.com/)
 
 ## 👍 Maths 
 - Maths is Fun (https://www.mathsisfun.com/)
