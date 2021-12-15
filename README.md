@@ -276,6 +276,7 @@ List of references and online resources related to data science, machine learnin
 - The complete guide to system design in 2022 (https://www.educative.io/blog/complete-guide-to-system-design#filestorage)
 - Ten Rules for Negotiating a Job Offer (https://haseebq.com/my-ten-rules-for-negotiating-a-job-offer/)
 - Python_LeetCode_Coding (https://github.com/LeihuaYe/Python_LeetCode_Coding)
+- Crack Data Science Interviews: Essential Machine Learning Concepts (https://towardsdatascience.com/crack-data-science-interviews-essential-machine-learning-concepts-afd6a0a6d1aa)
 
 ## 🔦 PyTorch-Related
 - Finetuning Torchvision Models (https://pytorch.org/tutorials/beginner/finetuning_torchvision_models_tutorial.html)
