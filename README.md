@@ -249,7 +249,7 @@ List of references and online resources related to data science, machine learnin
 - Amazon Customer Reviews Dataset (https://s3.amazonaws.com/amazon-reviews-pds/readme.html)
 - Papers With Code (https://paperswithcode.com/datasets)
 
-## 👍 Utilities 
+## 👍 Utilities / Tools
 - Scanner App for Math and Science (https://mathpix.com/)
 - Readability (https://pypi.org/project/readability/)
 - ipdb.set_trace() Commands (https://xxx-cook-book.gitbooks.io/python-cook-book/content/Debug/ipdb.html)
@@ -262,6 +262,7 @@ List of references and online resources related to data science, machine learnin
 - Free IEEE Citation Generator (https://www.citethisforme.com/citation-generator/ieee)
 - Profile Pic Maker (https://pfpmaker.com/)
 - BlobCity AI Seed Projects (https://github.com/blobcity/ai-seed)
+- Meta AI Frameworks, Tools, Libraries, Models (https://ai.facebook.com/tools)
 
 ## 👍 Job / Interview / DS Portfolio
 - Machine Learning Interviews (https://github.com/khangich/machine-learning-interview/)
