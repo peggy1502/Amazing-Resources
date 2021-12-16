@@ -233,6 +233,7 @@ List of references and online resources related to data science, machine learnin
 - Pinterest Engineering (https://medium.com/pinterest-engineering)
 - Netflix Tech Blog (https://netflixtechblog.com/)
 - Uber Engineering (https://eng.uber.com/)
+- Meta AI (https://ai.facebook.com/blog)
 
 ## 👍 Maths 
 - Maths is Fun (https://www.mathsisfun.com/)
