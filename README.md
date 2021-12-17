@@ -279,6 +279,12 @@ List of references and online resources related to data science, machine learnin
 - Ten Rules for Negotiating a Job Offer (https://haseebq.com/my-ten-rules-for-negotiating-a-job-offer/)
 - Python_LeetCode_Coding (https://github.com/LeihuaYe/Python_LeetCode_Coding)
 - Crack Data Science Interviews: Essential Machine Learning Concepts (https://towardsdatascience.com/crack-data-science-interviews-essential-machine-learning-concepts-afd6a0a6d1aa)
+- Facebook Field Guide to Machine Learning (https://research.facebook.com/blog/2018/05/the-facebook-field-guide-to-machine-learning-video-series/)
+- A Guide to Production Level Deep Learning (https://github.com/alirezadir/Production-Level-Deep-Learning)
+- Impactful and widely cited papers and literature on ML/DL/RL/AI (https://github.com/tirthajyoti/Papers-Literature-ML-DL-RL-AI)
+- level.fyi (https://www.levels.fyi/Salaries/Data-Scientist/Singapore/)
+- interviewing.io (https://interviewing.io/recordings)
+- Interview Cake (https://www.interviewcake.com/)
 
 ## 🔦 PyTorch-Related
 - Finetuning Torchvision Models (https://pytorch.org/tutorials/beginner/finetuning_torchvision_models_tutorial.html)
