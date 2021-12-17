@@ -36,6 +36,7 @@ List of references and online resources related to data science, machine learnin
 - ML Cheatsheet (https://ml-cheatsheet.readthedocs.io/en/latest/index.html)
 - Convolutional Neural Networks cheatsheet (https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-convolutional-neural-networks)
 - Deep Learning cheatsheet (https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-deep-learning)
+- Probability Cheatsheet (http://www.wzchen.com/probability-cheatsheet/)(https://static1.squarespace.com/static/54bf3241e4b0f0d81bf7ff36/t/55e9494fe4b011aed10e48e5/1441352015658/probability_cheatsheet.pdf)
 
 ## 👍 AWS / SageMaker
 - AWS Machine Learning University (https://aws.amazon.com/machine-learning/mlu/)
