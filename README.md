@@ -286,10 +286,10 @@ List of references and online resources related to data science, machine learnin
 - Rules of ML (https://developers.google.com/machine-learning/guides/rules-of-ml)
 - Impactful and widely cited papers and literature on ML/DL/RL/AI (https://github.com/tirthajyoti/Papers-Literature-ML-DL-RL-AI)
 - level.fyi (https://www.levels.fyi/Salaries/Data-Scientist/Singapore/)
-- interviewing.io (https://interviewing.io/recordings)
+- interviewing.io - Watch technical mock interviews (https://interviewing.io/recordings)
 - Interview Cake (https://www.interviewcake.com/)
 
-## 👍 Interview / Technical Coding Videos
+## 👍 Interview / Algorithms / Technical Coding Videos
 - Neet Code (https://www.youtube.com/c/NeetCode/playlists)
 - MIT 6.006 Introduction to Algorithms, Fall 2011 (https://www.youtube.com/playlist?list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb)
 - Vivekanand Khyade - Algorithm Every Day (https://www.youtube.com/user/vivekanandkhyade/playlists)
