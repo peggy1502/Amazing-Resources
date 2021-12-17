@@ -37,6 +37,7 @@ List of references and online resources related to data science, machine learnin
 - Convolutional Neural Networks cheatsheet (https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-convolutional-neural-networks)
 - Deep Learning cheatsheet (https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-deep-learning)
 - Probability Cheatsheet (http://www.wzchen.com/probability-cheatsheet/)(https://static1.squarespace.com/static/54bf3241e4b0f0d81bf7ff36/t/55e9494fe4b011aed10e48e5/1441352015658/probability_cheatsheet.pdf)
+- Bayesian (https://blogs.kent.ac.uk/jonw/files/2015/04/Puza2005.pdf)
 
 ## 👍 AWS / SageMaker
 - AWS Machine Learning University (https://aws.amazon.com/machine-learning/mlu/)
@@ -87,6 +88,7 @@ List of references and online resources related to data science, machine learnin
 - Dive into Deep Learning (https://d2l.ai/)
 - Personalized Machine Learning by Julian McAuley (https://cseweb.ucsd.edu/~jmcauley/pml/pml_book.pdf)
 - Machine Learning for Credit Card Fraud detection - Practical handbook (https://fraud-detection-handbook.github.io/fraud-detection-handbook/Foreword.html)
+- Deep Learning (https://www.deeplearningbook.org/)
 
 ## 👍 Papers
 - 2015 Cyclical Learning Rates for Training Neural Networks (https://arxiv.org/abs/1506.01186)
@@ -235,6 +237,8 @@ List of references and online resources related to data science, machine learnin
 - Netflix Tech Blog (https://netflixtechblog.com/)
 - Uber Engineering (https://eng.uber.com/)
 - Meta AI (https://ai.facebook.com/blog)
+- Twitter Engineering (https://blog.twitter.com/engineering/en_us)
+- DoorDash Engineering Blog (https://doordash.engineering/blog/)
 
 ## 👍 Maths 
 - Maths is Fun (https://www.mathsisfun.com/)
@@ -282,6 +286,7 @@ List of references and online resources related to data science, machine learnin
 - Crack Data Science Interviews: Essential Machine Learning Concepts (https://towardsdatascience.com/crack-data-science-interviews-essential-machine-learning-concepts-afd6a0a6d1aa)
 - Facebook Field Guide to Machine Learning (https://research.facebook.com/blog/2018/05/the-facebook-field-guide-to-machine-learning-video-series/)
 - A Guide to Production Level Deep Learning (https://github.com/alirezadir/Production-Level-Deep-Learning)
+- Rules of ML (https://developers.google.com/machine-learning/guides/rules-of-ml)
 - Impactful and widely cited papers and literature on ML/DL/RL/AI (https://github.com/tirthajyoti/Papers-Literature-ML-DL-RL-AI)
 - level.fyi (https://www.levels.fyi/Salaries/Data-Scientist/Singapore/)
 - interviewing.io (https://interviewing.io/recordings)
