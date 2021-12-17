@@ -285,6 +285,8 @@ List of references and online resources related to data science, machine learnin
 - level.fyi (https://www.levels.fyi/Salaries/Data-Scientist/Singapore/)
 - interviewing.io (https://interviewing.io/recordings)
 - Interview Cake (https://www.interviewcake.com/)
+- MIT 6.006 Introduction to Algorithms, Fall 2011 (https://www.youtube.com/playlist?list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb)
+- Vivekanand Khyade - Algorithm Every Day (https://www.youtube.com/user/vivekanandkhyade/playlists)
 
 ## 🔦 PyTorch-Related
 - Finetuning Torchvision Models (https://pytorch.org/tutorials/beginner/finetuning_torchvision_models_tutorial.html)
