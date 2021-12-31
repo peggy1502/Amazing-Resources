@@ -277,11 +277,9 @@ List of references and online resources related to data science, machine learnin
 - How to Build a Data Science Portfolio Website using Python (https://towardsdatascience.com/how-to-build-a-data-science-portfolio-website-using-python-79531426fde5)
 - System Design Interview (https://systeminterview.com/scale-from-zero-to-millions-of-users.php)
 - SYSTEM DESIGN INTERVIEW PREPARATION SERIES (https://www.codekarle.com/)
-- Leetcode Company Tag (https://github.com/xizhengszhang/Leetcode_company_frequency)
 - Definitive Interview prep ROADMAP (https://www.codinginterview.com/interview-roadmap)
 - The complete guide to system design in 2022 (https://www.educative.io/blog/complete-guide-to-system-design#filestorage)
 - Ten Rules for Negotiating a Job Offer (https://haseebq.com/my-ten-rules-for-negotiating-a-job-offer/)
-- Python_LeetCode_Coding (https://github.com/LeihuaYe/Python_LeetCode_Coding)
 - Crack Data Science Interviews: Essential Machine Learning Concepts (https://towardsdatascience.com/crack-data-science-interviews-essential-machine-learning-concepts-afd6a0a6d1aa)
 - Facebook Field Guide to Machine Learning (https://research.facebook.com/blog/2018/05/the-facebook-field-guide-to-machine-learning-video-series/)
 - A Guide to Production Level Deep Learning (https://github.com/alirezadir/Production-Level-Deep-Learning)
@@ -290,6 +288,10 @@ List of references and online resources related to data science, machine learnin
 - level.fyi (https://www.levels.fyi/Salaries/Data-Scientist/Singapore/)
 - interviewing.io - Watch technical mock interviews (https://interviewing.io/recordings)
 - Interview Cake (https://www.interviewcake.com/)
+- Big-O Cheat Sheet (https://www.bigocheatsheet.com/)
+- Leetcode list by topics (more comprehensive): https://protegejj.gitbook.io/oj-practices/chapter1/dynamic-programming
+- Leetcode Company Tag (https://github.com/xizhengszhang/Leetcode_company_frequency)
+- Python_LeetCode_Coding (https://github.com/LeihuaYe/Python_LeetCode_Coding)
 
 ## 👍 Interview / Algorithms / Technical Coding Videos
 - Neet Code (https://www.youtube.com/c/NeetCode/playlists)
