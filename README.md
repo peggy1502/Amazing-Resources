@@ -209,6 +209,7 @@ List of references and online resources related to data science, machine learnin
 - VADER-Sentiment-Analysis (https://github.com/cjhutto/vaderSentiment)
 
 ## 👍 Kaggle
+- Kaggle Solutions (https://farid.one/kaggle-solutions/)
 - https://www.kaggle.com/bextuychiev/notebooks
 
 ## 👍 Blogs
