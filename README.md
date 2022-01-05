@@ -38,6 +38,7 @@ List of references and online resources related to data science, machine learnin
 - Deep Learning cheatsheet (https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-deep-learning)
 - Probability Cheatsheet (http://www.wzchen.com/probability-cheatsheet/)(https://static1.squarespace.com/static/54bf3241e4b0f0d81bf7ff36/t/55e9494fe4b011aed10e48e5/1441352015658/probability_cheatsheet.pdf)
 - Bayesian (https://blogs.kent.ac.uk/jonw/files/2015/04/Puza2005.pdf)
+- Concept of self-attention (https://www.linkedin.com/posts/ugcPost-6882314741088321536-PNqG)
 
 ## 👍 AWS / SageMaker
 - AWS Machine Learning University (https://aws.amazon.com/machine-learning/mlu/)
@@ -75,6 +76,7 @@ List of references and online resources related to data science, machine learnin
 - PyTorch Performance Tuning Guide - Szymon Migacz, NVIDIA (https://www.youtube.com/watch?v=9mS1fIYj1So)
 - NVIDIA Grandmaster Series (https://www.youtube.com/watch?v=bHuww-l_Sq0&list=PL5B692fm6--uXbxtmPJz5nu3Xmc1JUm3F)
 - Data Professor (https://www.youtube.com/c/DataProfessor/playlists)
+- Rasa Algorithm Whiteboard - Transformers & Attention 1: Self Attention (https://www.youtube.com/watch?v=yGTUuEx3GkA)
 - Smart Home (https://www.youtube.com/c/AlexTeo/featured)
 
 ## 👍 Books
@@ -207,6 +209,7 @@ List of references and online resources related to data science, machine learnin
 - Donne Martin (https://github.com/donnemartin)
 - Fraud-Detection-Handbook (https://github.com/Fraud-Detection-Handbook)
 - VADER-Sentiment-Analysis (https://github.com/cjhutto/vaderSentiment)
+- ECCO - Interfaces for Explaining Transformer (https://github.com/jalammar/ecco)
 
 ## 👍 Kaggle
 - Kaggle Solutions (https://farid.one/kaggle-solutions/)
