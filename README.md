@@ -39,6 +39,7 @@ List of references and online resources related to data science, machine learnin
 - Probability Cheatsheet (http://www.wzchen.com/probability-cheatsheet/)(https://static1.squarespace.com/static/54bf3241e4b0f0d81bf7ff36/t/55e9494fe4b011aed10e48e5/1441352015658/probability_cheatsheet.pdf)
 - Bayesian (https://blogs.kent.ac.uk/jonw/files/2015/04/Puza2005.pdf)
 - Concept of self-attention (https://www.linkedin.com/posts/ugcPost-6882314741088321536-PNqG)
+- https://github.com/kailashahirwar/cheatsheets-ai
 
 ## 👍 AWS / SageMaker
 - AWS Machine Learning University (https://aws.amazon.com/machine-learning/mlu/)
@@ -276,20 +277,23 @@ List of references and online resources related to data science, machine learnin
 
 ## 👍 Job / Interview / DS Portfolio
 - Machine Learning Interviews (https://github.com/khangich/machine-learning-interview/)
+- NLP Interview Question and Answers in 2022 (https://www.mygreatlearning.com/blog/nlp-interview-questions/)
+- Machine Learning Interview Question and Answers in 2022 (https://www.mygreatlearning.com/blog/machine-learning-interview-questions/)
+- Machine learning algorithms interview - tips & resources (https://workera.ai/resources/machine-learning-algorithms-interview/)
+- Crack Data Science Interviews: Essential Machine Learning Concepts (https://towardsdatascience.com/crack-data-science-interviews-essential-machine-learning-concepts-afd6a0a6d1aa)
+- System Design Interview (https://systeminterview.com/scale-from-zero-to-millions-of-users.php)
+- SYSTEM DESIGN INTERVIEW PREPARATION SERIES (https://www.codekarle.com/)
+- The complete guide to system design in 2022 (https://www.educative.io/blog/complete-guide-to-system-design#filestorage)
 - Creating a Data Science Portfolio (https://towardsdatascience.com/creating-a-data-science-portfolio-bd485382f49)
 - Data Science Portfolio (https://github.com/MaartenGr/projects)
 - How to Build a Data Science Portfolio Website using Python (https://towardsdatascience.com/how-to-build-a-data-science-portfolio-website-using-python-79531426fde5)
-- System Design Interview (https://systeminterview.com/scale-from-zero-to-millions-of-users.php)
-- SYSTEM DESIGN INTERVIEW PREPARATION SERIES (https://www.codekarle.com/)
-- Definitive Interview prep ROADMAP (https://www.codinginterview.com/interview-roadmap)
-- The complete guide to system design in 2022 (https://www.educative.io/blog/complete-guide-to-system-design#filestorage)
 - Ten Rules for Negotiating a Job Offer (https://haseebq.com/my-ten-rules-for-negotiating-a-job-offer/)
-- Crack Data Science Interviews: Essential Machine Learning Concepts (https://towardsdatascience.com/crack-data-science-interviews-essential-machine-learning-concepts-afd6a0a6d1aa)
 - Facebook Field Guide to Machine Learning (https://research.facebook.com/blog/2018/05/the-facebook-field-guide-to-machine-learning-video-series/)
 - A Guide to Production Level Deep Learning (https://github.com/alirezadir/Production-Level-Deep-Learning)
 - Rules of ML (https://developers.google.com/machine-learning/guides/rules-of-ml)
 - Impactful and widely cited papers and literature on ML/DL/RL/AI (https://github.com/tirthajyoti/Papers-Literature-ML-DL-RL-AI)
 - level.fyi (https://www.levels.fyi/Salaries/Data-Scientist/Singapore/)
+- Definitive Interview prep ROADMAP (https://www.codinginterview.com/interview-roadmap)
 - interviewing.io - Watch technical mock interviews (https://interviewing.io/recordings)
 - Interview Cake (https://www.interviewcake.com/)
 - Big-O Cheat Sheet (https://www.bigocheatsheet.com/)
@@ -297,7 +301,7 @@ List of references and online resources related to data science, machine learnin
 - Leetcode Company Tag (https://github.com/xizhengszhang/Leetcode_company_frequency)
 - Python_LeetCode_Coding (https://github.com/LeihuaYe/Python_LeetCode_Coding)
 
-## 👍 Interview / Algorithms / Technical Coding Videos
+## 👍 Videos for Algorithms / Technical Coding / Interview Prep
 - Neet Code (https://www.youtube.com/c/NeetCode/playlists)
 - MIT 6.006 Introduction to Algorithms, Fall 2011 (https://www.youtube.com/playlist?list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb)
 - Vivekanand Khyade - Algorithm Every Day (https://www.youtube.com/user/vivekanandkhyade/playlists)
