@@ -231,6 +231,7 @@ List of references and online resources related to data science, machine learnin
 - DataMuni (https://www.datamuni.com/)
 - Chris McCormick (https://mccormickml.com/)
 - Sebastian Ruder (https://ruder.io/)
+- Gilbert Tanner (https://ml-explained.com/)
 
 ## 👍 Company Tech Blogs
 - Data.gov.sg Blog (https://blog.data.gov.sg/)
