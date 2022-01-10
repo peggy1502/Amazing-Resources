@@ -8,6 +8,7 @@ List of references and online resources related to data science, machine learnin
 - Hugging Face Course (https://huggingface.co/course/chapter1)
 - MIT 6.S191: Introduction to Deep Learning (http://introtodeeplearning.com/)
 - Stanford University CS231n: Convolutional Neural Networks for Visual Recognition (http://cs231n.stanford.edu/)
+- Stanford University CS193p: Developing Applications for iOS using SwiftUI (https://cs193p.sites.stanford.edu/)
 - Yann LeCun’s Deep Learning Course at CDS (https://cds.nyu.edu/deep-learning)
 - UC Berkeley - Full Stack Deep Learning (https://fullstackdeeplearning.com/)
 - New York University - PyTorch Deep Learning (https://atcold.github.io/pytorch-Deep-Learning/)
@@ -211,6 +212,7 @@ List of references and online resources related to data science, machine learnin
 - Fraud-Detection-Handbook (https://github.com/Fraud-Detection-Handbook)
 - VADER-Sentiment-Analysis (https://github.com/cjhutto/vaderSentiment)
 - ECCO - Interfaces for Explaining Transformer (https://github.com/jalammar/ecco)
+- MLBoy (https://github.com/john-rocky)
 
 ## 👍 Kaggle
 - Kaggle Solutions (https://farid.one/kaggle-solutions/)
