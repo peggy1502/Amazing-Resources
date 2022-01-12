@@ -248,6 +248,7 @@ List of references and online resources related to data science, machine learnin
 - DoorDash Engineering Blog (https://doordash.engineering/blog/)
 - The Airbnb Tech Blog (https://medium.com/airbnb-engineering)
 - Zalando Engineering Blog (https://engineering.zalando.com/)
+- Linkedin Engineering Blog (https://engineering.linkedin.com/blog)
 
 ## 👍 Maths 
 - Maths is Fun (https://www.mathsisfun.com/)
