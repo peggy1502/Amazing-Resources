@@ -257,6 +257,7 @@ List of references and online resources related to data science, machine learnin
 - Booking.com (https://booking.ai/)
 - Yelp Engineering Blog (https://engineeringblog.yelp.com/)
 - Spotify (https://engineering.atspotify.com/category/data-science/)
+- EXP (https://exp-platform.com/encyclopediamldm/)
 
 ## 👍 Maths 
 - Maths is Fun (https://www.mathsisfun.com/)
