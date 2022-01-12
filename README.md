@@ -249,6 +249,14 @@ List of references and online resources related to data science, machine learnin
 - The Airbnb Tech Blog (https://medium.com/airbnb-engineering)
 - Zalando Engineering Blog (https://engineering.zalando.com/)
 - Linkedin Engineering Blog (https://engineering.linkedin.com/blog)
+- Microsoft Experimentation Platform (https://www.microsoft.com/en-us/research/group/experimentation-platform-exp/)
+- Etsy (https://codeascraft.com/)
+- The Unofficial Google Data Science Blog (https://www.unofficialgoogledatascience.com/)
+- Stitch Fix (https://multithreaded.stitchfix.com/blog/)
+- Lyft (https://eng.lyft.com/tagged/data-science)
+- Booking.com (https://booking.ai/)
+- Yelp Engineering Blog (https://engineeringblog.yelp.com/)
+- Spotify (https://engineering.atspotify.com/category/data-science/)
 
 ## 👍 Maths 
 - Maths is Fun (https://www.mathsisfun.com/)
