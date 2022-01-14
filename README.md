@@ -218,6 +218,9 @@ List of references and online resources related to data science, machine learnin
 - Kaggle Solutions (https://farid.one/kaggle-solutions/)
 - https://www.kaggle.com/bextuychiev/notebooks
 
+## 👍 DeepNote
+- Abid (https://deepnote.com/@abid)
+
 ## 👍 Blogs
 - Machine Learning Mastery (https://machinelearningmastery.com/start-here/)
 - Analytics Vidhya (https://www.analyticsvidhya.com/blog/)
@@ -294,6 +297,9 @@ List of references and online resources related to data science, machine learnin
 - Machine Learning Interview Question and Answers in 2022 (https://www.mygreatlearning.com/blog/machine-learning-interview-questions/)
 - Machine learning algorithms interview - tips & resources (https://workera.ai/resources/machine-learning-algorithms-interview/)
 - Crack Data Science Interviews: Essential Machine Learning Concepts (https://towardsdatascience.com/crack-data-science-interviews-essential-machine-learning-concepts-afd6a0a6d1aa)
+- Glassdoor machine learning interview questions (https://www.glassdoor.sg/Interview/machine-learning-interview-questions-SRCH_KO0,16.htm?countryRedirect=true)
+- subreddit - ML question (https://www.reddit.com/r/MLQuestions/)
+- subreddit - Learning machine learning (https://www.reddit.com/r/learnmachinelearning/)
 - System Design Interview (https://systeminterview.com/scale-from-zero-to-millions-of-users.php)
 - SYSTEM DESIGN INTERVIEW PREPARATION SERIES (https://www.codekarle.com/)
 - The complete guide to system design in 2022 (https://www.educative.io/blog/complete-guide-to-system-design#filestorage)
