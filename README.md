@@ -285,6 +285,7 @@ List of references and online resources related to data science, machine learnin
 - Carbon - Create and share beautiful images of your source code (https://carbon.now.sh/)
 - Manim Community - How to Create Mathematical Animations (https://docs.manim.community/en/stable/tutorials.html)
 - diagrams.net (https://www.diagrams.net/)
+- PlotNeuralNet: Use LaTex for making neural networks diagrams (https://github.com/HarisIqbal88/PlotNeuralNet)
 - Keyword Tool (https://keywordtool.io/)
 - Octoparse web scraping (https://www.octoparse.com/blog/10-myths-about-web-scraping)
 - Capitalize My Title (https://capitalizemytitle.com/)
