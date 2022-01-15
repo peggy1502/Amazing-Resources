@@ -92,6 +92,7 @@ List of references and online resources related to data science, machine learnin
 - Personalized Machine Learning by Julian McAuley (https://cseweb.ucsd.edu/~jmcauley/pml/pml_book.pdf)
 - Machine Learning for Credit Card Fraud detection - Practical handbook (https://fraud-detection-handbook.github.io/fraud-detection-handbook/Foreword.html)
 - Deep Learning (https://www.deeplearningbook.org/)
+- Efficient Python Tricks and Tools for Data Scientists (https://khuyentran1401.github.io/Efficient_Python_tricks_and_tools_for_data_scientists/README.html)
 
 ## 👍 Papers
 - 2015 Cyclical Learning Rates for Training Neural Networks (https://arxiv.org/abs/1506.01186)
@@ -281,6 +282,7 @@ List of references and online resources related to data science, machine learnin
 - Readability (https://pypi.org/project/readability/)
 - ipdb.set_trace() Commands (https://xxx-cook-book.gitbooks.io/python-cook-book/content/Debug/ipdb.html)
 - Writing Math Equations in Jupyter Notebook: A Naive Introduction (https://medium.com/analytics-vidhya/writing-math-equations-in-jupyter-notebook-a-naive-introduction-a5ce87b9a214)
+- Carbon - Create and share beautiful images of your source code (https://carbon.now.sh/)
 - Manim Community - How to Create Mathematical Animations (https://docs.manim.community/en/stable/tutorials.html)
 - diagrams.net (https://www.diagrams.net/)
 - Keyword Tool (https://keywordtool.io/)
