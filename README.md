@@ -325,6 +325,7 @@ List of references and online resources related to data science, machine learnin
 - Leetcode list by topics (more comprehensive): https://protegejj.gitbook.io/oj-practices/chapter1/dynamic-programming
 - Leetcode Company Tag (https://github.com/xizhengszhang/Leetcode_company_frequency)
 - Python_LeetCode_Coding (https://github.com/LeihuaYe/Python_LeetCode_Coding)
+- 4 questions to ask in interviews to assess codebase health (https://www.educative.io/blog/questions-assess-codebase-health-interviews)
 
 ## 👍 Videos for Algorithms / Technical Coding / Interview Prep
 - Neet Code (https://www.youtube.com/c/NeetCode/playlists)
