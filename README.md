@@ -195,6 +195,7 @@ List of references and online resources related to data science, machine learnin
 ## 👍 GitHub Repositories
 - PyTorch Image Models (https://github.com/rwightman/pytorch-image-models)
 - EfficientNet PyTorch (https://github.com/lukemelas/EfficientNet-PyTorch)
+- blurr - A library that integrates huggingface transformers with version 2 of the fastai framework (https://ohmeow.github.io/blurr/)
 - MIT 6.S191: Introduction to Deep Learning - Labs (https://github.com/aamini/introtodeeplearning/)
 - GitHub Profile README Generator (https://github.com/rahuldkjain/github-profile-readme-generator)
 - Applied ML (https://github.com/eugeneyan/applied-ml)
@@ -238,6 +239,7 @@ List of references and online resources related to data science, machine learnin
 - Chris McCormick (https://mccormickml.com/)
 - Sebastian Ruder (https://ruder.io/)
 - Gilbert Tanner (https://ml-explained.com/)
+- Andrey Lukyanenko - Paper Review (https://andlukyane.com/blog/)
 
 ## 👍 Company Tech Blogs
 - Data.gov.sg Blog (https://blog.data.gov.sg/)
