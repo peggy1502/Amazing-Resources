@@ -93,6 +93,7 @@ List of references and online resources related to data science, machine learnin
 - Machine Learning for Credit Card Fraud detection - Practical handbook (https://fraud-detection-handbook.github.io/fraud-detection-handbook/Foreword.html)
 - Deep Learning (https://www.deeplearningbook.org/)
 - Efficient Python Tricks and Tools for Data Scientists (https://khuyentran1401.github.io/Efficient_Python_tricks_and_tools_for_data_scientists/README.html)
+- Deep Learning Interviews: Hundreds of fully solved job interview questions from a wide range of key topics in AI (https://github.com/BoltzmannEntropy/interviews.ai)
 
 ## 👍 Papers
 - 2015 Cyclical Learning Rates for Training Neural Networks (https://arxiv.org/abs/1506.01186)
@@ -297,6 +298,7 @@ List of references and online resources related to data science, machine learnin
 - Meta AI Frameworks, Tools, Libraries, Models (https://ai.facebook.com/tools)
 
 ## 👍 Job / Interview / DS Portfolio
+- Deep Learning Interviews: Hundreds of fully solved job interview questions from a wide range of key topics in AI (https://github.com/BoltzmannEntropy/interviews.ai)
 - Machine Learning Interviews (https://github.com/khangich/machine-learning-interview/)
 - NLP Interview Question and Answers in 2022 (https://www.mygreatlearning.com/blog/nlp-interview-questions/)
 - Machine Learning Interview Question and Answers in 2022 (https://www.mygreatlearning.com/blog/machine-learning-interview-questions/)
