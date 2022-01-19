@@ -341,6 +341,12 @@ List of references and online resources related to data science, machine learnin
 - Sai Anish Malla (https://www.youtube.com/channel/UCFBorf0jHu-1WNHGJZDNtew/playlists)
 - Back To Back SWE (https://www.youtube.com/c/BackToBackSWE/playlists)
 
+## 👍 Bit Hacks
+- Bit Hacks (https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-172-performance-engineering-of-software-systems-fall-2018/lecture-slides/MIT6_172F18_lec3.pdf)
+- Bit Twiddling Hacks (http://graphics.stanford.edu/~seander/bithacks.html)
+- Introduction to Low Level Bit Hacks (https://catonmat.net/low-level-bit-hacks)
+- Bitwise operations cheat sheet ()
+
 ## 🔦 PyTorch-Related
 - Finetuning Torchvision Models (https://pytorch.org/tutorials/beginner/finetuning_torchvision_models_tutorial.html)
 - Transfer Learning with ResNet in PyTorch (https://www.pluralsight.com/guides/introduction-to-resnet)
