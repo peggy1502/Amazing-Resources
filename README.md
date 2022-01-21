@@ -330,6 +330,8 @@ List of references and online resources related to data science, machine learnin
 - Leetcode Company Tag (https://github.com/xizhengszhang/Leetcode_company_frequency)
 - Python_LeetCode_Coding (https://github.com/LeihuaYe/Python_LeetCode_Coding)
 - 4 questions to ask in interviews to assess codebase health (https://www.educative.io/blog/questions-assess-codebase-health-interviews)
+- Instamentor's Knowledge Center (https://instamentor.com/articles/)
+- Experimentation is a major focus of Data Science across Netflix (https://netflixtechblog.com/experimentation-is-a-major-focus-of-data-science-across-netflix-f67923f8e985)
 
 ## 👍 Videos for Algorithms / Technical Coding / Interview Prep
 - Neet Code (https://www.youtube.com/c/NeetCode/playlists)
