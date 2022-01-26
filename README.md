@@ -312,6 +312,7 @@ List of references and online resources related to data science, machine learnin
 - The complete guide to system design in 2022 (https://www.educative.io/blog/complete-guide-to-system-design#filestorage)
 - Systems Design Crash Course for ML Engineers (https://towardsdatascience.com/systems-design-crash-course-for-ml-engineers-aafae1cf1890)
 - The System Design Primer (https://github.com/donnemartin/system-design-primer)
+- Ten Advanced SQL Concepts You Should Know for Data Science Interviews (https://towardsdatascience.com/ten-advanced-sql-concepts-you-should-know-for-data-science-interviews-4d7015ec74b0)
 - Creating a Data Science Portfolio (https://towardsdatascience.com/creating-a-data-science-portfolio-bd485382f49)
 - Data Science Portfolio (https://github.com/MaartenGr/projects)
 - How to Build a Data Science Portfolio Website using Python (https://towardsdatascience.com/how-to-build-a-data-science-portfolio-website-using-python-79531426fde5)
