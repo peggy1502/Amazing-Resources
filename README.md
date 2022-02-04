@@ -318,6 +318,7 @@ List of references and online resources related to data science, machine learnin
 - How to Build a Data Science Portfolio Website using Python (https://towardsdatascience.com/how-to-build-a-data-science-portfolio-website-using-python-79531426fde5)
 - How to create a Medium-like personal blog for free in a day (https://medium.com/geekculture/how-to-create-a-medium-like-personal-blog-for-free-in-a-day-55ebd9551d9c)
 - Ten Rules for Negotiating a Job Offer (https://haseebq.com/my-ten-rules-for-negotiating-a-job-offer/)
+- Use Python and NLP to Boost Your Resume (https://medium.com/data-marketing-philosophy/use-python-and-nlp-to-boost-your-resume-e4691a58bcc9)
 - Facebook Field Guide to Machine Learning (https://research.facebook.com/blog/2018/05/the-facebook-field-guide-to-machine-learning-video-series/)
 - A Guide to Production Level Deep Learning (https://github.com/alirezadir/Production-Level-Deep-Learning)
 - Rules of ML (https://developers.google.com/machine-learning/guides/rules-of-ml)
