@@ -296,6 +296,7 @@ List of references and online resources related to data science, machine learnin
 - Profile Pic Maker (https://pfpmaker.com/)
 - BlobCity AI Seed Projects (https://github.com/blobcity/ai-seed)
 - Meta AI Frameworks, Tools, Libraries, Models (https://ai.facebook.com/tools)
+- Resume Worded (https://resumeworded.com/resume-bullet-points)
 
 ## 👍 Job / Interview / DS Portfolio
 - Deep Learning Interviews: Hundreds of fully solved job interview questions from a wide range of key topics in AI (https://github.com/BoltzmannEntropy/interviews.ai)
