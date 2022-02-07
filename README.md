@@ -354,6 +354,12 @@ List of references and online resources related to data science, machine learnin
 - Introduction to Low Level Bit Hacks (https://catonmat.net/low-level-bit-hacks)
 - Bitwise operations cheat sheet ()
 
+## 👍 Google foobar
+- https://codeforces.com/blog/entry/50841
+- Foobar Challenge: Google’s Secret Hiring Process (https://towardsdatascience.com/how-to-get-hired-by-google-b19806ad3c62)
+- Google Has a Secret Hiring Challenge Called Foobar (https://betterprogramming.pub/google-has-a-secret-hiring-challenge-called-foobar-14625bfcea7a)(https://github.com/FBosler/GoogleFoobar)
+- Dodge The Lasers — Fantastic Question From Google’s hiring challenge (https://towardsdatascience.com/dodge-the-lasers-fantastic-question-from-googles-hiring-challenge-72363d95fec)
+
 ## 🔦 PyTorch-Related
 - Finetuning Torchvision Models (https://pytorch.org/tutorials/beginner/finetuning_torchvision_models_tutorial.html)
 - Transfer Learning with ResNet in PyTorch (https://www.pluralsight.com/guides/introduction-to-resnet)
