@@ -94,6 +94,7 @@ List of references and online resources related to data science, machine learnin
 - Deep Learning (https://www.deeplearningbook.org/)
 - Efficient Python Tricks and Tools for Data Scientists (https://khuyentran1401.github.io/Efficient_Python_tricks_and_tools_for_data_scientists/README.html)
 - Deep Learning Interviews: Hundreds of fully solved job interview questions from a wide range of key topics in AI (https://github.com/BoltzmannEntropy/interviews.ai)
+- Data Distribution Shifts and Monitoring (https://huyenchip.com/2022/02/07/data-distribution-shifts-and-monitoring.html)
 
 ## 👍 Papers
 - 2015 Cyclical Learning Rates for Training Neural Networks (https://arxiv.org/abs/1506.01186)
