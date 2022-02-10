@@ -266,6 +266,7 @@ List of references and online resources related to data science, machine learnin
 - Yelp Engineering Blog (https://engineeringblog.yelp.com/)
 - Spotify (https://engineering.atspotify.com/category/data-science/)
 - EXP (https://exp-platform.com/encyclopediamldm/)
+- Capital One (https://www.capitalone.com/tech/machine-learning/)
 
 ## 👍 Maths 
 - Maths is Fun (https://www.mathsisfun.com/)
