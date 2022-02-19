@@ -88,6 +88,7 @@ List of references and online resources related to data science, machine learnin
 - The fastai book (https://github.com/fastai/fastbook)
 - https://books.google.com.sg/books?id=yATuDwAAQBAJ&pg=PA470&lpg=PA470&dq=AdaptiveConcatPool2d+vs+AdaptiveAvgPool2d&source=bl&ots=NKltks4CYL&sig=ACfU3U2xJo3iFtgSSLpQoUGEFYzrouhYzQ&hl=en&sa=X&ved=2ahUKEwiy29KGzNLwAhUUVH0KHTqSC3YQ6AEwCXoECAYQAw#v=onepage&q&f=false
 - Introduction to Probability for Data Science (https://probability4datascience.com/index.html)
+- Probabilistic Machine Learning: An Introduction (https://probml.github.io/pml-book/book1.html)
 - Dive into Deep Learning (https://d2l.ai/)
 - Personalized Machine Learning by Julian McAuley (https://cseweb.ucsd.edu/~jmcauley/pml/pml_book.pdf)
 - Machine Learning for Credit Card Fraud detection - Practical handbook (https://fraud-detection-handbook.github.io/fraud-detection-handbook/Foreword.html)
