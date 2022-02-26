@@ -338,6 +338,7 @@ List of references and online resources related to data science, machine learnin
 - Leetcode list by topics (more comprehensive): https://protegejj.gitbook.io/oj-practices/chapter1/dynamic-programming
 - Leetcode Company Tag (https://github.com/xizhengszhang/Leetcode_company_frequency)
 - Python_LeetCode_Coding (https://github.com/LeihuaYe/Python_LeetCode_Coding)
+- Software Engineering Interview Preparation (GitBook) (https://orrsella.gitbooks.io/soft-eng-interview-prep/content/)
 - 4 questions to ask in interviews to assess codebase health (https://www.educative.io/blog/questions-assess-codebase-health-interviews)
 - How to Tackle The 7 Most Common Types of Interview Questions (https://www.youtube.com/watch?v=vFdkhsN1PJo&t=137s)
 - Instamentor's Knowledge Center (https://instamentor.com/articles/)
