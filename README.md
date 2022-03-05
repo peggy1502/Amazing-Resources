@@ -196,6 +196,7 @@ List of references and online resources related to data science, machine learnin
 - YOLO: Real-Time Object Detection (https://pjreddie.com/darknet/yolo/)
 - Coder One - A virtual playground to practice, compete, and experiment with machine learning (https://www.gocoder.one/)
 - Interactive demonstrations for ML courses (http://arogozhnikov.github.io/2016/04/28/demonstrations-for-ml-courses.html)
+- Tinker With a Neural Network (http://playground.tensorflow.org/)
 
 ## 👍 GitHub Repositories
 - PyTorch Image Models (https://github.com/rwightman/pytorch-image-models)
