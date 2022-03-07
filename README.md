@@ -305,6 +305,7 @@ List of references and online resources related to data science, machine learnin
 - Resume Worded (https://resumeworded.com/resume-bullet-points)
 - Mockaroo - Random Data Generator (https://mockaroo.com/)
 - Flourish - Beautiful and easy data visualization and storytelling (https://flourish.studio/)
+- Flameshot - screenshot software (https://github.com/flameshot-org/flameshot)
 
 ## 👍 Job / Interview / DS Portfolio
 - Deep Learning Interviews: Hundreds of fully solved job interview questions from a wide range of key topics in AI (https://github.com/BoltzmannEntropy/interviews.ai)
