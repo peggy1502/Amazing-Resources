@@ -197,6 +197,7 @@ List of references and online resources related to data science, machine learnin
 - Coder One - A virtual playground to practice, compete, and experiment with machine learning (https://www.gocoder.one/)
 - Interactive demonstrations for ML courses (http://arogozhnikov.github.io/2016/04/28/demonstrations-for-ml-courses.html)
 - Tinker With a Neural Network (http://playground.tensorflow.org/)
+- Understanding ROC curves (http://www.navan.name/roc/)
 
 ## 👍 GitHub Repositories
 - PyTorch Image Models (https://github.com/rwightman/pytorch-image-models)
