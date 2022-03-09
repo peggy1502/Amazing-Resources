@@ -318,11 +318,6 @@ List of references and online resources related to data science, machine learnin
 - Glassdoor machine learning interview questions (https://www.glassdoor.sg/Interview/machine-learning-interview-questions-SRCH_KO0,16.htm?countryRedirect=true)
 - subreddit - ML question (https://www.reddit.com/r/MLQuestions/)
 - subreddit - Learning machine learning (https://www.reddit.com/r/learnmachinelearning/)
-- System Design Interview (https://systeminterview.com/scale-from-zero-to-millions-of-users.php)
-- SYSTEM DESIGN INTERVIEW PREPARATION SERIES (https://www.codekarle.com/)
-- The complete guide to system design in 2022 (https://www.educative.io/blog/complete-guide-to-system-design#filestorage)
-- Systems Design Crash Course for ML Engineers (https://towardsdatascience.com/systems-design-crash-course-for-ml-engineers-aafae1cf1890)
-- The System Design Primer (https://github.com/donnemartin/system-design-primer)
 - Ten Advanced SQL Concepts You Should Know for Data Science Interviews (https://towardsdatascience.com/ten-advanced-sql-concepts-you-should-know-for-data-science-interviews-4d7015ec74b0)
 - Creating a Data Science Portfolio (https://towardsdatascience.com/creating-a-data-science-portfolio-bd485382f49)
 - Data Science Portfolio (https://github.com/MaartenGr/projects)
@@ -339,6 +334,8 @@ List of references and online resources related to data science, machine learnin
 - Definitive Interview prep ROADMAP (https://www.codinginterview.com/interview-roadmap)
 - interviewing.io - Watch technical mock interviews (https://interviewing.io/recordings)
 - Interview Cake (https://www.interviewcake.com/)
+- Interview Questions (https://www.tryexponent.com/questions)
+- Free Interview Practice (https://www.pramp.com/)
 - Big-O Cheat Sheet (https://www.bigocheatsheet.com/)
 - Leetcode list by topics (more comprehensive): https://protegejj.gitbook.io/oj-practices/chapter1/dynamic-programming
 - Leetcode Company Tag (https://github.com/xizhengszhang/Leetcode_company_frequency)
@@ -349,6 +346,15 @@ List of references and online resources related to data science, machine learnin
 - Instamentor's Knowledge Center (https://instamentor.com/articles/)
 - Experimentation is a major focus of Data Science across Netflix (https://netflixtechblog.com/experimentation-is-a-major-focus-of-data-science-across-netflix-f67923f8e985)
 
+## 👍 System Design
+- System Design Interview (https://systeminterview.com/scale-from-zero-to-millions-of-users.php)
+- SYSTEM DESIGN INTERVIEW PREPARATION SERIES (https://www.codekarle.com/)
+- The complete guide to system design in 2022 (https://www.educative.io/blog/complete-guide-to-system-design#filestorage)
+- Systems Design Crash Course for ML Engineers (https://towardsdatascience.com/systems-design-crash-course-for-ml-engineers-aafae1cf1890)
+- The System Design Primer (https://github.com/donnemartin/system-design-primer)
+- awesome-scalability (https://github.com/binhnguyennus/awesome-scalability)
+- System Architecture (https://orrsella.gitbooks.io/soft-eng-interview-prep/content/topics/system-architecture.html)
+
 ## 👍 Videos for Algorithms / Technical Coding / Interview Prep
 - Neet Code (https://www.youtube.com/c/NeetCode/playlists)
 - MIT 6.006 Introduction to Algorithms, Fall 2011 (https://www.youtube.com/playlist?list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb)
@@ -358,6 +364,7 @@ List of references and online resources related to data science, machine learnin
 - Kevin Naughton Jr. (https://www.youtube.com/c/KevinNaughtonJr/playlists)
 - Sai Anish Malla (https://www.youtube.com/channel/UCFBorf0jHu-1WNHGJZDNtew/playlists)
 - Back To Back SWE (https://www.youtube.com/c/BackToBackSWE/playlists)
+- Tech Dummies Narendra L (https://www.youtube.com/c/TechDummiesNarendraL/videos)
 
 ## 👍 Bit Hacks
 - Bit Hacks (https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-172-performance-engineering-of-software-systems-fall-2018/lecture-slides/MIT6_172F18_lec3.pdf)
