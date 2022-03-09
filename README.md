@@ -365,6 +365,7 @@ List of references and online resources related to data science, machine learnin
 - Sai Anish Malla (https://www.youtube.com/channel/UCFBorf0jHu-1WNHGJZDNtew/playlists)
 - Back To Back SWE (https://www.youtube.com/c/BackToBackSWE/playlists)
 - Tech Dummies Narendra L (https://www.youtube.com/c/TechDummiesNarendraL/videos)
+- Data Interview Pro - Emma (https://www.youtube.com/c/DataInterviewPro/playlists)
 
 ## 👍 Bit Hacks
 - Bit Hacks (https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-172-performance-engineering-of-software-systems-fall-2018/lecture-slides/MIT6_172F18_lec3.pdf)
