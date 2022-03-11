@@ -176,6 +176,7 @@ List of references and online resources related to data science, machine learnin
 - Netflix Data Visualization (https://www.kaggle.com/joshuaswords/netflix-data-visualization?scriptVersionId=58425238)(https://www.kaggle.com/joshuaswords)
 - Custom Word Cloud (https://www.kaggle.com/tarzon/custom-word-cloud/notebook)
 - RAPIDS cuXfilter - Build a Fully Interactive Dashboard in a Few Lines of Python (https://medium.com/rapids-ai/build-a-fully-interactive-dashboard-in-a-few-lines-of-python-49959fb55fff)
+- Facets - visualizations for understanding and analyzing machine learning datasets (https://github.com/PAIR-code/facets)
 
 #### Colab
 - Google Colab Tips for Power Users (https://amitness.com/2020/06/google-colaboratory-tips/)
@@ -272,6 +273,7 @@ List of references and online resources related to data science, machine learnin
 - Spotify (https://engineering.atspotify.com/category/data-science/)
 - EXP (https://exp-platform.com/encyclopediamldm/)
 - Capital One (https://www.capitalone.com/tech/machine-learning/)
+- Google AI Blog (https://ai.googleblog.com/)
 
 ## 👍 Maths 
 - Maths is Fun (https://www.mathsisfun.com/)
@@ -286,6 +288,7 @@ List of references and online resources related to data science, machine learnin
 - Amazon product data (outdated?) (https://jmcauley.ucsd.edu/data/amazon/index.html)
 - Amazon Customer Reviews Dataset (https://s3.amazonaws.com/amazon-reviews-pds/readme.html)
 - Papers With Code (https://paperswithcode.com/datasets)
+- https://research.google/tools/
 
 ## 👍 Utilities / Tools
 - Scanner App for Math and Science (https://mathpix.com/)
@@ -307,6 +310,9 @@ List of references and online resources related to data science, machine learnin
 - Mockaroo - Random Data Generator (https://mockaroo.com/)
 - Flourish - Beautiful and easy data visualization and storytelling (https://flourish.studio/)
 - Flameshot - screenshot software (https://github.com/flameshot-org/flameshot)
+- Facets - visualizations for understanding and analyzing machine learning datasets (https://github.com/PAIR-code/facets)
+- Google - People + AI Research (PAIR) (https://research.google/teams/brain/pair/)
+- Google Research resources (https://research.google/tools/)
 
 ## 👍 Job / Interview / DS Portfolio
 - Deep Learning Interviews: Hundreds of fully solved job interview questions from a wide range of key topics in AI (https://github.com/BoltzmannEntropy/interviews.ai)
