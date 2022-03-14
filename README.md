@@ -33,6 +33,7 @@ List of references and online resources related to data science, machine learnin
 - PythonAlgos (https://pythonalgos.com/resources/)
 
 ## 👍 Cheat Sheets
+- Jerry Hargrove - AWS Cloud Diagrams & Notes (https://www.awsgeek.com/)
 - Cheat Sheets for Machine Learning and Data Science (https://sites.google.com/view/datascience-cheat-sheets)
 - ML Cheatsheet (https://ml-cheatsheet.readthedocs.io/en/latest/index.html)
 - Convolutional Neural Networks cheatsheet (https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-convolutional-neural-networks)
