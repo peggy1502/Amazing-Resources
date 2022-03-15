@@ -31,6 +31,7 @@ List of references and online resources related to data science, machine learnin
 - Machine Learning for Beginners (https://github.com/microsoft/ML-For-Beginners)
 - BigQuery cookbook (https://support.google.com/analytics/answer/4419694#zippy=%2Cin-this-article)
 - PythonAlgos (https://pythonalgos.com/resources/)
+- Captum - an open source, extensible library for model interpretability built on PyTorch (https://captum.ai/docs/introduction)
 
 ## 👍 Cheat Sheets
 - Jerry Hargrove - AWS Cloud Diagrams & Notes (https://www.awsgeek.com/)
@@ -81,6 +82,7 @@ List of references and online resources related to data science, machine learnin
 - Data Professor (https://www.youtube.com/c/DataProfessor/playlists)
 - Rasa Algorithm Whiteboard - Transformers & Attention 1: Self Attention (https://www.youtube.com/watch?v=yGTUuEx3GkA)
 - Smart Home (https://www.youtube.com/c/AlexTeo/featured)
+- Elliot Waite - Machine Learning, Coding, Math Animations (https://www.youtube.com/c/elliotwaite/videos)
 
 ## 👍 Books
 - The Hundred-Page Machine Learning Book (http://themlbook.com/wiki/doku.php)
