@@ -205,6 +205,7 @@ List of references and online resources related to data science, machine learnin
 - Understanding ROC curves (http://www.navan.name/roc/)
 - Algorithm Visualizer (https://algorithm-visualizer.org/)
 - Sort Visualizer (https://adwait-algorithm-visualizer.netlify.app/)
+- VisuAlgo (https://visualgo.net/en)
 
 ## 👍 GitHub Repositories
 - PyTorch Image Models (https://github.com/rwightman/pytorch-image-models)
