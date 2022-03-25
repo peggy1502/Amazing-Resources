@@ -67,6 +67,7 @@ List of references and online resources related to data science, machine learnin
 
 
 ## 👍 Videos
+- StatQuest (https://statquest.org/video-index/)
 - Making Friends with Machine Learning (https://decision.substack.com/p/making-friends-with-machine-learning)
 - Artificial Intelligence - All in One (https://www.youtube.com/c/ArtificialIntelligenceAllinOne)
 - DeepLearningAI (https://www.youtube.com/c/Deeplearningai/playlists)
