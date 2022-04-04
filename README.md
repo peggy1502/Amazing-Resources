@@ -36,6 +36,7 @@ List of references and online resources related to data science, machine learnin
 ## 👍 Cheat Sheets
 - Jerry Hargrove - AWS Cloud Diagrams & Notes (https://www.awsgeek.com/)
 - Cheat Sheets for Machine Learning and Data Science - by Aqeel Anwar (https://sites.google.com/view/datascience-cheat-sheets)
+- Cheat Sheets for Machine Learning Interview Topics - by Aqeel Anwar (https://medium.com/swlh/cheat-sheets-for-machine-learning-interview-topics-51c2bc2bab4f)
 - ML Cheatsheet (https://ml-cheatsheet.readthedocs.io/en/latest/index.html)
 - Convolutional Neural Networks cheatsheet (https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-convolutional-neural-networks)
 - Deep Learning cheatsheet (https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-deep-learning)
