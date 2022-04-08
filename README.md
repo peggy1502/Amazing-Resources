@@ -238,6 +238,7 @@ List of references and online resources related to data science, machine learnin
 - ECCO - Interfaces for Explaining Transformer (https://github.com/jalammar/ecco)
 - MLBoy (https://github.com/john-rocky)
 - Criteo (https://github.com/criteo)
+- NVIDIA Deep Learning Examples for Tensor Cores (https://github.com/NVIDIA/DeepLearningExamples)
 
 ## 👍 Kaggle
 - Kaggle Solutions (https://farid.one/kaggle-solutions/)
