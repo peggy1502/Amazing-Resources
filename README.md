@@ -233,6 +233,7 @@ List of references and online resources related to data science, machine learnin
 - VADER-Sentiment-Analysis (https://github.com/cjhutto/vaderSentiment)
 - ECCO - Interfaces for Explaining Transformer (https://github.com/jalammar/ecco)
 - MLBoy (https://github.com/john-rocky)
+- Criteo (https://github.com/criteo)
 
 ## 👍 Kaggle
 - Kaggle Solutions (https://farid.one/kaggle-solutions/)
