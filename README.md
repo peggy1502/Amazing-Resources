@@ -158,6 +158,7 @@ List of references and online resources related to data science, machine learnin
 - Recommender Systems Best Practices (https://resources.nvidia.com/en-us-recsys-white-paper/merlin-technical-ove)
 - Wayfair Tech Blog (https://www.aboutwayfair.com/careers/tech-blog?q=&s=0&f0=0000017b-63b5-d47e-adff-f7bda4220000)
 - Pinecone - A managed, cloud-native vector database with a simple API (https://www.pinecone.io/learn/)
+- Training a Recommender System on DGX A100 with 100B+ Parameters in TensorFlow 2 (https://developer.nvidia.com/blog/training-a-recommender-system-on-dgx-a100-with-100b-parameters-in-tensorflow-2/)
 
 #### General ML/DL Articles
 - The best machine learning and deep learning libraries (https://morioh.com/p/73998ba2a04e)
