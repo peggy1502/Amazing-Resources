@@ -284,6 +284,7 @@ List of references and online resources related to data science, machine learnin
 - EXP (https://exp-platform.com/encyclopediamldm/)
 - Capital One (https://www.capitalone.com/tech/machine-learning/)
 - Google AI Blog (https://ai.googleblog.com/)
+- Criteo Tech Blog (https://medium.com/criteo-engineering)(https://labs.criteo.com/engineering-blog/)
 
 ## 👍 Maths 
 - Maths is Fun (https://www.mathsisfun.com/)
@@ -299,6 +300,7 @@ List of references and online resources related to data science, machine learnin
 - Amazon Customer Reviews Dataset (https://s3.amazonaws.com/amazon-reviews-pds/readme.html)
 - Papers With Code (https://paperswithcode.com/datasets)
 - https://research.google/tools/
+- Criteo - Terabyte Click Logs (https://labs.criteo.com/2013/12/download-terabyte-click-logs/)
 
 ## 👍 Utilities / Tools
 - Scanner App for Math and Science (https://mathpix.com/)
