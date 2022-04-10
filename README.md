@@ -307,6 +307,7 @@ List of references and online resources related to data science, machine learnin
 - Papers With Code (https://paperswithcode.com/datasets)
 - https://research.google/tools/
 - Criteo - Terabyte Click Logs (https://labs.criteo.com/2013/12/download-terabyte-click-logs/)
+- Components (https://components.one/datasets)
 
 ## 👍 Utilities / Tools
 - Scanner App for Math and Science (https://mathpix.com/)
