@@ -309,6 +309,7 @@ List of references and online resources related to data science, machine learnin
 - https://research.google/tools/
 - Criteo - Terabyte Click Logs (https://labs.criteo.com/2013/12/download-terabyte-click-logs/)
 - Components (https://components.one/datasets)
+- Datasets for approximate nearest neighbor search (http://corpus-texmex.irisa.fr/)
 
 ## 👍 Utilities / Tools
 - Scanner App for Math and Science (https://mathpix.com/)
