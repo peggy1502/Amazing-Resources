@@ -240,6 +240,7 @@ List of references and online resources related to data science, machine learnin
 - MLBoy (https://github.com/john-rocky)
 - Criteo (https://github.com/criteo)
 - NVIDIA Deep Learning Examples for Tensor Cores (https://github.com/NVIDIA/DeepLearningExamples)
+- Pinecone (https://github.com/pinecone-io/examples)
 
 ## 👍 Kaggle
 - Kaggle Solutions (https://farid.one/kaggle-solutions/)
