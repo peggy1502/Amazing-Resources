@@ -309,7 +309,10 @@ List of references and online resources related to data science, machine learnin
 - https://research.google/tools/
 - Criteo - Terabyte Click Logs (https://labs.criteo.com/2013/12/download-terabyte-click-logs/)
 - Components (https://components.one/datasets)
-- Datasets for approximate nearest neighbor search (http://corpus-texmex.irisa.fr/)
+- Texmex (http://www.irisa.fr/texmex/ressources/index_en.php)
+- > The MOVI Image Base (http://www.irisa.fr/texmex/ressources/bases/base_images_movi/index.html)
+- > INRIA Holidays dataset for evaluation of image search & Copydays dataset for evaluation of copy detection (http://lear.inrialpes.fr/people/jegou/data.php#holidays)
+- > Datasets for approximate nearest neighbor search (http://corpus-texmex.irisa.fr/)
 
 ## 👍 Utilities / Tools
 - Scanner App for Math and Science (https://mathpix.com/)
