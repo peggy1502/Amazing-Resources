@@ -313,6 +313,7 @@ List of references and online resources related to data science, machine learnin
 - > The MOVI Image Base (http://www.irisa.fr/texmex/ressources/bases/base_images_movi/index.html)
 - > INRIA Holidays dataset for evaluation of image search & Copydays dataset for evaluation of copy detection (http://lear.inrialpes.fr/people/jegou/data.php#holidays)
 - > Datasets for approximate nearest neighbor search (http://corpus-texmex.irisa.fr/)
+- Semantic Text Similarity Dataset Hub (https://github.com/brmson/dataset-sts)
 
 ## 👍 Utilities / Tools
 - Scanner App for Math and Science (https://mathpix.com/)
