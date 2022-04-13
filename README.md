@@ -153,12 +153,13 @@ List of references and online resources related to data science, machine learnin
 - Build a Recommendation Engine With Collaborative Filtering (https://realpython.com/build-recommendation-engine-collaborative-filtering/)
 - Recommendation System Series (https://towardsdatascience.com/recommendation-system-series-part-1-an-executive-guide-to-building-recommendation-system-608f83e2630a)
 - NVIDIA Merlin (https://medium.com/nvidia-merlin)
-- HugeCTR, a GPU-accelerated recommender framework (https://github.com/NVIDIA-Merlin/HugeCTR)
-- Recommender Systems at NVIDIA on Demand (https://www.nvidia.com/en-us/on-demand/search/?facet.mimetype[]=event%20session&layout=list&ncid=so-medi-419714&page=1&q=recommender%20systems&sort=date)
-- Recommender Systems Best Practices (https://resources.nvidia.com/en-us-recsys-white-paper/merlin-technical-ove)
+-> Merlin Jupyter Notebook Examples (https://catalog.ngc.nvidia.com/orgs/nvidia/resources/merlin_notebooks)
+-> HugeCTR, a GPU-accelerated recommender framework (https://github.com/NVIDIA-Merlin/HugeCTR)
+-> Recommender Systems at NVIDIA on Demand (https://www.nvidia.com/en-us/on-demand/search/?facet.mimetype[]=event%20session&layout=list&ncid=so-medi-419714&page=1&q=recommender%20systems&sort=date)
+-> Recommender Systems Best Practices (https://resources.nvidia.com/en-us-recsys-white-paper/merlin-technical-ove)
+-> Training a Recommender System on DGX A100 with 100B+ Parameters in TensorFlow 2 (https://developer.nvidia.com/blog/training-a-recommender-system-on-dgx-a100-with-100b-parameters-in-tensorflow-2/)
 - Wayfair Tech Blog (https://www.aboutwayfair.com/careers/tech-blog?q=&s=0&f0=0000017b-63b5-d47e-adff-f7bda4220000)
 - Pinecone - A managed, cloud-native vector database with a simple API (https://www.pinecone.io/learn/)
-- Training a Recommender System on DGX A100 with 100B+ Parameters in TensorFlow 2 (https://developer.nvidia.com/blog/training-a-recommender-system-on-dgx-a100-with-100b-parameters-in-tensorflow-2/)
 - TensorFlow Recommenders Tutorial (https://www.tensorflow.org/recommenders/examples/basic_retrieval)
 
 #### General ML/DL Articles
@@ -292,6 +293,7 @@ List of references and online resources related to data science, machine learnin
 - EXP (https://exp-platform.com/encyclopediamldm/)
 - Capital One (https://www.capitalone.com/tech/machine-learning/)
 - Google AI Blog (https://ai.googleblog.com/)
+- NVIDIA Merlin (https://medium.com/nvidia-merlin)
 - Criteo Tech Blog (https://medium.com/criteo-engineering)(https://labs.criteo.com/engineering-blog/)
 
 ## 👍 Maths 
