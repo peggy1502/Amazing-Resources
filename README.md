@@ -165,6 +165,10 @@ List of references and online resources related to data science, machine learnin
 - Nanopq (https://nanopq.readthedocs.io/en/latest/source/tutorial.html) 
 - > (https://speakerdeck.com/matsui_528/cvpr20-tutorial-billion-scale-approximate-nearest-neighbor-search?slide=84) 
 - > (https://github.com/matsui528/nanopq)
+- Faiss - Facebook AI Similarity Search (https://github.com/facebookresearch/faiss/wiki)
+- > Faiss tips (https://github.com/matsui528/faiss_tips) 
+- > https://speakerdeck.com/matsui_528/cvpr20-tutorial-billion-scale-approximate-nearest-neighbor-search?slide=108
+- 
 
 #### General ML/DL Articles
 - The best machine learning and deep learning libraries (https://morioh.com/p/73998ba2a04e)
