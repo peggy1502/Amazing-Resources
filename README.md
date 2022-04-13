@@ -162,6 +162,7 @@ List of references and online resources related to data science, machine learnin
 - Pinecone - A managed, cloud-native vector database with a simple API (https://www.pinecone.io/learn/)
 - TensorFlow Recommenders Tutorial (https://www.tensorflow.org/recommenders/examples/basic_retrieval)
 - Billion-scale Approximate Nearest Neighbor Search (https://matsui528.github.io/cvpr2020_tutorial_retrieval/)
+- Nanopq (https://nanopq.readthedocs.io/en/latest/source/tutorial.html)(https://github.com/matsui528/nanopq)
 
 #### General ML/DL Articles
 - The best machine learning and deep learning libraries (https://morioh.com/p/73998ba2a04e)
