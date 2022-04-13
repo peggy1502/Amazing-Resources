@@ -161,6 +161,7 @@ List of references and online resources related to data science, machine learnin
 - Wayfair Tech Blog (https://www.aboutwayfair.com/careers/tech-blog?q=&s=0&f0=0000017b-63b5-d47e-adff-f7bda4220000)
 - Pinecone - A managed, cloud-native vector database with a simple API (https://www.pinecone.io/learn/)
 - TensorFlow Recommenders Tutorial (https://www.tensorflow.org/recommenders/examples/basic_retrieval)
+- Billion-scale Approximate Nearest Neighbor Search (https://matsui528.github.io/cvpr2020_tutorial_retrieval/)
 
 #### General ML/DL Articles
 - The best machine learning and deep learning libraries (https://morioh.com/p/73998ba2a04e)
