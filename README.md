@@ -251,6 +251,7 @@ List of references and online resources related to data science, machine learnin
 - Criteo (https://github.com/criteo)
 - NVIDIA Deep Learning Examples for Tensor Cores (https://github.com/NVIDIA/DeepLearningExamples)
 - Pinecone (https://github.com/pinecone-io/examples)
+- Surprise - a Python scikit for recommender systems that deal with explicit rating data (https://github.com/NicolasHug/Surprise)
 
 ## 👍 Kaggle
 - Kaggle Solutions (https://farid.one/kaggle-solutions/)
@@ -327,6 +328,7 @@ List of references and online resources related to data science, machine learnin
 - > INRIA Holidays dataset for evaluation of image search & Copydays dataset for evaluation of copy detection (http://lear.inrialpes.fr/people/jegou/data.php#holidays)
 - > Datasets for approximate nearest neighbor search (http://corpus-texmex.irisa.fr/)
 - Semantic Text Similarity Dataset Hub (https://github.com/brmson/dataset-sts)
+- GroupLens (https://grouplens.org/datasets/movielens/)
 
 ## 👍 Utilities / Tools
 - Scanner App for Math and Science (https://mathpix.com/)
