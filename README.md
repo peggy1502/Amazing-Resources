@@ -162,6 +162,7 @@ List of references and online resources related to data science, machine learnin
 - Pinecone - A managed, cloud-native vector database with a simple API (https://www.pinecone.io/learn/)
 - TensorFlow Recommenders Tutorial (https://www.tensorflow.org/recommenders/examples/basic_retrieval)
 - Billion-scale Approximate Nearest Neighbor Search (https://matsui528.github.io/cvpr2020_tutorial_retrieval/)
+- PQk-means is a Python library for efficient clustering of large-scale data (https://github.com/DwangoMediaVillage/pqkmeans)
 - Nanopq (https://nanopq.readthedocs.io/en/latest/source/tutorial.html) 
 - > (https://speakerdeck.com/matsui_528/cvpr20-tutorial-billion-scale-approximate-nearest-neighbor-search?slide=84) 
 - > (https://github.com/matsui528/nanopq)
@@ -252,6 +253,7 @@ List of references and online resources related to data science, machine learnin
 - NVIDIA Deep Learning Examples for Tensor Cores (https://github.com/NVIDIA/DeepLearningExamples)
 - Pinecone (https://github.com/pinecone-io/examples)
 - Surprise - a Python scikit for recommender systems that deal with explicit rating data (https://github.com/NicolasHug/Surprise)
+- PQk-means is a Python library for efficient clustering of large-scale data (https://github.com/DwangoMediaVillage/pqkmeans)
 
 ## 👍 Kaggle
 - Kaggle Solutions (https://farid.one/kaggle-solutions/)
