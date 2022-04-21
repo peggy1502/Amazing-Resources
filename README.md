@@ -314,6 +314,7 @@ List of references and online resources related to data science, machine learnin
 - Matrix Multiplication (http://matrixmultiplication.xyz/)
 - The Matrix Calculus You Need For Deep Learning (https://explained.ai/matrix-calculus/)
 - Geometric Mean (https://www.mathsisfun.com/numbers/geometric-mean.html)
+- Dot Product (https://www.mathsisfun.com/algebra/vectors-dot-product.html)
 
 ## 👍 Datasets
 - Best Public Datasets for Machine Learning and Data Science (https://pub.towardsai.net/best-datasets-for-machine-learning-data-science-computer-vision-nlp-ai-c9541058cf4f)
