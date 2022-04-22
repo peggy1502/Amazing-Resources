@@ -170,7 +170,12 @@ List of references and online resources related to data science, machine learnin
 - Faiss - Facebook AI Similarity Search (https://github.com/facebookresearch/faiss/wiki)
 - > Faiss tips (https://github.com/matsui528/faiss_tips) 
 - > https://speakerdeck.com/matsui_528/cvpr20-tutorial-billion-scale-approximate-nearest-neighbor-search?slide=108
-- 
+- Recommender Systems, Not Just Recommender Models (2022-04-15)(https://medium.com/nvidia-merlin/recommender-systems-not-just-recommender-models-485c161c755e)
+- Eugene Yan
+- > System Design for Recommendations and Search (2021-06-27)(https://eugeneyan.com/writing/system-design-for-discovery/)
+- > Patterns for Personalization in Recommendations and Search (2021-06-13)(https://eugeneyan.com/writing/patterns-for-personalization/)
+- > Real-time Machine Learning For Recommendations (2021-01-10)(https://eugeneyan.com/writing/real-time-recommendations/)
+- > Beating the Baseline Recommender with Graph & NLP in Pytorch (2020-01-13)(https://eugeneyan.com/writing/recommender-systems-graph-and-nlp-pytorch/#natural-language-processing-nlp-and-graphs)
 
 #### General ML/DL Articles
 - The best machine learning and deep learning libraries (https://morioh.com/p/73998ba2a04e)
