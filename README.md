@@ -284,6 +284,7 @@ List of references and online resources related to data science, machine learnin
 - Sebastian Ruder (https://ruder.io/)
 - Gilbert Tanner (https://ml-explained.com/)
 - Andrey Lukyanenko - Paper Review (https://andlukyane.com/blog/)
+- Jeremy Jordan (https://www.jeremyjordan.me/data-science/)
 
 ## 👍 Company Tech Blogs
 - Data.gov.sg Blog (https://blog.data.gov.sg/)
