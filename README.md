@@ -362,6 +362,7 @@ List of references and online resources related to data science, machine learnin
 - Facets - visualizations for understanding and analyzing machine learning datasets (https://github.com/PAIR-code/facets)
 - Google - People + AI Research (PAIR) (https://research.google/teams/brain/pair/)
 - Google Research resources (https://research.google/tools/)
+- Frederik Brasz - Voronoi generator (https://cfbrasz.github.io/programs.html)
 
 ## 👍 Job / Interview / DS Portfolio
 - Deep Learning Interviews: Hundreds of fully solved job interview questions from a wide range of key topics in AI (https://github.com/BoltzmannEntropy/interviews.ai)
