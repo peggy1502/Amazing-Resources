@@ -143,6 +143,7 @@ List of references and online resources related to data science, machine learnin
 - Transformers Explained Visually (Part 3): Multi-head Attention, deep dive (https://towardsdatascience.com/transformers-explained-visually-part-3-multi-head-attention-deep-dive-1c1ff1024853)
 
 #### Collaborative Filtering / Recommender Systems
+- Google Courses - Recommendation Systems (https://developers.google.com/machine-learning/recommendation)
 - Basics of Recommender Systems (https://towardsdatascience.com/basics-of-recommender-systems-6f0fba58d8a)
 - Understanding Matrix Factorization for recommender systems (https://towardsdatascience.com/understanding-matrix-factorization-for-recommender-systems-4d3c5e67f2c9)
 - Building a Music Recommendation Engine with Probabilistic Matrix Factorization in PyTorch (https://towardsdatascience.com/building-a-music-recommendation-engine-with-probabilistic-matrix-factorization-in-pytorch-7d2934067d4a)
