@@ -437,6 +437,7 @@ List of references and online resources related to data science, machine learnin
 - Dodge The Lasers — Fantastic Question From Google’s hiring challenge (https://towardsdatascience.com/dodge-the-lasers-fantastic-question-from-googles-hiring-challenge-72363d95fec)
 
 ## 🔦 PyTorch-Related
+- Optimize PyTorch Performance for Speed and Memory Efficiency (18 Tips) - (https://towardsdatascience.com/optimize-pytorch-performance-for-speed-and-memory-efficiency-2022-84f453916ea6)
 - Finetuning Torchvision Models (https://pytorch.org/tutorials/beginner/finetuning_torchvision_models_tutorial.html)
 - Transfer Learning with ResNet in PyTorch (https://www.pluralsight.com/guides/introduction-to-resnet)
 - Notes in pytorch to deal with ConvNets (https://github.com/mortezamg63/Accessing-and-modifying-different-layers-of-a-pretrained-model-in-pytorch/blob/master/README.md)
