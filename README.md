@@ -315,6 +315,7 @@ List of references and online resources related to data science, machine learnin
 - NVIDIA Merlin (https://medium.com/nvidia-merlin)
 - Criteo Tech Blog (https://medium.com/criteo-engineering)(https://labs.criteo.com/engineering-blog/)
 - Grab (https://engineering.grab.com/categories/data-science/)
+- Elucida (https://medium.com/elucidata/tagged/technology)
 
 ## 👍 Maths 
 - Maths is Fun (https://www.mathsisfun.com/)
