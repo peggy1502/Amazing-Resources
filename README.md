@@ -340,6 +340,14 @@ List of references and online resources related to data science, machine learnin
 - > Datasets for approximate nearest neighbor search (http://corpus-texmex.irisa.fr/)
 - Semantic Text Similarity Dataset Hub (https://github.com/brmson/dataset-sts)
 - GroupLens (https://grouplens.org/datasets/movielens/)
+- Phishing Detection (Designing a New Net for Phishing Detection with NVIDIA Morpheus)(https://developer.nvidia.com/blog/designing-a-new-net-for-phishing-detection-with-nvidia-morpheus/)
+- > SPAM_ASSASSIN dataset (https://spamassassin.apache.org/old/publiccorpus/)
+- > Enron Emails dataset (https://www.cs.cmu.edu/~enron/)
+- > Clair dataset (https://www.kaggle.com/datasets/rtatman/fraudulent-email-corpus)
+
+## 👍 Synthetic Data
+- Generating Synthetic Data with Transformers (https://developer.nvidia.com/blog/generating-synthetic-data-with-transformers-a-solution-for-enterprise-data-challenges/)
+- https://github.com/NVIDIA/NeMo/blob/r1.8.0/tutorials/nlp/Megatron_Synthetic_Tabular_Data_Generation.ipynb
 
 ## 👍 Utilities / Tools
 - Scanner App for Math and Science (https://mathpix.com/)
