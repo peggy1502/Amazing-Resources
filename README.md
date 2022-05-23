@@ -346,6 +346,7 @@ List of references and online resources related to data science, machine learnin
 - > Clair dataset (https://www.kaggle.com/datasets/rtatman/fraudulent-email-corpus)
 
 ## 👍 Synthetic Data
+- No data? No problem! Generating synthetic training data at scale for NLP tasks using T0PP (https://medium.com/criteo-engineering/no-data-no-problem-generating-synthetic-training-data-at-scale-for-nlp-tasks-using-t0pp-198581643c5b)
 - Generating Synthetic Data with Transformers (https://developer.nvidia.com/blog/generating-synthetic-data-with-transformers-a-solution-for-enterprise-data-challenges/)
 - https://github.com/NVIDIA/NeMo/blob/r1.8.0/tutorials/nlp/Megatron_Synthetic_Tabular_Data_Generation.ipynb
 
