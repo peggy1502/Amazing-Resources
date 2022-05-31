@@ -1,6 +1,8 @@
 # Amazing Resources
 List of references and online resources related to data science, machine learning and deep learning.
 
+Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
+
 ## 👍 Courses / Tutorials
 
 - fast.ai (https://www.fast.ai/)
