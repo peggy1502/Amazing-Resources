@@ -377,6 +377,8 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - Google Research resources (https://research.google/tools/)
 - Frederik Brasz - Voronoi generator (https://cfbrasz.github.io/programs.html)
 - handcalcs - Python calculations in Jupyter (https://github.com/connorferster/handcalcs)
+- Towhee - open-source ML pipeline to encode unstructured data into embeddings (https://towhee.io/)
+- Gradio - Build & Share Delightful Machine Learning Apps (https://gradio.app/)
 
 ## 👍 Job / Interview / DS Portfolio
 - Deep Learning Interviews: Hundreds of fully solved job interview questions from a wide range of key topics in AI (https://github.com/BoltzmannEntropy/interviews.ai)
