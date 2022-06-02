@@ -294,6 +294,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - Andrey Lukyanenko - Paper Review (https://andlukyane.com/blog/)
 - Jeremy Jordan (https://www.jeremyjordan.me/data-science/)
 - Mario - Kaggle Grandmaster (https://forecastegy.com/)
+- Chip Huyen (https://huyenchip.com/blog/)
 
 ## 👍 Company Tech Blogs
 - Data.gov.sg Blog (https://blog.data.gov.sg/)
@@ -387,6 +388,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - Gradio - Build & Share Delightful Machine Learning Apps (https://gradio.app/)
 
 ## 👍 Job / Interview / DS Portfolio
+- Machine Learning Interviews Book (https://huyenchip.com/ml-interviews-book/)
 - Deep Learning Interviews: Hundreds of fully solved job interview questions from a wide range of key topics in AI (https://github.com/BoltzmannEntropy/interviews.ai)
 - Machine Learning Interviews (https://github.com/khangich/machine-learning-interview/)
 - NLP Interview Question and Answers in 2022 (https://www.mygreatlearning.com/blog/nlp-interview-questions/)
