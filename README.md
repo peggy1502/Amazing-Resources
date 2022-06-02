@@ -293,6 +293,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - Gilbert Tanner (https://ml-explained.com/)
 - Andrey Lukyanenko - Paper Review (https://andlukyane.com/blog/)
 - Jeremy Jordan (https://www.jeremyjordan.me/data-science/)
+- Mario - Kaggle Grandmaster (https://forecastegy.com/)
 
 ## 👍 Company Tech Blogs
 - Data.gov.sg Blog (https://blog.data.gov.sg/)
