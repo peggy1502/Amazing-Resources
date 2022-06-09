@@ -68,6 +68,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - Select right ML instances for training and inference jobs (https://pages.awscloud.com/rs/112-TZM-766/images/AL-ML%20for%20Startups%20-%20Select%20the%20Right%20ML%20Instance.pdf)
 - Deploy fast and scalable AI with NVIDIA Triton Inference Server in Amazon SageMaker (https://aws.amazon.com/blogs/machine-learning/deploy-fast-and-scalable-ai-with-nvidia-triton-inference-server-in-amazon-sagemaker/)
 - Accelerate BERT inference with Hugging Face Transformers and AWS Inferentia (https://huggingface.co/blog/bert-inferentia-sagemaker)
+- Static Quantization with Hugging Face `optimum` for ~3x latency improvements (https://www.philschmid.de/static-quantization-optimum)(https://github.com/philschmid/optimum-static-quantization)
 
 
 ## 👍 Videos
