@@ -187,6 +187,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - > Beating the Baseline Recommender with Graph & NLP in Pytorch (2020-01-13)(https://eugeneyan.com/writing/recommender-systems-graph-and-nlp-pytorch/#natural-language-processing-nlp-and-graphs)
 - NGT - Neighborhood Graph and Tree for Indexing High-dimensional Data (https://github.com/yahoojapan/NGT)
 - Milvus Bootcamp Solutions (https://github.com/milvus-io/bootcamp)
+- Search, Rank, and Recommendations (https://medium.com/mlearning-ai/search-rank-and-recommendations-35cc717772cb)(https://www.kaggle.com/code/sbrvrm/search-ranking/notebook)
 
 #### General ML/DL Articles
 - The best machine learning and deep learning libraries (https://morioh.com/p/73998ba2a04e)
