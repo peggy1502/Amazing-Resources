@@ -188,6 +188,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - NGT - Neighborhood Graph and Tree for Indexing High-dimensional Data (https://github.com/yahoojapan/NGT)
 - Milvus Bootcamp Solutions (https://github.com/milvus-io/bootcamp)
 - Search, Rank, and Recommendations (https://medium.com/mlearning-ai/search-rank-and-recommendations-35cc717772cb)(https://www.kaggle.com/code/sbrvrm/search-ranking/notebook)
+- Add Similarity Search to DynamoDB with Faiss (https://medium.com/swlh/add-similarity-search-to-dynamodb-with-faiss-c68eb6a48b08)(https://github.com/ioannist/dynamodb-faiss-builder)
 
 #### General ML/DL Articles
 - The best machine learning and deep learning libraries (https://morioh.com/p/73998ba2a04e)
