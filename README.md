@@ -73,6 +73,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - Using NGC with AWS Setup Guide (https://docs.nvidia.com/ngc/ngc-aws-setup-guide/)
 - How to set up a GPU instance for machine learning on AWS (https://kstathou.medium.com/how-to-set-up-a-gpu-instance-for-machine-learning-on-aws-b4fb8ba51a7c)
 - AWS EC2 User Guide - Connect to your Linux instance (https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/AccessingInstances.html)
+- kubernetes-sagemaker-demos (https://github.com/shashankprasanna/kubernetes-sagemaker-demos)
 
 
 ## 👍 Videos
