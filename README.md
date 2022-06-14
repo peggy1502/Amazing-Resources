@@ -96,6 +96,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - Smart Home (https://www.youtube.com/c/AlexTeo/featured)
 - Elliot Waite - Machine Learning, Coding, Math Animations (https://www.youtube.com/c/elliotwaite/videos)
 - James Briggs - NLP semantic search, vector similarity search (https://www.youtube.com/c/JamesBriggs/playlists)
+- Dataquest (https://www.youtube.com/channel/UC_lePY0Lm0E2-_IkYUWpI5A)
 
 ## 👍 Books
 - The Hundred-Page Machine Learning Book (http://themlbook.com/wiki/doku.php)
@@ -279,6 +280,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - Surprise - a Python scikit for recommender systems that deal with explicit rating data (https://github.com/NicolasHug/Surprise)
 - PQk-means is a Python library for efficient clustering of large-scale data (https://github.com/DwangoMediaVillage/pqkmeans)
 - GraphEmbedding (https://github.com/shenweichen/GraphEmbedding)
+- Dataquest - Project Walkthroughs (https://github.com/dataquestio/project-walkthroughs)
 
 ## 👍 Kaggle
 - Kaggle Solutions (https://farid.one/kaggle-solutions/)
