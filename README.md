@@ -71,9 +71,11 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - Static Quantization with Hugging Face `optimum` for ~3x latency improvements (https://www.philschmid.de/static-quantization-optimum)(https://github.com/philschmid/optimum-static-quantization)
 - HuggingFace SageMaker Forum (https://discuss.huggingface.co/c/sagemaker/17)
 - Using NGC with AWS Setup Guide (https://docs.nvidia.com/ngc/ngc-aws-setup-guide/)
-- How to set up a GPU instance for machine learning on AWS (https://kstathou.medium.com/how-to-set-up-a-gpu-instance-for-machine-learning-on-aws-b4fb8ba51a7c)
-- AWS EC2 User Guide - Connect to your Linux instance (https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/AccessingInstances.html)
 - kubernetes-sagemaker-demos (https://github.com/shashankprasanna/kubernetes-sagemaker-demos)
+- AWS EC2 User Guide - Connect to your Linux instance (https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/AccessingInstances.html)
+- > How to set up a GPU instance for machine learning on AWS (https://kstathou.medium.com/how-to-set-up-a-gpu-instance-for-machine-learning-on-aws-b4fb8ba51a7c)
+- > Running Jupyter notebooks with AWS (http://bebi103.caltech.edu.s3-website-us-east-1.amazonaws.com/2020b/content/lessons/lesson_04/aws_usage.html)
+- > How to Connect AWS EC2 Instance using Session Manager (https://www.kodyaz.com/aws/connect-aws-ec2-instance-using-session-manager.aspx)
 
 
 ## 👍 Videos
