@@ -404,6 +404,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - handcalcs - Python calculations in Jupyter (https://github.com/connorferster/handcalcs)
 - Towhee - open-source ML pipeline to encode unstructured data into embeddings (https://towhee.io/)
 - Gradio - Build & Share Delightful Machine Learning Apps (https://gradio.app/)
+- CurlWget (https://www.analyticsvidhya.com/blog/2021/08/load-dataset-directly-into-colab-from-anywhere-on-the-browser-using-curlwget-extension/)
 
 ## 👍 Job / Interview / DS Portfolio
 - Machine Learning Interviews Book (https://huyenchip.com/ml-interviews-book/)
