@@ -75,6 +75,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - AWS EC2 User Guide - Connect to your Linux instance (https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/AccessingInstances.html)
 - > How to set up a GPU instance for machine learning on AWS (https://kstathou.medium.com/how-to-set-up-a-gpu-instance-for-machine-learning-on-aws-b4fb8ba51a7c)
 - > Running Jupyter notebooks with AWS (http://bebi103.caltech.edu.s3-website-us-east-1.amazonaws.com/2020b/content/lessons/lesson_04/aws_usage.html)
+- > Access remote code in a breeze with JupyterLab via SSH (https://towardsdatascience.com/access-remote-code-in-a-breeze-with-jupyterlab-via-ssh-8c6a9ffaaa8c)
 - > How to Connect AWS EC2 Instance using Session Manager (https://www.kodyaz.com/aws/connect-aws-ec2-instance-using-session-manager.aspx)
 
 
