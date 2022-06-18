@@ -409,6 +409,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - CurlWget (https://www.analyticsvidhya.com/blog/2021/08/load-dataset-directly-into-colab-from-anywhere-on-the-browser-using-curlwget-extension/)
 
 ## 👍 Job / Interview / DS Portfolio
+- Interview Query - Questions and Blogs (https://www.interviewquery.com/p/data-science-interview-questions)(https://www.interviewquery.com/articles)(https://www.interviewquery.com/blog)
 - Machine Learning Interviews Book (https://huyenchip.com/ml-interviews-book/)
 - Deep Learning Interviews: Hundreds of fully solved job interview questions from a wide range of key topics in AI (https://github.com/BoltzmannEntropy/interviews.ai)
 - Machine Learning Interviews (https://github.com/khangich/machine-learning-interview/)
