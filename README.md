@@ -78,6 +78,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - > Access remote code in a breeze with JupyterLab via SSH (https://towardsdatascience.com/access-remote-code-in-a-breeze-with-jupyterlab-via-ssh-8c6a9ffaaa8c)
 - > Setting up Jupyter on the Cloud (https://kiwidamien.github.io/setting-up-jupyter-on-the-cloud.html)
 - > How to Connect AWS EC2 Instance using Session Manager (https://www.kodyaz.com/aws/connect-aws-ec2-instance-using-session-manager.aspx)
+- > NVTabular Cloud Integration (https://nvidia-merlin.github.io/NVTabular/main/resources/cloud_integration.html)
 
 
 ## 👍 Videos
