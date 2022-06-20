@@ -519,3 +519,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - Torch stack() vs. cat() (https://stackoverflow.com/questions/54307225/whats-the-difference-between-torch-stack-and-torch-cat-functions/54307331)
 - Why do transformers use layer norm instead of batch norm? (https://stats.stackexchange.com/questions/474440/why-do-transformers-use-layer-norm-instead-of-batch-norm)
 - PyTorch vs TensorFlow in 2022 (https://www.assemblyai.com/blog/pytorch-vs-tensorflow-in-2022/)
+
+## ⏩ fast.ai
+- Jeremy Howard - Kaggle Notebooks (https://www.kaggle.com/jhoward/notebooks)
+- fastkaggle (https://fastai.github.io/fastkaggle/)
