@@ -506,6 +506,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - BERT Fine-Tuning Tutorial with PyTorch (https://mccormickml.com/2019/07/22/BERT-fine-tuning/)
 - Utilizing Transformer Representations Efficiently (https://www.kaggle.com/rhtsingh/utilizing-transformer-representations-efficiently)
 - Visualize BERT sequence embeddings: An unseen way (https://towardsdatascience.com/visualize-bert-sequence-embeddings-an-unseen-way-1d6a351e4568)
+- PyTorch Tutorial: Paddy Disease Identification (https://www.kaggle.com/code/manabendrarout/pytorch-tutorial-paddy-disease-identification)
 
 ## 🔦 PyTorch-Related Discussions
 - How to modify a pretrained model (https://discuss.pytorch.org/t/how-to-modify-a-pretrained-model/60509)
