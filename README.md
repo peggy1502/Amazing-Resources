@@ -288,6 +288,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - PQk-means is a Python library for efficient clustering of large-scale data (https://github.com/DwangoMediaVillage/pqkmeans)
 - GraphEmbedding (https://github.com/shenweichen/GraphEmbedding)
 - Dataquest - Project Walkthroughs (https://github.com/dataquestio/project-walkthroughs)
+- Retinal Vessel Segmentation with data augmentation and Keras (https://github.com/onurboyar/Retinal-Vessel-Segmentation)
 
 ## 👍 Kaggle
 - Kaggle Solutions (https://farid.one/kaggle-solutions/)
