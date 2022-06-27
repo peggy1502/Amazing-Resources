@@ -289,6 +289,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - GraphEmbedding (https://github.com/shenweichen/GraphEmbedding)
 - Dataquest - Project Walkthroughs (https://github.com/dataquestio/project-walkthroughs)
 - Retinal Vessel Segmentation with data augmentation and Keras (https://github.com/onurboyar/Retinal-Vessel-Segmentation)
+- Visual Search with MXNet Gluon and HNSW (https://github.com/ThomasDelteil/VisualSearch_MXNet)
 
 ## 👍 Kaggle
 - Kaggle Solutions (https://farid.one/kaggle-solutions/)
