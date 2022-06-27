@@ -355,6 +355,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - The Matrix Calculus You Need For Deep Learning (https://explained.ai/matrix-calculus/)
 - Geometric Mean (https://www.mathsisfun.com/numbers/geometric-mean.html)
 - Dot Product (https://www.mathsisfun.com/algebra/vectors-dot-product.html)
+- Things that confused me about cross-entropy (https://chris-said.io/2020/12/26/two-things-that-confused-me-about-cross-entropy/)
 
 ## 👍 Datasets
 - Best Public Datasets for Machine Learning and Data Science (https://pub.towardsai.net/best-datasets-for-machine-learning-data-science-computer-vision-nlp-ai-c9541058cf4f)
