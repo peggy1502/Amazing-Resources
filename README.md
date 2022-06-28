@@ -384,6 +384,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - No data? No problem! Generating synthetic training data at scale for NLP tasks using T0PP (https://medium.com/criteo-engineering/no-data-no-problem-generating-synthetic-training-data-at-scale-for-nlp-tasks-using-t0pp-198581643c5b)
 - Generating Synthetic Data with Transformers (https://developer.nvidia.com/blog/generating-synthetic-data-with-transformers-a-solution-for-enterprise-data-challenges/)
 - https://github.com/NVIDIA/NeMo/blob/r1.8.0/tutorials/nlp/Megatron_Synthetic_Tabular_Data_Generation.ipynb
+Faiss SyntheticDataset (https://github.com/facebookresearch/faiss/blob/main/contrib/datasets.py#L72)(https://gist.github.com/mdouze/551ef6fa0722f2acf58fa2c6fce732d6#file-demo_pytorch_knn-ipynb)
 
 ## 👍 Utilities / Tools
 - Scanner App for Math and Science (https://mathpix.com/)
