@@ -299,6 +299,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - > ML Notebooks - examples for all sorts of machine learning tasks and applications (https://github.com/dair-ai/ML-Notebooks)
 - > ML YouTube Courses (https://github.com/dair-ai/ML-YouTube-Courses)
 - > Transformer Recipe (https://github.com/dair-ai/Transformers-Recipe)
+- > Graph Neural Networks (GNNs Recipe) (https://github.com/dair-ai/GNNs-Recipe)
 
 ## 👍 Kaggle
 - Kaggle Solutions (https://farid.one/kaggle-solutions/)
