@@ -426,6 +426,7 @@ Faiss SyntheticDataset (https://github.com/facebookresearch/faiss/blob/main/cont
 - Towhee - open-source ML pipeline to encode unstructured data into embeddings (https://towhee.io/)
 - Gradio - Build & Share Delightful Machine Learning Apps (https://gradio.app/)
 - CurlWget (https://www.analyticsvidhya.com/blog/2021/08/load-dataset-directly-into-colab-from-anywhere-on-the-browser-using-curlwget-extension/)
+- GLTR - detect automatically generated text (http://gltr.io/)
 
 ## 👍 Job / Interview / DS Portfolio
 - Interview Query - Questions and Blogs (https://www.interviewquery.com/p/data-science-interview-questions)(https://www.interviewquery.com/articles)(https://www.interviewquery.com/blog)
