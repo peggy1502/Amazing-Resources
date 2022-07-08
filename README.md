@@ -261,6 +261,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - VisuAlgo (https://visualgo.net/en)
 - Doodles-as-A-Service Repo (https://github.com/girliemac/a-picture-is-worth-a-1000-words)
 - AI art generator (https://app.wombo.art/)
+- Seeing Theory - Visual introduction to probability and statistics (https://seeing-theory.brown.edu/index.html#firstPage)
 
 ## 👍 GitHub Repositories
 - PyTorch Image Models (https://github.com/rwightman/pytorch-image-models)
@@ -369,6 +370,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - Dot Product (https://www.mathsisfun.com/algebra/vectors-dot-product.html)
 - Things that confused me about cross-entropy (https://chris-said.io/2020/12/26/two-things-that-confused-me-about-cross-entropy/)
 - Mathematics for Machine Learning (https://github.com/dair-ai/Mathematics-for-ML)
+- Seeing Theory - Visual introduction to probability and statistics (https://seeing-theory.brown.edu/index.html#firstPage)
 
 ## 👍 Datasets
 - Best Public Datasets for Machine Learning and Data Science (https://pub.towardsai.net/best-datasets-for-machine-learning-data-science-computer-vision-nlp-ai-c9541058cf4f)
