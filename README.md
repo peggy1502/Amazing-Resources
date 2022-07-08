@@ -122,6 +122,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - Deep Learning Interviews: Hundreds of fully solved job interview questions from a wide range of key topics in AI (https://github.com/BoltzmannEntropy/interviews.ai)
 - Data Distribution Shifts and Monitoring (https://huyenchip.com/2022/02/07/data-distribution-shifts-and-monitoring.html)
 - Competitive Programmer’s Handbook (https://cses.fi/book/book.pdf)
+- Free and/or open source books on machine learning, statistics, data mining, etc (https://github.com/josephmisiti/awesome-machine-learning/blob/master/books.md)
 
 ## 👍 Papers
 - 2015 Cyclical Learning Rates for Training Neural Networks (https://arxiv.org/abs/1506.01186)
