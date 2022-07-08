@@ -224,6 +224,8 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - Approaching (Almost) Any Machine Learning Problem (https://www.linkedin.com/pulse/approaching-almost-any-machine-learning-problem-abhishek-thakur)
 - KAGGLE ENSEMBLING GUIDE (https://mlwave.com/kaggle-ensembling-guide/)
 - Reading Larger than Memory CSVs with RAPIDS and Dask (https://medium.com/rapids-ai/reading-larger-than-memory-csvs-with-rapids-and-dask-e6e27dfa6c0f)
+- 28 Weekly Machine Learning Tricks And Resources That Are Pure Gems #1 (https://ibexorigin.medium.com/28-weekly-machine-learning-tricks-and-resources-that-are-pure-gems-1-8e5259a93c94)
+- 26 Weekly ML Tricks And Resources That Are Pure Gems, #2 (https://ibexorigin.medium.com/26-weekly-ml-tricks-and-resources-that-are-pure-gems-2-3be56841b1d9)
 
 #### EDA / Data Visualization
 - Plotly Fundamentals (https://plotly.com/python/plotly-fundamentals/)
