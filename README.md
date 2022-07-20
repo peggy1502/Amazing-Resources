@@ -513,6 +513,7 @@ Faiss SyntheticDataset (https://github.com/facebookresearch/faiss/blob/main/cont
 
 ## 🔦 PyTorch-Related
 - Optimize PyTorch Performance for Speed and Memory Efficiency (18 Tips) - (https://towardsdatascience.com/optimize-pytorch-performance-for-speed-and-memory-efficiency-2022-84f453916ea6)
+- How to fine tune VERY large model if it doesn’t fit on your GPU (https://bestasoff.medium.com/how-to-fine-tune-very-large-model-if-it-doesnt-fit-on-your-gpu-3561e50859af)
 - Finetuning Torchvision Models (https://pytorch.org/tutorials/beginner/finetuning_torchvision_models_tutorial.html)
 - Transfer Learning with ResNet in PyTorch (https://www.pluralsight.com/guides/introduction-to-resnet)
 - Notes in pytorch to deal with ConvNets (https://github.com/mortezamg63/Accessing-and-modifying-different-layers-of-a-pretrained-model-in-pytorch/blob/master/README.md)
