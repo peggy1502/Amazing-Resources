@@ -339,6 +339,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - Mario - Kaggle Grandmaster (https://forecastegy.com/)
 - Chip Huyen (https://huyenchip.com/blog/)
 - Philschmid's blog on Transformers & SageMaker (https://www.philschmid.de/)
+- Daniel Tunkelang - Search Fundamentals (https://dtunkelang.medium.com/)
 
 ## 👍 Company Tech Blogs
 - Data.gov.sg Blog (https://blog.data.gov.sg/)
