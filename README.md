@@ -555,3 +555,7 @@ Faiss SyntheticDataset (https://github.com/facebookresearch/faiss/blob/main/cont
 ## ⏩ fast.ai
 - Jeremy Howard - Kaggle Notebooks (https://www.kaggle.com/jhoward/notebooks)
 - fastkaggle (https://fastai.github.io/fastkaggle/)
+
+## NVIDIA
+- End-To-End Speech AI Pipelines (https://resources.nvidia.com/en-us-speech-ai-ebooks-nurture/part-2)
+
