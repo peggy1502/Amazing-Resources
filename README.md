@@ -161,6 +161,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - Deconstructing BERT, Part 2: Visualizing the Inner Workings of Attention (https://towardsdatascience.com/deconstructing-bert-part-2-visualizing-the-inner-workings-of-attention-60a16d86b5c1)
 - Beyond Classification With Transformers and Hugging Face (https://towardsdatascience.com/beyond-classification-with-transformers-and-hugging-face-d38c75f574fb)
 - Transformers Explained Visually (Part 3): Multi-head Attention, deep dive (https://towardsdatascience.com/transformers-explained-visually-part-3-multi-head-attention-deep-dive-1c1ff1024853)
+- Faster Text Classification with Naive Bayes and GPUs (https://developer.nvidia.com/blog/faster-text-classification-with-naive-bayes-and-gpus)
 
 #### Collaborative Filtering / Recommender Systems
 - Google Courses - Recommendation Systems (https://developers.google.com/machine-learning/recommendation)
@@ -230,6 +231,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - Reading Larger than Memory CSVs with RAPIDS and Dask (https://medium.com/rapids-ai/reading-larger-than-memory-csvs-with-rapids-and-dask-e6e27dfa6c0f)
 - 28 Weekly Machine Learning Tricks And Resources That Are Pure Gems #1 (https://ibexorigin.medium.com/28-weekly-machine-learning-tricks-and-resources-that-are-pure-gems-1-8e5259a93c94)
 - 26 Weekly ML Tricks And Resources That Are Pure Gems, #2 (https://ibexorigin.medium.com/26-weekly-ml-tricks-and-resources-that-are-pure-gems-2-3be56841b1d9)
+- Dealing with Outliers Using Three Robust Linear Regression Models (https://developer.nvidia.com/blog/dealing-with-outliers-using-three-robust-linear-regression-models)
 
 #### EDA / Data Visualization
 - Plotly Fundamentals (https://plotly.com/python/plotly-fundamentals/)
