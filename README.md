@@ -7,6 +7,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 
 - fast.ai (https://www.fast.ai/)
 - Walk with fastai (https://walkwithfastai.com/)
+- Practical Deep Learning for Coders (https://course.fast.ai/)
 - Hugging Face Course (https://huggingface.co/course/chapter1)
 - MIT 6.S191: Introduction to Deep Learning (http://introtodeeplearning.com/)
 - Stanford University CS231n: Convolutional Neural Networks for Visual Recognition (http://cs231n.stanford.edu/)
