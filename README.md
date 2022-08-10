@@ -460,6 +460,7 @@ Faiss SyntheticDataset (https://github.com/facebookresearch/faiss/blob/main/cont
 - Data Science Portfolio (https://github.com/MaartenGr/projects)
 - How to Build a Data Science Portfolio Website using Python (https://towardsdatascience.com/how-to-build-a-data-science-portfolio-website-using-python-79531426fde5)
 - How to create a Medium-like personal blog for free in a day (https://medium.com/geekculture/how-to-create-a-medium-like-personal-blog-for-free-in-a-day-55ebd9551d9c)
+- How to Swiftly Launch a Free Website With GitHub Pages (https://www.stephenvinouze.com/how-to-swiftly-launch-a-free-website-with-github-pages/)
 - TYJ (https://tengyeejing.com/)
 - Ten Rules for Negotiating a Job Offer (https://haseebq.com/my-ten-rules-for-negotiating-a-job-offer/)
 - Use Python and NLP to Boost Your Resume (https://medium.com/data-marketing-philosophy/use-python-and-nlp-to-boost-your-resume-e4691a58bcc9)
