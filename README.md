@@ -86,6 +86,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - > How to Connect AWS EC2 Instance using Session Manager (https://www.kodyaz.com/aws/connect-aws-ec2-instance-using-session-manager.aspx)
 - > NVTabular Cloud Integration (https://nvidia-merlin.github.io/NVTabular/main/resources/cloud_integration.html)
 - Create real-time clickstream sessions and run analytics with Amazon Kinesis Data Analytics, AWS Glue, and Amazon Athena (https://aws.amazon.com/blogs/big-data/create-real-time-clickstream-sessions-and-run-analytics-with-amazon-kinesis-data-analytics-aws-glue-and-amazon-athena/)
+- Identifying and working with sensitive healthcare data with Amazon Comprehend Medical (https://lifesciences-resources.awscloud.com/healthcare-life-sciences-aws-for-industries/identifying-and-working-with-sensitive-healthcare-data-with-amazon-comprehend-medical)
 
 
 ## 👍 Videos
