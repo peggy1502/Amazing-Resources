@@ -87,6 +87,8 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - > NVTabular Cloud Integration (https://nvidia-merlin.github.io/NVTabular/main/resources/cloud_integration.html)
 - Create real-time clickstream sessions and run analytics with Amazon Kinesis Data Analytics, AWS Glue, and Amazon Athena (https://aws.amazon.com/blogs/big-data/create-real-time-clickstream-sessions-and-run-analytics-with-amazon-kinesis-data-analytics-aws-glue-and-amazon-athena/)
 - Identifying and working with sensitive healthcare data with Amazon Comprehend Medical (https://lifesciences-resources.awscloud.com/healthcare-life-sciences-aws-for-industries/identifying-and-working-with-sensitive-healthcare-data-with-amazon-comprehend-medical)
+- Amazon Comprehend Medical – Natural Language Processing for Healthcare Customers (https://aws.amazon.com/blogs/aws/amazon-comprehend-medical-natural-language-processing-for-healthcare-customers/)
+- Extract and visualize clinical entities using Amazon Comprehend Medical (https://aws.amazon.com/blogs/machine-learning/extract-and-visualize-clinical-entities-using-amazon-comprehend-medical/)
 
 
 ## 👍 Videos
