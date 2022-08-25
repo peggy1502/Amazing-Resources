@@ -54,6 +54,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - https://github.com/kailashahirwar/cheatsheets-ai
 
 ## 👍 AWS / SageMaker
+- AWS Resource Hub (https://resources.awscloud.com/)
 - AWS Machine Learning University (https://aws.amazon.com/machine-learning/mlu/)
 - Boto3 documentation (https://boto3.amazonaws.com/v1/documentation/api/latest/index.html#)
 - Amazon SageMaker Python SDK (https://sagemaker.readthedocs.io/en/stable/index.html)
