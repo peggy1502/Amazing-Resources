@@ -216,6 +216,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 
 #### Similarity Search / ANNS / Vector Indexing
 - Pinecone - A managed, cloud-native vector database with a simple API (https://www.pinecone.io/learn/)
+- Weaviate (https://weaviate.io/blog.html)
 - Billion-scale Approximate Nearest Neighbor Search (https://matsui528.github.io/cvpr2020_tutorial_retrieval/)
 - PQk-means is a Python library for efficient clustering of large-scale data (https://github.com/DwangoMediaVillage/pqkmeans)
 - Nanopq (https://nanopq.readthedocs.io/en/latest/source/tutorial.html) 
