@@ -170,6 +170,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - Beyond Classification With Transformers and Hugging Face (https://towardsdatascience.com/beyond-classification-with-transformers-and-hugging-face-d38c75f574fb)
 - Transformers Explained Visually (Part 3): Multi-head Attention, deep dive (https://towardsdatascience.com/transformers-explained-visually-part-3-multi-head-attention-deep-dive-1c1ff1024853)
 - Faster Text Classification with Naive Bayes and GPUs (https://developer.nvidia.com/blog/faster-text-classification-with-naive-bayes-and-gpus)
+- Classifying Multimodal Data using Transformers (https://github.com/dsaidgovsg/multimodal-learning-hands-on-tutorial)
 
 #### NVIDIA Recommender Systems
 - NVIDIA at RecSys 2022 (https://www.nvidia.com/en-us/events/recsys/)
