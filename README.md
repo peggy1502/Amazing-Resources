@@ -140,6 +140,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - 2018 Mixed Precision Training (https://arxiv.org/pdf/1710.03740.pdf)
 - 2020 ReadNet: A Hierarchical Transformer Framework for Web Article Readability Analysis (https://link.springer.com/chapter/10.1007/978-3-030-45439-5_3)
 - 2021 A Survey of Transformers (https://arxiv.org/pdf/2106.04554.pdf)
+- 2022 Formal Algorithms for Transformers (https://arxiv.org/pdf/2207.09238.pdf)
 
 ## 👍 Articles
 
