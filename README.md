@@ -194,6 +194,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - > Recommender Systems Best Practices (https://resources.nvidia.com/en-us-recsys-white-paper/merlin-technical-ove)
 - > Training a Recommender System on DGX A100 with 100B+ Parameters in TensorFlow 2 (https://developer.nvidia.com/blog/training-a-recommender-system-on-dgx-a100-with-100b-parameters-in-tensorflow-2/)
 - Recommender Systems, Not Just Recommender Models (2022-04-15)(https://medium.com/nvidia-merlin/recommender-systems-not-just-recommender-models-485c161c755e)
+- How NVIDIA Supports Recommender Systems feat. Even Oldridge | Stanford MLSys Seminar Episode 27 (https://www.youtube.com/watch?v=wPso35VkuCs)
 
 #### Collaborative Filtering / Recommender Systems
 - Google Courses - Recommendation Systems (https://developers.google.com/machine-learning/recommendation)
@@ -215,6 +216,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - > Real-time Machine Learning For Recommendations (2021-01-10)(https://eugeneyan.com/writing/real-time-recommendations/)
 - > Beating the Baseline Recommender with Graph & NLP in Pytorch (2020-01-13)(https://eugeneyan.com/writing/recommender-systems-graph-and-nlp-pytorch/#natural-language-processing-nlp-and-graphs)
 - Search, Rank, and Recommendations (https://medium.com/mlearning-ai/search-rank-and-recommendations-35cc717772cb)(https://www.kaggle.com/code/sbrvrm/search-ranking/notebook)
+- Vector representation of products Prod2Vec: How to get rid of a lot of embeddings (https://towardsdatascience.com/vector-representation-of-products-prod2vec-how-to-get-rid-of-a-lot-of-embeddings-26265361457c)
 
 #### Similarity Search / ANNS / Vector Indexing
 - Pinecone - A managed, cloud-native vector database with a simple API (https://www.pinecone.io/learn/)
