@@ -425,6 +425,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - > SPAM_ASSASSIN dataset (https://spamassassin.apache.org/old/publiccorpus/)
 - > Enron Emails dataset (https://www.cs.cmu.edu/~enron/)
 - > Clair dataset (https://www.kaggle.com/datasets/rtatman/fraudulent-email-corpus)
+- CSE-CIC-IDS2018 on AWS - Dataset for Network Intrusion Detection (https://www.unb.ca/cic/datasets/ids-2018.html)
 
 ## 👍 Synthetic Data
 - MOSTLY AI, the #1 Synthetic Data Platform (https://mostly.ai/)
