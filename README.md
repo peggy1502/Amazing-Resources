@@ -335,6 +335,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - > Transformer Recipe (https://github.com/dair-ai/Transformers-Recipe)
 - > Graph Neural Networks (GNNs Recipe) (https://github.com/dair-ai/GNNs-Recipe)
 - NannyML estimates performance with Confidence-based Performance estimation (CBPE) - Predict Your Model’s Performance (Without Waiting for the Control Group)(https://towardsdatascience.com/predict-your-models-performance-without-waiting-for-the-control-group-3f5c9363a7da)(https://github.com/NannyML/nannyml)
+- Obsei (https://github.com/obsei/obsei)
 
 ## 👍 Kaggle
 - Kaggle Solutions (https://farid.one/kaggle-solutions/)
