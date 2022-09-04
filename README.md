@@ -115,6 +115,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - Elliot Waite - Machine Learning, Coding, Math Animations (https://www.youtube.com/c/elliotwaite/videos)
 - James Briggs - NLP semantic search, vector similarity search (https://www.youtube.com/c/JamesBriggs/playlists)
 - Dataquest (https://www.youtube.com/channel/UC_lePY0Lm0E2-_IkYUWpI5A)
+- ByteByteGo (https://www.youtube.com/c/ByteByteGo/playlists)
 
 ## 👍 Books
 - The Hundred-Page Machine Learning Book (http://themlbook.com/wiki/doku.php)
