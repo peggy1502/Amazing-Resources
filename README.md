@@ -234,6 +234,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - NGT - Neighborhood Graph and Tree for Indexing High-dimensional Data (https://github.com/yahoojapan/NGT)
 - Milvus Bootcamp Solutions (https://github.com/milvus-io/bootcamp)
 - Add Similarity Search to DynamoDB with Faiss (https://medium.com/swlh/add-similarity-search-to-dynamodb-with-faiss-c68eb6a48b08)(https://github.com/ioannist/dynamodb-faiss-builder)
+- BERT models with Solr and Elasticsearch (https://github.com/DmitryKey/bert-solr-search)
 
 #### General ML/DL Articles
 - Microsoft - Recommenders (https://github.com/microsoft/recommenders)
