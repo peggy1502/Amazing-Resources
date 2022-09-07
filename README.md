@@ -429,6 +429,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - > Enron Emails dataset (https://www.cs.cmu.edu/~enron/)
 - > Clair dataset (https://www.kaggle.com/datasets/rtatman/fraudulent-email-corpus)
 - CSE-CIC-IDS2018 on AWS - Dataset for Network Intrusion Detection (https://www.unb.ca/cic/datasets/ids-2018.html)
+- MIcrosoft News Dataset (MIND) (https://docs.microsoft.com/en-us/azure/open-datasets/dataset-microsoft-news?tabs=azureml-opendatasets) (https://www.kaggle.com/datasets/arashnic/mind-news-dataset)
 
 ## 👍 Synthetic Data
 - MOSTLY AI, the #1 Synthetic Data Platform (https://mostly.ai/)
