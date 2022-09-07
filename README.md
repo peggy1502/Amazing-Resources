@@ -409,6 +409,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - Seeing Theory - Visual introduction to probability and statistics (https://seeing-theory.brown.edu/index.html#firstPage)
 
 ## 👍 Datasets
+- 24 Free Datasets for Building an Irresistible Portfolio (2022) (https://www.dataquest.io/blog/free-datasets-for-projects/)
 - Best Public Datasets for Machine Learning and Data Science (https://pub.towardsai.net/best-datasets-for-machine-learning-data-science-computer-vision-nlp-ai-c9541058cf4f)
 - Amazon Review Data (2018) (https://nijianmo.github.io/amazon/index.html)
 - Recommender Systems and Personalization Datasets (https://cseweb.ucsd.edu/~jmcauley/datasets.html)
