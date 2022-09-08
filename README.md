@@ -92,6 +92,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - Identifying and working with sensitive healthcare data with Amazon Comprehend Medical (https://lifesciences-resources.awscloud.com/healthcare-life-sciences-aws-for-industries/identifying-and-working-with-sensitive-healthcare-data-with-amazon-comprehend-medical)
 - Amazon Comprehend Medical – Natural Language Processing for Healthcare Customers (https://aws.amazon.com/blogs/aws/amazon-comprehend-medical-natural-language-processing-for-healthcare-customers/)
 - Extract and visualize clinical entities using Amazon Comprehend Medical (https://aws.amazon.com/blogs/machine-learning/extract-and-visualize-clinical-entities-using-amazon-comprehend-medical/)
+- AWS Simple Workflow vs AWS Step Functions vs Apache Airflow (https://digitalcloud.training/aws-simple-workflow-vs-aws-step-functions-vs-apache-airflow/)
 
 
 ## 👍 Videos
