@@ -238,6 +238,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 
 #### General ML/DL Articles
 - Microsoft - Recommenders (https://github.com/microsoft/recommenders)
+- DeepRecSys: A System for Optimizing End-To-End At-scale Neural Recommendation Inference (https://github.com/harvard-acc/DeepRecSys)
 - The best machine learning and deep learning libraries (https://morioh.com/p/73998ba2a04e)
 - Nuts and Bolts of Optimization (https://www.linkedin.com/pulse/nuts-bolts-optimization-chandra-mohan-lingam)
 - Neural Style Transfer with tf.keras (https://aihub.cloud.google.com/p/products%2F7f7495dd-6f66-4f8a-8c30-15f211ad6957)
