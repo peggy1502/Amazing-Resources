@@ -40,6 +40,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - Captum - an open source, extensible library for model interpretability built on PyTorch (https://captum.ai/docs/introduction)
 - Pinecone - A managed, cloud-native vector database with a simple API (https://www.pinecone.io/learn/)
 - ML YouTube Courses (https://github.com/dair-ai/ML-YouTube-Courses)
+- Towhee Codelabs (https://codelabs.towhee.io/)
 
 ## 👍 Cheat Sheets
 - Jerry Hargrove - AWS Cloud Diagrams & Notes (https://www.awsgeek.com/)
