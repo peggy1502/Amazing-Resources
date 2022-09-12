@@ -41,7 +41,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - Pinecone - A managed, cloud-native vector database with a simple API (https://www.pinecone.io/learn/)
 - ML YouTube Courses (https://github.com/dair-ai/ML-YouTube-Courses)
 - Towhee Codelabs (https://codelabs.towhee.io/)
-- https://zilliz.com/learn
+
 
 ## 👍 Cheat Sheets
 - Jerry Hargrove - AWS Cloud Diagrams & Notes (https://www.awsgeek.com/)
@@ -176,6 +176,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - Transformers Explained Visually (Part 3): Multi-head Attention, deep dive (https://towardsdatascience.com/transformers-explained-visually-part-3-multi-head-attention-deep-dive-1c1ff1024853)
 - Faster Text Classification with Naive Bayes and GPUs (https://developer.nvidia.com/blog/faster-text-classification-with-naive-bayes-and-gpus)
 - Classifying Multimodal Data using Transformers (https://github.com/dsaidgovsg/multimodal-learning-hands-on-tutorial)
+- 7 Basic NLP Models to Empower Your ML Application (https://zilliz.com/learn/7-nlp-models)
 
 #### NVIDIA Recommender Systems
 - NVIDIA at RecSys 2022 (https://www.nvidia.com/en-us/events/recsys/)
@@ -403,6 +404,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - Criteo Tech Blog (https://medium.com/criteo-engineering)(https://labs.criteo.com/engineering-blog/)
 - Grab (https://engineering.grab.com/categories/data-science/)
 - Elucida (https://medium.com/elucidata/tagged/technology)
+- Zilliz (https://zilliz.com/learn)
 
 ## 👍 Maths 
 - Maths is Fun (https://www.mathsisfun.com/)
