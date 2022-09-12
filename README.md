@@ -178,6 +178,13 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - Classifying Multimodal Data using Transformers (https://github.com/dsaidgovsg/multimodal-learning-hands-on-tutorial)
 - 7 Basic NLP Models to Empower Your ML Application (https://zilliz.com/learn/7-nlp-models)
 - 7 models on HuggingFace you probably didn’t know existed (https://towardsdatascience.com/7-models-on-huggingface-you-probably-didnt-knew-existed-f3d079a4fd7c)
+- Multimodal Toolkit - Transformers with Tabular Data (https://github.com/georgian-io/Multimodal-Toolkit)
+- Chris McCormick
+- > [Video] BERT Document Classification Tutorial with Code (https://www.youtube.com/watch?v=_eSGWNqKeeY)
+- > Combining Categorical and Numerical Features with Text in BERT (https://mccormickml.com/2021/06/29/combining-categorical-numerical-features-with-bert/)
+- > Smart Batching Tutorial - Speed Up BERT Training (https://mccormickml.com/2020/07/29/smart-batching-tutorial/)
+- [Discussion] How to use Bert for long text classification? (https://stackoverflow.com/questions/58636587/how-to-use-bert-for-long-text-classification/63413589#63413589)
+- Sentiment Analysis with BERT and Transformers by Hugging Face using PyTorch and Python (https://curiousily.com/posts/sentiment-analysis-with-bert-and-hugging-face-using-pytorch-and-python/)
 
 #### NVIDIA Recommender Systems
 - NVIDIA at RecSys 2022 (https://www.nvidia.com/en-us/events/recsys/)
