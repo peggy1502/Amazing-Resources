@@ -488,6 +488,7 @@ Faiss SyntheticDataset (https://github.com/facebookresearch/faiss/blob/main/cont
 - Keenious - research explorer (https://keenious.com/) (https://medium.com/keenious/knowledge-graph-search-of-60-million-vectors-with-weaviate-7964657ec911)
 - AutoRegex - Effortless conversions between English and RegEx (https://www.autoregex.xyz/)
 - Stable Diffusion (https://huggingface.co/spaces/stabilityai/stable-diffusion)
+- Quarto - open-source scientific and technical publishing system (https://quarto.org/)
 
 ## 👍 Job / Interview / DS Portfolio
 - Interview Query - Questions and Blogs (https://www.interviewquery.com/p/data-science-interview-questions)(https://www.interviewquery.com/articles)(https://www.interviewquery.com/blog)
