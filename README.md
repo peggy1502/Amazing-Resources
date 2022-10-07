@@ -208,6 +208,8 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - > Training a Recommender System on DGX A100 with 100B+ Parameters in TensorFlow 2 (https://developer.nvidia.com/blog/training-a-recommender-system-on-dgx-a100-with-100b-parameters-in-tensorflow-2/)
 - Recommender Systems, Not Just Recommender Models (2022-04-15)(https://medium.com/nvidia-merlin/recommender-systems-not-just-recommender-models-485c161c755e)
 - How NVIDIA Supports Recommender Systems feat. Even Oldridge | Stanford MLSys Seminar Episode 27 (https://www.youtube.com/watch?v=wPso35VkuCs)
+- [Video] Building and Deploying a Multi-Stage Recommender System with NVIDIA Merlin (https://www.youtube.com/watch?v=BQC-SGdIdD8)
+- Building and Deploying a Multi-Stage Recommender System with Merlin (https://resources.nvidia.com/en-us-merlin/bad-a-multi-stage-recommender?)
 
 #### Collaborative Filtering / Recommender Systems
 - Google Courses - Recommendation Systems (https://developers.google.com/machine-learning/recommendation)
