@@ -56,6 +56,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - https://github.com/kailashahirwar/cheatsheets-ai
 
 ## 👍 AWS / SageMaker
+- How do I terminate active resources that I no longer need on my AWS account? (https://aws.amazon.com/premiumsupport/knowledge-center/terminate-resources-account-closure/)
 - AWS Resource Hub (https://resources.awscloud.com/)
 - AWS Machine Learning University (https://aws.amazon.com/machine-learning/mlu/)
 - Boto3 documentation (https://boto3.amazonaws.com/v1/documentation/api/latest/index.html#)
