@@ -274,6 +274,9 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - 28 Weekly Machine Learning Tricks And Resources That Are Pure Gems #1 (https://ibexorigin.medium.com/28-weekly-machine-learning-tricks-and-resources-that-are-pure-gems-1-8e5259a93c94)
 - 26 Weekly ML Tricks And Resources That Are Pure Gems, #2 (https://ibexorigin.medium.com/26-weekly-ml-tricks-and-resources-that-are-pure-gems-2-3be56841b1d9)
 - Dealing with Outliers Using Three Robust Linear Regression Models (https://developer.nvidia.com/blog/dealing-with-outliers-using-three-robust-linear-regression-models)
+- Fighting Overfitting With L1 or L2 Regularization: Which One Is Better? (https://neptune.ai/blog/fighting-overfitting-with-l1-or-l2-regularization)
+- Understanding Gradient Clipping (and How It Can Fix Exploding Gradients Problem) (https://neptune.ai/blog/understanding-gradient-clipping-and-how-it-can-fix-exploding-gradients-problem)
+- Vanishing and Exploding Gradients in Neural Network Models: Debugging, Monitoring, and Fixing (https://neptune.ai/blog/vanishing-and-exploding-gradients-debugging-monitoring-fixing)
 
 #### EDA / Data Visualization
 - Plotly Fundamentals (https://plotly.com/python/plotly-fundamentals/)
@@ -534,6 +537,7 @@ Faiss SyntheticDataset (https://github.com/facebookresearch/faiss/blob/main/cont
 - How to Tackle The 7 Most Common Types of Interview Questions (https://www.youtube.com/watch?v=vFdkhsN1PJo&t=137s)
 - Instamentor's Knowledge Center (https://instamentor.com/articles/)
 - Experimentation is a major focus of Data Science across Netflix (https://netflixtechblog.com/experimentation-is-a-major-focus-of-data-science-across-netflix-f67923f8e985)
+- Fighting Overfitting With L1 or L2 Regularization: Which One Is Better? (https://neptune.ai/blog/fighting-overfitting-with-l1-or-l2-regularization)
 
 ## 👍 System Design
 - System Design Interview (https://systeminterview.com/scale-from-zero-to-millions-of-users.php)
