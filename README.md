@@ -419,6 +419,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - Grab (https://engineering.grab.com/categories/data-science/)
 - Elucida (https://medium.com/elucidata/tagged/technology)
 - Zilliz (https://zilliz.com/learn)
+- Neptune (https://neptune.ai/blog)
 
 ## 👍 Maths 
 - Maths is Fun (https://www.mathsisfun.com/)
