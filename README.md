@@ -187,6 +187,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - [Discussion] How to use Bert for long text classification? (https://stackoverflow.com/questions/58636587/how-to-use-bert-for-long-text-classification/63413589#63413589)
 - Sentiment Analysis with BERT and Transformers by Hugging Face using PyTorch and Python (https://curiousily.com/posts/sentiment-analysis-with-bert-and-hugging-face-using-pytorch-and-python/)
 - Attention? Attention! (https://lilianweng.github.io/posts/2018-06-24-attention/)
+- The Transformer Family (https://lilianweng.github.io/posts/2020-04-07-the-transformer-family/)
 
 #### NVIDIA Recommender Systems
 - NVIDIA at RecSys 2022 (https://www.nvidia.com/en-us/events/recsys/)
