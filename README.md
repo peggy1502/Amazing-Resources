@@ -602,6 +602,8 @@ Faiss SyntheticDataset (https://github.com/facebookresearch/faiss/blob/main/cont
 - Utilizing Transformer Representations Efficiently (https://www.kaggle.com/rhtsingh/utilizing-transformer-representations-efficiently)
 - Visualize BERT sequence embeddings: An unseen way (https://towardsdatascience.com/visualize-bert-sequence-embeddings-an-unseen-way-1d6a351e4568)
 - PyTorch Tutorial: Paddy Disease Identification (https://www.kaggle.com/code/manabendrarout/pytorch-tutorial-paddy-disease-identification)
+-  PYTORCH LIGHTNING TUTORIALS (https://pytorch-lightning.readthedocs.io/en/stable/tutorials.html)
+- TUTORIAL 3: INITIALIZATION AND OPTIMIZATION (https://pytorch-lightning.readthedocs.io/en/stable/notebooks/course_UvA-DL/03-initialization-and-optimization.html)
 
 ## 🔦 PyTorch-Related Discussions
 - How to modify a pretrained model (https://discuss.pytorch.org/t/how-to-modify-a-pretrained-model/60509)
