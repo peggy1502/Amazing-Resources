@@ -189,6 +189,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - Sentiment Analysis with BERT and Transformers by Hugging Face using PyTorch and Python (https://curiousily.com/posts/sentiment-analysis-with-bert-and-hugging-face-using-pytorch-and-python/)
 - Attention? Attention! (https://lilianweng.github.io/posts/2018-06-24-attention/)
 - The Transformer Family (https://lilianweng.github.io/posts/2020-04-07-the-transformer-family/)
+- Custom Named Entity Recognition with BERT (https://towardsdatascience.com/custom-named-entity-recognition-with-bert-cf1fd4510804)
 
 #### NVIDIA Recommender Systems
 - NVIDIA at RecSys 2022 (https://www.nvidia.com/en-us/events/recsys/)
