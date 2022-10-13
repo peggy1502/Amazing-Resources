@@ -517,6 +517,7 @@ Faiss SyntheticDataset (https://github.com/facebookresearch/faiss/blob/main/cont
 - Ten Advanced SQL Concepts You Should Know for Data Science Interviews (https://towardsdatascience.com/ten-advanced-sql-concepts-you-should-know-for-data-science-interviews-4d7015ec74b0)
 - Creating a Data Science Portfolio (https://towardsdatascience.com/creating-a-data-science-portfolio-bd485382f49)
 - Data Science Portfolio (https://github.com/MaartenGr/projects)
+- Github digital cv example (https://github.com/March-08/digital-cv)
 - How to Build a Data Science Portfolio Website using Python (https://towardsdatascience.com/how-to-build-a-data-science-portfolio-website-using-python-79531426fde5)
 - How to create a Medium-like personal blog for free in a day (https://medium.com/geekculture/how-to-create-a-medium-like-personal-blog-for-free-in-a-day-55ebd9551d9c)
 - How to Swiftly Launch a Free Website With GitHub Pages (https://www.stephenvinouze.com/how-to-swiftly-launch-a-free-website-with-github-pages/)
