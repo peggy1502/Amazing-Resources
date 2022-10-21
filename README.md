@@ -190,6 +190,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - Attention? Attention! (https://lilianweng.github.io/posts/2018-06-24-attention/)
 - The Transformer Family (https://lilianweng.github.io/posts/2020-04-07-the-transformer-family/)
 - Custom Named Entity Recognition with BERT (https://towardsdatascience.com/custom-named-entity-recognition-with-bert-cf1fd4510804)
+- Beautifully Illustrated: NLP Models from RNN to Transformer (https://towardsdatascience.com/beautifully-illustrated-nlp-models-from-rnn-to-transformer-80d69faf2109)
 
 #### NVIDIA Recommender Systems
 - NVIDIA at RecSys 2022 (https://www.nvidia.com/en-us/events/recsys/)
