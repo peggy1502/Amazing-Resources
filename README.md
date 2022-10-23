@@ -503,6 +503,7 @@ Faiss SyntheticDataset (https://github.com/facebookresearch/faiss/blob/main/cont
 - Stable Diffusion (https://huggingface.co/spaces/stabilityai/stable-diffusion)
 - Quarto - open-source scientific and technical publishing system (https://quarto.org/)
 - JSON Crack - Visualize JSON with graphs (https://jsoncrack.com/)
+- markmap (markdown + mindmap) (https://markmap.js.org/repl)
 
 ## 👍 Job / Interview / DS Portfolio
 - Interview Query - Questions and Blogs (https://www.interviewquery.com/p/data-science-interview-questions)(https://www.interviewquery.com/articles)(https://www.interviewquery.com/blog)
