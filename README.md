@@ -630,3 +630,7 @@ Faiss SyntheticDataset (https://github.com/facebookresearch/faiss/blob/main/cont
 ## NVIDIA
 - End-To-End Speech AI Pipelines (https://resources.nvidia.com/en-us-speech-ai-ebooks-nurture/part-2)
 
+## Genomic Data Science
+- https://github.com/fylls/genomic-data-science
+- https://github.com/fylls/genome-sequencing
+
