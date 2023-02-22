@@ -98,7 +98,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - Amazon Comprehend Medical – Natural Language Processing for Healthcare Customers (https://aws.amazon.com/blogs/aws/amazon-comprehend-medical-natural-language-processing-for-healthcare-customers/)
 - Extract and visualize clinical entities using Amazon Comprehend Medical (https://aws.amazon.com/blogs/machine-learning/extract-and-visualize-clinical-entities-using-amazon-comprehend-medical/)
 - AWS Simple Workflow vs AWS Step Functions vs Apache Airflow (https://digitalcloud.training/aws-simple-workflow-vs-aws-step-functions-vs-apache-airflow/)
-
+- Scalable data preparation & ML using Apache Spark on AWS (https://github.com/debnsuma/sagemaker-studio-emr-spark)
 
 ## 👍 Videos
 - StatQuest (https://statquest.org/video-index/)
@@ -284,6 +284,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - Fighting Overfitting With L1 or L2 Regularization: Which One Is Better? (https://neptune.ai/blog/fighting-overfitting-with-l1-or-l2-regularization)
 - Understanding Gradient Clipping (and How It Can Fix Exploding Gradients Problem) (https://neptune.ai/blog/understanding-gradient-clipping-and-how-it-can-fix-exploding-gradients-problem)
 - Vanishing and Exploding Gradients in Neural Network Models: Debugging, Monitoring, and Fixing (https://neptune.ai/blog/vanishing-and-exploding-gradients-debugging-monitoring-fixing)
+- Hadoop vs. Spark vs. Kafka - How to Structure Modern Big Data Architecture? (https://nexocode.com/blog/posts/hadoop-spark-kafka-modern-big-data-architecture/)
 
 #### EDA / Data Visualization
 - Plotly Fundamentals (https://plotly.com/python/plotly-fundamentals/)
