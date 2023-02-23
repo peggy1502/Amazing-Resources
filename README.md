@@ -165,6 +165,11 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - Understanding LSTM Networks (http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
 - A Visual Guide to Recurrent Layers in Keras (https://amitness.com/2020/04/recurrent-layers-keras/)
 
+#### Q&A
+- How to build an AI that can answer questions about your website (https://platform.openai.com/docs/tutorials/web-qa-embeddings)
+- openai-cookbook (https://github.com/openai/openai-cookbook/tree/3826607431929af5d58ba442aa3c2893009f637b/examples/fine-tuned_qa)
+- Fine-Tune Transformer Models For Question Answering On Custom Data (https://towardsdatascience.com/fine-tune-transformer-models-for-question-answering-on-custom-data-513eaac37a80)
+
 #### NLP
 - A Visual Guide to FastText Word Embeddings (https://amitness.com/2020/06/fasttext-embeddings/)
 - The Illustrated Word2vec (https://jalammar.github.io/illustrated-word2vec/)
