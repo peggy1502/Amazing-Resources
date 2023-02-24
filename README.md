@@ -173,6 +173,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - Revolutionise Your Q&A Bot with GPT-J: The Open-Source Game Changer as a Replacement for GPT-3 (https://medium.com/@maliahrajan/revolutionise-your-q-a-bot-with-gpt-j-the-open-source-game-changer-as-a-replacement-for-gpt-3-216bc4362b53)
 - How to build a Q&A web application using Python and Anvil (https://www.section.io/engineering-education/building-a-qa-web-application/)
 - Build a Deep Q&A Web App with Transformers and Anvil | Python Deep Learning App (https://www.youtube.com/watch?v=G1uGSkANZjQ) (https://github.com/nicknochnack/Q-A-Anvil-App/blob/main/Anvil-Tutorial.ipynb)
+- Open Source Generative AI in Question-Answering (NLP) using Python (https://www.youtube.com/watch?v=L8U-pm-vZ4c)
 
 #### NLP
 - A Visual Guide to FastText Word Embeddings (https://amitness.com/2020/06/fasttext-embeddings/)
