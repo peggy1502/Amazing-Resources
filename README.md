@@ -253,7 +253,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - Deep Recommender Systems at Facebook feat. Carole-Jean Wu | Stanford MLSys Seminar Episode 24 (https://www.youtube.com/watch?v=5xcd0V9m6Xs)
 
 #### Similarity Search / ANNS / Vector Indexing
-- Pinecone - A managed, cloud-native vector database with a simple API (https://www.pinecone.io/learn/)
+- Pinecone - A managed, cloud-native vector database with a simple API (https://www.pinecone.io/learn/) (https://docs.pinecone.io/docs/examples)
 - Weaviate (https://weaviate.io/blog.html)
 - Billion-scale Approximate Nearest Neighbor Search (https://matsui528.github.io/cvpr2020_tutorial_retrieval/)
 - PQk-means is a Python library for efficient clustering of large-scale data (https://github.com/DwangoMediaVillage/pqkmeans)
