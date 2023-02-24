@@ -122,6 +122,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - James Briggs - NLP semantic search, vector similarity search (https://www.youtube.com/c/JamesBriggs/playlists)
 - Dataquest (https://www.youtube.com/channel/UC_lePY0Lm0E2-_IkYUWpI5A)
 - ByteByteGo (https://www.youtube.com/c/ByteByteGo/playlists)
+- Nicholas Renotte - Learn Machine Learning (https://www.youtube.com/@NicholasRenotte/playlists)
 
 ## 👍 Books
 - The Hundred-Page Machine Learning Book (http://themlbook.com/wiki/doku.php)
