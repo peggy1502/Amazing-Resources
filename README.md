@@ -560,6 +560,7 @@ Faiss SyntheticDataset (https://github.com/facebookresearch/faiss/blob/main/cont
 - Instamentor's Knowledge Center (https://instamentor.com/articles/)
 - Experimentation is a major focus of Data Science across Netflix (https://netflixtechblog.com/experimentation-is-a-major-focus-of-data-science-across-netflix-f67923f8e985)
 - Fighting Overfitting With L1 or L2 Regularization: Which One Is Better? (https://neptune.ai/blog/fighting-overfitting-with-l1-or-l2-regularization)
+- Machine Learning Projects You NEVER Knew Existed (https://www.youtube.com/watch?v=sw3o0rAazMg&list=RDCMUCHXa4OpASJEwrHrLeIzw7Yg&index=6)
 
 ## 👍 System Design
 - System Design Interview (https://systeminterview.com/scale-from-zero-to-millions-of-users.php)
