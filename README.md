@@ -264,6 +264,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - Faiss - Facebook AI Similarity Search (https://github.com/facebookresearch/faiss/wiki)
 - > Faiss tips (https://github.com/matsui528/faiss_tips) 
 - > https://speakerdeck.com/matsui_528/cvpr20-tutorial-billion-scale-approximate-nearest-neighbor-search?slide=108
+- > Faiss on-disk example (https://davidefiocco.github.io/nearest-neighbor-search-with-faiss/)
 - NGT - Neighborhood Graph and Tree for Indexing High-dimensional Data (https://github.com/yahoojapan/NGT)
 - Milvus Bootcamp Solutions (https://github.com/milvus-io/bootcamp)
 - Add Similarity Search to DynamoDB with Faiss (https://medium.com/swlh/add-similarity-search-to-dynamodb-with-faiss-c68eb6a48b08)(https://github.com/ioannist/dynamodb-faiss-builder)
