@@ -277,6 +277,8 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - PROBABILISTIC DATA STRUCTURES FOR WEB ANALYTICS AND DATA MINING (https://highlyscalable.wordpress.com/2012/05/01/probabilistic-structures-web-analytics-data-mining/)
 - Big Data Counting: How To Count A Billion Distinct Objects Using Only 1.5KB Of Memory (http://highscalability.com/blog/2012/4/5/big-data-counting-how-to-count-a-billion-distinct-objects-us.html)
 - Frame of Reference and Roaring Bitmaps (https://www.elastic.co/blog/frame-of-reference-and-roaring-bitmaps)
+- Using Bitmaps to Perform Range Queries (https://www.featurebase.com/blog/range-encoded-bitmaps)
+- The anatomy of a Druid segment file (https://medium.com/engineers-optimizely/the-anatomy-of-a-druid-segment-file-bed89a93af1e#.46tincja7)
 
 #### General ML/DL Articles
 - Microsoft - Recommenders (https://github.com/microsoft/recommenders)
