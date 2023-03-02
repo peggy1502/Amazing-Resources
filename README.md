@@ -270,6 +270,13 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - Add Similarity Search to DynamoDB with Faiss (https://medium.com/swlh/add-similarity-search-to-dynamodb-with-faiss-c68eb6a48b08)(https://github.com/ioannist/dynamodb-faiss-builder)
 - BERT models with Solr and Elasticsearch (https://github.com/DmitryKey/bert-solr-search)
 
+#### Search / Code Search
+- A brief history of code search at GitHub (https://github.blog/2021-12-15-a-brief-history-of-code-search-at-github/)
+- The technology behind GitHub’s new code search (https://github.blog/2023-02-06-the-technology-behind-githubs-new-code-search/)
+- Regular Expression Matching with a Trigram Index or How Google Code Search Worked (https://swtch.com/~rsc/regexp/regexp4.html)
+- PROBABILISTIC DATA STRUCTURES FOR WEB ANALYTICS AND DATA MINING (https://highlyscalable.wordpress.com/2012/05/01/probabilistic-structures-web-analytics-data-mining/)
+- Big Data Counting: How To Count A Billion Distinct Objects Using Only 1.5KB Of Memory (http://highscalability.com/blog/2012/4/5/big-data-counting-how-to-count-a-billion-distinct-objects-us.html)
+
 #### General ML/DL Articles
 - Microsoft - Recommenders (https://github.com/microsoft/recommenders)
 - DeepRecSys: A System for Optimizing End-To-End At-scale Neural Recommendation Inference (https://github.com/harvard-acc/DeepRecSys)
