@@ -489,6 +489,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - DBPedia (https://www.dbpedia.org/resources/individual/) (http://downloads.dbpedia.org/wiki-archive/dbpedia-version-2016-04.html) (http://downloads.dbpedia.org/2016-04/core/)
 - Common Crawl (https://commoncrawl.org/the-data/get-started/)
 - c4 (https://tensorflow.org/datasets/catalog/c4)
+- 190k+ Medium Articles (https://www.kaggle.com/datasets/fabiochiusano/medium-articles)
 
 ## 👍 Synthetic Data
 - MOSTLY AI, the #1 Synthetic Data Platform (https://mostly.ai/)
