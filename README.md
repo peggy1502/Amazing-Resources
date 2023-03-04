@@ -174,6 +174,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - How to build a Q&A web application using Python and Anvil (https://www.section.io/engineering-education/building-a-qa-web-application/)
 - Build a Deep Q&A Web App with Transformers and Anvil | Python Deep Learning App (https://www.youtube.com/watch?v=G1uGSkANZjQ) (https://github.com/nicknochnack/Q-A-Anvil-App/blob/main/Anvil-Tutorial.ipynb)
 - Open Source Generative AI in Question-Answering (NLP) using Python (https://www.youtube.com/watch?v=L8U-pm-vZ4c) (https://docs.pinecone.io/docs/abstractive-question-answering)
+- Build a Question Answering Engine (Towhee & Gradio Chatbot) (https://github.com/towhee-io/examples/blob/main/nlp/question_answering/1_build_question_answering_engine.ipynb)
 
 #### NLP
 - A Visual Guide to FastText Word Embeddings (https://amitness.com/2020/06/fasttext-embeddings/)
