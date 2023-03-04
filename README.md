@@ -670,4 +670,5 @@ Faiss SyntheticDataset (https://github.com/facebookresearch/faiss/blob/main/cont
 - T5 One Line Summary (https://huggingface.co/snrspeaks/t5-one-line-summary)
 - T5-base fine-tuned on SQuAD for Question Generation by just prepending the answer to the context (https://huggingface.co/mrm8488/t5-base-finetuned-question-generation-ap)
 - Parrot_paraphraser_on_T5 (https://huggingface.co/prithivida/parrot_paraphraser_on_T5)
+- T0pp (https://huggingface.co/bigscience/T0pp) (https://huggingface.co/GroNLP/T0pp-sharded)
 
