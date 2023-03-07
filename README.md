@@ -430,6 +430,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - Chip Huyen (https://huyenchip.com/blog/)
 - Philschmid's blog on Transformers & SageMaker (https://www.philschmid.de/)
 - Daniel Tunkelang - Search Fundamentals (https://dtunkelang.medium.com/)
+- Daniel Lemire - crazily fast code (https://lemire.me/en/)
 
 ## 👍 Company Tech Blogs
 - Data.gov.sg Blog (https://blog.data.gov.sg/)
