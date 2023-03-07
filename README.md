@@ -272,7 +272,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - Add Similarity Search to DynamoDB with Faiss (https://medium.com/swlh/add-similarity-search-to-dynamodb-with-faiss-c68eb6a48b08)(https://github.com/ioannist/dynamodb-faiss-builder)
 - BERT models with Solr and Elasticsearch (https://github.com/DmitryKey/bert-solr-search)
 
-#### Search / Code Search
+#### Search / Code Search / Information Retrieval
 - A brief history of code search at GitHub (https://github.blog/2021-12-15-a-brief-history-of-code-search-at-github/)
 - The technology behind GitHub’s new code search (https://github.blog/2023-02-06-the-technology-behind-githubs-new-code-search/)
 - Regular Expression Matching with a Trigram Index or How Google Code Search Worked (https://swtch.com/~rsc/regexp/regexp4.html)
@@ -285,6 +285,10 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - Elias-Fano: quasi-succinct compression of sorted integers in C# (2016) (https://wolfgarbe.medium.com/elias-fano-quasi-succinct-compression-of-sorted-integers-in-c-89f92a8c9986)
 - Using Bitmaps to Perform Range Queries (https://www.featurebase.com/blog/range-encoded-bitmaps)
 - The anatomy of a Druid segment file (https://medium.com/engineers-optimizely/the-anatomy-of-a-druid-segment-file-bed89a93af1e#.46tincja7)
+- Information Retrieval resources (https://cwiki.apache.org/confluence/display/LUCENE/InformationRetrieval)
+- Lucene Papers (https://cwiki.apache.org/confluence/display/LUCENE/LucenePapers)
+- Apache Lucene - Index File Formats (https://lucene.apache.org/core/3_0_3/fileformats.html) (https://stackoverflow.com/questions/71816188/what-is-elasticsearch-index-lucene-index-and-inverted-index)
+- Apache Lucene - Scoring (https://lucene.apache.org/core/3_0_3/scoring.html)
 
 #### General ML/DL Articles
 - Microsoft - Recommenders (https://github.com/microsoft/recommenders)
