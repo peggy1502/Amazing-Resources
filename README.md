@@ -290,6 +290,8 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - Apache Lucene - Index File Formats (https://lucene.apache.org/core/3_0_3/fileformats.html) (https://stackoverflow.com/questions/71816188/what-is-elasticsearch-index-lucene-index-and-inverted-index)
 - Apache Lucene - Scoring (https://lucene.apache.org/core/3_0_3/scoring.html)
 - NYU - Introduction to Data Compression - Web Search Engines (http://engineering.nyu.edu/~suel/cs6913/lec4-compress.pdf)
+- Decoding Billions of Integers Per Second Through Vectorization (https://people.csail.mit.edu/jshun/6886-s19/lectures/lecture19-1.pdf)
+
 
 #### General ML/DL Articles
 - Microsoft - Recommenders (https://github.com/microsoft/recommenders)
