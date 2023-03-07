@@ -291,6 +291,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - Apache Lucene - Scoring (https://lucene.apache.org/core/3_0_3/scoring.html)
 - NYU - Introduction to Data Compression - Web Search Engines (http://engineering.nyu.edu/~suel/cs6913/lec4-compress.pdf)
 - Decoding Billions of Integers Per Second Through Vectorization (https://people.csail.mit.edu/jshun/6886-s19/lectures/lecture19-1.pdf)
+- Smart way of storing data (https://towardsdatascience.com/smart-way-of-storing-data-d22dd5077340)
 
 
 #### General ML/DL Articles
