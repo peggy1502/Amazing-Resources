@@ -292,6 +292,13 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - NYU - Introduction to Data Compression - Web Search Engines (http://engineering.nyu.edu/~suel/cs6913/lec4-compress.pdf)
 - Decoding Billions of Integers Per Second Through Vectorization (https://people.csail.mit.edu/jshun/6886-s19/lectures/lecture19-1.pdf)
 - Smart way of storing data (https://towardsdatascience.com/smart-way-of-storing-data-d22dd5077340)
+- Lucene Performance (http://philosophyforprogrammers.blogspot.com/2010/09/lucene-performance.html)
+- Analysis of Lucene - Basic Concepts (https://www.alibabacloud.com/blog/analysis-of-lucene---basic-concepts_594672)
+- What is term vector in Lucene (http://makble.com/what-is-term-vector-in-lucene?spm=a2c65.11461447.0.0.51317c476LkbDY)
+- What is Trie Data Structure in Lucene numeric range query (http://makble.com/what-is-trie-data-structure-in-lucene-numeric-range-query) (https://issues.apache.org/jira/browse/LUCENE-1673)
+- https://www.slideshare.net/VadimKirilchuk/numeric-rangequeries
+- Grokking Solr Trie Fields (http://mentaldetritus.blogspot.com/2013/01/grokking-solr-trie-fields.html)
+- Lucene: The Good Parts (https://blog.parse.ly/lucene/)
 
 
 #### General ML/DL Articles
