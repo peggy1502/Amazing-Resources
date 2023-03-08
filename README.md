@@ -287,19 +287,18 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - The anatomy of a Druid segment file (https://medium.com/engineers-optimizely/the-anatomy-of-a-druid-segment-file-bed89a93af1e#.46tincja7)
 - Information Retrieval resources (https://cwiki.apache.org/confluence/display/LUCENE/InformationRetrieval)
 - Lucene Papers (https://cwiki.apache.org/confluence/display/LUCENE/LucenePapers)
-- Apache Lucene - Index File Formats (https://lucene.apache.org/core/3_0_3/fileformats.html) (https://stackoverflow.com/questions/71816188/what-is-elasticsearch-index-lucene-index-and-inverted-index)
-- Apache Lucene - Scoring (https://lucene.apache.org/core/3_0_3/scoring.html)
+- > Apache Lucene - Index File Formats (https://lucene.apache.org/core/3_0_3/fileformats.html) (https://stackoverflow.com/questions/71816188/what-is-elasticsearch-index-lucene-index-and-inverted-index)
+- > Apache Lucene - Scoring (https://lucene.apache.org/core/3_0_3/scoring.html)
+- > Lucene Performance (http://philosophyforprogrammers.blogspot.com/2010/09/lucene-performance.html)
+- > Analysis of Lucene - Basic Concepts (https://www.alibabacloud.com/blog/analysis-of-lucene---basic-concepts_594672)
+- > What is term vector in Lucene (http://makble.com/what-is-term-vector-in-lucene?spm=a2c65.11461447.0.0.51317c476LkbDY)
+- > Lucene: The Good Parts (https://blog.parse.ly/lucene/)
+- > What is Trie Data Structure in Lucene numeric range query (http://makble.com/what-is-trie-data-structure-in-lucene-numeric-range-query) (https://issues.apache.org/jira/browse/LUCENE-1673)
+- https://www.slideshare.net/VadimKirilchuk/numeric-rangequeries
+- Grokking Solr Trie Fields (http://mentaldetritus.blogspot.com/2013/01/grokking-solr-trie-fields.html)
 - NYU - Introduction to Data Compression - Web Search Engines (http://engineering.nyu.edu/~suel/cs6913/lec4-compress.pdf)
 - Decoding Billions of Integers Per Second Through Vectorization (https://people.csail.mit.edu/jshun/6886-s19/lectures/lecture19-1.pdf)
 - Smart way of storing data (https://towardsdatascience.com/smart-way-of-storing-data-d22dd5077340)
-- Lucene Performance (http://philosophyforprogrammers.blogspot.com/2010/09/lucene-performance.html)
-- Analysis of Lucene - Basic Concepts (https://www.alibabacloud.com/blog/analysis-of-lucene---basic-concepts_594672)
-- What is term vector in Lucene (http://makble.com/what-is-term-vector-in-lucene?spm=a2c65.11461447.0.0.51317c476LkbDY)
-- What is Trie Data Structure in Lucene numeric range query (http://makble.com/what-is-trie-data-structure-in-lucene-numeric-range-query) (https://issues.apache.org/jira/browse/LUCENE-1673)
-- https://www.slideshare.net/VadimKirilchuk/numeric-rangequeries
-- Grokking Solr Trie Fields (http://mentaldetritus.blogspot.com/2013/01/grokking-solr-trie-fields.html)
-- Lucene: The Good Parts (https://blog.parse.ly/lucene/)
-
 
 #### General ML/DL Articles
 - Microsoft - Recommenders (https://github.com/microsoft/recommenders)
