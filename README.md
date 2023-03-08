@@ -295,6 +295,8 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - > Lucene Performance (http://philosophyforprogrammers.blogspot.com/2010/09/lucene-performance.html)
 - > Analysis of Lucene - Basic Concepts (https://www.alibabacloud.com/blog/analysis-of-lucene---basic-concepts_594672)
 - > What is term vector in Lucene (http://makble.com/what-is-term-vector-in-lucene?spm=a2c65.11461447.0.0.51317c476LkbDY)
+- > Changing Bits - Lucene performance with the PForDelta codec (https://blog.mikemccandless.com/2010/08/lucene-performance-with-pfordelta-codec.html)
+- > Changing Bits - Lucene's new BlockPostingsFormat (https://blog.mikemccandless.com/2012/08/lucenes-new-blockpostingsformat-thanks.html)
 - > Lucene: The Good Parts (https://blog.parse.ly/lucene/)
 - > What is Trie Data Structure in Lucene numeric range query (http://makble.com/what-is-trie-data-structure-in-lucene-numeric-range-query) (https://issues.apache.org/jira/browse/LUCENE-1673)
 - https://www.slideshare.net/VadimKirilchuk/numeric-rangequeries
@@ -302,6 +304,10 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - NYU - Introduction to Data Compression - Web Search Engines (http://engineering.nyu.edu/~suel/cs6913/lec4-compress.pdf)
 - Decoding Billions of Integers Per Second Through Vectorization (https://people.csail.mit.edu/jshun/6886-s19/lectures/lecture19-1.pdf)
 - Smart way of storing data (https://towardsdatascience.com/smart-way-of-storing-data-d22dd5077340)
+- Lucene index modeling - Why are skiplists used instead of btree? (https://stackoverflow.com/questions/66804510/lucene-index-modeling-why-are-skiplists-used-instead-of-btree)
+- How does lucene index documents? (https://stackoverflow.com/questions/2602253/how-does-lucene-index-documents#answer-43203339)
+- Skip List vs. Binary Search Tree (https://stackoverflow.com/questions/256511/skip-list-vs-binary-search-tree/28270537#28270537)
+
 
 #### General ML/DL Articles
 - Microsoft - Recommenders (https://github.com/microsoft/recommenders)
