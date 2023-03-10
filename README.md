@@ -208,6 +208,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - The Guide to Multi-Tasking with the T5 Transformer (https://towardsdatascience.com/the-guide-to-multi-tasking-with-the-t5-transformer-90c70a08837b)
 - A Full Guide to Finetuning T5 for Text2Text and Building a Demo with Streamlit (https://medium.com/nlplanet/a-full-guide-to-finetuning-t5-for-text2text-and-building-a-demo-with-streamlit-c72009631887) (https://colab.research.google.com/drive/1RFBIkTZEqbRt0jxpTHgRudYJBZTD3Szn?usp=sharing)
 - Building a Knowledge Base from Texts: a Full Practical Example (https://medium.com/nlplanet/building-a-knowledge-base-from-texts-a-full-practical-example-8dbbffb912fa)
+- Building a Personal Assistant from Scratch - intent classification, speech-to-text, and text-to-speech (https://medium.com/nlplanet/building-a-personal-assistant-from-scratch-db0814e62d34)
 
 #### NVIDIA Recommender Systems
 - NVIDIA at RecSys 2022 (https://www.nvidia.com/en-us/events/recsys/)
