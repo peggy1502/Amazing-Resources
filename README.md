@@ -207,6 +207,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - Beautifully Illustrated: NLP Models from RNN to Transformer (https://towardsdatascience.com/beautifully-illustrated-nlp-models-from-rnn-to-transformer-80d69faf2109)
 - The Guide to Multi-Tasking with the T5 Transformer (https://towardsdatascience.com/the-guide-to-multi-tasking-with-the-t5-transformer-90c70a08837b)
 - A Full Guide to Finetuning T5 for Text2Text and Building a Demo with Streamlit (https://medium.com/nlplanet/a-full-guide-to-finetuning-t5-for-text2text-and-building-a-demo-with-streamlit-c72009631887) (https://colab.research.google.com/drive/1RFBIkTZEqbRt0jxpTHgRudYJBZTD3Szn?usp=sharing)
+- Building a Knowledge Base from Texts: a Full Practical Example (https://medium.com/nlplanet/building-a-knowledge-base-from-texts-a-full-practical-example-8dbbffb912fa)
 
 #### NVIDIA Recommender Systems
 - NVIDIA at RecSys 2022 (https://www.nvidia.com/en-us/events/recsys/)
@@ -337,6 +338,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - Understanding Gradient Clipping (and How It Can Fix Exploding Gradients Problem) (https://neptune.ai/blog/understanding-gradient-clipping-and-how-it-can-fix-exploding-gradients-problem)
 - Vanishing and Exploding Gradients in Neural Network Models: Debugging, Monitoring, and Fixing (https://neptune.ai/blog/vanishing-and-exploding-gradients-debugging-monitoring-fixing)
 - Hadoop vs. Spark vs. Kafka - How to Structure Modern Big Data Architecture? (https://nexocode.com/blog/posts/hadoop-spark-kafka-modern-big-data-architecture/)
+- Is it Better to Save Models Using Joblib or Pickle? (https://medium.com/nlplanet/is-it-better-to-save-models-using-joblib-or-pickle-776722b5a095)
 
 #### EDA / Data Visualization
 - Plotly Fundamentals (https://plotly.com/python/plotly-fundamentals/)
