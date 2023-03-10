@@ -423,6 +423,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - NannyML estimates performance with Confidence-based Performance estimation (CBPE) - Predict Your Model’s Performance (Without Waiting for the Control Group)(https://towardsdatascience.com/predict-your-models-performance-without-waiting-for-the-control-group-3f5c9363a7da)(https://github.com/NannyML/nannyml)
 - Obsei (https://github.com/obsei/obsei)
 - nanoGPT - The simplest, fastest repository for training/finetuning medium-sized GPTs (https://github.com/karpathy/nanoGPT)
+- Trax — Deep Learning with Clear Code and Speed (https://github.com/google/trax/tree/af3a38917bd1bc69cf5d25ce007e16185f22f050)
 
 ## 👍 Kaggle
 - Kaggle Solutions (https://farid.one/kaggle-solutions/)
