@@ -44,6 +44,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - Towhee Codelabs (https://codelabs.towhee.io/)
 - Emma Ding - Data Science Resources (https://www.emmading.com/free-data-science-interview-resources)
 - NLPlanet - Practical NLP with Python (https://www.nlplanet.org/course-practical-nlp/index.html)
+- Haystack (https://haystack.deepset.ai/tutorials)
 
 
 ## 👍 Cheat Sheets
