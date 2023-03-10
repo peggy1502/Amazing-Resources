@@ -43,6 +43,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - ML YouTube Courses (https://github.com/dair-ai/ML-YouTube-Courses)
 - Towhee Codelabs (https://codelabs.towhee.io/)
 - Emma Ding - Data Science Resources (https://www.emmading.com/free-data-science-interview-resources)
+- NLPlanet - Practical NLP with Python (https://www.nlplanet.org/course-practical-nlp/index.html)
 
 
 ## 👍 Cheat Sheets
@@ -205,6 +206,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - Custom Named Entity Recognition with BERT (https://towardsdatascience.com/custom-named-entity-recognition-with-bert-cf1fd4510804)
 - Beautifully Illustrated: NLP Models from RNN to Transformer (https://towardsdatascience.com/beautifully-illustrated-nlp-models-from-rnn-to-transformer-80d69faf2109)
 - The Guide to Multi-Tasking with the T5 Transformer (https://towardsdatascience.com/the-guide-to-multi-tasking-with-the-t5-transformer-90c70a08837b)
+- A Full Guide to Finetuning T5 for Text2Text and Building a Demo with Streamlit (https://medium.com/nlplanet/a-full-guide-to-finetuning-t5-for-text2text-and-building-a-demo-with-streamlit-c72009631887) (https://colab.research.google.com/drive/1RFBIkTZEqbRt0jxpTHgRudYJBZTD3Szn?usp=sharing)
 
 #### NVIDIA Recommender Systems
 - NVIDIA at RecSys 2022 (https://www.nvidia.com/en-us/events/recsys/)
