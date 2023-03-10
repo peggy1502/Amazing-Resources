@@ -567,6 +567,7 @@ Faiss SyntheticDataset (https://github.com/facebookresearch/faiss/blob/main/cont
 - markmap (markdown + mindmap) (https://markmap.js.org/repl)
 - Newspaper3k: Article scraping & curation (https://github.com/codelucas/newspaper)
 - GoogleNews (https://github.com/Iceloof/GoogleNews)
+- Interactive network visualizations (https://pyvis.readthedocs.io/en/latest/index.html)
 
 ## 👍 Job / Interview / DS Portfolio
 - Interview Query - Questions and Blogs (https://www.interviewquery.com/p/data-science-interview-questions)(https://www.interviewquery.com/articles)(https://www.interviewquery.com/blog)
