@@ -303,6 +303,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - > What is term vector in Lucene (http://makble.com/what-is-term-vector-in-lucene?spm=a2c65.11461447.0.0.51317c476LkbDY)
 - > Changing Bits - Lucene performance with the PForDelta codec (https://blog.mikemccandless.com/2010/08/lucene-performance-with-pfordelta-codec.html)
 - > Changing Bits - Lucene's new BlockPostingsFormat (https://blog.mikemccandless.com/2012/08/lucenes-new-blockpostingsformat-thanks.html)
+- > Analysis of Lucene — Basic Concepts (https://alibaba-cloud.medium.com/analysis-of-lucene-basic-concepts-5ff5d8b90a53)
 - > Lucene: The Good Parts (https://blog.parse.ly/lucene/)
 - > What is Trie Data Structure in Lucene numeric range query (http://makble.com/what-is-trie-data-structure-in-lucene-numeric-range-query) (https://issues.apache.org/jira/browse/LUCENE-1673)
 - https://www.slideshare.net/VadimKirilchuk/numeric-rangequeries
