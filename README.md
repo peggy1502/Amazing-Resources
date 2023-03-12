@@ -315,6 +315,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - How does lucene index documents? (https://stackoverflow.com/questions/2602253/how-does-lucene-index-documents#answer-43203339)
 - Skip List vs. Binary Search Tree (https://stackoverflow.com/questions/256511/skip-list-vs-binary-search-tree/28270537#28270537)
 - Elasticsearch Kernel Analysis - Data Model (https://zhuanlan.zhihu.com/p/34680841)
+- Elasticsearch-Principle of Big Data (https://zhuanlan.zhihu.com/p/83961549)
 
 
 #### General ML/DL Articles
