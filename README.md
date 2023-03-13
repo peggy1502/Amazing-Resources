@@ -316,6 +316,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - Skip List vs. Binary Search Tree (https://stackoverflow.com/questions/256511/skip-list-vs-binary-search-tree/28270537#28270537)
 - Elasticsearch Kernel Analysis - Data Model (https://zhuanlan.zhihu.com/p/34680841)
 - Elasticsearch-Principle of Big Data (https://zhuanlan.zhihu.com/p/83961549)
+- Scaling Lucene and Solr (https://lucidworks.com/post/scaling-lucene-and-solr/)
 
 
 #### General ML/DL Articles
