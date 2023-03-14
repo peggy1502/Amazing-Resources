@@ -45,6 +45,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - Emma Ding - Data Science Resources (https://www.emmading.com/free-data-science-interview-resources)
 - NLPlanet - Practical NLP with Python (https://www.nlplanet.org/course-practical-nlp/index.html)
 - Haystack (https://haystack.deepset.ai/tutorials)
+- Zero to GPT (https://github.com/VikParuchuri/zero_to_gpt)
 
 
 ## 👍 Cheat Sheets
@@ -211,6 +212,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - A Full Guide to Finetuning T5 for Text2Text and Building a Demo with Streamlit (https://medium.com/nlplanet/a-full-guide-to-finetuning-t5-for-text2text-and-building-a-demo-with-streamlit-c72009631887) (https://colab.research.google.com/drive/1RFBIkTZEqbRt0jxpTHgRudYJBZTD3Szn?usp=sharing)
 - Building a Knowledge Base from Texts: a Full Practical Example (https://medium.com/nlplanet/building-a-knowledge-base-from-texts-a-full-practical-example-8dbbffb912fa)
 - Building a Personal Assistant from Scratch - intent classification, speech-to-text, and text-to-speech (https://medium.com/nlplanet/building-a-personal-assistant-from-scratch-db0814e62d34)
+- Transformer Anatomy guide (https://www.kaggle.com/code/pastorsoto/transformer-anatomy-guide)
 
 #### NVIDIA Recommender Systems
 - NVIDIA at RecSys 2022 (https://www.nvidia.com/en-us/events/recsys/)
@@ -711,6 +713,7 @@ Faiss SyntheticDataset (https://github.com/facebookresearch/faiss/blob/main/cont
 - https://github.com/fylls/genome-sequencing
 
 ## Transformers
+- Transformer Anatomy guide (https://www.kaggle.com/code/pastorsoto/transformer-anatomy-guide)
 - Question generator with context (https://huggingface.co/voidful/bart-eqg-question-generator)
 - T5 One Line Summary (https://huggingface.co/snrspeaks/t5-one-line-summary)
 - T5-base fine-tuned on SQuAD for Question Generation by just prepending the answer to the context (https://huggingface.co/mrm8488/t5-base-finetuned-question-generation-ap)
