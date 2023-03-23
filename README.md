@@ -464,6 +464,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - Daniel Tunkelang - Search Fundamentals (https://dtunkelang.medium.com/)
 - Daniel Lemire - crazily fast code (https://lemire.me/en/)
 - NLPlanet (https://www.nlplanet.org/blog/index.html)
+- Uncle Cang decoding - Lucene source code series (https://juejin.cn/user/2559318800998141)
 
 ## 👍 Company Tech Blogs
 - Data.gov.sg Blog (https://blog.data.gov.sg/)
