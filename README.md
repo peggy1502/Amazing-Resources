@@ -653,6 +653,11 @@ Faiss SyntheticDataset (https://github.com/facebookresearch/faiss/blob/main/cont
 - Bit Twiddling Hacks (http://graphics.stanford.edu/~seander/bithacks.html)
 - Introduction to Low Level Bit Hacks (https://catonmat.net/low-level-bit-hacks)
 - Bitwise operations cheat sheet ()
+- Bits, Bytes, Building With Binary (https://medium.com/basecs/bits-bytes-building-with-binary-13cb4289aafa)
+- The Binary Cheatsheet (https://timseverien.github.io/binary-cheatsheet/)
+- Binary cheatsheet for coding interviews (https://www.techinterviewhandbook.org/algorithms/binary/)
+- Bitwise Hacks for Competitive Programming (https://www.geeksforgeeks.org/bitwise-hacks-for-competitive-programming/)
+
 
 ## 👍 Google foobar
 - https://codeforces.com/blog/entry/50841
