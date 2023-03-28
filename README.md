@@ -297,6 +297,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - NYU - Introduction to Data Compression - Web Search Engines (http://engineering.nyu.edu/~suel/cs6913/lec4-compress.pdf)
 - Decoding Billions of Integers Per Second Through Vectorization (https://people.csail.mit.edu/jshun/6886-s19/lectures/lecture19-1.pdf)
 - Smart way of storing data (https://towardsdatascience.com/smart-way-of-storing-data-d22dd5077340)
+- Google - Challenges in Building Large-Scale Information Retrieval Systems (http://static.googleusercontent.com/media/research.google.com/en//people/jeff/WSDM09-keynote.pdf)
 
 
 #### Lucene / Solr / Elasticsearch
@@ -332,7 +333,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - Chris - Articles on Lucene Compressed Storage (https://www.amazingkoala.com.cn/Lucene/yasuocunchu/)
 - Chris - Articles on Lucene Tools (https://www.amazingkoala.com.cn/Lucene/gongjulei/)
 - Chris - Articles on Lucene Search (https://www.amazingkoala.com.cn/Lucene/Search/)
-- 
+
 
 #### General ML/DL Articles
 - Microsoft - Recommenders (https://github.com/microsoft/recommenders)
