@@ -621,6 +621,8 @@ Faiss SyntheticDataset (https://github.com/facebookresearch/faiss/blob/main/cont
 - How to create a Medium-like personal blog for free in a day (https://medium.com/geekculture/how-to-create-a-medium-like-personal-blog-for-free-in-a-day-55ebd9551d9c)
 - How to Swiftly Launch a Free Website With GitHub Pages (https://www.stephenvinouze.com/how-to-swiftly-launch-a-free-website-with-github-pages/)
 - TYJ (https://tengyeejing.com/)
+- The Portfolio that Got Me a Data Scientist Job (https://towardsdatascience.com/the-portfolio-that-got-me-a-data-scientist-job-513cc821bfe4)
+- Set Up Your Portfolio Website in Less Than 10 Minutes with Github Pages (https://medium.com/@evanca/set-up-your-portfolio-website-in-less-than-10-minutes-with-github-pages-d0efa8ff56fd) (https://github.com/evanca/quick-portfolio)
 - Ten Rules for Negotiating a Job Offer (https://haseebq.com/my-ten-rules-for-negotiating-a-job-offer/)
 - Use Python and NLP to Boost Your Resume (https://medium.com/data-marketing-philosophy/use-python-and-nlp-to-boost-your-resume-e4691a58bcc9)
 - Facebook Field Guide to Machine Learning (https://research.facebook.com/blog/2018/05/the-facebook-field-guide-to-machine-learning-video-series/)
