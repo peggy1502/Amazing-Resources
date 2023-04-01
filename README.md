@@ -744,3 +744,6 @@ Faiss SyntheticDataset (https://github.com/facebookresearch/faiss/blob/main/cont
 - Parrot_paraphraser_on_T5 (https://huggingface.co/prithivida/parrot_paraphraser_on_T5)
 - T0pp (https://huggingface.co/bigscience/T0pp) (https://huggingface.co/GroNLP/T0pp-sharded)
 
+## GPT
+- GPT4All (https://github.com/nomic-ai/gpt4all)
+
