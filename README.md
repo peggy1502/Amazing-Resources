@@ -677,7 +677,10 @@ Faiss SyntheticDataset (https://github.com/facebookresearch/faiss/blob/main/cont
 - The Binary Cheatsheet (https://timseverien.github.io/binary-cheatsheet/)
 - Binary cheatsheet for coding interviews (https://www.techinterviewhandbook.org/algorithms/binary/)
 - Bitwise Hacks for Competitive Programming (https://www.geeksforgeeks.org/bitwise-hacks-for-competitive-programming/)
-
+- Bitwise Operators in Python (https://realpython.com/python-bitwise-operators/)
+- Pack and Unpack data (Masking) (https://www.youtube.com/watch?v=MWFwM9-2nlI)
+- Bit Packing or How to Love AND, OR or XOR (https://learnmongodbthehardway.com/article/bitflipping/)
+- BIt Packing (https://www.cs.waikato.ac.nz/~tcs/COMP317/bitpacking.html)
 
 ## 👍 Google foobar
 - https://codeforces.com/blog/entry/50841
