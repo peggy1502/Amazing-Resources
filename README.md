@@ -46,6 +46,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - NLPlanet - Practical NLP with Python (https://www.nlplanet.org/course-practical-nlp/index.html)
 - Haystack (https://haystack.deepset.ai/tutorials)
 - Zero to GPT (https://github.com/VikParuchuri/zero_to_gpt)
+- Interactive Coding Challenges (https://github.com/donnemartin/interactive-coding-challenges)
 
 
 ## 👍 Cheat Sheets
