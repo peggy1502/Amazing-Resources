@@ -737,7 +737,8 @@ Faiss SyntheticDataset (https://github.com/facebookresearch/faiss/blob/main/cont
 - Jeremy Howard - Kaggle Notebooks (https://www.kaggle.com/jhoward/notebooks)
 - fastkaggle (https://fastai.github.io/fastkaggle/)
 
-## NVIDIA
+## NVIDIA eBooks
+- A Beginner’s Guide to Large Language Models (https://resources.nvidia.com/en-us-large-language-model-ebooks)
 - End-To-End Speech AI Pipelines (https://resources.nvidia.com/en-us-speech-ai-ebooks-nurture/part-2)
 
 ## Genomic Data Science
