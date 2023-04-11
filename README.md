@@ -215,6 +215,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - Building a Knowledge Base from Texts: a Full Practical Example (https://medium.com/nlplanet/building-a-knowledge-base-from-texts-a-full-practical-example-8dbbffb912fa)
 - Building a Personal Assistant from Scratch - intent classification, speech-to-text, and text-to-speech (https://medium.com/nlplanet/building-a-personal-assistant-from-scratch-db0814e62d34)
 - Transformer Anatomy guide (https://www.kaggle.com/code/pastorsoto/transformer-anatomy-guide)
+- LiGO - Learning to grow machine-learning models (https://news.mit.edu/2023/new-technique-machine-learning-models-0322)
 
 #### NVIDIA Recommender Systems
 - NVIDIA at RecSys 2022 (https://www.nvidia.com/en-us/events/recsys/)
@@ -263,6 +264,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - Search, Rank, and Recommendations (https://medium.com/mlearning-ai/search-rank-and-recommendations-35cc717772cb)(https://www.kaggle.com/code/sbrvrm/search-ranking/notebook)
 - Vector representation of products Prod2Vec: How to get rid of a lot of embeddings (https://towardsdatascience.com/vector-representation-of-products-prod2vec-how-to-get-rid-of-a-lot-of-embeddings-26265361457c)
 - Deep Recommender Systems at Facebook feat. Carole-Jean Wu | Stanford MLSys Seminar Episode 24 (https://www.youtube.com/watch?v=5xcd0V9m6Xs)
+- Twitter's Recommendation Algorithm (https://blog.twitter.com/engineering/en_us/topics/open-source/2023/twitter-recommendation-algorithm) (https://github.com/twitter/the-algorithm) (https://github.com/twitter/the-algorithm-ml)
 
 #### Similarity Search / ANNS / Vector Indexing
 - Pinecone - A managed, cloud-native vector database with a simple API (https://www.pinecone.io/learn/) (https://docs.pinecone.io/docs/examples)
