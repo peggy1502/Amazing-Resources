@@ -342,6 +342,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - Chris - Articles on Lucene Search (https://www.amazingkoala.com.cn/Lucene/Search/)
 - LuXugang/Lucene-7.x-9.x/tree/master/blog (https://github.com/LuXugang/Lucene-7.x-9.x/tree/master/blog)
 - Lucene Learning Summary (https://blog.csdn.net/jinhong_lu)
+- Lucene Underlying Principles and Optimization Experience Sharing (https://blog.csdn.net/njpjsoftdev)
 
 
 #### General ML/DL Articles
