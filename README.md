@@ -341,6 +341,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - Chris - Articles on Lucene Tools (https://www.amazingkoala.com.cn/Lucene/gongjulei/)
 - Chris - Articles on Lucene Search (https://www.amazingkoala.com.cn/Lucene/Search/)
 - LuXugang/Lucene-7.x-9.x/tree/master/blog (https://github.com/LuXugang/Lucene-7.x-9.x/tree/master/blog)
+- Lucene Learning Summary (https://blog.csdn.net/jinhong_lu)
 
 
 #### General ML/DL Articles
