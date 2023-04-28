@@ -344,7 +344,15 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - Lucene Learning Summary (https://blog.csdn.net/jinhong_lu)
 - Lucene Underlying Principles and Optimization Experience Sharing (https://blog.csdn.net/njpjsoftdev)
 - [Video] What is in a Lucene index? Adrien Grand, Software Engineer, Elasticsearch (https://www.youtube.com/watch?v=T5RmMNDR5XI)
-- [Video] Berlin Buzzwords 2015: Adrien Grand – Algorithms & data-structures that power Lucene & ElasticSearch (https://www.youtube.com/watch?v=eQ-rXP-D80U)
+- [Video] from Plain Schwarz (https://www.youtube.com/@PlainSchwarzUG)
+- > Berlin Buzzwords 2015: Adrien Grand – Algorithms & data-structures that power Lucene & ElasticSearch (https://www.youtube.com/watch?v=eQ-rXP-D80U)
+- > Berlin Buzzwords 2015: Ryan Ernst - Compression in Lucene (https://www.youtube.com/watch?v=kCQbFxqusN4&list=PLq-odUc2x7i-_qWWixXHZ6w-MxyLxEC7s&index=21)
+- > Berlin Buzzwords 2015: Ivan Mamontov - Fast Decompression Lucene Codec (https://www.youtube.com/watch?v=2HQdbpgHfnQ&list=PLq-odUc2x7i-_qWWixXHZ6w-MxyLxEC7s&index=17)
+- > Berlin Buzzwords 2017: Alan Woodward - How does a Lucene Query actually work? (https://www.youtube.com/watch?v=Z-yG-KvIuD8&list=PLq-odUc2x7i-9Nijx-WfoRMoAfHC9XzTt&index=3)
+- > Berlin Buzzwords 2017: Adrien Grand - Running slow queries with Lucene (https://www.youtube.com/watch?v=p51vIDWHWqk&list=PLq-odUc2x7i-9Nijx-WfoRMoAfHC9XzTt&index=16)
+- > (2020) Bruno Roustant – A Journey to Write a New Lucene PostingsFormat (https://www.youtube.com/watch?v=av0yQY3pklA&list=PLq-odUc2x7i_YTCOTQ6p3m-kqpvEXGvbT&index=44)
+- > (2020) Uwe Schindler - Ask Me Anything: Lucene 9 (https://www.youtube.com/watch?v=RvoH_pVvXz0&list=PLq-odUc2x7i_YTCOTQ6p3m-kqpvEXGvbT&index=10)
+
 
 
 #### General ML/DL Articles
