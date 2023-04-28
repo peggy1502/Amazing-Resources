@@ -343,6 +343,8 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - LuXugang/Lucene-7.x-9.x/tree/master/blog (https://github.com/LuXugang/Lucene-7.x-9.x/tree/master/blog)
 - Lucene Learning Summary (https://blog.csdn.net/jinhong_lu)
 - Lucene Underlying Principles and Optimization Experience Sharing (https://blog.csdn.net/njpjsoftdev)
+- [Video] What is in a Lucene index? Adrien Grand, Software Engineer, Elasticsearch (https://www.youtube.com/watch?v=T5RmMNDR5XI)
+- [Video] Berlin Buzzwords 2015: Adrien Grand – Algorithms & data-structures that power Lucene & ElasticSearch (https://www.youtube.com/watch?v=eQ-rXP-D80U)
 
 
 #### General ML/DL Articles
@@ -750,6 +752,7 @@ Faiss SyntheticDataset (https://github.com/facebookresearch/faiss/blob/main/cont
 - https://github.com/fylls/genome-sequencing
 
 ## Transformers
+- A Very Gentle Introduction to Large Language Models without the Hype - 38 min read (https://mark-riedl.medium.com/a-very-gentle-introduction-to-large-language-models-without-the-hype-5f67941fa59e)
 - Transformer Anatomy guide (https://www.kaggle.com/code/pastorsoto/transformer-anatomy-guide)
 - Question generator with context (https://huggingface.co/voidful/bart-eqg-question-generator)
 - T5 One Line Summary (https://huggingface.co/snrspeaks/t5-one-line-summary)
