@@ -767,6 +767,8 @@ Faiss SyntheticDataset (https://github.com/facebookresearch/faiss/blob/main/cont
 - T5-base fine-tuned on SQuAD for Question Generation by just prepending the answer to the context (https://huggingface.co/mrm8488/t5-base-finetuned-question-generation-ap)
 - Parrot_paraphraser_on_T5 (https://huggingface.co/prithivida/parrot_paraphraser_on_T5)
 - T0pp (https://huggingface.co/bigscience/T0pp) (https://huggingface.co/GroNLP/T0pp-sharded)
+- Instruction tuning datasets to train (text and multi-modal) chat-based LLMs (GPT-4, ChatGPT,LLaMA,Alpaca) (https://github.com/yaodongC/awesome-instruction-dataset)
+- Totally Open Chatgpt (https://github.com/nichtdax/awesome-totally-open-chatgpt)
 
 ## GPT
 - GPT4All (https://github.com/nomic-ai/gpt4all)
