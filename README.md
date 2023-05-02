@@ -616,6 +616,7 @@ Faiss SyntheticDataset (https://github.com/facebookresearch/faiss/blob/main/cont
 - Newspaper3k: Article scraping & curation (https://github.com/codelucas/newspaper)
 - GoogleNews (https://github.com/Iceloof/GoogleNews)
 - Interactive network visualizations (https://pyvis.readthedocs.io/en/latest/index.html)
+- markdownify - Convert HTML to markdown (https://pypi.org/project/markdownify/)
 
 ## 👍 Job / Interview / DS Portfolio
 - Interview Query - Questions and Blogs (https://www.interviewquery.com/p/data-science-interview-questions)(https://www.interviewquery.com/articles)(https://www.interviewquery.com/blog)
@@ -759,16 +760,19 @@ Faiss SyntheticDataset (https://github.com/facebookresearch/faiss/blob/main/cont
 - https://github.com/fylls/genomic-data-science
 - https://github.com/fylls/genome-sequencing
 
-## Transformers
-- A Very Gentle Introduction to Large Language Models without the Hype - 38 min read (https://mark-riedl.medium.com/a-very-gentle-introduction-to-large-language-models-without-the-hype-5f67941fa59e)
-- Transformer Anatomy guide (https://www.kaggle.com/code/pastorsoto/transformer-anatomy-guide)
+## Transformer Models
 - Question generator with context (https://huggingface.co/voidful/bart-eqg-question-generator)
 - T5 One Line Summary (https://huggingface.co/snrspeaks/t5-one-line-summary)
 - T5-base fine-tuned on SQuAD for Question Generation by just prepending the answer to the context (https://huggingface.co/mrm8488/t5-base-finetuned-question-generation-ap)
 - Parrot_paraphraser_on_T5 (https://huggingface.co/prithivida/parrot_paraphraser_on_T5)
 - T0pp (https://huggingface.co/bigscience/T0pp) (https://huggingface.co/GroNLP/T0pp-sharded)
+
+## Transformers
+- A Very Gentle Introduction to Large Language Models without the Hype - 38 min read (https://mark-riedl.medium.com/a-very-gentle-introduction-to-large-language-models-without-the-hype-5f67941fa59e)
+- Transformer Anatomy guide (https://www.kaggle.com/code/pastorsoto/transformer-anatomy-guide)
 - Instruction tuning datasets to train (text and multi-modal) chat-based LLMs (GPT-4, ChatGPT,LLaMA,Alpaca) (https://github.com/yaodongC/awesome-instruction-dataset)
 - Totally Open Chatgpt (https://github.com/nichtdax/awesome-totally-open-chatgpt)
+- How I Turned My Company’s Docs into a Searchable Database with OpenAI (https://towardsdatascience.com/how-i-turned-my-companys-docs-into-a-searchable-database-with-openai-4f2d34bd8736)
 
 ## GPT
 - GPT4All (https://github.com/nomic-ai/gpt4all)
