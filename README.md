@@ -283,6 +283,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - Milvus Bootcamp Solutions (https://github.com/milvus-io/bootcamp)
 - Add Similarity Search to DynamoDB with Faiss (https://medium.com/swlh/add-similarity-search-to-dynamodb-with-faiss-c68eb6a48b08)(https://github.com/ioannist/dynamodb-faiss-builder)
 - BERT models with Solr and Elasticsearch (https://github.com/DmitryKey/bert-solr-search)
+- Generative Feedback Loops with LLMs for Vector Databases (https://weaviate.io/blog/generative-feedback-loops-with-llms)
 
 #### Search / Code Search / Information Retrieval
 - A brief history of code search at GitHub (https://github.blog/2021-12-15-a-brief-history-of-code-search-at-github/)
