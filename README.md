@@ -761,6 +761,7 @@ Faiss SyntheticDataset (https://github.com/facebookresearch/faiss/blob/main/cont
 - https://github.com/fylls/genome-sequencing
 
 ## Transformer Models
+- ChatGPT, GenerativeAI and LLMs Timeline (https://github.com/hollobit/GenAI_LLM_timeline)
 - AI / ML / LLM / Transformer Models Timeline and List (https://ai.v-gar.de/ml/transformer/timeline/index.html)
 - Comprehensive LLM model zoo (https://crfm.stanford.edu/ecosystem-graphs/index.html?mode=table)
 - Question generator with context (https://huggingface.co/voidful/bart-eqg-question-generator)
