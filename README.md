@@ -761,6 +761,7 @@ Faiss SyntheticDataset (https://github.com/facebookresearch/faiss/blob/main/cont
 - https://github.com/fylls/genome-sequencing
 
 ## Transformer Models
+- Comprehensive LLM model zoo (https://crfm.stanford.edu/ecosystem-graphs/index.html?mode=table)
 - Question generator with context (https://huggingface.co/voidful/bart-eqg-question-generator)
 - T5 One Line Summary (https://huggingface.co/snrspeaks/t5-one-line-summary)
 - T5-base fine-tuned on SQuAD for Question Generation by just prepending the answer to the context (https://huggingface.co/mrm8488/t5-base-finetuned-question-generation-ap)
