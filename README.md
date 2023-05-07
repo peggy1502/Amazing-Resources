@@ -765,6 +765,7 @@ Faiss SyntheticDataset (https://github.com/facebookresearch/faiss/blob/main/cont
 - ChatGPT, GenerativeAI and LLMs Timeline (https://github.com/hollobit/GenAI_LLM_timeline)
 - AI / ML / LLM / Transformer Models Timeline and List (https://ai.v-gar.de/ml/transformer/timeline/index.html)
 - Comprehensive LLM model zoo (https://crfm.stanford.edu/ecosystem-graphs/index.html?mode=table)
+- The Transformer Family (https://lilianweng.github.io/posts/2020-04-07-the-transformer-family/)
 - Question generator with context (https://huggingface.co/voidful/bart-eqg-question-generator)
 - T5 One Line Summary (https://huggingface.co/snrspeaks/t5-one-line-summary)
 - T5-base fine-tuned on SQuAD for Question Generation by just prepending the answer to the context (https://huggingface.co/mrm8488/t5-base-finetuned-question-generation-ap)
