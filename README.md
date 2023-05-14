@@ -782,4 +782,5 @@ Faiss SyntheticDataset (https://github.com/facebookresearch/faiss/blob/main/cont
 
 ## GPT
 - GPT4All (https://github.com/nomic-ai/gpt4all)
+- Google "We Have No Moat, And Neither Does OpenAI" (https://www.semianalysis.com/p/google-we-have-no-moat-and-neither)
 
