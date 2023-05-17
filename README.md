@@ -673,6 +673,13 @@ Faiss SyntheticDataset (https://github.com/facebookresearch/faiss/blob/main/cont
 - The System Design Primer (https://github.com/donnemartin/system-design-primer)
 - awesome-scalability (https://github.com/binhnguyennus/awesome-scalability)
 - System Architecture (https://orrsella.gitbooks.io/soft-eng-interview-prep/content/topics/system-architecture.html)
+- Dynamo: Amazon’s Highly Available Key-value Store (https://www.allthingsdistributed.com/files/amazon-dynamo-sosp2007.pdf)
+
+## 👍 Algorithms / Technical Coding 
+- Dynamic Programming Patterns (https://leetcode.com/discuss/general-discussion/458695/dynamic-programming-patterns)
+- Binary Search Template (https://leetcode.com/discuss/general-discussion/786126/Python-Powerful-Ultimate-Binary-Search-Template.-Solved-many-problems)
+- Binary Search (https://www.youtube.com/watch?v=tgVSkMA8joQ)
+- Partition subset problem - all approaches explained (https://leetcode.com/problems/partition-equal-subset-sum/solutions/462699/Whiteboard-Editorial.-All-Approaches-explained)
 
 ## 👍 Videos for Algorithms / Technical Coding / Interview Prep
 - Neet Code (https://www.youtube.com/c/NeetCode/playlists)
