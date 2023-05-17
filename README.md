@@ -641,13 +641,11 @@ Faiss SyntheticDataset (https://github.com/facebookresearch/faiss/blob/main/cont
 - TYJ (https://tengyeejing.com/)
 - The Portfolio that Got Me a Data Scientist Job (https://towardsdatascience.com/the-portfolio-that-got-me-a-data-scientist-job-513cc821bfe4)
 - Set Up Your Portfolio Website in Less Than 10 Minutes with Github Pages (https://medium.com/@evanca/set-up-your-portfolio-website-in-less-than-10-minutes-with-github-pages-d0efa8ff56fd) (https://github.com/evanca/quick-portfolio)
-- Ten Rules for Negotiating a Job Offer (https://haseebq.com/my-ten-rules-for-negotiating-a-job-offer/)
 - Use Python and NLP to Boost Your Resume (https://medium.com/data-marketing-philosophy/use-python-and-nlp-to-boost-your-resume-e4691a58bcc9)
 - Facebook Field Guide to Machine Learning (https://research.facebook.com/blog/2018/05/the-facebook-field-guide-to-machine-learning-video-series/)
 - A Guide to Production Level Deep Learning (https://github.com/alirezadir/Production-Level-Deep-Learning)
 - Rules of ML (https://developers.google.com/machine-learning/guides/rules-of-ml)
 - Impactful and widely cited papers and literature on ML/DL/RL/AI (https://github.com/tirthajyoti/Papers-Literature-ML-DL-RL-AI)
-- level.fyi (https://www.levels.fyi/Salaries/Data-Scientist/Singapore/)
 - Definitive Interview prep ROADMAP (https://www.codinginterview.com/interview-roadmap)
 - interviewing.io - Watch technical mock interviews (https://interviewing.io/recordings)
 - Interview Cake (https://www.interviewcake.com/)
@@ -664,6 +662,13 @@ Faiss SyntheticDataset (https://github.com/facebookresearch/faiss/blob/main/cont
 - Experimentation is a major focus of Data Science across Netflix (https://netflixtechblog.com/experimentation-is-a-major-focus-of-data-science-across-netflix-f67923f8e985)
 - Fighting Overfitting With L1 or L2 Regularization: Which One Is Better? (https://neptune.ai/blog/fighting-overfitting-with-l1-or-l2-regularization)
 - Machine Learning Projects You NEVER Knew Existed (https://www.youtube.com/watch?v=sw3o0rAazMg&list=RDCMUCHXa4OpASJEwrHrLeIzw7Yg&index=6)
+
+## 👍 Salary Negotiation
+- level.fyi (https://www.levels.fyi/Salaries/Data-Scientist/Singapore/)
+- Ten Rules for Negotiating a Job Offer (https://haseebq.com/my-ten-rules-for-negotiating-a-job-offer/)
+- HOW TO NEGOTIATE SALARY: 9 TIPS FROM A PRO SALARY NEGOTIATOR (https://fearlesssalarynegotiation.com/salary-negotiation-guide/)
+- HOW TO WRITE A SALARY NEGOTIATION EMAIL (WITH 11 PROVEN TEMPLATES AND A SAMPLE) (https://fearlesssalarynegotiation.com/salary-negotiation-email-sample/#ask-for-time-template)
+- Salary Negotiation: Make More Money, Be More Valued (https://www.kalzumeus.com/2012/01/23/salary-negotiation/)
 
 ## 👍 System Design
 - System Design Interview (https://systeminterview.com/scale-from-zero-to-millions-of-users.php)
