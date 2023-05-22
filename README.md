@@ -593,6 +593,7 @@ Faiss SyntheticDataset (https://github.com/facebookresearch/faiss/blob/main/cont
 - Octoparse web scraping (https://www.octoparse.com/blog/10-myths-about-web-scraping)
 - Capitalize My Title (https://capitalizemytitle.com/)
 - Free IEEE Citation Generator (https://www.citethisforme.com/citation-generator/ieee)
+- Shorten URLs (https://bitly.com/)
 - Profile Pic Maker (https://pfpmaker.com/)
 - CapCut - Free Video Editor (https://www.capcut.com/)
 - Free Video Recording & Live Streaming (https://obsproject.com/)
