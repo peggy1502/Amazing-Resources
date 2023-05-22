@@ -580,6 +580,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 Faiss SyntheticDataset (https://github.com/facebookresearch/faiss/blob/main/contrib/datasets.py#L72)(https://gist.github.com/mdouze/551ef6fa0722f2acf58fa2c6fce732d6#file-demo_pytorch_knn-ipynb)
 
 ## 👍 Utilities / Tools
+- Future Tools (https://www.futuretools.io/)
 - Scanner App for Math and Science (https://mathpix.com/)
 - Readability (https://pypi.org/project/readability/)
 - ipdb.set_trace() Commands (https://xxx-cook-book.gitbooks.io/python-cook-book/content/Debug/ipdb.html)
