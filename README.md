@@ -637,6 +637,7 @@ Faiss SyntheticDataset (https://github.com/facebookresearch/faiss/blob/main/cont
 - Machine Learning Interview Question and Answers in 2022 (https://www.mygreatlearning.com/blog/machine-learning-interview-questions/)
 - Machine learning algorithms interview - tips & resources (https://workera.ai/resources/machine-learning-algorithms-interview/)
 - Crack Data Science Interviews: Essential Machine Learning Concepts (https://towardsdatascience.com/crack-data-science-interviews-essential-machine-learning-concepts-afd6a0a6d1aa)
+- Top 20 AB Test Interview Questions And Answers (https://grabngoinfo.com/top-20-ab-test-interview-questions-and-answers/)
 - Glassdoor machine learning interview questions (https://www.glassdoor.sg/Interview/machine-learning-interview-questions-SRCH_KO0,16.htm?countryRedirect=true)
 - subreddit - ML question (https://www.reddit.com/r/MLQuestions/)
 - subreddit - Learning machine learning (https://www.reddit.com/r/learnmachinelearning/)
