@@ -307,6 +307,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 
 #### Lucene / Solr / Elasticsearch
 - Grokking Solr Trie Fields (http://mentaldetritus.blogspot.com/2013/01/grokking-solr-trie-fields.html)
+- Mastering ElasticSearch (https://hoclaptrinhdanang.com/downloads/pdf/elasticsearch/Mastering%20ElasticSearch-PDF.pdf)
 - Elasticsearch Kernel Analysis - Data Model (https://zhuanlan.zhihu.com/p/34680841)
 - Elasticsearch-Principle of Big Data (https://zhuanlan.zhihu.com/p/83961549)
 - Scaling Lucene and Solr (https://lucidworks.com/post/scaling-lucene-and-solr/)
