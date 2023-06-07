@@ -814,4 +814,5 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 ## GPT
 - GPT4All (https://github.com/nomic-ai/gpt4all)
 - Google "We Have No Moat, And Neither Does OpenAI" (https://www.semianalysis.com/p/google-we-have-no-moat-and-neither)
+- State of GPT (https://www.youtube.com/watch?v=bZQun8Y4L2A&t=1s)
 
