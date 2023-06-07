@@ -216,6 +216,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - Building a Personal Assistant from Scratch - intent classification, speech-to-text, and text-to-speech (https://medium.com/nlplanet/building-a-personal-assistant-from-scratch-db0814e62d34)
 - Transformer Anatomy guide (https://www.kaggle.com/code/pastorsoto/transformer-anatomy-guide)
 - LiGO - Learning to grow machine-learning models (https://news.mit.edu/2023/new-technique-machine-learning-models-0322)
+- Understanding Parameter-Efficient Finetuning of Large Language Models: From Prefix Tuning to LLaMA-Adapters (https://lightning.ai/pages/community/article/understanding-llama-adapters/)
 
 #### NVIDIA Recommender Systems
 - NVIDIA at RecSys 2022 (https://www.nvidia.com/en-us/events/recsys/)
