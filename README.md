@@ -807,6 +807,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - Transformer Anatomy guide (https://www.kaggle.com/code/pastorsoto/transformer-anatomy-guide)
 - Instruction tuning datasets to train (text and multi-modal) chat-based LLMs (GPT-4, ChatGPT,LLaMA,Alpaca) (https://github.com/yaodongC/awesome-instruction-dataset)
 - Totally Open Chatgpt (https://github.com/nichtdax/awesome-totally-open-chatgpt)
+- TII open-sourced Falcon LLM (https://huggingface.co/tiiuae)
 - Hugging Face - Parameter-Efficient Fine-Tuning (PEFT) methods (https://github.com/huggingface/peft)
 - How I Turned My Company’s Docs into a Searchable Database with OpenAI (https://towardsdatascience.com/how-i-turned-my-companys-docs-into-a-searchable-database-with-openai-4f2d34bd8736)
 
