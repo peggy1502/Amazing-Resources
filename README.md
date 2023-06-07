@@ -217,6 +217,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - Transformer Anatomy guide (https://www.kaggle.com/code/pastorsoto/transformer-anatomy-guide)
 - LiGO - Learning to grow machine-learning models (https://news.mit.edu/2023/new-technique-machine-learning-models-0322)
 - Understanding Parameter-Efficient Finetuning of Large Language Models: From Prefix Tuning to LLaMA-Adapters (https://lightning.ai/pages/community/article/understanding-llama-adapters/)
+- Parameter-Efficient LLM Finetuning With Low-Rank Adaptation (LoRA) (https://lightning.ai/pages/community/tutorial/lora-llm/)
 
 #### NVIDIA Recommender Systems
 - NVIDIA at RecSys 2022 (https://www.nvidia.com/en-us/events/recsys/)
