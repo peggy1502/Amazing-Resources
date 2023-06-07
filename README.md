@@ -265,6 +265,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - Vector representation of products Prod2Vec: How to get rid of a lot of embeddings (https://towardsdatascience.com/vector-representation-of-products-prod2vec-how-to-get-rid-of-a-lot-of-embeddings-26265361457c)
 - Deep Recommender Systems at Facebook feat. Carole-Jean Wu | Stanford MLSys Seminar Episode 24 (https://www.youtube.com/watch?v=5xcd0V9m6Xs)
 - Twitter's Recommendation Algorithm (https://blog.twitter.com/engineering/en_us/topics/open-source/2023/twitter-recommendation-algorithm) (https://github.com/twitter/the-algorithm) (https://github.com/twitter/the-algorithm-ml)
+- Personalized recommendations articles by Gaurav Chakravorty (https://www.linkedin.com/today/author/gauravchak?trk=article-ssr-frontend-pulse_more-articles)
 
 #### Similarity Search / ANNS / Vector Indexing
 - Pinecone - A managed, cloud-native vector database with a simple API (https://www.pinecone.io/learn/) (https://docs.pinecone.io/docs/examples)
@@ -303,6 +304,8 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - Decoding Billions of Integers Per Second Through Vectorization (https://people.csail.mit.edu/jshun/6886-s19/lectures/lecture19-1.pdf)
 - Smart way of storing data (https://towardsdatascience.com/smart-way-of-storing-data-d22dd5077340)
 - Google - Challenges in Building Large-Scale Information Retrieval Systems (http://static.googleusercontent.com/media/research.google.com/en//people/jeff/WSDM09-keynote.pdf)
+- A guide to Google Search ranking systems (https://developers.google.com/search/docs/appearance/ranking-systems-guide)
+- How to ARCHITECT a search engine like Google Search (https://newsletter.theaiedge.io/p/how-to-architect-a-search-engine)
 
 
 #### Lucene / Solr / Elasticsearch
@@ -503,6 +506,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - Daniel Lemire - crazily fast code (https://lemire.me/en/)
 - NLPlanet (https://www.nlplanet.org/blog/index.html)
 - Uncle Cang decoding - Lucene source code series (https://juejin.cn/user/2559318800998141)
+- The AiEdge Newsletter (https://newsletter.theaiedge.io/archive)
 
 ## 👍 Company Tech Blogs
 - Data.gov.sg Blog (https://blog.data.gov.sg/)
