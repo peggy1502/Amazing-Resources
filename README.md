@@ -216,6 +216,8 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - Building a Personal Assistant from Scratch - intent classification, speech-to-text, and text-to-speech (https://medium.com/nlplanet/building-a-personal-assistant-from-scratch-db0814e62d34)
 - Transformer Anatomy guide (https://www.kaggle.com/code/pastorsoto/transformer-anatomy-guide)
 - LiGO - Learning to grow machine-learning models (https://news.mit.edu/2023/new-technique-machine-learning-models-0322)
+- Finetuning Large Language Models (https://magazine.sebastianraschka.com/p/finetuning-large-language-models)
+- RLHF: Reinforcement Learning from Human Feedback (https://huyenchip.com/2023/05/02/rlhf.html)
 - Understanding Parameter-Efficient Finetuning of Large Language Models: From Prefix Tuning to LLaMA-Adapters (https://lightning.ai/pages/community/article/understanding-llama-adapters/)
 - Parameter-Efficient LLM Finetuning With Low-Rank Adaptation (LoRA) (https://lightning.ai/pages/community/tutorial/lora-llm/)
 
@@ -509,6 +511,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - NLPlanet (https://www.nlplanet.org/blog/index.html)
 - Uncle Cang decoding - Lucene source code series (https://juejin.cn/user/2559318800998141)
 - The AiEdge Newsletter (https://newsletter.theaiedge.io/archive)
+- Ahead of AI (by Sebastian Raschka) (https://magazine.sebastianraschka.com/archive)
 
 ## 👍 Company Tech Blogs
 - Data.gov.sg Blog (https://blog.data.gov.sg/)
@@ -640,6 +643,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 
 ## 👍 Job / Interview / DS Portfolio
 - Interview Query - Questions and Blogs (https://www.interviewquery.com/p/data-science-interview-questions)(https://www.interviewquery.com/articles)(https://www.interviewquery.com/blog)
+- Machine Learning FAQ (https://sebastianraschka.com/faq/)
 - Machine Learning Interviews Book (https://huyenchip.com/ml-interviews-book/)
 - Deep Learning Interviews: Hundreds of fully solved job interview questions from a wide range of key topics in AI (https://github.com/BoltzmannEntropy/interviews.ai)
 - Machine Learning Interviews (https://github.com/khangich/machine-learning-interview/)
