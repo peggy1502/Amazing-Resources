@@ -218,6 +218,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - LiGO - Learning to grow machine-learning models (https://news.mit.edu/2023/new-technique-machine-learning-models-0322)
 - Finetuning Large Language Models (https://magazine.sebastianraschka.com/p/finetuning-large-language-models)
 - RLHF: Reinforcement Learning from Human Feedback (https://huyenchip.com/2023/05/02/rlhf.html)
+- Building LLM applications for production (https://huyenchip.com/2023/04/11/llm-engineering.html)
 - Understanding Parameter-Efficient Finetuning of Large Language Models: From Prefix Tuning to LLaMA-Adapters (https://lightning.ai/pages/community/article/understanding-llama-adapters/)
 - Parameter-Efficient LLM Finetuning With Low-Rank Adaptation (LoRA) (https://lightning.ai/pages/community/tutorial/lora-llm/)
 
