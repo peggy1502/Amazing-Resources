@@ -394,6 +394,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - Vanishing and Exploding Gradients in Neural Network Models: Debugging, Monitoring, and Fixing (https://neptune.ai/blog/vanishing-and-exploding-gradients-debugging-monitoring-fixing)
 - Hadoop vs. Spark vs. Kafka - How to Structure Modern Big Data Architecture? (https://nexocode.com/blog/posts/hadoop-spark-kafka-modern-big-data-architecture/)
 - Is it Better to Save Models Using Joblib or Pickle? (https://medium.com/nlplanet/is-it-better-to-save-models-using-joblib-or-pickle-776722b5a095)
+- Predicting Credit Defaults Using Time-Series Models with Recursive Neural Networks and XGBoost (https://developer.nvidia.com/blog/predicting-credit-defaults-using-time-series-models-with-recursive-neural-networks-and-xgboost/) (https://github.com/daxiongshu/triton_amex)
 
 #### EDA / Data Visualization
 - Plotly Fundamentals (https://plotly.com/python/plotly-fundamentals/)
@@ -482,6 +483,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 ## 👍 Kaggle
 - Kaggle Solutions (https://farid.one/kaggle-solutions/)
 - https://www.kaggle.com/bextuychiev/notebooks
+- Kaggle utils (https://github.com/daxiongshu/kaggle_utils)
 
 ## 👍 DeepNote
 - Abid (https://deepnote.com/@abid)
