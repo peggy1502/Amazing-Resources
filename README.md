@@ -370,6 +370,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 
 
 #### General ML/DL Articles
+- A Recipe for Training Neural Networks (http://karpathy.github.io/2019/04/25/recipe/)
 - Microsoft - Recommenders (https://github.com/microsoft/recommenders)
 - DeepRecSys: A System for Optimizing End-To-End At-scale Neural Recommendation Inference (https://github.com/harvard-acc/DeepRecSys)
 - The best machine learning and deep learning libraries (https://morioh.com/p/73998ba2a04e)
@@ -486,6 +487,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - Kaggle Solutions (https://farid.one/kaggle-solutions/)
 - https://www.kaggle.com/bextuychiev/notebooks
 - Kaggle utils (https://github.com/daxiongshu/kaggle_utils)
+- Competition and Community Insights from NVIDIA’s Kaggle Grandmasters (https://developer.nvidia.com/blog/competition-and-community-insights-from-nvidias-kaggle-grandmasters/)
 
 ## 👍 DeepNote
 - Abid (https://deepnote.com/@abid)
