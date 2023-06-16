@@ -223,6 +223,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - Parameter-Efficient LLM Finetuning With Low-Rank Adaptation (LoRA) (https://lightning.ai/pages/community/tutorial/lora-llm/)
 
 #### NVIDIA Recommender Systems
+- Recommender Systems competitions solutions (https://github.com/NVIDIA-Merlin/competitions)
 - NVIDIA at RecSys 2022 (https://www.nvidia.com/en-us/events/recsys/)
 - > Tutorials (https://recsys.acm.org/recsys22/tutorials/)
 - > Tutorial Hands on Explainable Recommender Systems with Knowledge Graphs (https://explainablerecsys.github.io/recsys2022/)
@@ -246,6 +247,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - How NVIDIA Supports Recommender Systems feat. Even Oldridge | Stanford MLSys Seminar Episode 27 (https://www.youtube.com/watch?v=wPso35VkuCs)
 - [Video] Building and Deploying a Multi-Stage Recommender System with NVIDIA Merlin (https://www.youtube.com/watch?v=BQC-SGdIdD8)
 - Building and Deploying a Multi-Stage Recommender System with Merlin (https://resources.nvidia.com/en-us-merlin/bad-a-multi-stage-recommender?)
+- How to Build a Winning Deep Learning Powered Recommender System-Part 3 (https://developer.nvidia.com/blog/how-to-build-a-winning-deep-learning-powered-recommender-system-part-3/) (https://github.com/NVIDIA-Merlin/competitions/tree/main/WSDM_WebTour2021_Challenge)
 
 #### Collaborative Filtering / Recommender Systems
 - Google Courses - Recommendation Systems (https://developers.google.com/machine-learning/recommendation)
