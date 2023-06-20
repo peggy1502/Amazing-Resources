@@ -653,6 +653,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 ## 👍 Job / Interview / DS Portfolio
 - Interview Query - Questions and Blogs (https://www.interviewquery.com/p/data-science-interview-questions)(https://www.interviewquery.com/articles)(https://www.interviewquery.com/blog)
 - Machine Learning FAQ (https://sebastianraschka.com/faq/)
+- Mastering the Deep Learning Interview: Top 35 Questions and Expert Answers (https://medium.com/@riteshgupta.ai/mastering-the-deep-learning-interview-top-35-questions-and-expert-answers-aabb701f6e45)
 - Machine Learning Interviews Book (https://huyenchip.com/ml-interviews-book/)
 - Deep Learning Interviews: Hundreds of fully solved job interview questions from a wide range of key topics in AI (https://github.com/BoltzmannEntropy/interviews.ai)
 - Machine Learning Interviews (https://github.com/khangich/machine-learning-interview/)
