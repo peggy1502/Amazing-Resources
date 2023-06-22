@@ -102,6 +102,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - Amazon Comprehend Medical – Natural Language Processing for Healthcare Customers (https://aws.amazon.com/blogs/aws/amazon-comprehend-medical-natural-language-processing-for-healthcare-customers/)
 - Extract and visualize clinical entities using Amazon Comprehend Medical (https://aws.amazon.com/blogs/machine-learning/extract-and-visualize-clinical-entities-using-amazon-comprehend-medical/)
 - AWS Simple Workflow vs AWS Step Functions vs Apache Airflow (https://digitalcloud.training/aws-simple-workflow-vs-aws-step-functions-vs-apache-airflow/)
+- Is it the end for Apache Airflow? (https://uncledata.medium.com/is-it-the-end-for-apache-airflow-81ef027becf4)
 - Scalable data preparation & ML using Apache Spark on AWS (https://github.com/debnsuma/sagemaker-studio-emr-spark)
 
 ## 👍 Videos
