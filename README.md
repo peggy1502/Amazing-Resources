@@ -819,14 +819,18 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - Parrot_paraphraser_on_T5 (https://huggingface.co/prithivida/parrot_paraphraser_on_T5)
 - T0pp (https://huggingface.co/bigscience/T0pp) (https://huggingface.co/GroNLP/T0pp-sharded)
 
-## Transformers
+## Transformer
 - A Very Gentle Introduction to Large Language Models without the Hype - 38 min read (https://mark-riedl.medium.com/a-very-gentle-introduction-to-large-language-models-without-the-hype-5f67941fa59e)
 - Transformer Anatomy guide (https://www.kaggle.com/code/pastorsoto/transformer-anatomy-guide)
 - Instruction tuning datasets to train (text and multi-modal) chat-based LLMs (GPT-4, ChatGPT,LLaMA,Alpaca) (https://github.com/yaodongC/awesome-instruction-dataset)
 - Totally Open Chatgpt (https://github.com/nichtdax/awesome-totally-open-chatgpt)
 - TII open-sourced Falcon LLM (https://huggingface.co/tiiuae)
 - Hugging Face - Parameter-Efficient Fine-Tuning (PEFT) methods (https://github.com/huggingface/peft)
+
+## GPT Applications
 - How I Turned My Company’s Docs into a Searchable Database with OpenAI (https://towardsdatascience.com/how-i-turned-my-companys-docs-into-a-searchable-database-with-openai-4f2d34bd8736)
+- How I Turned ChatGPT into an SQL-Like Translator for Image and Video Datasets (https://towardsdatascience.com/how-i-turned-chatgpt-into-an-sql-like-translator-for-image-and-video-datasets-7b22b318400a)
+- What I Learned Pushing Prompt Engineering to the Limit (https://towardsdatascience.com/what-i-learned-pushing-prompt-engineering-to-the-limit-c40f0740641f)
 
 ## GPT
 - GPT4All (https://github.com/nomic-ai/gpt4all)
