@@ -168,21 +168,9 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - A Beginner's Guide To Understanding Convolutional Neural Networks Part 2 (https://adeshpande3.github.io/A-Beginner%27s-Guide-To-Understanding-Convolutional-Neural-Networks-Part-2/)
 - The 9 Deep Learning Papers You Need To Know About (Understanding CNNs Part 3) (https://adeshpande3.github.io/The-9-Deep-Learning-Papers-You-Need-To-Know-About.html)
 
-
 #### RNN
 - Understanding LSTM Networks (http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
 - A Visual Guide to Recurrent Layers in Keras (https://amitness.com/2020/04/recurrent-layers-keras/)
-
-#### Q&A
-- How to build an AI that can answer questions about your website (https://platform.openai.com/docs/tutorials/web-qa-embeddings)
-- openai-cookbook (https://github.com/openai/openai-cookbook/tree/3826607431929af5d58ba442aa3c2893009f637b/examples/fine-tuned_qa)
-- Fine-Tune Transformer Models For Question Answering On Custom Data (https://towardsdatascience.com/fine-tune-transformer-models-for-question-answering-on-custom-data-513eaac37a80)
-- Revolutionise Your Q&A Bot with GPT-J: The Open-Source Game Changer as a Replacement for GPT-3 (https://medium.com/@maliahrajan/revolutionise-your-q-a-bot-with-gpt-j-the-open-source-game-changer-as-a-replacement-for-gpt-3-216bc4362b53)
-- How to build a Q&A web application using Python and Anvil (https://www.section.io/engineering-education/building-a-qa-web-application/)
-- Build a Deep Q&A Web App with Transformers and Anvil | Python Deep Learning App (https://www.youtube.com/watch?v=G1uGSkANZjQ) (https://github.com/nicknochnack/Q-A-Anvil-App/blob/main/Anvil-Tutorial.ipynb)
-- Open Source Generative AI in Question-Answering (NLP) using Python (https://www.youtube.com/watch?v=L8U-pm-vZ4c) (https://docs.pinecone.io/docs/abstractive-question-answering)
-- Build a Question Answering Engine (Towhee & Gradio Chatbot) (https://github.com/towhee-io/examples/blob/main/nlp/question_answering/1_build_question_answering_engine.ipynb)
-- Question Generation using 🤗transformers (https://github.com/patil-suraj/question_generation) (https://colab.research.google.com/gist/nrjvarshney/39ed6c80e2fe293b9e7eca5bc3a45b7d/quiz.ipynb) (https://huggingface.co/mrm8488/t5-base-finetuned-question-generation-ap)
 
 #### NLP
 - A Visual Guide to FastText Word Embeddings (https://amitness.com/2020/06/fasttext-embeddings/)
@@ -192,36 +180,6 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - How to Develop Word Embeddings in Python with Gensim (https://machinelearningmastery.com/develop-word-embeddings-python-gensim/)
 - Interactive Analysis of Sentence Embeddings (https://amitness.com/interactive-sentence-embeddings/)
 - Cosine Similarity for Vector Space Models (Part III) (https://blog.christianperone.com/2013/09/machine-learning-cosine-similarity-for-vector-space-models-part-iii/)
-- The Annotated Transformer (http://nlp.seas.harvard.edu/2018/04/03/attention.html)
-- Deconstructing BERT, Part 2: Visualizing the Inner Workings of Attention (https://towardsdatascience.com/deconstructing-bert-part-2-visualizing-the-inner-workings-of-attention-60a16d86b5c1)
-- Beyond Classification With Transformers and Hugging Face (https://towardsdatascience.com/beyond-classification-with-transformers-and-hugging-face-d38c75f574fb)
-- Transformers Explained Visually (Part 3): Multi-head Attention, deep dive (https://towardsdatascience.com/transformers-explained-visually-part-3-multi-head-attention-deep-dive-1c1ff1024853)
-- Faster Text Classification with Naive Bayes and GPUs (https://developer.nvidia.com/blog/faster-text-classification-with-naive-bayes-and-gpus)
-- Classifying Multimodal Data using Transformers (https://github.com/dsaidgovsg/multimodal-learning-hands-on-tutorial)
-- 7 Basic NLP Models to Empower Your ML Application (https://zilliz.com/learn/7-nlp-models)
-- 7 models on HuggingFace you probably didn’t know existed (https://towardsdatascience.com/7-models-on-huggingface-you-probably-didnt-knew-existed-f3d079a4fd7c)
-- Multimodal Toolkit - Transformers with Tabular Data (https://github.com/georgian-io/Multimodal-Toolkit)
-- Chris McCormick
-- > [Video] BERT Document Classification Tutorial with Code - including Semantic Similarity Search (https://www.youtube.com/watch?v=_eSGWNqKeeY)
-- > Combining Categorical and Numerical Features with Text in BERT (https://mccormickml.com/2021/06/29/combining-categorical-numerical-features-with-bert/)
-- > Smart Batching Tutorial - Speed Up BERT Training (https://mccormickml.com/2020/07/29/smart-batching-tutorial/)
-- [Discussion] How to use Bert for long text classification? (https://stackoverflow.com/questions/58636587/how-to-use-bert-for-long-text-classification/63413589#63413589)
-- Sentiment Analysis with BERT and Transformers by Hugging Face using PyTorch and Python (https://curiousily.com/posts/sentiment-analysis-with-bert-and-hugging-face-using-pytorch-and-python/)
-- Attention? Attention! (https://lilianweng.github.io/posts/2018-06-24-attention/)
-- The Transformer Family (https://lilianweng.github.io/posts/2020-04-07-the-transformer-family/)
-- Custom Named Entity Recognition with BERT (https://towardsdatascience.com/custom-named-entity-recognition-with-bert-cf1fd4510804)
-- Beautifully Illustrated: NLP Models from RNN to Transformer (https://towardsdatascience.com/beautifully-illustrated-nlp-models-from-rnn-to-transformer-80d69faf2109)
-- The Guide to Multi-Tasking with the T5 Transformer (https://towardsdatascience.com/the-guide-to-multi-tasking-with-the-t5-transformer-90c70a08837b)
-- A Full Guide to Finetuning T5 for Text2Text and Building a Demo with Streamlit (https://medium.com/nlplanet/a-full-guide-to-finetuning-t5-for-text2text-and-building-a-demo-with-streamlit-c72009631887) (https://colab.research.google.com/drive/1RFBIkTZEqbRt0jxpTHgRudYJBZTD3Szn?usp=sharing)
-- Building a Knowledge Base from Texts: a Full Practical Example (https://medium.com/nlplanet/building-a-knowledge-base-from-texts-a-full-practical-example-8dbbffb912fa)
-- Building a Personal Assistant from Scratch - intent classification, speech-to-text, and text-to-speech (https://medium.com/nlplanet/building-a-personal-assistant-from-scratch-db0814e62d34)
-- Transformer Anatomy guide (https://www.kaggle.com/code/pastorsoto/transformer-anatomy-guide)
-- LiGO - Learning to grow machine-learning models (https://news.mit.edu/2023/new-technique-machine-learning-models-0322)
-- Finetuning Large Language Models (https://magazine.sebastianraschka.com/p/finetuning-large-language-models)
-- RLHF: Reinforcement Learning from Human Feedback (https://huyenchip.com/2023/05/02/rlhf.html)
-- Building LLM applications for production (https://huyenchip.com/2023/04/11/llm-engineering.html)
-- Understanding Parameter-Efficient Finetuning of Large Language Models: From Prefix Tuning to LLaMA-Adapters (https://lightning.ai/pages/community/article/understanding-llama-adapters/)
-- Parameter-Efficient LLM Finetuning With Low-Rank Adaptation (LoRA) (https://lightning.ai/pages/community/tutorial/lora-llm/)
 
 #### NVIDIA Recommender Systems
 - Recommender Systems competitions solutions (https://github.com/NVIDIA-Merlin/competitions)
@@ -316,7 +274,6 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - A guide to Google Search ranking systems (https://developers.google.com/search/docs/appearance/ranking-systems-guide)
 - How to ARCHITECT a search engine like Google Search (https://newsletter.theaiedge.io/p/how-to-architect-a-search-engine)
 
-
 #### Lucene / Solr / Elasticsearch
 - Grokking Solr Trie Fields (http://mentaldetritus.blogspot.com/2013/01/grokking-solr-trie-fields.html)
 - Mastering ElasticSearch (https://hoclaptrinhdanang.com/downloads/pdf/elasticsearch/Mastering%20ElasticSearch-PDF.pdf)
@@ -368,7 +325,6 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - > Berlin Buzzwords 2017: Adrien Grand - Running slow queries with Lucene (https://www.youtube.com/watch?v=p51vIDWHWqk&list=PLq-odUc2x7i-9Nijx-WfoRMoAfHC9XzTt&index=16)
 - > (2020) Bruno Roustant – A Journey to Write a New Lucene PostingsFormat (https://www.youtube.com/watch?v=av0yQY3pklA&list=PLq-odUc2x7i_YTCOTQ6p3m-kqpvEXGvbT&index=44)
 - > (2020) Uwe Schindler - Ask Me Anything: Lucene 9 (https://www.youtube.com/watch?v=RvoH_pVvXz0&list=PLq-odUc2x7i_YTCOTQ6p3m-kqpvEXGvbT&index=10)
-
 
 
 #### General ML/DL Articles
@@ -592,6 +548,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - c4 (https://tensorflow.org/datasets/catalog/c4)
 - 190k+ Medium Articles (https://www.kaggle.com/datasets/fabiochiusano/medium-articles)
 - Unsplash (https://unsplash.com/data)
+- Instruction tuning datasets to train (text and multi-modal) chat-based LLMs (GPT-4, ChatGPT,LLaMA,Alpaca) (https://github.com/yaodongC/awesome-instruction-dataset)
 
 ## 👍 Synthetic Data
 - MOSTLY AI, the #1 Synthetic Data Platform (https://mostly.ai/)
@@ -808,32 +765,79 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - https://github.com/fylls/genomic-data-science
 - https://github.com/fylls/genome-sequencing
 
-## Transformer Models
+## 👍 Transformer Anatomy / Guide 
+- A Very Gentle Introduction to Large Language Models without the Hype - 38 min read (https://mark-riedl.medium.com/a-very-gentle-introduction-to-large-language-models-without-the-hype-5f67941fa59e)
+- Transformer Anatomy guide (https://www.kaggle.com/code/pastorsoto/transformer-anatomy-guide)
+- The Annotated Transformer (http://nlp.seas.harvard.edu/2018/04/03/attention.html)
+- Deconstructing BERT, Part 2: Visualizing the Inner Workings of Attention (https://towardsdatascience.com/deconstructing-bert-part-2-visualizing-the-inner-workings-of-attention-60a16d86b5c1) 
+- Transformers Explained Visually (Part 3): Multi-head Attention, deep dive (https://towardsdatascience.com/transformers-explained-visually-part-3-multi-head-attention-deep-dive-1c1ff1024853)
+- Attention? Attention! (https://lilianweng.github.io/posts/2018-06-24-attention/)
+- The Transformer Family (https://lilianweng.github.io/posts/2020-04-07-the-transformer-family/)
+- The Transformer Family Version 2.0 (https://lilianweng.github.io/posts/2023-01-27-the-transformer-family-v2/)
+- Beautifully Illustrated: NLP Models from RNN to Transformer (https://towardsdatascience.com/beautifully-illustrated-nlp-models-from-rnn-to-transformer-80d69faf2109)
+
+#### Transformer Toolkit / Techniques / Methods
+- Multimodal Toolkit - Transformers with Tabular Data (https://github.com/georgian-io/Multimodal-Toolkit)
+- LiGO - Learning to grow machine-learning models - New LiGO technique accelerates training of large machine-learning models (https://news.mit.edu/2023/new-technique-machine-learning-models-0322)
+- Understanding Parameter-Efficient Finetuning of Large Language Models: From Prefix Tuning to LLaMA-Adapters (https://lightning.ai/pages/community/article/understanding-llama-adapters/)
+- Parameter-Efficient LLM Finetuning With Low-Rank Adaptation (LoRA) (https://lightning.ai/pages/community/tutorial/lora-llm/)
+- Finetuning Large Language Models (https://magazine.sebastianraschka.com/p/finetuning-large-language-models)
+- RLHF: Reinforcement Learning from Human Feedback (https://huyenchip.com/2023/05/02/rlhf.html)
+- Building LLM applications for production (https://huyenchip.com/2023/04/11/llm-engineering.html)
+- Instruction tuning datasets to train (text and multi-modal) chat-based LLMs (GPT-4, ChatGPT,LLaMA,Alpaca) (https://github.com/yaodongC/awesome-instruction-dataset)
+- Hugging Face - Parameter-Efficient Fine-Tuning (PEFT) methods (https://github.com/huggingface/peft)
+- [Video] State of GPT - Learn about the training pipeline of GPT assistants (https://www.youtube.com/watch?v=bZQun8Y4L2A&t=1s)
+- Google "We Have No Moat, And Neither Does OpenAI" (https://www.semianalysis.com/p/google-we-have-no-moat-and-neither)
+
+#### Transformer Models / Timeline
+- 7 Basic NLP Models to Empower Your ML Application (https://zilliz.com/learn/7-nlp-models)
+- 7 models on HuggingFace you probably didn’t know existed (https://towardsdatascience.com/7-models-on-huggingface-you-probably-didnt-knew-existed-f3d079a4fd7c)
 - ChatGPT, GenerativeAI and LLMs Timeline (https://github.com/hollobit/GenAI_LLM_timeline)
 - AI / ML / LLM / Transformer Models Timeline and List (https://ai.v-gar.de/ml/transformer/timeline/index.html)
 - Comprehensive LLM model zoo (https://crfm.stanford.edu/ecosystem-graphs/index.html?mode=table)
-- The Transformer Family (https://lilianweng.github.io/posts/2020-04-07-the-transformer-family/)
+- Totally Open Chatgpt (https://github.com/nichtdax/awesome-totally-open-chatgpt)
+- GPT4All (https://github.com/nomic-ai/gpt4all)
+- TII open-sourced Falcon LLM (https://huggingface.co/tiiuae)
 - Question generator with context (https://huggingface.co/voidful/bart-eqg-question-generator)
 - T5 One Line Summary (https://huggingface.co/snrspeaks/t5-one-line-summary)
 - T5-base fine-tuned on SQuAD for Question Generation by just prepending the answer to the context (https://huggingface.co/mrm8488/t5-base-finetuned-question-generation-ap)
 - Parrot_paraphraser_on_T5 (https://huggingface.co/prithivida/parrot_paraphraser_on_T5)
 - T0pp (https://huggingface.co/bigscience/T0pp) (https://huggingface.co/GroNLP/T0pp-sharded)
 
-## Transformer
-- A Very Gentle Introduction to Large Language Models without the Hype - 38 min read (https://mark-riedl.medium.com/a-very-gentle-introduction-to-large-language-models-without-the-hype-5f67941fa59e)
-- Transformer Anatomy guide (https://www.kaggle.com/code/pastorsoto/transformer-anatomy-guide)
-- Instruction tuning datasets to train (text and multi-modal) chat-based LLMs (GPT-4, ChatGPT,LLaMA,Alpaca) (https://github.com/yaodongC/awesome-instruction-dataset)
-- Totally Open Chatgpt (https://github.com/nichtdax/awesome-totally-open-chatgpt)
-- TII open-sourced Falcon LLM (https://huggingface.co/tiiuae)
-- Hugging Face - Parameter-Efficient Fine-Tuning (PEFT) methods (https://github.com/huggingface/peft)
-
-## GPT Applications
+#### Transformer Sample Applications
+- Beyond Classification With Transformers and Hugging Face (https://towardsdatascience.com/beyond-classification-with-transformers-and-hugging-face-d38c75f574fb)
+- Faster Text Classification with Naive Bayes and GPUs (https://developer.nvidia.com/blog/faster-text-classification-with-naive-bayes-and-gpus)
+- Classifying Multimodal Data using Transformers (https://github.com/dsaidgovsg/multimodal-learning-hands-on-tutorial)
+- Chris McCormick
+- > [Video] BERT Document Classification Tutorial with Code - including Semantic Similarity Search (https://www.youtube.com/watch?v=_eSGWNqKeeY)
+- > Combining Categorical and Numerical Features with Text in BERT (https://mccormickml.com/2021/06/29/combining-categorical-numerical-features-with-bert/)
+- > Smart Batching Tutorial - Speed Up BERT Training (https://mccormickml.com/2020/07/29/smart-batching-tutorial/)
+- [Discussion] How to use Bert for long text classification? (https://stackoverflow.com/questions/58636587/how-to-use-bert-for-long-text-classification/63413589#63413589)
+- Sentiment Analysis with BERT and Transformers by Hugging Face using PyTorch and Python (https://curiousily.com/posts/sentiment-analysis-with-bert-and-hugging-face-using-pytorch-and-python/)
+- Custom Named Entity Recognition with BERT (https://towardsdatascience.com/custom-named-entity-recognition-with-bert-cf1fd4510804)
+- The Guide to Multi-Tasking with the T5 Transformer (https://towardsdatascience.com/the-guide-to-multi-tasking-with-the-t5-transformer-90c70a08837b)
+- A Full Guide to Finetuning T5 for Text2Text and Building a Demo with Streamlit (https://medium.com/nlplanet/a-full-guide-to-finetuning-t5-for-text2text-and-building-a-demo-with-streamlit-c72009631887) (https://colab.research.google.com/drive/1RFBIkTZEqbRt0jxpTHgRudYJBZTD3Szn?usp=sharing)
+- Building a Knowledge Base from Texts: a Full Practical Example (https://medium.com/nlplanet/building-a-knowledge-base-from-texts-a-full-practical-example-8dbbffb912fa)
+- Building a Personal Assistant from Scratch - intent classification, speech-to-text, and text-to-speech (https://medium.com/nlplanet/building-a-personal-assistant-from-scratch-db0814e62d34)
 - How I Turned My Company’s Docs into a Searchable Database with OpenAI (https://towardsdatascience.com/how-i-turned-my-companys-docs-into-a-searchable-database-with-openai-4f2d34bd8736)
 - How I Turned ChatGPT into an SQL-Like Translator for Image and Video Datasets (https://towardsdatascience.com/how-i-turned-chatgpt-into-an-sql-like-translator-for-image-and-video-datasets-7b22b318400a)
 - What I Learned Pushing Prompt Engineering to the Limit (https://towardsdatascience.com/what-i-learned-pushing-prompt-engineering-to-the-limit-c40f0740641f)
 
-## GPT
-- GPT4All (https://github.com/nomic-ai/gpt4all)
-- Google "We Have No Moat, And Neither Does OpenAI" (https://www.semianalysis.com/p/google-we-have-no-moat-and-neither)
-- State of GPT (https://www.youtube.com/watch?v=bZQun8Y4L2A&t=1s)
+#### Q&A
+- How to build an AI that can answer questions about your website (https://platform.openai.com/docs/tutorials/web-qa-embeddings)
+- openai-cookbook (https://github.com/openai/openai-cookbook/tree/3826607431929af5d58ba442aa3c2893009f637b/examples/fine-tuned_qa)
+- Fine-Tune Transformer Models For Question Answering On Custom Data (https://towardsdatascience.com/fine-tune-transformer-models-for-question-answering-on-custom-data-513eaac37a80)
+- Revolutionise Your Q&A Bot with GPT-J: The Open-Source Game Changer as a Replacement for GPT-3 (https://medium.com/@maliahrajan/revolutionise-your-q-a-bot-with-gpt-j-the-open-source-game-changer-as-a-replacement-for-gpt-3-216bc4362b53)
+- How to build a Q&A web application using Python and Anvil (https://www.section.io/engineering-education/building-a-qa-web-application/)
+- Build a Deep Q&A Web App with Transformers and Anvil | Python Deep Learning App (https://www.youtube.com/watch?v=G1uGSkANZjQ) (https://github.com/nicknochnack/Q-A-Anvil-App/blob/main/Anvil-Tutorial.ipynb)
+- Open Source Generative AI in Question-Answering (NLP) using Python (https://www.youtube.com/watch?v=L8U-pm-vZ4c) (https://docs.pinecone.io/docs/abstractive-question-answering)
+- Build a Question Answering Engine (Towhee & Gradio Chatbot) (https://github.com/towhee-io/examples/blob/main/nlp/question_answering/1_build_question_answering_engine.ipynb)
+- Question Generation using 🤗transformers (https://github.com/patil-suraj/question_generation) (https://colab.research.google.com/gist/nrjvarshney/39ed6c80e2fe293b9e7eca5bc3a45b7d/quiz.ipynb) (https://huggingface.co/mrm8488/t5-base-finetuned-question-generation-ap)
+
+
+
+
+
+
+
 
