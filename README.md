@@ -380,6 +380,11 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - Cross-validation (https://www.datamuni.com/@abhishek/basics-of-cross-validation)
 - 7 Cool Python Packages Kagglers Are Using Without Telling You (https://towardsdatascience.com/7-cool-python-packages-kagglers-are-using-without-telling-you-e83298781cf4)
 
+#### Database
+- Blogs about streaming database (https://medium.com/@yingjunwu)
+- Rethinking Stream Processing and Streaming Databases (https://betterprogramming.pub/rethinking-stream-processing-and-streaming-databases-21076aaec375)
+- Why You Shouldn’t Invest In Vector Databases? (https://medium.com/data-engineer-things/why-you-shouldnt-invest-in-vector-databases-c0cd3f59d23c)
+  
 ## 👍 Interesting and Fun
 - A Visual Guide to Regular Expression (https://amitness.com/regex/)
 - Machine Learning Glossary (https://developers.google.com/machine-learning/glossary/)
