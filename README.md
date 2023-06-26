@@ -772,6 +772,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - https://github.com/fylls/genome-sequencing
 
 ## 👍 Transformer Anatomy / Guide 
+- AI Canon - a curated list of resources (https://a16z.com/2023/05/25/ai-canon/)
 - A Very Gentle Introduction to Large Language Models without the Hype - 38 min read (https://mark-riedl.medium.com/a-very-gentle-introduction-to-large-language-models-without-the-hype-5f67941fa59e)
 - Transformer Anatomy guide (https://www.kaggle.com/code/pastorsoto/transformer-anatomy-guide)
 - The Annotated Transformer (http://nlp.seas.harvard.edu/2018/04/03/attention.html)
@@ -794,6 +795,10 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - Hugging Face - Parameter-Efficient Fine-Tuning (PEFT) methods (https://github.com/huggingface/peft)
 - [Video] State of GPT - Learn about the training pipeline of GPT assistants (https://www.youtube.com/watch?v=bZQun8Y4L2A&t=1s)
 - Google "We Have No Moat, And Neither Does OpenAI" (https://www.semianalysis.com/p/google-we-have-no-moat-and-neither)
+- Emerging Architectures for LLM Applications (https://a16z.com/2023/06/20/emerging-architectures-for-llm-applications/)
+- The Secret Sauce behind 100K context window in LLMs: all tricks in one place (https://blog.gopenai.com/how-to-speed-up-llms-and-use-100k-context-window-all-tricks-in-one-place-ffd40577b4c)
+- Falcon – A guide to finetune and inference (https://lightning.ai/pages/blog/falcon-a-guide-to-finetune-and-inference/)
+- All You Need to Know to Build Your First LLM App (https://towardsdatascience.com/all-you-need-to-know-to-build-your-first-llm-app-eb982c78ffac) $$
 
 #### Transformer Models / Timeline
 - 7 Basic NLP Models to Empower Your ML Application (https://zilliz.com/learn/7-nlp-models)
