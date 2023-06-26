@@ -785,6 +785,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - Beautifully Illustrated: NLP Models from RNN to Transformer (https://towardsdatascience.com/beautifully-illustrated-nlp-models-from-rnn-to-transformer-80d69faf2109)
 
 #### Transformer Toolkit / Techniques / Methods
+- Prompt Engineering Guide (https://www.promptingguide.ai/techniques)
 - Multimodal Toolkit - Transformers with Tabular Data (https://github.com/georgian-io/Multimodal-Toolkit)
 - LiGO - Learning to grow machine-learning models - New LiGO technique accelerates training of large machine-learning models (https://news.mit.edu/2023/new-technique-machine-learning-models-0322)
 - Understanding Parameter-Efficient Finetuning of Large Language Models: From Prefix Tuning to LLaMA-Adapters (https://lightning.ai/pages/community/article/understanding-llama-adapters/)
