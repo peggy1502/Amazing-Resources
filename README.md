@@ -836,8 +836,8 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - How I Turned ChatGPT into an SQL-Like Translator for Image and Video Datasets (https://towardsdatascience.com/how-i-turned-chatgpt-into-an-sql-like-translator-for-image-and-video-datasets-7b22b318400a)
 - What I Learned Pushing Prompt Engineering to the Limit (https://towardsdatascience.com/what-i-learned-pushing-prompt-engineering-to-the-limit-c40f0740641f)
 - 10 Exciting Project Ideas Using Large Language Models (LLMs) for Your Portfolio (https://towardsdatascience.com/10-exciting-project-ideas-using-large-language-models-llms-for-your-portfolio-970b7ab4cf9e) $$
-- Build a Telegram chatbot with any AI model under the hood (web scraping summarizer bot) (https://medium.com/@galperovich/build-a-telegram-chatbot-with-any-ai-model-under-the-hood-62f9a8675d81)
-- Put ChatGPT right into your messenger: build a Telegram bot with the new official OpenAI API (https://blog.gopenai.com/put-chatgpt-right-into-your-messenger-build-a-telegram-bot-with-the-new-official-openai-api-84f7c005de7f)
+- Build a Telegram chatbot with any AI model under the hood (web scraping summarizer bot) (https://medium.com/@galperovich/build-a-telegram-chatbot-with-any-ai-model-under-the-hood-62f9a8675d81) (https://github.com/galinaalperovich/ai_summary_tg_bot)
+- Put ChatGPT right into your messenger: build a Telegram bot with the new official OpenAI API (https://blog.gopenai.com/put-chatgpt-right-into-your-messenger-build-a-telegram-bot-with-the-new-official-openai-api-84f7c005de7f) (https://github.com/galinaalperovich/chatgpt-api-tg-bot)
 
 #### Q&A
 - How to build an AI that can answer questions about your website (https://platform.openai.com/docs/tutorials/web-qa-embeddings)
