@@ -833,6 +833,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - How I Turned My Company’s Docs into a Searchable Database with OpenAI (https://towardsdatascience.com/how-i-turned-my-companys-docs-into-a-searchable-database-with-openai-4f2d34bd8736)
 - How I Turned ChatGPT into an SQL-Like Translator for Image and Video Datasets (https://towardsdatascience.com/how-i-turned-chatgpt-into-an-sql-like-translator-for-image-and-video-datasets-7b22b318400a)
 - What I Learned Pushing Prompt Engineering to the Limit (https://towardsdatascience.com/what-i-learned-pushing-prompt-engineering-to-the-limit-c40f0740641f)
+- 10 Exciting Project Ideas Using Large Language Models (LLMs) for Your Portfolio (https://towardsdatascience.com/10-exciting-project-ideas-using-large-language-models-llms-for-your-portfolio-970b7ab4cf9e) $$
 
 #### Q&A
 - How to build an AI that can answer questions about your website (https://platform.openai.com/docs/tutorials/web-qa-embeddings)
