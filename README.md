@@ -232,6 +232,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - Deep Recommender Systems at Facebook feat. Carole-Jean Wu | Stanford MLSys Seminar Episode 24 (https://www.youtube.com/watch?v=5xcd0V9m6Xs)
 - Twitter's Recommendation Algorithm (https://blog.twitter.com/engineering/en_us/topics/open-source/2023/twitter-recommendation-algorithm) (https://github.com/twitter/the-algorithm) (https://github.com/twitter/the-algorithm-ml)
 - Personalized recommendations articles by Gaurav Chakravorty (https://www.linkedin.com/today/author/gauravchak?trk=article-ssr-frontend-pulse_more-articles)
+- Accelerating AI: Implementing Multi-GPU Distributed Training for Personalized Recommendations (https://multithreaded.stitchfix.com/blog/2023/06/08/distributed-model-training/)
 
 #### Similarity Search / ANNS / Vector Indexing
 - Pinecone - A managed, cloud-native vector database with a simple API (https://www.pinecone.io/learn/) (https://docs.pinecone.io/docs/examples)
@@ -789,9 +790,6 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - Prompt Engineering Guide (https://www.promptingguide.ai/techniques)
 - Multimodal Toolkit - Transformers with Tabular Data (https://github.com/georgian-io/Multimodal-Toolkit)
 - LiGO - Learning to grow machine-learning models - New LiGO technique accelerates training of large machine-learning models (https://news.mit.edu/2023/new-technique-machine-learning-models-0322)
-- Understanding Parameter-Efficient Finetuning of Large Language Models: From Prefix Tuning to LLaMA-Adapters (https://lightning.ai/pages/community/article/understanding-llama-adapters/)
-- Parameter-Efficient LLM Finetuning With Low-Rank Adaptation (LoRA) (https://lightning.ai/pages/community/tutorial/lora-llm/)
-- Accelerating Large Language Models with Mixed-Precision Techniques (https://lightning.ai/pages/community/tutorial/accelerating-large-language-models-with-mixed-precision-techniques/)
 - Finetuning Large Language Models (https://magazine.sebastianraschka.com/p/finetuning-large-language-models)
 - RLHF: Reinforcement Learning from Human Feedback (https://huyenchip.com/2023/05/02/rlhf.html)
 - Building LLM applications for production (https://huyenchip.com/2023/04/11/llm-engineering.html)
@@ -801,8 +799,16 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - Google "We Have No Moat, And Neither Does OpenAI" (https://www.semianalysis.com/p/google-we-have-no-moat-and-neither)
 - Emerging Architectures for LLM Applications (https://a16z.com/2023/06/20/emerging-architectures-for-llm-applications/)
 - The Secret Sauce behind 100K context window in LLMs: all tricks in one place (https://blog.gopenai.com/how-to-speed-up-llms-and-use-100k-context-window-all-tricks-in-one-place-ffd40577b4c)
-- Falcon – A guide to finetune and inference (https://lightning.ai/pages/blog/falcon-a-guide-to-finetune-and-inference/)
 - All You Need to Know to Build Your First LLM App (https://towardsdatascience.com/all-you-need-to-know-to-build-your-first-llm-app-eb982c78ffac) $$
+
+#### Lightning AI
+- Understanding Parameter-Efficient Finetuning of Large Language Models: From Prefix Tuning to LLaMA-Adapters (https://lightning.ai/pages/community/article/understanding-llama-adapters/)
+- How To Finetune GPT Like Large Language Models on a Custom Dataset (https://lightning.ai/pages/blog/how-to-finetune-gpt-like-large-language-models-on-a-custom-dataset/)
+- Parameter-Efficient LLM Finetuning With Low-Rank Adaptation (LoRA) (https://lightning.ai/pages/community/tutorial/lora-llm/)
+- Efficient Initialization of Large Models (https://lightning.ai/pages/community/efficient-initialization-of-large-models/) 
+- Accelerating Large Language Models with Mixed-Precision Techniques (https://lightning.ai/pages/community/tutorial/accelerating-large-language-models-with-mixed-precision-techniques/)
+- Faster PyTorch Training by Reducing Peak Memory (combining backward pass + optimizer step) (https://lightning.ai/pages/community/tutorial/faster-pytorch-training-by-reducing-peak-memory/)
+- Falcon – A guide to finetune and inference (https://lightning.ai/pages/blog/falcon-a-guide-to-finetune-and-inference/)
 
 #### Transformer Models / Timeline
 - Open LLM Leaderboard (https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard)
