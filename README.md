@@ -772,10 +772,11 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - https://github.com/fylls/genomic-data-science
 - https://github.com/fylls/genome-sequencing
 
-## 👍 Transformer Anatomy / Guide 
+## 👍 Transformer Architecture / Anatomy / Guide 
 - AI Canon - a curated list of resources (https://a16z.com/2023/05/25/ai-canon/)
 - A Very Gentle Introduction to Large Language Models without the Hype - 38 min read (https://mark-riedl.medium.com/a-very-gentle-introduction-to-large-language-models-without-the-hype-5f67941fa59e)
 - Transformer Anatomy guide (https://www.kaggle.com/code/pastorsoto/transformer-anatomy-guide)
+- Notebooks for the book: Natural Language Processing with Transformers (https://github.com/nlp-with-transformers/notebooks)
 - The Annotated Transformer (http://nlp.seas.harvard.edu/2018/04/03/attention.html)
 - Deconstructing BERT, Part 2: Visualizing the Inner Workings of Attention (https://towardsdatascience.com/deconstructing-bert-part-2-visualizing-the-inner-workings-of-attention-60a16d86b5c1) 
 - Transformers Explained Visually (Part 3): Multi-head Attention, deep dive (https://towardsdatascience.com/transformers-explained-visually-part-3-multi-head-attention-deep-dive-1c1ff1024853)
