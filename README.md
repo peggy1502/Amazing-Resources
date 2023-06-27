@@ -802,6 +802,10 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - All You Need to Know to Build Your First LLM App (https://towardsdatascience.com/all-you-need-to-know-to-build-your-first-llm-app-eb982c78ffac) $$
 
 #### Lightning AI
+- Accelerate PyTorch Code with Fabric (https://lightning.ai/pages/blog/accelerate-pytorch-code-with-fabric/)
+- How to Speed Up PyTorch Model Training (https://lightning.ai/pages/community/tutorial/how-to-speed-up-pytorch-model-training/)
+- Finetuning LLMs on a Single GPU Using Gradient Accumulation (https://lightning.ai/pages/blog/gradient-accumulation/)
+- Accelerating LLaMA with Fabric: A Comprehensive Guide to Training and Fine-Tuning LLaMA (https://lightning.ai/pages/community/tutorial/accelerating-llama-with-fabric-a-comprehensive-guide-to-training-and-fine-tuning-llama/)
 - Understanding Parameter-Efficient Finetuning of Large Language Models: From Prefix Tuning to LLaMA-Adapters (https://lightning.ai/pages/community/article/understanding-llama-adapters/)
 - How To Finetune GPT Like Large Language Models on a Custom Dataset (https://lightning.ai/pages/blog/how-to-finetune-gpt-like-large-language-models-on-a-custom-dataset/)
 - Parameter-Efficient LLM Finetuning With Low-Rank Adaptation (LoRA) (https://lightning.ai/pages/community/tutorial/lora-llm/)
