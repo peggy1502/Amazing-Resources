@@ -802,6 +802,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - All You Need to Know to Build Your First LLM App (https://towardsdatascience.com/all-you-need-to-know-to-build-your-first-llm-app-eb982c78ffac) $$
 
 #### Lightning AI
+- [Course] Deep Learning Fundamentals (https://lightning.ai/pages/courses/deep-learning-fundamentals/)
 - Accelerate PyTorch Code with Fabric (https://lightning.ai/pages/blog/accelerate-pytorch-code-with-fabric/)
 - How to Speed Up PyTorch Model Training (https://lightning.ai/pages/community/tutorial/how-to-speed-up-pytorch-model-training/)
 - Finetuning LLMs on a Single GPU Using Gradient Accumulation (https://lightning.ai/pages/blog/gradient-accumulation/)
