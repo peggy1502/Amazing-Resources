@@ -615,6 +615,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - GoogleNews (https://github.com/Iceloof/GoogleNews)
 - Interactive network visualizations (https://pyvis.readthedocs.io/en/latest/index.html)
 - markdownify - Convert HTML to markdown (https://pypi.org/project/markdownify/)
+- ResumeWizard (https://resume-wizard.vercel.app/)
 
 ## 👍 Job / Interview / DS Portfolio
 - Interview Query - Questions and Blogs (https://www.interviewquery.com/p/data-science-interview-questions)(https://www.interviewquery.com/articles)(https://www.interviewquery.com/blog)
@@ -785,6 +786,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - The Transformer Family (https://lilianweng.github.io/posts/2020-04-07-the-transformer-family/)
 - The Transformer Family Version 2.0 (https://lilianweng.github.io/posts/2023-01-27-the-transformer-family-v2/)
 - Beautifully Illustrated: NLP Models from RNN to Transformer (https://towardsdatascience.com/beautifully-illustrated-nlp-models-from-rnn-to-transformer-80d69faf2109)
+- Understanding Transformers: A Step-by-Step Math Example — Part 1 (https://blog.gopenai.com/understanding-transformers-a-step-by-step-math-example-part-1-a7809015150a)
 
 #### Transformer Toolkit / Techniques / Methods
 - Prompt Engineering Guide (https://www.promptingguide.ai/techniques)
