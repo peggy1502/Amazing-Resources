@@ -788,6 +788,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - Beautifully Illustrated: NLP Models from RNN to Transformer (https://towardsdatascience.com/beautifully-illustrated-nlp-models-from-rnn-to-transformer-80d69faf2109)
 - Understanding Transformers: A Step-by-Step Math Example — Part 1 (https://blog.gopenai.com/understanding-transformers-a-step-by-step-math-example-part-1-a7809015150a)
 
+
 #### Transformer Toolkit / Techniques / Methods
 - Prompt Engineering Guide (https://www.promptingguide.ai/techniques)
 - Multimodal Toolkit - Transformers with Tabular Data (https://github.com/georgian-io/Multimodal-Toolkit)
@@ -802,6 +803,8 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - Emerging Architectures for LLM Applications (https://a16z.com/2023/06/20/emerging-architectures-for-llm-applications/)
 - The Secret Sauce behind 100K context window in LLMs: all tricks in one place (https://blog.gopenai.com/how-to-speed-up-llms-and-use-100k-context-window-all-tricks-in-one-place-ffd40577b4c)
 - All You Need to Know to Build Your First LLM App (https://towardsdatascience.com/all-you-need-to-know-to-build-your-first-llm-app-eb982c78ffac) $$
+- Neural Networks: Zero to Hero - A course by Andrej Karpathy - Syllabus & links to videos (https://karpathy.ai/zero-to-hero.html)
+- > [Video] Let's build GPT: from scratch, in code, spelled out. (https://www.youtube.com/watch?v=kCc8FmEb1nY)
 
 #### Lightning AI
 - [Course] Deep Learning Fundamentals (https://lightning.ai/pages/courses/deep-learning-fundamentals/)
