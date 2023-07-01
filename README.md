@@ -359,6 +359,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - Predicting Credit Defaults Using Time-Series Models with Recursive Neural Networks and XGBoost (https://developer.nvidia.com/blog/predicting-credit-defaults-using-time-series-models-with-recursive-neural-networks-and-xgboost/) (https://github.com/daxiongshu/triton_amex)
 - How to Measure Drift in ML Embeddings (https://towardsdatascience.com/how-to-measure-drift-in-ml-embeddings-ee8adfe1e55e) (https://www.evidentlyai.com/blog/embedding-drift-detection)
 - Large Language Models in Molecular Biology (https://towardsdatascience.com/large-language-models-in-molecular-biology-9eb6b65d8a30)
+- Five mistakes to avoid when modeling with imbalanced datasets (https://medium.com/data-science-at-microsoft/five-mistakes-to-avoid-when-modeling-with-imbalanced-datasets-d58a8c09929c)
 
 #### EDA / Data Visualization
 - Plotly Fundamentals (https://plotly.com/python/plotly-fundamentals/)
