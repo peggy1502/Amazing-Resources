@@ -358,6 +358,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - Is it Better to Save Models Using Joblib or Pickle? (https://medium.com/nlplanet/is-it-better-to-save-models-using-joblib-or-pickle-776722b5a095)
 - Predicting Credit Defaults Using Time-Series Models with Recursive Neural Networks and XGBoost (https://developer.nvidia.com/blog/predicting-credit-defaults-using-time-series-models-with-recursive-neural-networks-and-xgboost/) (https://github.com/daxiongshu/triton_amex)
 - How to Measure Drift in ML Embeddings (https://towardsdatascience.com/how-to-measure-drift-in-ml-embeddings-ee8adfe1e55e) (https://www.evidentlyai.com/blog/embedding-drift-detection)
+- Large Language Models in Molecular Biology (https://towardsdatascience.com/large-language-models-in-molecular-biology-9eb6b65d8a30)
 
 #### EDA / Data Visualization
 - Plotly Fundamentals (https://plotly.com/python/plotly-fundamentals/)
