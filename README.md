@@ -361,6 +361,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - Large Language Models in Molecular Biology (https://towardsdatascience.com/large-language-models-in-molecular-biology-9eb6b65d8a30)
 - Five mistakes to avoid when modeling with imbalanced datasets (https://medium.com/data-science-at-microsoft/five-mistakes-to-avoid-when-modeling-with-imbalanced-datasets-d58a8c09929c) (https://github.com/PilCAki/imbalanced-dataset-common-errors/blob/main/Imbalanced%20Dataset%20Examples.ipynb)
 - Categorically: Don’t explode — encode! (https://github.com/PilCAki/machine-learning-tips/blob/main/Don't%20Explode%20-%20Encode!.ipynb)
+- Out-of-bag validation for random forests (https://medium.com/data-science-at-microsoft/out-of-bag-validation-for-random-forests-378f2b292560) (https://github.com/PilCAki/machine-learning-tips/blob/main/Out%20Of%20Bag%20Validation%20for%20Random%20Forests.ipynb)
 
 #### EDA / Data Visualization
 - Plotly Fundamentals (https://plotly.com/python/plotly-fundamentals/)
