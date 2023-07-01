@@ -255,6 +255,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - BERT models with Solr and Elasticsearch (https://github.com/DmitryKey/bert-solr-search)
 - Generative Feedback Loops with LLMs for Vector Databases (https://weaviate.io/blog/generative-feedback-loops-with-llms)
 - From zero to semantic search embedding model (https://blog.metarank.ai/from-zero-to-semantic-search-embedding-model-592e16d94b61)
+- Example of using factory pattern for your vectorstore implementation (https://github.com/trancethehuman/factory-pattern-vectorstore-interface) (https://www.youtube.com/watch?v=v1LyUJ5NFFU)
 
 #### Search / Code Search / Information Retrieval
 - A brief history of code search at GitHub (https://github.blog/2021-12-15-a-brief-history-of-code-search-at-github/)
