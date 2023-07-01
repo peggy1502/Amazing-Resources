@@ -104,6 +104,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - AWS Simple Workflow vs AWS Step Functions vs Apache Airflow (https://digitalcloud.training/aws-simple-workflow-vs-aws-step-functions-vs-apache-airflow/)
 - Is it the end for Apache Airflow? (https://uncledata.medium.com/is-it-the-end-for-apache-airflow-81ef027becf4)
 - Scalable data preparation & ML using Apache Spark on AWS (https://github.com/debnsuma/sagemaker-studio-emr-spark)
+- Interactively fine-tune Falcon-40B and other LLMs on Amazon SageMaker Studio notebooks using QLoRA (https://aws.amazon.com/blogs/machine-learning/interactively-fine-tune-falcon-40b-and-other-llms-on-amazon-sagemaker-studio-notebooks-using-qlora/)
 
 ## 👍 Videos
 - StatQuest (https://statquest.org/video-index/)
@@ -811,6 +812,8 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - Neural Networks: Zero to Hero - A course by Andrej Karpathy - Syllabus & links to videos (https://karpathy.ai/zero-to-hero.html)
 - > [Video] Let's build GPT: from scratch, in code, spelled out. (https://www.youtube.com/watch?v=kCc8FmEb1nY)
 - Decoding Strategies in Large Language Models (https://towardsdatascience.com/decoding-strategies-in-large-language-models-9733a8f70539) $$
+- Interactively fine-tune Falcon-40B and other LLMs on Amazon SageMaker Studio notebooks using QLoRA (https://aws.amazon.com/blogs/machine-learning/interactively-fine-tune-falcon-40b-and-other-llms-on-amazon-sagemaker-studio-notebooks-using-qlora/)
+
 
 #### Lightning AI
 - Ahead of AI (by Sebastian Raschka) (https://magazine.sebastianraschka.com/archive) (https://sebastianraschka.com/blog/)
