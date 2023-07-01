@@ -873,7 +873,9 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 
 #### 🤖 Q&A
 - How to build an AI that can answer questions about your website (https://platform.openai.com/docs/tutorials/web-qa-embeddings)
-- openai-cookbook (https://github.com/openai/openai-cookbook/tree/3826607431929af5d58ba442aa3c2893009f637b/examples/fine-tuned_qa)
+- openai-cookbook
+- > https://github.com/openai/openai-cookbook/tree/3826607431929af5d58ba442aa3c2893009f637b/examples/fine-tuned_qa
+- > https://github.com/openai/openai-cookbook/blob/main/examples/Question_answering_using_embeddings.ipynb
 - Fine-Tune Transformer Models For Question Answering On Custom Data (https://towardsdatascience.com/fine-tune-transformer-models-for-question-answering-on-custom-data-513eaac37a80)
 - Revolutionise Your Q&A Bot with GPT-J: The Open-Source Game Changer as a Replacement for GPT-3 (https://medium.com/@maliahrajan/revolutionise-your-q-a-bot-with-gpt-j-the-open-source-game-changer-as-a-replacement-for-gpt-3-216bc4362b53)
 - How to build a Q&A web application using Python and Anvil (https://www.section.io/engineering-education/building-a-qa-web-application/)
