@@ -780,7 +780,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - https://github.com/fylls/genomic-data-science
 - https://github.com/fylls/genome-sequencing
 
-## 👍 Transformer Architecture / Anatomy / Guide 
+## 🤖 Transformer Architecture / Anatomy / Guide 
 - AI Canon - a curated list of resources (https://a16z.com/2023/05/25/ai-canon/)
 - A Very Gentle Introduction to Large Language Models without the Hype - 38 min read (https://mark-riedl.medium.com/a-very-gentle-introduction-to-large-language-models-without-the-hype-5f67941fa59e)
 - Transformer Anatomy guide (https://www.kaggle.com/code/pastorsoto/transformer-anatomy-guide)
@@ -795,7 +795,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - Understanding Transformers: A Step-by-Step Math Example — Part 1 (https://blog.gopenai.com/understanding-transformers-a-step-by-step-math-example-part-1-a7809015150a)
 
 
-#### Transformer Toolkit / Techniques / Methods
+#### 🤖 Transformer Toolkit / Techniques / Methods
 - Prompt Engineering Guide (https://www.promptingguide.ai/techniques)
 - Multimodal Toolkit - Transformers with Tabular Data (https://github.com/georgian-io/Multimodal-Toolkit)
 - LiGO - Learning to grow machine-learning models - New LiGO technique accelerates training of large machine-learning models (https://news.mit.edu/2023/new-technique-machine-learning-models-0322)
@@ -815,7 +815,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - Interactively fine-tune Falcon-40B and other LLMs on Amazon SageMaker Studio notebooks using QLoRA (https://aws.amazon.com/blogs/machine-learning/interactively-fine-tune-falcon-40b-and-other-llms-on-amazon-sagemaker-studio-notebooks-using-qlora/)
 
 
-#### Lightning AI
+#### 🤖 Lightning AI
 - Ahead of AI (by Sebastian Raschka) (https://magazine.sebastianraschka.com/archive) (https://sebastianraschka.com/blog/)
 - [Course] Deep Learning Fundamentals (https://lightning.ai/pages/courses/deep-learning-fundamentals/)
 - Accelerate PyTorch Code with Fabric (https://lightning.ai/pages/blog/accelerate-pytorch-code-with-fabric/)
@@ -830,7 +830,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - Faster PyTorch Training by Reducing Peak Memory (combining backward pass + optimizer step) (https://lightning.ai/pages/community/tutorial/faster-pytorch-training-by-reducing-peak-memory/)
 - Falcon – A guide to finetune and inference (https://lightning.ai/pages/blog/falcon-a-guide-to-finetune-and-inference/)
 
-#### Transformer Models / Timeline
+#### 🤖 Transformer Models / Timeline
 - Open LLM Leaderboard (https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard)
 - 7 Basic NLP Models to Empower Your ML Application (https://zilliz.com/learn/7-nlp-models)
 - 7 models on HuggingFace you probably didn’t know existed (https://towardsdatascience.com/7-models-on-huggingface-you-probably-didnt-knew-existed-f3d079a4fd7c)
@@ -846,7 +846,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - Parrot_paraphraser_on_T5 (https://huggingface.co/prithivida/parrot_paraphraser_on_T5)
 - T0pp (https://huggingface.co/bigscience/T0pp) (https://huggingface.co/GroNLP/T0pp-sharded)
 
-#### Transformer Sample Applications
+#### 🤖 Transformer Sample Applications
 - Beyond Classification With Transformers and Hugging Face (https://towardsdatascience.com/beyond-classification-with-transformers-and-hugging-face-d38c75f574fb)
 - Faster Text Classification with Naive Bayes and GPUs (https://developer.nvidia.com/blog/faster-text-classification-with-naive-bayes-and-gpus)
 - Classifying Multimodal Data using Transformers (https://github.com/dsaidgovsg/multimodal-learning-hands-on-tutorial)
@@ -868,7 +868,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - Build a Telegram chatbot with any AI model under the hood (web scraping summarizer bot) (https://medium.com/@galperovich/build-a-telegram-chatbot-with-any-ai-model-under-the-hood-62f9a8675d81) (https://github.com/galinaalperovich/ai_summary_tg_bot)
 - Put ChatGPT right into your messenger: build a Telegram bot with the new official OpenAI API (https://blog.gopenai.com/put-chatgpt-right-into-your-messenger-build-a-telegram-bot-with-the-new-official-openai-api-84f7c005de7f) (https://github.com/galinaalperovich/chatgpt-api-tg-bot)
 
-#### Q&A
+#### 🤖 Q&A
 - How to build an AI that can answer questions about your website (https://platform.openai.com/docs/tutorials/web-qa-embeddings)
 - openai-cookbook (https://github.com/openai/openai-cookbook/tree/3826607431929af5d58ba442aa3c2893009f637b/examples/fine-tuned_qa)
 - Fine-Tune Transformer Models For Question Answering On Custom Data (https://towardsdatascience.com/fine-tune-transformer-models-for-question-answering-on-custom-data-513eaac37a80)
