@@ -623,6 +623,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - Interactive network visualizations (https://pyvis.readthedocs.io/en/latest/index.html)
 - markdownify - Convert HTML to markdown (https://pypi.org/project/markdownify/)
 - ResumeWizard (https://resume-wizard.vercel.app/)
+- 12 AI Copywriting Tools to Improve Efficiency (https://ahrefs.com/blog/ai-copywriting/)
 
 ## 👍 Job / Interview / DS Portfolio
 - Interview Query - Questions and Blogs (https://www.interviewquery.com/p/data-science-interview-questions)(https://www.interviewquery.com/articles)(https://www.interviewquery.com/blog)
