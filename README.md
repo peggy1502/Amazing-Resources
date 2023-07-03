@@ -821,7 +821,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - Interactively fine-tune Falcon-40B and other LLMs on Amazon SageMaker Studio notebooks using QLoRA (https://aws.amazon.com/blogs/machine-learning/interactively-fine-tune-falcon-40b-and-other-llms-on-amazon-sagemaker-studio-notebooks-using-qlora/) (https://github.com/aws-samples/amazon-sagemaker-generativeai/blob/main/studio-notebook-fine-tuning/falcon-40b-qlora-finetune-summarize.ipynb)
 
 
-#### 🤖 Lightning AI
+#### 🤖 Lightning AI ⚡⚡⚡
 - Ahead of AI (by Sebastian Raschka) (https://magazine.sebastianraschka.com/archive) (https://sebastianraschka.com/blog/)
 - [Course] Deep Learning Fundamentals (https://lightning.ai/pages/courses/deep-learning-fundamentals/)
 - Accelerate PyTorch Code with Fabric (https://lightning.ai/pages/blog/accelerate-pytorch-code-with-fabric/)
