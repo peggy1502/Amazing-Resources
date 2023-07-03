@@ -795,6 +795,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - The Transformer Family Version 2.0 (https://lilianweng.github.io/posts/2023-01-27-the-transformer-family-v2/)
 - Beautifully Illustrated: NLP Models from RNN to Transformer (https://towardsdatascience.com/beautifully-illustrated-nlp-models-from-rnn-to-transformer-80d69faf2109)
 - Understanding Transformers: A Step-by-Step Math Example — Part 1 (https://blog.gopenai.com/understanding-transformers-a-step-by-step-math-example-part-1-a7809015150a)
+- Understanding and Coding the Self-Attention Mechanism of Large Language Models From Scratch (https://sebastianraschka.com/blog/2023/self-attention-from-scratch.html)
 
 
 #### 🤖 Transformer Toolkit / Techniques / Methods
