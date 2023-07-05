@@ -821,6 +821,8 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - > [Video] Let's build GPT: from scratch, in code, spelled out. (https://www.youtube.com/watch?v=kCc8FmEb1nY)
 - Decoding Strategies in Large Language Models (https://towardsdatascience.com/decoding-strategies-in-large-language-models-9733a8f70539) $$
 - Interactively fine-tune Falcon-40B and other LLMs on Amazon SageMaker Studio notebooks using QLoRA (https://aws.amazon.com/blogs/machine-learning/interactively-fine-tune-falcon-40b-and-other-llms-on-amazon-sagemaker-studio-notebooks-using-qlora/) (https://github.com/aws-samples/amazon-sagemaker-generativeai/blob/main/studio-notebook-fine-tuning/falcon-40b-qlora-finetune-summarize.ipynb)
+- [Codes] CVPR 2023 - Scaling PyTorch Model Training With Minimal Code Changes (https://github.com/rasbt/cvpr2023)
+- [Codes] LLM-finetuning-scripts (https://github.com/rasbt/LLM-finetuning-scripts/tree/main)
 
 
 #### 🤖 Lightning AI ⚡⚡⚡
