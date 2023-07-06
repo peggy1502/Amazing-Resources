@@ -833,7 +833,8 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 
 
 #### 🤖 Lightning AI ⚡⚡⚡
-- 📖 Lightning Fabric Documentation (https://lightning.ai/docs/fabric/stable/) 
+- 📖 Lightning Fabric Documentation (https://lightning.ai/docs/fabric/stable/)
+- [Codes] Build Your Own Trainer (https://github.com/Lightning-AI/lightning/tree/master/examples/fabric/build_your_own_trainer)
 - ✏️ Ahead of AI (by Sebastian Raschka) (https://magazine.sebastianraschka.com/archive) (https://sebastianraschka.com/blog/)
 - [Course] Deep Learning Fundamentals (https://lightning.ai/pages/courses/deep-learning-fundamentals/)
 - Accelerate PyTorch Code with Fabric (https://lightning.ai/pages/blog/accelerate-pytorch-code-with-fabric/)
