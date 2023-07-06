@@ -833,7 +833,8 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 
 
 #### 🤖 Lightning AI ⚡⚡⚡
-- Ahead of AI (by Sebastian Raschka) (https://magazine.sebastianraschka.com/archive) (https://sebastianraschka.com/blog/)
+- 📖 Lightning Fabric Documentation (https://lightning.ai/docs/fabric/stable/) 
+- ✏️ Ahead of AI (by Sebastian Raschka) (https://magazine.sebastianraschka.com/archive) (https://sebastianraschka.com/blog/)
 - [Course] Deep Learning Fundamentals (https://lightning.ai/pages/courses/deep-learning-fundamentals/)
 - Accelerate PyTorch Code with Fabric (https://lightning.ai/pages/blog/accelerate-pytorch-code-with-fabric/)
 - How to Speed Up PyTorch Model Training (https://lightning.ai/pages/community/tutorial/how-to-speed-up-pytorch-model-training/)
