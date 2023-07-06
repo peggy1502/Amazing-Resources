@@ -823,9 +823,10 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - Decoding Strategies in Large Language Models (https://towardsdatascience.com/decoding-strategies-in-large-language-models-9733a8f70539) $$
 - Interactively fine-tune Falcon-40B and other LLMs on Amazon SageMaker Studio notebooks using QLoRA (https://aws.amazon.com/blogs/machine-learning/interactively-fine-tune-falcon-40b-and-other-llms-on-amazon-sagemaker-studio-notebooks-using-qlora/) (https://github.com/aws-samples/amazon-sagemaker-generativeai/blob/main/studio-notebook-fine-tuning/falcon-40b-qlora-finetune-summarize.ipynb)
 - [Codes] CVPR 2023 - Scaling PyTorch Model Training With Minimal Code Changes (https://github.com/rasbt/cvpr2023)
-- [Codes] LLM-finetuning-scripts (https://github.com/rasbt/LLM-finetuning-scripts/tree/main)
+- [Codes] LLM-finetuning-scripts (https://github.com/rasbt/LLM-finetuning-scripts/)
 - [Codes] LoRA (https://github.com/rasbt/low-rank-adaptation-blog)
 - [Codes] Gradient Accumulation (https://github.com/rasbt/gradient-accumulation-blog/)
+- [Codes] Optimizing PyTorch Memory Usage (https://github.com/rasbt/pytorch-memory-optim/)
 
 
 #### 🤖 Lightning AI ⚡⚡⚡
