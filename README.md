@@ -786,6 +786,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 ## 🤖 Transformer Architecture / Anatomy / Guide 
 - AI Canon - a curated list of resources (https://a16z.com/2023/05/25/ai-canon/)
 - A Very Gentle Introduction to Large Language Models without the Hype - 38 min read (https://mark-riedl.medium.com/a-very-gentle-introduction-to-large-language-models-without-the-hype-5f67941fa59e)
+- The Animated Transformer (https://prvnsmpth.github.io/animated-transformer/)
 - Transformer Anatomy guide (https://www.kaggle.com/code/pastorsoto/transformer-anatomy-guide)
 - Notebooks for the book: Natural Language Processing with Transformers (https://github.com/nlp-with-transformers/notebooks)
 - The Annotated Transformer (http://nlp.seas.harvard.edu/2018/04/03/attention.html)
