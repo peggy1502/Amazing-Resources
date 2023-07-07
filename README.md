@@ -129,6 +129,9 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - Dataquest (https://www.youtube.com/channel/UC_lePY0Lm0E2-_IkYUWpI5A)
 - ByteByteGo (https://www.youtube.com/c/ByteByteGo/playlists)
 - Nicholas Renotte - Learn Machine Learning (https://www.youtube.com/@NicholasRenotte/playlists)
+- Andrej Karpathy - Neural Networks: Zero to Hero (https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ) (https://github.com/0ssamaak0/Karpathy-Neural-Networks-Zero-to-Hero)
+
+
 
 ## 👍 Books
 - The Hundred-Page Machine Learning Book (http://themlbook.com/wiki/doku.php)
@@ -365,6 +368,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - Five mistakes to avoid when modeling with imbalanced datasets (https://medium.com/data-science-at-microsoft/five-mistakes-to-avoid-when-modeling-with-imbalanced-datasets-d58a8c09929c) (https://github.com/PilCAki/imbalanced-dataset-common-errors/blob/main/Imbalanced%20Dataset%20Examples.ipynb)
 - Categorically: Don’t explode — encode! (https://github.com/PilCAki/machine-learning-tips/blob/main/Don't%20Explode%20-%20Encode!.ipynb)
 - Out-of-bag validation for random forests (https://medium.com/data-science-at-microsoft/out-of-bag-validation-for-random-forests-378f2b292560) (https://github.com/PilCAki/machine-learning-tips/blob/main/Out%20Of%20Bag%20Validation%20for%20Random%20Forests.ipynb)
+- Yes you should understand backprop (https://karpathy.medium.com/yes-you-should-understand-backprop-e2f06eab496b) (https://www.youtube.com/watch?v=i94OvYb6noo)
 
 #### EDA / Data Visualization
 - Plotly Fundamentals (https://plotly.com/python/plotly-fundamentals/)
