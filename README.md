@@ -767,6 +767,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - > TUTORIAL 5: TRANSFORMERS AND MULTI-HEAD ATTENTION (https://lightning.ai/docs/pytorch/stable/notebooks/course_UvA-DL/05-transformers-and-MH-attention.html)
 - University of Amsterdam - UvA Deep Learning Tutorials (https://uvadlc-notebooks.readthedocs.io/en/latest/) (https://www.youtube.com/playlist?list=PLdlPlO1QhMiAkedeu0aJixfkknLRxk1nA)
 - Debugging in PyTorch (https://uvadlc-notebooks.readthedocs.io/en/latest/tutorial_notebooks/guide3/Debugging_PyTorch.html)
+- TorchMetrics - How do we use it, and what's the difference between .update() and .forward()? (https://sebastianraschka.com/blog/2022/torchmetrics.html) (https://github.com/rasbt/torchmetrics-blog/blob/main/torchmetrics-update-forward.ipynb)
 
 ## 🔦 PyTorch-Related Discussions
 - How to modify a pretrained model (https://discuss.pytorch.org/t/how-to-modify-a-pretrained-model/60509)
