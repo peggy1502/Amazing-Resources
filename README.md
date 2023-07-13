@@ -537,6 +537,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - Things that confused me about cross-entropy (https://chris-said.io/2020/12/26/two-things-that-confused-me-about-cross-entropy/)
 - Mathematics for Machine Learning (https://github.com/dair-ai/Mathematics-for-ML)
 - Seeing Theory - Visual introduction to probability and statistics (https://seeing-theory.brown.edu/index.html#firstPage)
+- Calculus and Differentiation Primer (https://sebastianraschka.com/pdf/books/dlb/appendix_d_calculus.pdf)
 
 ## 👍 Datasets
 - 24 Free Datasets for Building an Irresistible Portfolio (2022) (https://www.dataquest.io/blog/free-datasets-for-projects/)
