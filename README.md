@@ -858,6 +858,8 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - Accelerating Large Language Models with Mixed-Precision Techniques (https://lightning.ai/pages/community/tutorial/accelerating-large-language-models-with-mixed-precision-techniques/)
 - Faster PyTorch Training by Reducing Peak Memory (combining backward pass + optimizer step) (https://lightning.ai/pages/community/tutorial/faster-pytorch-training-by-reducing-peak-memory/)
 - Falcon – A guide to finetune and inference (https://lightning.ai/pages/blog/falcon-a-guide-to-finetune-and-inference/)
+- Finetuning Falcon LLMs More Efficiently With LoRA and Adapters (https://lightning.ai/pages/community/finetuning-falcon-efficiently/)
+- The Falcon has landed in the Hugging Face ecosystem (https://huggingface.co/blog/falcon) (https://colab.research.google.com/drive/1BiQiw31DT7-cDp1-0ySXvvhzqomTdI-o?usp=sharing)
 
 #### 🤖 Transformer Models / Timeline
 - Open LLM Leaderboard (https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard)
