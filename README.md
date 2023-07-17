@@ -811,6 +811,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - Understanding and Coding the Self-Attention Mechanism of Large Language Models From Scratch (https://sebastianraschka.com/blog/2023/self-attention-from-scratch.html)
 - TRANSFORMERS FROM SCRATCH (https://peterbloem.nl/blog/transformers)
 - Concept of self-attention (https://www.linkedin.com/posts/ugcPost-6882314741088321536-PNqG) (https://www.linkedin.com/feed/update/urn:li:activity:6879010048421445633)
+- Transformers from Scratch - great explanation on dot products and matrix multiplication (https://e2eml.school/transformers.html)
 
 
 
