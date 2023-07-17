@@ -58,7 +58,6 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - Deep Learning cheatsheet (https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-deep-learning)
 - Probability Cheatsheet (http://www.wzchen.com/probability-cheatsheet/)(https://static1.squarespace.com/static/54bf3241e4b0f0d81bf7ff36/t/55e9494fe4b011aed10e48e5/1441352015658/probability_cheatsheet.pdf)
 - Bayesian (https://blogs.kent.ac.uk/jonw/files/2015/04/Puza2005.pdf)
-- Concept of self-attention (https://www.linkedin.com/posts/ugcPost-6882314741088321536-PNqG)
 - https://github.com/kailashahirwar/cheatsheets-ai
 
 ## 👍 AWS / SageMaker
@@ -811,6 +810,8 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - Understanding Transformers: A Step-by-Step Math Example — Part 1 (https://blog.gopenai.com/understanding-transformers-a-step-by-step-math-example-part-1-a7809015150a)
 - Understanding and Coding the Self-Attention Mechanism of Large Language Models From Scratch (https://sebastianraschka.com/blog/2023/self-attention-from-scratch.html)
 - TRANSFORMERS FROM SCRATCH (https://peterbloem.nl/blog/transformers)
+- Concept of self-attention (https://www.linkedin.com/posts/ugcPost-6882314741088321536-PNqG) (https://www.linkedin.com/feed/update/urn:li:activity:6879010048421445633)
+
 
 
 #### 🤖 Transformer Toolkit / Techniques / Methods
