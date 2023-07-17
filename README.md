@@ -903,6 +903,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - 10 Exciting Project Ideas Using Large Language Models (LLMs) for Your Portfolio (https://towardsdatascience.com/10-exciting-project-ideas-using-large-language-models-llms-for-your-portfolio-970b7ab4cf9e) $$
 - Build a Telegram chatbot with any AI model under the hood (web scraping summarizer bot) (https://medium.com/@galperovich/build-a-telegram-chatbot-with-any-ai-model-under-the-hood-62f9a8675d81) (https://github.com/galinaalperovich/ai_summary_tg_bot)
 - Put ChatGPT right into your messenger: build a Telegram bot with the new official OpenAI API (https://blog.gopenai.com/put-chatgpt-right-into-your-messenger-build-a-telegram-bot-with-the-new-official-openai-api-84f7c005de7f) (https://github.com/galinaalperovich/chatgpt-api-tg-bot)
+- LangChain + Streamlit🔥+ Llama 🦙: Bringing Conversational AI to Your Local Machine 🤯 (https://ai.plainenglish.io/%EF%B8%8F-langchain-streamlit-llama-bringing-conversational-ai-to-your-local-machine-a1736252b172)
 
 #### 🤖 Q&A
 - How to build an AI that can answer questions about your website (https://platform.openai.com/docs/tutorials/web-qa-embeddings)
