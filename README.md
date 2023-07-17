@@ -867,7 +867,8 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - The Falcon has landed in the Hugging Face ecosystem (https://huggingface.co/blog/falcon) (https://colab.research.google.com/drive/1BiQiw31DT7-cDp1-0ySXvvhzqomTdI-o?usp=sharing)
 
 #### 🤖 Transformer Models / Timeline
-- Open LLM Leaderboard (https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard)
+- 🤗 Open LLM Leaderboard (https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard)
+- 🤗 Massive Text Embedding Benchmark (MTEB) Leaderboard (https://huggingface.co/spaces/mteb/leaderboard)
 - 7 Basic NLP Models to Empower Your ML Application (https://zilliz.com/learn/7-nlp-models)
 - 7 models on HuggingFace you probably didn’t know existed (https://towardsdatascience.com/7-models-on-huggingface-you-probably-didnt-knew-existed-f3d079a4fd7c)
 - ChatGPT, GenerativeAI and LLMs Timeline (https://github.com/hollobit/GenAI_LLM_timeline)
@@ -904,6 +905,8 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - Build a Telegram chatbot with any AI model under the hood (web scraping summarizer bot) (https://medium.com/@galperovich/build-a-telegram-chatbot-with-any-ai-model-under-the-hood-62f9a8675d81) (https://github.com/galinaalperovich/ai_summary_tg_bot)
 - Put ChatGPT right into your messenger: build a Telegram bot with the new official OpenAI API (https://blog.gopenai.com/put-chatgpt-right-into-your-messenger-build-a-telegram-bot-with-the-new-official-openai-api-84f7c005de7f) (https://github.com/galinaalperovich/chatgpt-api-tg-bot)
 - LangChain + Streamlit🔥+ Llama 🦙: Bringing Conversational AI to Your Local Machine 🤯 (https://ai.plainenglish.io/%EF%B8%8F-langchain-streamlit-llama-bringing-conversational-ai-to-your-local-machine-a1736252b172)
+- Zero to One: A Guide to Building a First PDF Chatbot with LangChain & LlamaIndex — Part 1 (https://medium.com/how-ai-built-this/zero-to-one-a-guide-to-building-a-first-pdf-chatbot-with-langchain-llamaindex-part-1-7d0e9c0d62f)
+- Choosing the Right Embedding Model: A Guide for LLM Applications (https://medium.com/@ryanntk/choosing-the-right-embedding-model-a-guide-for-llm-applications-7a60180d28e3)
 
 #### 🤖 Q&A
 - How to build an AI that can answer questions about your website (https://platform.openai.com/docs/tutorials/web-qa-embeddings)
