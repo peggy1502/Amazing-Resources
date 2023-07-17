@@ -814,6 +814,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - TRANSFORMERS FROM SCRATCH (https://peterbloem.nl/blog/transformers)
 - How Transformers work in deep learning and NLP: an intuitive introduction (https://theaisummer.com/transformer/)
 - Getting Meaning from Text: Self-attention Step-by-step Video (https://pub.towardsai.net/getting-meaning-from-text-self-attention-step-by-step-video-7d8f49694f89) (https://www.youtube.com/watch?v=-9vVhYEXeyQ&t=570s)
+- Transformer Architecture: The Positional Encoding (https://kazemnejad.com/blog/transformer_architecture_positional_encoding/)
 
 
 
