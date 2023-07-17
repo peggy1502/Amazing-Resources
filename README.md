@@ -813,6 +813,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - Transformers from Scratch - great explanation on dot products and matrix multiplication (https://e2eml.school/transformers.html)
 - TRANSFORMERS FROM SCRATCH (https://peterbloem.nl/blog/transformers)
 - How Transformers work in deep learning and NLP: an intuitive introduction (https://theaisummer.com/transformer/)
+- Getting Meaning from Text: Self-attention Step-by-step Video (https://pub.towardsai.net/getting-meaning-from-text-self-attention-step-by-step-video-7d8f49694f89) (https://www.youtube.com/watch?v=-9vVhYEXeyQ&t=570s)
 
 
 
