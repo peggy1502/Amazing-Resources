@@ -457,6 +457,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - Obsei (https://github.com/obsei/obsei)
 - nanoGPT - The simplest, fastest repository for training/finetuning medium-sized GPTs (https://github.com/karpathy/nanoGPT)
 - Trax — Deep Learning with Clear Code and Speed (https://github.com/google/trax/tree/af3a38917bd1bc69cf5d25ce007e16185f22f050)
+- Lightning-Hydra-Template (https://github.com/ashleve/lightning-hydra-template)
 
 ## 👍 Kaggle
 - Kaggle Solutions (https://farid.one/kaggle-solutions/)
