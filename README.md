@@ -847,6 +847,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - [Codes] LoRA (https://github.com/rasbt/low-rank-adaptation-blog)
 - [Codes] Gradient Accumulation (https://github.com/rasbt/gradient-accumulation-blog/)
 - [Codes] Optimizing PyTorch Memory Usage (https://github.com/rasbt/pytorch-memory-optim/)
+- 7 Ways To Speed Up Inference of Your Hosted LLMs (https://betterprogramming.pub/speed-up-llm-inference-83653aa24c47)
 
 
 #### 🤖 Lightning AI ⚡⚡⚡
@@ -929,7 +930,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - Open Source Generative AI in Question-Answering (NLP) using Python (https://www.youtube.com/watch?v=L8U-pm-vZ4c) (https://docs.pinecone.io/docs/abstractive-question-answering)
 - Build a Question Answering Engine (Towhee & Gradio Chatbot) (https://github.com/towhee-io/examples/blob/main/nlp/question_answering/1_build_question_answering_engine.ipynb)
 - Question Generation using 🤗transformers (https://github.com/patil-suraj/question_generation) (https://colab.research.google.com/gist/nrjvarshney/39ed6c80e2fe293b9e7eca5bc3a45b7d/quiz.ipynb) (https://huggingface.co/mrm8488/t5-base-finetuned-question-generation-ap)
-- Running Llama 2 on CPU Inference Locally for Document Q&A (https://towardsdatascience.com/running-llama-2-on-cpu-inference-for-document-q-a-3d636037a3d8) (https://github.com/kennethleungty/Llama-2-Open-Source-LLM-CPU-Inference)
+- Running Llama 2 on CPU Inference Locally for Document Q&A (https://towardsdatascience.com/running-llama-2-on-cpu-inference-for-document-q-a-3d636037a3d8) $$ (https://github.com/kennethleungty/Llama-2-Open-Source-LLM-CPU-Inference)
 
 
 
