@@ -796,6 +796,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - https://github.com/fylls/genome-sequencing
 
 ## 🤖 Transformer Architecture / Anatomy / Guide 
+- Numbers every LLM Developer should know (https://github.com/ray-project/llm-numbers#1-mb-gpu-memory-required-for-1-token-of-output-with-a-13b-parameter-model)
 - AI Canon - a curated list of resources (https://a16z.com/2023/05/25/ai-canon/)
 - A Very Gentle Introduction to Large Language Models without the Hype - 38 min read (https://mark-riedl.medium.com/a-very-gentle-introduction-to-large-language-models-without-the-hype-5f67941fa59e)
 - The Animated Transformer (https://prvnsmpth.github.io/animated-transformer/)
@@ -883,6 +884,13 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - T5-base fine-tuned on SQuAD for Question Generation by just prepending the answer to the context (https://huggingface.co/mrm8488/t5-base-finetuned-question-generation-ap)
 - Parrot_paraphraser_on_T5 (https://huggingface.co/prithivida/parrot_paraphraser_on_T5)
 - T0pp (https://huggingface.co/bigscience/T0pp) (https://huggingface.co/GroNLP/T0pp-sharded)
+
+#### 🤖 Transformer / LLM Inference / Deployment
+- vLLM (https://github.com/vllm-project/vllm)
+- How continuous batching enables 23x throughput in LLM inference while reducing p50 latency (https://www.anyscale.com/blog/continuous-batching-llm-inference)
+- 🤗 Text Generation Inference (https://github.com/huggingface/text-generation-inference)
+- Squeeze more out of your GPU for LLM inference—a tutorial on Accelerate & DeepSpeed (https://preemo.medium.com/squeeze-more-out-of-your-gpu-for-llm-inference-a-tutorial-on-accelerate-deepspeed-610fce3025fd)
+- Performance bottlenecks in deploying LLMs—a primer for ML researchers (https://preemo.medium.com/performance-bottlenecks-in-deploying-llms-a-primer-for-ml-researchers-c2b51c2084a8)
 
 #### 🤖 Transformer Sample Applications
 - Beyond Classification With Transformers and Hugging Face (https://towardsdatascience.com/beyond-classification-with-transformers-and-hugging-face-d38c75f574fb)
