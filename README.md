@@ -239,6 +239,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - Accelerating AI: Implementing Multi-GPU Distributed Training for Personalized Recommendations (https://multithreaded.stitchfix.com/blog/2023/06/08/distributed-model-training/)
 
 #### Similarity Search / ANNS / Vector Indexing
+- Getting started with Vector DBs in Python (https://code.dblock.org/2023/06/16/getting-started-with-vector-dbs-in-python.html) (https://github.com/dblock/vectordb-hello-world/)
 - Pinecone - A managed, cloud-native vector database with a simple API (https://www.pinecone.io/learn/) (https://docs.pinecone.io/docs/examples)
 - Weaviate (https://weaviate.io/blog.html)
 - Billion-scale Approximate Nearest Neighbor Search (https://matsui528.github.io/cvpr2020_tutorial_retrieval/)
