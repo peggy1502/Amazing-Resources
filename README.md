@@ -821,6 +821,10 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - How Transformers work in deep learning and NLP: an intuitive introduction (https://theaisummer.com/transformer/)
 - Getting Meaning from Text: Self-attention Step-by-step Video (https://pub.towardsai.net/getting-meaning-from-text-self-attention-step-by-step-video-7d8f49694f89) (https://www.youtube.com/watch?v=-9vVhYEXeyQ&t=570s)
 - Transformer Architecture: The Positional Encoding (https://kazemnejad.com/blog/transformer_architecture_positional_encoding/)
+- Explainable AI: Visualizing Attention in Transformers (https://generativeai.pub/explainable-ai-visualizing-attention-in-transformers-4eb931a2c0f8)  (https://www.topbots.com/deconstructing-bert-part-1/)  (https://www.topbots.com/deconstructing-bert-part-2/)  (https://www.topbots.com/openai-gpt-2-visualization/)
+- Explained: Multi-head Attention (Part 1) (https://storrs.io/attention/)
+- Explained: Multi-head Attention (Part 2) (https://storrs.io/multihead-attention/)
+- Deep learning explainer: a simple single cell classification model (https://storrs.io/sc-deep-learning-explainer/)
 
 
 
