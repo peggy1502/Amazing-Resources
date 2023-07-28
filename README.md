@@ -681,6 +681,9 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - Fighting Overfitting With L1 or L2 Regularization: Which One Is Better? (https://neptune.ai/blog/fighting-overfitting-with-l1-or-l2-regularization)
 - Machine Learning Projects You NEVER Knew Existed (https://www.youtube.com/watch?v=sw3o0rAazMg&list=RDCMUCHXa4OpASJEwrHrLeIzw7Yg&index=6)
 - https://resumaker.ai/app/build/templates/
+- Scarlet Ink by Dave Anderson - Interview Advice (https://www.scarletink.com/tag/interviewing/)
+- > How can I recover a job offer I rejected, or a job I quit? (https://www.scarletink.com/questions-answers-reddit-cscareerquestions-experiment/)
+- > Writing and Speaking Clearly and Concisely (https://www.scarletink.com/writing-speaking-clearly-concisely/)
 
 ## 👍 Salary Negotiation
 - level.fyi (https://www.levels.fyi/Salaries/Data-Scientist/Singapore/)
