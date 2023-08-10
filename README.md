@@ -414,6 +414,8 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - AI art generator (https://app.wombo.art/)
 - Seeing Theory - Visual introduction to probability and statistics (https://seeing-theory.brown.edu/index.html#firstPage)
 - Answer Chat AI (https://www.answerchatai.com/)
+- AI Explorables (https://pair.withgoogle.com/explorables/)
+- > Do Machine Learning Models Memorize or Generalize? (https://pair.withgoogle.com/explorables/grokking/)
 
 ## 👍 GitHub Repositories
 - PyTorch Image Models (https://github.com/rwightman/pytorch-image-models)
