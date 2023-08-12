@@ -370,6 +370,12 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - Out-of-bag validation for random forests (https://medium.com/data-science-at-microsoft/out-of-bag-validation-for-random-forests-378f2b292560) (https://github.com/PilCAki/machine-learning-tips/blob/main/Out%20Of%20Bag%20Validation%20for%20Random%20Forests.ipynb)
 - Yes you should understand backprop (https://karpathy.medium.com/yes-you-should-understand-backprop-e2f06eab496b) (https://www.youtube.com/watch?v=i94OvYb6noo)
 
+#### Time Series
+- Three Approaches to Encoding Time Information as Features for ML Models (https://developer.nvidia.com/blog/three-approaches-to-encoding-time-information-as-features-for-ml-models/)
+- A Comprehensive Guide to Interaction Terms in Linear Regression (https://developer.nvidia.com/blog/a-comprehensive-guide-to-interaction-terms-in-linear-regression/)
+- A Comprehensive Guide on Interaction Terms in Time Series Forecasting (https://developer.nvidia.com/blog/a-comprehensive-guide-on-interaction-terms-in-time-series-forecasting/)
+- 
+
 #### EDA / Data Visualization
 - Plotly Fundamentals (https://plotly.com/python/plotly-fundamentals/)
 - CSS Color (https://developer.mozilla.org/en-US/docs/Web/CSS/color_value)
