@@ -211,6 +211,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - [Video] Building and Deploying a Multi-Stage Recommender System with NVIDIA Merlin (https://www.youtube.com/watch?v=BQC-SGdIdD8)
 - Building and Deploying a Multi-Stage Recommender System with Merlin (https://resources.nvidia.com/en-us-merlin/bad-a-multi-stage-recommender?)
 - How to Build a Winning Deep Learning Powered Recommender System-Part 3 (https://developer.nvidia.com/blog/how-to-build-a-winning-deep-learning-powered-recommender-system-part-3/) (https://github.com/NVIDIA-Merlin/competitions/tree/main/WSDM_WebTour2021_Challenge)
+- Mastering Multilingual Recommender Systems | Grandmaster Series E9 | Winning Amazon’s 2023 KDD Cup (https://www.youtube.com/watch?v=IECznzY_Ko4)
 
 #### Collaborative Filtering / Recommender Systems
 - Google Courses - Recommendation Systems (https://developers.google.com/machine-learning/recommendation)
@@ -375,8 +376,6 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - Three Approaches to Encoding Time Information as Features for ML Models (https://developer.nvidia.com/blog/three-approaches-to-encoding-time-information-as-features-for-ml-models/)
 - A Comprehensive Guide to Interaction Terms in Linear Regression (https://developer.nvidia.com/blog/a-comprehensive-guide-to-interaction-terms-in-linear-regression/)
 - A Comprehensive Guide on Interaction Terms in Time Series Forecasting (https://developer.nvidia.com/blog/a-comprehensive-guide-on-interaction-terms-in-time-series-forecasting/)
-
-
 
 #### EDA / Data Visualization
 - Plotly Fundamentals (https://plotly.com/python/plotly-fundamentals/)
