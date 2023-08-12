@@ -356,25 +356,27 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - Reading Larger than Memory CSVs with RAPIDS and Dask (https://medium.com/rapids-ai/reading-larger-than-memory-csvs-with-rapids-and-dask-e6e27dfa6c0f)
 - 28 Weekly Machine Learning Tricks And Resources That Are Pure Gems #1 (https://ibexorigin.medium.com/28-weekly-machine-learning-tricks-and-resources-that-are-pure-gems-1-8e5259a93c94)
 - 26 Weekly ML Tricks And Resources That Are Pure Gems, #2 (https://ibexorigin.medium.com/26-weekly-ml-tricks-and-resources-that-are-pure-gems-2-3be56841b1d9)
-- Dealing with Outliers Using Three Robust Linear Regression Models (https://developer.nvidia.com/blog/dealing-with-outliers-using-three-robust-linear-regression-models)
+- Dealing with Outliers Using Three Robust Linear Regression Models - Huber, RANSAC, Theil-Sen  (https://developer.nvidia.com/blog/dealing-with-outliers-using-three-robust-linear-regression-models/)
 - Fighting Overfitting With L1 or L2 Regularization: Which One Is Better? (https://neptune.ai/blog/fighting-overfitting-with-l1-or-l2-regularization)
 - Understanding Gradient Clipping (and How It Can Fix Exploding Gradients Problem) (https://neptune.ai/blog/understanding-gradient-clipping-and-how-it-can-fix-exploding-gradients-problem)
 - Vanishing and Exploding Gradients in Neural Network Models: Debugging, Monitoring, and Fixing (https://neptune.ai/blog/vanishing-and-exploding-gradients-debugging-monitoring-fixing)
 - Hadoop vs. Spark vs. Kafka - How to Structure Modern Big Data Architecture? (https://nexocode.com/blog/posts/hadoop-spark-kafka-modern-big-data-architecture/)
 - Is it Better to Save Models Using Joblib or Pickle? (https://medium.com/nlplanet/is-it-better-to-save-models-using-joblib-or-pickle-776722b5a095)
-- Predicting Credit Defaults Using Time-Series Models with Recursive Neural Networks and XGBoost (https://developer.nvidia.com/blog/predicting-credit-defaults-using-time-series-models-with-recursive-neural-networks-and-xgboost/) (https://github.com/daxiongshu/triton_amex)
 - How to Measure Drift in ML Embeddings (https://towardsdatascience.com/how-to-measure-drift-in-ml-embeddings-ee8adfe1e55e) (https://www.evidentlyai.com/blog/embedding-drift-detection)
 - Large Language Models in Molecular Biology (https://towardsdatascience.com/large-language-models-in-molecular-biology-9eb6b65d8a30)
 - Five mistakes to avoid when modeling with imbalanced datasets (https://medium.com/data-science-at-microsoft/five-mistakes-to-avoid-when-modeling-with-imbalanced-datasets-d58a8c09929c) (https://github.com/PilCAki/imbalanced-dataset-common-errors/blob/main/Imbalanced%20Dataset%20Examples.ipynb)
 - Categorically: Don’t explode — encode! (https://github.com/PilCAki/machine-learning-tips/blob/main/Don't%20Explode%20-%20Encode!.ipynb)
 - Out-of-bag validation for random forests (https://medium.com/data-science-at-microsoft/out-of-bag-validation-for-random-forests-378f2b292560) (https://github.com/PilCAki/machine-learning-tips/blob/main/Out%20Of%20Bag%20Validation%20for%20Random%20Forests.ipynb)
 - Yes you should understand backprop (https://karpathy.medium.com/yes-you-should-understand-backprop-e2f06eab496b) (https://www.youtube.com/watch?v=i94OvYb6noo)
+- A Comprehensive Overview of Regression Evaluation Metrics (https://developer.nvidia.com/blog/a-comprehensive-overview-of-regression-evaluation-metrics/)
 
 #### Time Series
+- Predicting Credit Defaults Using Time-Series Models with Recursive Neural Networks and XGBoost (https://developer.nvidia.com/blog/predicting-credit-defaults-using-time-series-models-with-recursive-neural-networks-and-xgboost/) (https://github.com/daxiongshu/triton_amex)
 - Three Approaches to Encoding Time Information as Features for ML Models (https://developer.nvidia.com/blog/three-approaches-to-encoding-time-information-as-features-for-ml-models/)
 - A Comprehensive Guide to Interaction Terms in Linear Regression (https://developer.nvidia.com/blog/a-comprehensive-guide-to-interaction-terms-in-linear-regression/)
 - A Comprehensive Guide on Interaction Terms in Time Series Forecasting (https://developer.nvidia.com/blog/a-comprehensive-guide-on-interaction-terms-in-time-series-forecasting/)
-- 
+
+
 
 #### EDA / Data Visualization
 - Plotly Fundamentals (https://plotly.com/python/plotly-fundamentals/)
