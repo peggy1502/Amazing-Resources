@@ -211,7 +211,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - [Video] Building and Deploying a Multi-Stage Recommender System with NVIDIA Merlin (https://www.youtube.com/watch?v=BQC-SGdIdD8)
 - Building and Deploying a Multi-Stage Recommender System with Merlin (https://resources.nvidia.com/en-us-merlin/bad-a-multi-stage-recommender?)
 - How to Build a Winning Deep Learning Powered Recommender System-Part 3 (https://developer.nvidia.com/blog/how-to-build-a-winning-deep-learning-powered-recommender-system-part-3/) (https://github.com/NVIDIA-Merlin/competitions/tree/main/WSDM_WebTour2021_Challenge)
-- Mastering Multilingual Recommender Systems | Grandmaster Series E9 | Winning Amazon’s 2023 KDD Cup (https://www.youtube.com/watch?v=IECznzY_Ko4)
+- [Video] Mastering Multilingual Recommender Systems | Grandmaster Series E9 | Winning Amazon’s 2023 KDD Cup (https://www.youtube.com/watch?v=IECznzY_Ko4)
 
 #### Collaborative Filtering / Recommender Systems
 - Google Courses - Recommendation Systems (https://developers.google.com/machine-learning/recommendation)
