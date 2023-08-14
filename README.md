@@ -865,6 +865,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - [Codes] Gradient Accumulation (https://github.com/rasbt/gradient-accumulation-blog/)
 - [Codes] Optimizing PyTorch Memory Usage (https://github.com/rasbt/pytorch-memory-optim/)
 - 7 Ways To Speed Up Inference of Your Hosted LLMs (https://betterprogramming.pub/speed-up-llm-inference-83653aa24c47)
+- Patterns for Building LLM-based Systems & Products (https://eugeneyan.com/writing/llm-patterns/)
 
 
 #### 🤖 Lightning AI ⚡⚡⚡
@@ -895,6 +896,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - AI / ML / LLM / Transformer Models Timeline and List (https://ai.v-gar.de/ml/transformer/timeline/index.html)
 - Comprehensive LLM model zoo (https://crfm.stanford.edu/ecosystem-graphs/index.html?mode=table)
 - Totally Open Chatgpt (https://github.com/nichtdax/awesome-totally-open-chatgpt)
+- Open LLMs (https://github.com/eugeneyan/open-llms)
 - GPT4All (https://github.com/nomic-ai/gpt4all)
 - TII open-sourced Falcon LLM (https://huggingface.co/tiiuae)
 - Question generator with context (https://huggingface.co/voidful/bart-eqg-question-generator)
