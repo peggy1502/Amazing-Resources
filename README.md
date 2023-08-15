@@ -867,7 +867,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - [Codes] Optimizing PyTorch Memory Usage (https://github.com/rasbt/pytorch-memory-optim/)
 - 7 Ways To Speed Up Inference of Your Hosted LLMs (https://betterprogramming.pub/speed-up-llm-inference-83653aa24c47)
 - Patterns for Building LLM-based Systems & Products (https://eugeneyan.com/writing/llm-patterns/)
-- Fine-tuning Alpaca and LLaMA: Training on a Custom Dataset - for sentiment analysis, using PEFT LoRA (https://www.mlexpert.io/machine-learning/tutorials/alpaca-fine-tuning) (https://colab.research.google.com/drive/1X85FLniXx_NyDsh_F_aphoIAy63DKQ7d?usp=sharing)
+- Fine-tuning Alpaca and LLaMA: Training on a Custom Dataset - for sentiment analysis, using 🤗 PEFT LoRA (https://www.mlexpert.io/machine-learning/tutorials/alpaca-fine-tuning) (https://colab.research.google.com/drive/1X85FLniXx_NyDsh_F_aphoIAy63DKQ7d?usp=sharing)
 
 
 #### 🤖 Lightning AI ⚡⚡⚡
@@ -913,6 +913,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - 🤗 Text Generation Inference (https://github.com/huggingface/text-generation-inference)
 - Squeeze more out of your GPU for LLM inference—a tutorial on Accelerate & DeepSpeed (https://preemo.medium.com/squeeze-more-out-of-your-gpu-for-llm-inference-a-tutorial-on-accelerate-deepspeed-610fce3025fd)
 - Performance bottlenecks in deploying LLMs—a primer for ML researchers (https://preemo.medium.com/performance-bottlenecks-in-deploying-llms-a-primer-for-ml-researchers-c2b51c2084a8)
+- Inference using the pre-trained Alpaca-LoRA (https://www.mlexpert.io/machine-learning/tutorials/alpaca-and-llama-inference) (https://colab.research.google.com/drive/15VstUxU48CT3mRudFrj3FIv6Z4cIXnon?usp=sharing)
 
 #### 🤖 Transformer Sample Applications
 - Beyond Classification With Transformers and Hugging Face (https://towardsdatascience.com/beyond-classification-with-transformers-and-hugging-face-d38c75f574fb)
