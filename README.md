@@ -867,6 +867,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - [Codes] Optimizing PyTorch Memory Usage (https://github.com/rasbt/pytorch-memory-optim/)
 - 7 Ways To Speed Up Inference of Your Hosted LLMs (https://betterprogramming.pub/speed-up-llm-inference-83653aa24c47)
 - Patterns for Building LLM-based Systems & Products (https://eugeneyan.com/writing/llm-patterns/)
+- Fine-tuning Alpaca and LLaMA: Training on a Custom Dataset - for sentiment analysis, using PEFT LoRA (https://www.mlexpert.io/machine-learning/tutorials/alpaca-fine-tuning) (https://colab.research.google.com/drive/1X85FLniXx_NyDsh_F_aphoIAy63DKQ7d?usp=sharing)
 
 
 #### 🤖 Lightning AI ⚡⚡⚡
@@ -937,6 +938,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - LangChain + Streamlit🔥+ Llama 🦙: Bringing Conversational AI to Your Local Machine 🤯 (https://ai.plainenglish.io/%EF%B8%8F-langchain-streamlit-llama-bringing-conversational-ai-to-your-local-machine-a1736252b172)
 - Zero to One: A Guide to Building a First PDF Chatbot with LangChain & LlamaIndex — Part 1 (https://medium.com/how-ai-built-this/zero-to-one-a-guide-to-building-a-first-pdf-chatbot-with-langchain-llamaindex-part-1-7d0e9c0d62f)
 - Choosing the Right Embedding Model: A Guide for LLM Applications (https://medium.com/@ryanntk/choosing-the-right-embedding-model-a-guide-for-llm-applications-7a60180d28e3)
+- Financial Document Classification with LayoutLMv3 - using OCR on document images (https://www.mlexpert.io/machine-learning/tutorials/document-classification-with-layoutlmv3) (https://colab.research.google.com/drive/1I0Qyajp_DFzKvQfUwwRc9p6fs6NfI-Kx?usp=sharing)
 
 #### 🤖 Q&A
 - How to build an AI that can answer questions about your website (https://platform.openai.com/docs/tutorials/web-qa-embeddings)
