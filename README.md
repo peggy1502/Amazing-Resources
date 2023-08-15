@@ -834,6 +834,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - Explained: Multi-head Attention (Part 1) (https://storrs.io/attention/)
 - Explained: Multi-head Attention (Part 2) (https://storrs.io/multihead-attention/)
 - Deep learning explainer: a simple single cell classification model (https://storrs.io/sc-deep-learning-explainer/)
+- Accelerating Large Language Models with Accelerated Transformers (https://pytorch.org/blog/accelerating-large-language-models/)
 
 
 
