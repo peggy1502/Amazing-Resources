@@ -868,6 +868,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - 7 Ways To Speed Up Inference of Your Hosted LLMs (https://betterprogramming.pub/speed-up-llm-inference-83653aa24c47)
 - Patterns for Building LLM-based Systems & Products (https://eugeneyan.com/writing/llm-patterns/)
 - Fine-tuning Alpaca and LLaMA: Training on a Custom Dataset - for sentiment analysis, using 🤗 PEFT LoRA (https://www.mlexpert.io/machine-learning/tutorials/alpaca-fine-tuning) (https://colab.research.google.com/drive/1X85FLniXx_NyDsh_F_aphoIAy63DKQ7d?usp=sharing)
+- Extended Guide: Instruction-tune Llama 2 - focus on creating the instruction dataset (https://www.philschmid.de/instruction-tune-llama-2)
 
 
 #### 🤖 Lightning AI ⚡⚡⚡
