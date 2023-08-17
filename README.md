@@ -839,6 +839,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 
 
 #### 🤖 Transformer Toolkit / Techniques / Methods
+- 🤗 Dataset map method - how to pass argument to the function (https://discuss.huggingface.co/t/dataset-map-method-how-to-pass-argument-to-the-function/16274)
 - Prompt Engineering Guide (https://www.promptingguide.ai/techniques)
 - Multimodal Toolkit - Transformers with Tabular Data (https://github.com/georgian-io/Multimodal-Toolkit)
 - LiGO - Learning to grow machine-learning models - New LiGO technique accelerates training of large machine-learning models (https://news.mit.edu/2023/new-technique-machine-learning-models-0322)
