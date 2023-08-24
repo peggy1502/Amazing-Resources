@@ -916,6 +916,10 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - Squeeze more out of your GPU for LLM inference—a tutorial on Accelerate & DeepSpeed (https://preemo.medium.com/squeeze-more-out-of-your-gpu-for-llm-inference-a-tutorial-on-accelerate-deepspeed-610fce3025fd)
 - Performance bottlenecks in deploying LLMs—a primer for ML researchers (https://preemo.medium.com/performance-bottlenecks-in-deploying-llms-a-primer-for-ml-researchers-c2b51c2084a8)
 - Inference using the pre-trained Alpaca-LoRA (https://www.mlexpert.io/machine-learning/tutorials/alpaca-and-llama-inference) (https://colab.research.google.com/drive/15VstUxU48CT3mRudFrj3FIv6Z4cIXnon?usp=sharing)
+  
+#### 🤖 Transformer / LLM Data Curator
+- Curating Trillion-Token Datasets: Introducing NVIDIA NeMo Data Curator (https://developer.nvidia.com/blog/curating-trillion-token-datasets-introducing-nemo-data-curator/)
+- ftfy: fixes text for you (https://github.com/rspeer/python-ftfy)
 
 #### 🤖 Transformer Sample Applications
 - Beyond Classification With Transformers and Hugging Face (https://towardsdatascience.com/beyond-classification-with-transformers-and-hugging-face-d38c75f574fb)
