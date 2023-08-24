@@ -960,6 +960,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - Build a Question Answering Engine (Towhee & Gradio Chatbot) (https://github.com/towhee-io/examples/blob/main/nlp/question_answering/1_build_question_answering_engine.ipynb)
 - Question Generation using 🤗transformers (https://github.com/patil-suraj/question_generation) (https://colab.research.google.com/gist/nrjvarshney/39ed6c80e2fe293b9e7eca5bc3a45b7d/quiz.ipynb) (https://huggingface.co/mrm8488/t5-base-finetuned-question-generation-ap)
 - Running Llama 2 on CPU Inference Locally for Document Q&A (https://towardsdatascience.com/running-llama-2-on-cpu-inference-for-document-q-a-3d636037a3d8) $$ (https://github.com/kennethleungty/Llama-2-Open-Source-LLM-CPU-Inference)
+- Using LLaMA 2.0, FAISS and LangChain for Question-Answering on Your Own Data (https://medium.com/@murtuza753/using-llama-2-0-faiss-and-langchain-for-question-answering-on-your-own-data-682241488476)
 
 
 
