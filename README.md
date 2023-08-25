@@ -870,6 +870,9 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - Patterns for Building LLM-based Systems & Products (https://eugeneyan.com/writing/llm-patterns/)
 - Fine-tuning Alpaca and LLaMA: Training on a Custom Dataset - for sentiment analysis, using 🤗 PEFT LoRA (https://www.mlexpert.io/machine-learning/tutorials/alpaca-fine-tuning) (https://colab.research.google.com/drive/1X85FLniXx_NyDsh_F_aphoIAy63DKQ7d?usp=sharing)
 - Extended Guide: Instruction-tune Llama 2 - focus on creating the instruction dataset (https://www.philschmid.de/instruction-tune-llama-2)
+- Difference between P-tuning and Prefix Tuning (https://www.reddit.com/r/MachineLearning/comments/14pkibg/comment/jqkdam8/)
+- > https://github.com/huggingface/peft/issues/123
+- Fine-tuning LLMs - in simple notes - ROUGE, BLEU metrics - (https://teetracker.medium.com/fine-tuning-llms-9fe553a514d0)
 
 
 #### 🤖 Lightning AI ⚡⚡⚡
