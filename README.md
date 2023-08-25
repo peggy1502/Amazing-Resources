@@ -835,6 +835,8 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - Explained: Multi-head Attention (Part 2) (https://storrs.io/multihead-attention/)
 - Deep learning explainer: a simple single cell classification model (https://storrs.io/sc-deep-learning-explainer/)
 - Accelerating Large Language Models with Accelerated Transformers (https://pytorch.org/blog/accelerating-large-language-models/)
+- Step-by-Step Illustrated Explanations of Transformer (https://medium.com/@yulemoon/detailed-explanations-of-transformer-step-by-step-dc32d90b3a98)
+- > An In-Depth Look at the Transformer Based Models (https://medium.com/@yulemoon/an-in-depth-look-at-the-transformer-based-models-22e5f5d17b6b)
 
 
 
