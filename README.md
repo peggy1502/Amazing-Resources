@@ -799,6 +799,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - Torch stack() vs. cat() (https://stackoverflow.com/questions/54307225/whats-the-difference-between-torch-stack-and-torch-cat-functions/54307331)
 - Why do transformers use layer norm instead of batch norm? (https://stats.stackexchange.com/questions/474440/why-do-transformers-use-layer-norm-instead-of-batch-norm)
 - PyTorch vs TensorFlow in 2022 (https://www.assemblyai.com/blog/pytorch-vs-tensorflow-in-2022/)
+- What is the difference between `register_buffer` and `register_parameter` of `nn.Module` (https://discuss.pytorch.org/t/what-is-the-difference-between-register-buffer-and-register-parameter-of-nn-module/32723) (https://pytorch.org/docs/stable/generated/torch.nn.Module.html#torch.nn.Module.register_buffer)
 
 ## ⏩ fast.ai
 - Jeremy Howard - Kaggle Notebooks (https://www.kaggle.com/jhoward/notebooks)
