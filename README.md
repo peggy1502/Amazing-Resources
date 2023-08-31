@@ -548,6 +548,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - Mathematics for Machine Learning (https://github.com/dair-ai/Mathematics-for-ML)
 - Seeing Theory - Visual introduction to probability and statistics (https://seeing-theory.brown.edu/index.html#firstPage)
 - Calculus and Differentiation Primer (https://sebastianraschka.com/pdf/books/dlb/appendix_d_calculus.pdf)
+- Understanding Automatic Differentiation in 30 lines of Python (https://vmartin.fr/understanding-automatic-differentiation-in-30-lines-of-python.html)
 
 ## 👍 Datasets
 - 24 Free Datasets for Building an Irresistible Portfolio (2022) (https://www.dataquest.io/blog/free-datasets-for-projects/)
