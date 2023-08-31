@@ -815,6 +815,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 
 ## 🤖 Transformer Architecture / Anatomy / Guide 
 - Numbers every LLM Developer should know (https://github.com/ray-project/llm-numbers#1-mb-gpu-memory-required-for-1-token-of-output-with-a-13b-parameter-model)
+- Transformer Math 101 (https://blog.eleuther.ai/transformer-math/)
 - AI Canon - a curated list of resources (https://a16z.com/2023/05/25/ai-canon/)
 - A Very Gentle Introduction to Large Language Models without the Hype - 38 min read (https://mark-riedl.medium.com/a-very-gentle-introduction-to-large-language-models-without-the-hype-5f67941fa59e)
 - The Animated Transformer (https://prvnsmpth.github.io/animated-transformer/)
@@ -842,10 +843,13 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - Accelerating Large Language Models with Accelerated Transformers (https://pytorch.org/blog/accelerating-large-language-models/)
 - Step-by-Step Illustrated Explanations of Transformer (https://medium.com/@yulemoon/detailed-explanations-of-transformer-step-by-step-dc32d90b3a98)
 - > An In-Depth Look at the Transformer Based Models (https://medium.com/@yulemoon/an-in-depth-look-at-the-transformer-based-models-22e5f5d17b6b)
+- Anti-hype LLM reading list (https://gist.github.com/veekaybee/be375ab33085102f9027853128dc5f0e)
 
 
 
 #### 🤖 Transformer Toolkit / Techniques / Methods
+- 🤗 The Large Language Model Training Handbook (https://github.com/huggingface/llm_training_handbook)
+- 🤗 The Large Language Model Training Playbook (https://github.com/huggingface/large_language_model_training_playbook)
 - 🤗 Dataset map method - how to pass argument to the function (https://discuss.huggingface.co/t/dataset-map-method-how-to-pass-argument-to-the-function/16274)
 - Prompt Engineering Guide (https://www.promptingguide.ai/techniques)
 - Multimodal Toolkit - Transformers with Tabular Data (https://github.com/georgian-io/Multimodal-Toolkit)
