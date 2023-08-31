@@ -646,6 +646,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - Icons, backgrounds, templates, graphics, etc for presentations:
 - > https://www.flaticon.com/
 - > https://www.freepik.com/
+- Enprompt 360 - AI Prompts Generator (https://www.kickstarter.com/projects/enprompt360/enprompt-360)
 
 ## 👍 Job / Interview / DS Portfolio
 - Interview Query - Questions and Blogs (https://www.interviewquery.com/p/data-science-interview-questions)(https://www.interviewquery.com/articles)(https://www.interviewquery.com/blog)
