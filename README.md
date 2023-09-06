@@ -864,6 +864,8 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - bitsandbytes - 8-bit optimizers, matrix multiplication (LLM.int8()), and quantization functions (https://github.com/TimDettmers/bitsandbytes)
 - A Gentle Introduction to 8-bit Matrix Multiplication for transformers at scale using Hugging Face Transformers, Accelerate and bitsandbytes (https://huggingface.co/blog/hf-bitsandbytes-integration)
 - Making LLMs even more accessible with bitsandbytes, 4-bit quantization and QLoRA (https://huggingface.co/blog/4bit-transformers-bitsandbytes)
+- Making LLMs lighter with AutoGPTQ and transformers (https://huggingface.co/blog/gptq-integration) (https://arxiv.org/pdf/2210.17323.pdf)
+- Introduction to Quantization cooked in 🤗 with 💗🧑‍🍳 (https://huggingface.co/blog/merve/quantization)
 - LLM.int8() and Emergent Features (https://timdettmers.com/2022/08/17/llm-int8-and-emergent-features/)
 - [Video] State of GPT - Learn about the training pipeline of GPT assistants (https://www.youtube.com/watch?v=bZQun8Y4L2A&t=1s)
 - Google "We Have No Moat, And Neither Does OpenAI" (https://www.semianalysis.com/p/google-we-have-no-moat-and-neither)
@@ -886,6 +888,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - Difference between P-tuning and Prefix Tuning (https://www.reddit.com/r/MachineLearning/comments/14pkibg/comment/jqkdam8/)
 - > https://github.com/huggingface/peft/issues/123
 - Fine-tuning LLMs - in simple notes - ROUGE, BLEU metrics - (https://teetracker.medium.com/fine-tuning-llms-9fe553a514d0)
+- Fine-tune Llama 2 with DPO - Direct Preference Optimization (https://huggingface.co/blog/dpo-trl)
 
 
 #### 🤖 Lightning AI ⚡⚡⚡
@@ -962,6 +965,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - Zero to One: A Guide to Building a First PDF Chatbot with LangChain & LlamaIndex — Part 1 (https://medium.com/how-ai-built-this/zero-to-one-a-guide-to-building-a-first-pdf-chatbot-with-langchain-llamaindex-part-1-7d0e9c0d62f)
 - Choosing the Right Embedding Model: A Guide for LLM Applications (https://medium.com/@ryanntk/choosing-the-right-embedding-model-a-guide-for-llm-applications-7a60180d28e3)
 - Financial Document Classification with LayoutLMv3 - using OCR on document images (https://www.mlexpert.io/machine-learning/tutorials/document-classification-with-layoutlmv3) (https://colab.research.google.com/drive/1I0Qyajp_DFzKvQfUwwRc9p6fs6NfI-Kx?usp=sharing)
+- Making a web app generator with open ML models (https://huggingface.co/blog/text-to-webapp)
 
 #### 🤖 Q&A
 - How to build an AI that can answer questions about your website (https://platform.openai.com/docs/tutorials/web-qa-embeddings)
