@@ -801,6 +801,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - Tensor view vs. permute (https://stackoverflow.com/questions/51143206/difference-between-tensor-permute-and-tensor-view-in-pytorch)
 - Torch stack() vs. cat() (https://stackoverflow.com/questions/54307225/whats-the-difference-between-torch-stack-and-torch-cat-functions/54307331)
 - Why do transformers use layer norm instead of batch norm? (https://stats.stackexchange.com/questions/474440/why-do-transformers-use-layer-norm-instead-of-batch-norm)
+- Deep Learning normalization methods (https://tungmphung.com/deep-learning-normalization-methods/)
 - PyTorch vs TensorFlow in 2022 (https://www.assemblyai.com/blog/pytorch-vs-tensorflow-in-2022/)
 - What is the difference between `register_buffer` and `register_parameter` of `nn.Module` (https://discuss.pytorch.org/t/what-is-the-difference-between-register-buffer-and-register-parameter-of-nn-module/32723) (https://pytorch.org/docs/stable/generated/torch.nn.Module.html#torch.nn.Module.register_buffer)
 
