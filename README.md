@@ -820,6 +820,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 ## 🤖 Transformer Architecture / Anatomy / Guide 
 - Numbers every LLM Developer should know (https://github.com/ray-project/llm-numbers#1-mb-gpu-memory-required-for-1-token-of-output-with-a-13b-parameter-model)
 - Transformer Math 101 (https://blog.eleuther.ai/transformer-math/)
+- Transformer Inference Arithmetic (https://kipp.ly/transformer-inference-arithmetic/)
 - AI Canon - a curated list of resources (https://a16z.com/2023/05/25/ai-canon/)
 - A Very Gentle Introduction to Large Language Models without the Hype - 38 min read (https://mark-riedl.medium.com/a-very-gentle-introduction-to-large-language-models-without-the-hype-5f67941fa59e)
 - The Animated Transformer (https://prvnsmpth.github.io/animated-transformer/)
@@ -849,6 +850,8 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - > An In-Depth Look at the Transformer Based Models (https://medium.com/@yulemoon/an-in-depth-look-at-the-transformer-based-models-22e5f5d17b6b)
 - Anti-hype LLM reading list (https://gist.github.com/veekaybee/be375ab33085102f9027853128dc5f0e)
 - GPT in 60 Lines of NumPy (https://jaykmody.com/blog/gpt-from-scratch/)
+- x-transformers - A concise but fully-featured transformer, complete with a set of promising experimental features from various papers (https://github.com/lucidrains/x-transformers/tree/main)
+- Transformer Taxonomy (https://kipp.ly/transformer-taxonomy/)
 
 
 
