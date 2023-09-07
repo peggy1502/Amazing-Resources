@@ -129,6 +129,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - ByteByteGo (https://www.youtube.com/c/ByteByteGo/playlists)
 - Nicholas Renotte - Learn Machine Learning (https://www.youtube.com/@NicholasRenotte/playlists)
 - Andrej Karpathy - Neural Networks: Zero to Hero (https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ) (https://github.com/0ssamaak0/Karpathy-Neural-Networks-Zero-to-Hero)
+- NLP Summit (https://www.nlpsummit.org/)
 
 
 
