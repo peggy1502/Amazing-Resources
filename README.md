@@ -847,6 +847,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - Step-by-Step Illustrated Explanations of Transformer (https://medium.com/@yulemoon/detailed-explanations-of-transformer-step-by-step-dc32d90b3a98)
 - > An In-Depth Look at the Transformer Based Models (https://medium.com/@yulemoon/an-in-depth-look-at-the-transformer-based-models-22e5f5d17b6b)
 - Anti-hype LLM reading list (https://gist.github.com/veekaybee/be375ab33085102f9027853128dc5f0e)
+- GPT in 60 Lines of NumPy (https://jaykmody.com/blog/gpt-from-scratch/)
 
 
 
