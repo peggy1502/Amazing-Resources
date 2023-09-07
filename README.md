@@ -820,6 +820,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 ## 🤖 Transformer Architecture / Anatomy / Guide 
 - Numbers every LLM Developer should know (https://github.com/ray-project/llm-numbers#1-mb-gpu-memory-required-for-1-token-of-output-with-a-13b-parameter-model)
 - Transformer Math 101 (https://blog.eleuther.ai/transformer-math/)
+- LLM Parameter Counting (https://kipp.ly/transformer-param-count/)
 - Transformer Inference Arithmetic (https://kipp.ly/transformer-inference-arithmetic/)
 - AI Canon - a curated list of resources (https://a16z.com/2023/05/25/ai-canon/)
 - A Very Gentle Introduction to Large Language Models without the Hype - 38 min read (https://mark-riedl.medium.com/a-very-gentle-introduction-to-large-language-models-without-the-hype-5f67941fa59e)
