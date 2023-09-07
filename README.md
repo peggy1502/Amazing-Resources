@@ -789,6 +789,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - University of Amsterdam - UvA Deep Learning Tutorials (https://uvadlc-notebooks.readthedocs.io/en/latest/) (https://www.youtube.com/playlist?list=PLdlPlO1QhMiAkedeu0aJixfkknLRxk1nA)
 - Debugging in PyTorch (https://uvadlc-notebooks.readthedocs.io/en/latest/tutorial_notebooks/guide3/Debugging_PyTorch.html)
 - TorchMetrics - How do we use it, and what's the difference between .update() and .forward()? (https://sebastianraschka.com/blog/2022/torchmetrics.html) (https://github.com/rasbt/torchmetrics-blog/blob/main/torchmetrics-update-forward.ipynb)
+- PyTorch training codes with AverageMeter & ProgressMeter (https://docs.openvino.ai/2023.0/notebooks/302-pytorch-quantization-aware-training-with-output.html)
 
 ## 🔦 PyTorch-Related Discussions
 - How to modify a pretrained model (https://discuss.pytorch.org/t/how-to-modify-a-pretrained-model/60509)
@@ -942,6 +943,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - Squeeze more out of your GPU for LLM inference—a tutorial on Accelerate & DeepSpeed (https://preemo.medium.com/squeeze-more-out-of-your-gpu-for-llm-inference-a-tutorial-on-accelerate-deepspeed-610fce3025fd)
 - Performance bottlenecks in deploying LLMs—a primer for ML researchers (https://preemo.medium.com/performance-bottlenecks-in-deploying-llms-a-primer-for-ml-researchers-c2b51c2084a8)
 - Inference using the pre-trained Alpaca-LoRA (https://www.mlexpert.io/machine-learning/tutorials/alpaca-and-llama-inference) (https://colab.research.google.com/drive/15VstUxU48CT3mRudFrj3FIv6Z4cIXnon?usp=sharing)
+- OpenVINO (https://docs.openvino.ai/2023.0/home.html)
   
 #### 🤖 Transformer / LLM Data Curator
 - Curating Trillion-Token Datasets: Introducing NVIDIA NeMo Data Curator (https://developer.nvidia.com/blog/curating-trillion-token-datasets-introducing-nemo-data-curator/)
