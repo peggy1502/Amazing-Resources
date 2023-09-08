@@ -469,6 +469,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - nanoGPT - The simplest, fastest repository for training/finetuning medium-sized GPTs (https://github.com/karpathy/nanoGPT)
 - Trax — Deep Learning with Clear Code and Speed (https://github.com/google/trax/tree/af3a38917bd1bc69cf5d25ce007e16185f22f050)
 - Lightning-Hydra-Template (https://github.com/ashleve/lightning-hydra-template)
+- https://github.com/ChanCheeKean/DataScience/
 
 ## 👍 Kaggle
 - Kaggle Solutions (https://farid.one/kaggle-solutions/)
@@ -855,7 +856,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - GPT in 60 Lines of NumPy (https://jaykmody.com/blog/gpt-from-scratch/)
 - x-transformers - A concise but fully-featured transformer, complete with a set of promising experimental features from various papers (https://github.com/lucidrains/x-transformers/tree/main)
 - Transformer Taxonomy (https://kipp.ly/transformer-taxonomy/)
-
+- Retentive Networks (RetNet) Explained: The much-awaited Transformers-killer is here (https://medium.com/ai-fusion-labs/retentive-networks-retnet-explained-the-much-awaited-transformers-killer-is-here-6c17e3e8add8)
 
 
 #### 🤖 Transformer Toolkit / Techniques / Methods
@@ -898,6 +899,11 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - > https://github.com/huggingface/peft/issues/123
 - Fine-tuning LLMs - in simple notes - ROUGE, BLEU metrics - (https://teetracker.medium.com/fine-tuning-llms-9fe553a514d0)
 - Fine-tune Llama 2 with DPO - Direct Preference Optimization (https://huggingface.co/blog/dpo-trl)
+- Fine-Tuning Llama 2.0 with Single GPU Magic (https://ai.plainenglish.io/fine-tuning-llama2-0-with-qloras-single-gpu-magic-1b6a6679d436)
+- > Mastering BERT Model: Building it from Scratch with Pytorch (https://medium.com/data-and-beyond/complete-guide-to-building-bert-model-from-sratch-3e6562228891)
+- > Exploring Dolly 2.0: Fine Tuning Your Own ChatGPT-like Model (https://ai.plainenglish.io/exploring-dolly-2-0-a-guide-to-training-your-own-chatgpt-like-model-dd9b785ff1df)
+- > GPT Model Behind the Scene: Exploring it from scratch with Pytorch (https://ai.plainenglish.io/creating-and-exploring-gpt-from-scratch-ffe84ac415a9)
+- > The Power of Prompt Engineering: Building Your Own Personal Assistant (https://ai.plainenglish.io/the-power-of-prompt-engineering-personalizing-your-ai-model-5a1b9671b8c5)
 
 
 #### 🤖 Lightning AI ⚡⚡⚡
