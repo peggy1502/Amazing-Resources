@@ -283,6 +283,15 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - A guide to Google Search ranking systems (https://developers.google.com/search/docs/appearance/ranking-systems-guide)
 - How to ARCHITECT a search engine like Google Search (https://newsletter.theaiedge.io/p/how-to-architect-a-search-engine)
 
+#### Search Ranking
+- Using Cross-Encoders as reranker in multistage vector search (https://weaviate.io/blog/cross-encoders-as-reranker)
+- Bi-Encoder vs. Cross-Encoder (https://www.sbert.net/examples/applications/cross-encoder/#bi-encoder-vs-cross-encoder)
+- Improving information retrieval in the Elastic Stack: Introducing Elastic Learned Sparse Encoder, our new retrieval model (https://www.elastic.co/search-labs/may-2023-launch-information-retrieval-elasticsearch-ai-model)
+- Hybrid Search: SPLADE (Sparse Encoder) (https://medium.com/@sowmiyajaganathan/hybrid-search-splade-sparse-encoder-neural-retrieval-models-d092e5f46913)
+- State-of-the-art MS MARCO Models (https://twitter.com/Nils_Reimers/status/1435544757388857345)
+- > https://www.sbert.net/examples/training/ms_marco/README.html#marginmse
+
+
 #### Lucene / Solr / Elasticsearch
 - Grokking Solr Trie Fields (http://mentaldetritus.blogspot.com/2013/01/grokking-solr-trie-fields.html)
 - Mastering ElasticSearch (https://hoclaptrinhdanang.com/downloads/pdf/elasticsearch/Mastering%20ElasticSearch-PDF.pdf)
