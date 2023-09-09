@@ -397,6 +397,8 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - Custom Word Cloud (https://www.kaggle.com/tarzon/custom-word-cloud/notebook)
 - RAPIDS cuXfilter - Build a Fully Interactive Dashboard in a Few Lines of Python (https://medium.com/rapids-ai/build-a-fully-interactive-dashboard-in-a-few-lines-of-python-49959fb55fff)
 - Facets - visualizations for understanding and analyzing machine learning datasets (https://github.com/PAIR-code/facets)
+- Alternatives to box plots: Using beeswarm and raincloud plots to summarise ecological data (https://labs.ala.org.au/posts/2023-08-28_alternatives-to-box-plots/post.html)
+- How to Create a Beautiful Polar Histogram With Python and Matplotlib (https://dev.to/oscarleo/how-to-create-a-beautiful-polar-histogram-with-python-and-matplotlib-400l)
 
 #### Colab
 - Google Colab Tips for Power Users (https://amitness.com/2020/06/google-colaboratory-tips/)
@@ -592,6 +594,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - 190k+ Medium Articles (https://www.kaggle.com/datasets/fabiochiusano/medium-articles)
 - Unsplash (https://unsplash.com/data)
 - Instruction tuning datasets to train (text and multi-modal) chat-based LLMs (GPT-4, ChatGPT,LLaMA,Alpaca) (https://github.com/yaodongC/awesome-instruction-dataset)
+- Randomizing Very Large Datasets (https://towardsdatascience.com/randomizing-very-large-datasets-e2b14e507725)
 
 ## 👍 Synthetic Data
 - MOSTLY AI, the #1 Synthetic Data Platform (https://mostly.ai/)
