@@ -917,6 +917,8 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - > Exploring Dolly 2.0: Fine Tuning Your Own ChatGPT-like Model (https://ai.plainenglish.io/exploring-dolly-2-0-a-guide-to-training-your-own-chatgpt-like-model-dd9b785ff1df)
 - > GPT Model Behind the Scene: Exploring it from scratch with Pytorch (https://ai.plainenglish.io/creating-and-exploring-gpt-from-scratch-ffe84ac415a9)
 - > The Power of Prompt Engineering: Building Your Own Personal Assistant (https://ai.plainenglish.io/the-power-of-prompt-engineering-personalizing-your-ai-model-5a1b9671b8c5)
+- Fine-Tune Your Own Llama 2 Model in a Colab Notebook (https://towardsdatascience.com/fine-tune-your-own-llama-2-model-in-a-colab-notebook-df9823a04a32) $$ (https://colab.research.google.com/drive/1Ad7a9zMmkxuXTOh1Z7-rNSICA4dybpM2?usp=sharing) (https://mlabonne.github.io/blog/posts/Fine_Tune_Your_Own_Llama_2_Model_in_a_Colab_Notebook.html)
+- Fine-tune Llama 2 with SFT and DPO (https://medium.com/@anchen.li/fine-tune-llama-2-with-sft-and-dpo-8b57cf3ec69)
 
 
 #### 🤖 Lightning AI ⚡⚡⚡
@@ -1011,6 +1013,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - Question Generation using 🤗transformers (https://github.com/patil-suraj/question_generation) (https://colab.research.google.com/gist/nrjvarshney/39ed6c80e2fe293b9e7eca5bc3a45b7d/quiz.ipynb) (https://huggingface.co/mrm8488/t5-base-finetuned-question-generation-ap)
 - Running Llama 2 on CPU Inference Locally for Document Q&A (https://towardsdatascience.com/running-llama-2-on-cpu-inference-for-document-q-a-3d636037a3d8) $$ (https://github.com/kennethleungty/Llama-2-Open-Source-LLM-CPU-Inference)
 - Using LLaMA 2.0, FAISS and LangChain for Question-Answering on Your Own Data (https://medium.com/@murtuza753/using-llama-2-0-faiss-and-langchain-for-question-answering-on-your-own-data-682241488476)
+- How to Fine-tune Llama 2 with LoRA for Question Answering: A Guide for Practitioners (https://deci.ai/blog/fine-tune-llama-2-with-lora-for-question-answering/)
 
 
 
