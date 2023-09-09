@@ -919,6 +919,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - > GPT Model Behind the Scene: Exploring it from scratch with Pytorch (https://ai.plainenglish.io/creating-and-exploring-gpt-from-scratch-ffe84ac415a9)
 - > The Power of Prompt Engineering: Building Your Own Personal Assistant (https://ai.plainenglish.io/the-power-of-prompt-engineering-personalizing-your-ai-model-5a1b9671b8c5)
 - Fine-Tune Your Own Llama 2 Model in a Colab Notebook (https://towardsdatascience.com/fine-tune-your-own-llama-2-model-in-a-colab-notebook-df9823a04a32) $$ (https://colab.research.google.com/drive/1PEQyJO1-f6j0S_XJ8DV50NkpzasXkrzd?usp=sharing)  (https://mlabonne.github.io/blog/posts/Fine_Tune_Your_Own_Llama_2_Model_in_a_Colab_Notebook.html)
+- Fine tune Llama v2 models on Guanaco Dataset (https://gist.github.com/younesbelkada/9f7f75c94bdc1981c8ca5cc937d4a4da)
 - Fine-tune Llama 2 with SFT and DPO (https://medium.com/@anchen.li/fine-tune-llama-2-with-sft-and-dpo-8b57cf3ec69)
 
 
