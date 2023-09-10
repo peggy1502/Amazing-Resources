@@ -1018,6 +1018,14 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - Using LLaMA 2.0, FAISS and LangChain for Question-Answering on Your Own Data (https://medium.com/@murtuza753/using-llama-2-0-faiss-and-langchain-for-question-answering-on-your-own-data-682241488476)
 - How to Fine-tune Llama 2 with LoRA for Question Answering: A Guide for Practitioners (https://deci.ai/blog/fine-tune-llama-2-with-lora-for-question-answering/)
 
+#### Discussion on padding
+- Why does the falcon QLoRA tutorial code use eos_token as pad_token? - use TemplateProcessing (https://discuss.huggingface.co/t/why-does-the-falcon-qlora-tutorial-code-use-eos-token-as-pad-token/45954/14?u=brando)
+- Pad and eos distinction. (https://chat.openai.com/share/ebb9a9a2-71d3-4c97-a727-b6042494b9a9)
+- LLaMA FastTokenizer does not add eos_token_id at the end. #22794 (https://github.com/huggingface/transformers/issues/22794)
+- data_collator.py (https://github.com/huggingface/transformers/blob/main/src/transformers/data/data_collator.py#L747)
+- https://huggingface.co/docs/transformers/main/llm_tutorial#wrong-padding-side
+- https://huggingface.co/docs/transformers/main/model_doc/llama2#resources
+
 
 
 
