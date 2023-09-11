@@ -663,7 +663,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - Icons, backgrounds, templates, graphics, etc for presentations:
 - > https://www.flaticon.com/
 - > https://www.freepik.com/
-- Enprompt 360 - AI Prompts Generator (https://www.kickstarter.com/projects/enprompt360/enprompt-360)
+
 
 ## 👍 Job / Interview / DS Portfolio
 - Interview Query - Questions and Blogs (https://www.interviewquery.com/p/data-science-interview-questions)(https://www.interviewquery.com/articles)(https://www.interviewquery.com/blog)
@@ -878,7 +878,6 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - 🤗 The Large Language Model Training Playbook (https://github.com/huggingface/large_language_model_training_playbook)
 - 🤗 Dataset map method - how to pass argument to the function (https://discuss.huggingface.co/t/dataset-map-method-how-to-pass-argument-to-the-function/16274)
 - Efficient Training Techniques (https://huggingface.co/docs/transformers/perf_train_gpu_one)
-- Prompt Engineering Guide (https://www.promptingguide.ai/techniques)
 - Multimodal Toolkit - Transformers with Tabular Data (https://github.com/georgian-io/Multimodal-Toolkit)
 - LiGO - Learning to grow machine-learning models - New LiGO technique accelerates training of large machine-learning models (https://news.mit.edu/2023/new-technique-machine-learning-models-0322)
 - Finetuning Large Language Models (https://magazine.sebastianraschka.com/p/finetuning-large-language-models)
@@ -917,7 +916,6 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - > Mastering BERT Model: Building it from Scratch with Pytorch (https://medium.com/data-and-beyond/complete-guide-to-building-bert-model-from-sratch-3e6562228891)
 - > Exploring Dolly 2.0: Fine Tuning Your Own ChatGPT-like Model (https://ai.plainenglish.io/exploring-dolly-2-0-a-guide-to-training-your-own-chatgpt-like-model-dd9b785ff1df)
 - > GPT Model Behind the Scene: Exploring it from scratch with Pytorch (https://ai.plainenglish.io/creating-and-exploring-gpt-from-scratch-ffe84ac415a9)
-- > The Power of Prompt Engineering: Building Your Own Personal Assistant (https://ai.plainenglish.io/the-power-of-prompt-engineering-personalizing-your-ai-model-5a1b9671b8c5)
 - Fine-Tune Your Own Llama 2 Model in a Colab Notebook (https://towardsdatascience.com/fine-tune-your-own-llama-2-model-in-a-colab-notebook-df9823a04a32) $$ (https://colab.research.google.com/drive/1PEQyJO1-f6j0S_XJ8DV50NkpzasXkrzd?usp=sharing)  (https://mlabonne.github.io/blog/posts/Fine_Tune_Your_Own_Llama_2_Model_in_a_Colab_Notebook.html)
 - Fine tune Llama v2 models on Guanaco Dataset (https://gist.github.com/younesbelkada/9f7f75c94bdc1981c8ca5cc937d4a4da)
 - Fine-tune Llama 2 with dolly-15k on a free Google Colab instance (https://colab.research.google.com/drive/134o_cXcMe_lsvl15ZE_4Y75Kstepsntu?usp=sharing)
@@ -992,7 +990,6 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - Building a Personal Assistant from Scratch - intent classification, speech-to-text, and text-to-speech (https://medium.com/nlplanet/building-a-personal-assistant-from-scratch-db0814e62d34)
 - How I Turned My Company’s Docs into a Searchable Database with OpenAI (https://towardsdatascience.com/how-i-turned-my-companys-docs-into-a-searchable-database-with-openai-4f2d34bd8736)
 - How I Turned ChatGPT into an SQL-Like Translator for Image and Video Datasets (https://towardsdatascience.com/how-i-turned-chatgpt-into-an-sql-like-translator-for-image-and-video-datasets-7b22b318400a)
-- What I Learned Pushing Prompt Engineering to the Limit (https://towardsdatascience.com/what-i-learned-pushing-prompt-engineering-to-the-limit-c40f0740641f)
 - 10 Exciting Project Ideas Using Large Language Models (LLMs) for Your Portfolio (https://towardsdatascience.com/10-exciting-project-ideas-using-large-language-models-llms-for-your-portfolio-970b7ab4cf9e) $$
 - Build a Telegram chatbot with any AI model under the hood (web scraping summarizer bot) (https://medium.com/@galperovich/build-a-telegram-chatbot-with-any-ai-model-under-the-hood-62f9a8675d81) (https://github.com/galinaalperovich/ai_summary_tg_bot)
 - Put ChatGPT right into your messenger: build a Telegram bot with the new official OpenAI API (https://blog.gopenai.com/put-chatgpt-right-into-your-messenger-build-a-telegram-bot-with-the-new-official-openai-api-84f7c005de7f) (https://github.com/galinaalperovich/chatgpt-api-tg-bot)
@@ -1026,7 +1023,11 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - https://huggingface.co/docs/transformers/main/llm_tutorial#wrong-padding-side
 - https://huggingface.co/docs/transformers/main/model_doc/llama2#resources
 
-#### Prompts / Instructions
+#### Prompt Engineering / Instructions
+- Enprompt 360 - AI Prompts Generator (https://www.kickstarter.com/projects/enprompt360/enprompt-360)
+- Prompt Engineering Guide (https://www.promptingguide.ai/techniques)
+- The Power of Prompt Engineering: Building Your Own Personal Assistant (https://ai.plainenglish.io/the-power-of-prompt-engineering-personalizing-your-ai-model-5a1b9671b8c5)
+- What I Learned Pushing Prompt Engineering to the Limit (https://towardsdatascience.com/what-i-learned-pushing-prompt-engineering-to-the-limit-c40f0740641f)
 - Fixing Hallucinations in LLMs (https://betterprogramming.pub/fixing-hallucinations-in-llms-9ff0fd438e33)
 - New ChatGPT Prompt Engineering Technique: Program Simulation (https://towardsdatascience.com/new-chatgpt-prompt-engineering-technique-program-simulation-56f49746aa7b)
 - AutoGPT Agent Custom Instruction (https://shard-tsunami-ffe.notion.site/AutoGPT-Agent-Custom-Instruction-9826d664c53e4f50a5f814378c19a89d)
