@@ -999,6 +999,8 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - Financial Document Classification with LayoutLMv3 - using OCR on document images (https://www.mlexpert.io/machine-learning/tutorials/document-classification-with-layoutlmv3) (https://colab.research.google.com/drive/1I0Qyajp_DFzKvQfUwwRc9p6fs6NfI-Kx?usp=sharing)
 - Making a web app generator with open ML models (https://huggingface.co/blog/text-to-webapp)
 - Topic Modeling with Llama 2 (https://towardsdatascience.com/topic-modeling-with-llama-2-85177d01e174) $$ (https://colab.research.google.com/drive/1QCERSMUjqGetGGujdrvv_6_EeoIcd_9M?usp=sharing)
+- > https://maartengr.github.io/BERTopic/algorithm/algorithm.html
+- > https://maartengr.github.io/BERTopic/getting_started/best_practices/best_practices.html
 
 #### 🤖 Q&A
 - How to build an AI that can answer questions about your website (https://platform.openai.com/docs/tutorials/web-qa-embeddings)
