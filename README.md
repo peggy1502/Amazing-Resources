@@ -1026,6 +1026,11 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - https://huggingface.co/docs/transformers/main/llm_tutorial#wrong-padding-side
 - https://huggingface.co/docs/transformers/main/model_doc/llama2#resources
 
+#### Prompts / Instructions
+- Fixing Hallucinations in LLMs (https://betterprogramming.pub/fixing-hallucinations-in-llms-9ff0fd438e33)
+- New ChatGPT Prompt Engineering Technique: Program Simulation (https://towardsdatascience.com/new-chatgpt-prompt-engineering-technique-program-simulation-56f49746aa7b)
+- AutoGPT Agent Custom Instruction (https://shard-tsunami-ffe.notion.site/AutoGPT-Agent-Custom-Instruction-9826d664c53e4f50a5f814378c19a89d)
+
 
 
 
