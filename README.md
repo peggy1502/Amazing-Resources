@@ -1022,6 +1022,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - data_collator.py (https://github.com/huggingface/transformers/blob/main/src/transformers/data/data_collator.py#L747)
 - https://huggingface.co/docs/transformers/main/llm_tutorial#wrong-padding-side
 - https://huggingface.co/docs/transformers/main/model_doc/llama2#resources
+- Challenges in Stop Generation within Llama 2 (https://towardsdatascience.com/challenges-in-stop-generation-within-llama-2-25f5fea8dea2)
 
 #### Prompt Engineering / Instructions
 - Enprompt 360 - AI Prompts Generator (https://www.kickstarter.com/projects/enprompt360/enprompt-360)
