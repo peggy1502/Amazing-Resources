@@ -261,6 +261,11 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - Generative Feedback Loops with LLMs for Vector Databases (https://weaviate.io/blog/generative-feedback-loops-with-llms)
 - From zero to semantic search embedding model (https://blog.metarank.ai/from-zero-to-semantic-search-embedding-model-592e16d94b61)
 - Example of using factory pattern for your vectorstore implementation (https://github.com/trancethehuman/factory-pattern-vectorstore-interface) (https://www.youtube.com/watch?v=v1LyUJ5NFFU)
+- Accelerating Vector Search: Fine-Tuning GPU Index Algorithms (https://developer.nvidia.com/blog/accelerating-vector-search-fine-tuning-gpu-index-algorithms/)  (https://github.com/rapidsai/raft/blob/HEAD/notebooks/VectorSearch_QuestionRetrieval.ipynb)
+- RAFT: Reusable Accelerated Functions and Tools for Vector Search and More (https://github.com/rapidsai/raft)
+- RAFT IVF-PQ tutorial (https://github.com/rapidsai/raft/blob/28b789404bedfa8dd82675fc4221f6db927c0422/notebooks/tutorial_ivf_pq.ipynb)
+- CAGRA: Highly Parallel Graph Construction and Approximate Nearest Neighbor Search for GPUs (Cuda Anns GRAph-based) (https://arxiv.org/pdf/2308.15136v1.pdf) (https://docs.rapids.ai/api/raft/nightly/pylibraft_api/neighbors/#cagra)
+
 
 #### Search / Code Search / Information Retrieval
 - A brief history of code search at GitHub (https://github.blog/2021-12-15-a-brief-history-of-code-search-at-github/)
