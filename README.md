@@ -524,6 +524,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - Philschmid's blog on Transformers & SageMaker (by Philipp Schmid) (https://www.philschmid.de/)
 - The AiEdge Newsletter (by Damien Benveniste) (https://newsletter.theaiedge.io/archive)
 - Ahead of AI (by Sebastian Raschka) (https://magazine.sebastianraschka.com/archive) (https://sebastianraschka.com/blog/)
+- The Kaitchup – AI on a Budget - by Benjamin Marie (https://kaitchup.substack.com/archive)
 - CheeKean (https://kean-chan.medium.com/)
 
 ## 👍 Company Tech Blogs
