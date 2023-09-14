@@ -926,6 +926,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - Fine tune Llama v2 models on Guanaco Dataset (https://gist.github.com/younesbelkada/9f7f75c94bdc1981c8ca5cc937d4a4da)
 - Fine-tune Llama 2 with dolly-15k on a free Google Colab instance (https://colab.research.google.com/drive/134o_cXcMe_lsvl15ZE_4Y75Kstepsntu?usp=sharing)
 - Fine-tune Llama 2 with SFT and DPO (https://medium.com/@anchen.li/fine-tune-llama-2-with-sft-and-dpo-8b57cf3ec69)
+- Fine-Tuning LLaMA 2 Models using a single GPU, QLoRA and AI Notebooks (https://blog.ovhcloud.com/fine-tuning-llama-2-models-using-a-single-gpu-qlora-and-ai-notebooks/)
 
 
 #### 🤖 Lightning AI ⚡⚡⚡
