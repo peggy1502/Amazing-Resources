@@ -1034,7 +1034,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - https://huggingface.co/docs/transformers/main/model_doc/llama2#resources
 - Challenges in Stop Generation within Llama 2 (https://towardsdatascience.com/challenges-in-stop-generation-within-llama-2-25f5fea8dea2)
 - Padding Large Language Models — Examples with Llama 2 (https://towardsdatascience.com/padding-large-language-models-examples-with-llama-2-199fb10df8ff) $$
-- [SFTTrainer] Fix non packed dataset #444 (https://github.com/huggingface/trl/pull/444)
+- [SFTTrainer] Fix non packed dataset #444 - Example of formatting_func on alpaca dataset (https://github.com/huggingface/trl/pull/444)
 
 #### Prompt Engineering / Instructions
 - Enprompt 360 - AI Prompts Generator (https://www.kickstarter.com/projects/enprompt360/enprompt-360)
