@@ -59,6 +59,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - Probability Cheatsheet (http://www.wzchen.com/probability-cheatsheet/)(https://static1.squarespace.com/static/54bf3241e4b0f0d81bf7ff36/t/55e9494fe4b011aed10e48e5/1441352015658/probability_cheatsheet.pdf)
 - Bayesian (https://blogs.kent.ac.uk/jonw/files/2015/04/Puza2005.pdf)
 - https://github.com/kailashahirwar/cheatsheets-ai
+- pip command options (https://manpages.debian.org/stretch/python-pip/pip.1)
 
 ## 👍 AWS / SageMaker
 - How do I terminate active resources that I no longer need on my AWS account? (https://aws.amazon.com/premiumsupport/knowledge-center/terminate-resources-account-closure/)
