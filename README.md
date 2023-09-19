@@ -878,6 +878,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - x-transformers - A concise but fully-featured transformer, complete with a set of promising experimental features from various papers (https://github.com/lucidrains/x-transformers/tree/main)
 - Transformer Taxonomy (https://kipp.ly/transformer-taxonomy/)
 - Retentive Networks (RetNet) Explained: The much-awaited Transformers-killer is here (https://medium.com/ai-fusion-labs/retentive-networks-retnet-explained-the-much-awaited-transformers-killer-is-here-6c17e3e8add8)
+- Large Language Models: SBERT — Sentence-BERT (https://towardsdatascience.com/sbert-deb3d4aef8a4)
 
 
 #### 🤖 Transformer Toolkit / Techniques / Methods
@@ -930,6 +931,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - Fine-tune Llama 2 with dolly-15k on a free Google Colab instance (https://colab.research.google.com/drive/134o_cXcMe_lsvl15ZE_4Y75Kstepsntu?usp=sharing)
 - Fine-tune Llama 2 with SFT and DPO (https://medium.com/@anchen.li/fine-tune-llama-2-with-sft-and-dpo-8b57cf3ec69)
 - Fine-Tuning LLaMA 2 Models using a single GPU, QLoRA and AI Notebooks (https://blog.ovhcloud.com/fine-tuning-llama-2-models-using-a-single-gpu-qlora-and-ai-notebooks/)
+- Fine-Tuning Embedding Model with PEFT and LoRA (https://medium.com/@kelvin.lu.au/fine-tuning-embedding-model-with-peft-and-lora-3b6f08987c24)
 
 
 #### 🤖 Lightning AI ⚡⚡⚡
@@ -1047,6 +1049,8 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - Fixing Hallucinations in LLMs (https://betterprogramming.pub/fixing-hallucinations-in-llms-9ff0fd438e33)
 - New ChatGPT Prompt Engineering Technique: Program Simulation (https://towardsdatascience.com/new-chatgpt-prompt-engineering-technique-program-simulation-56f49746aa7b)
 - AutoGPT Agent Custom Instruction (https://shard-tsunami-ffe.notion.site/AutoGPT-Agent-Custom-Instruction-9826d664c53e4f50a5f814378c19a89d)
+- Practitioners guide to fine-tune LLMs for domain-specific use case (https://cismography.medium.com/practitioners-guide-to-fine-tune-llms-for-domain-specific-use-case-part-1-4561714d874f)
+- Practical insights while fine-tuning LLMs for domain-specific use cases and best practices (https://cismography.medium.com/practical-insights-while-fine-tuning-llms-for-domain-specific-use-cases-and-best-practices-aa986c799777)
 
 
 
