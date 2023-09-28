@@ -932,6 +932,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - Fine-tune Llama 2 with SFT and DPO (https://medium.com/@anchen.li/fine-tune-llama-2-with-sft-and-dpo-8b57cf3ec69)
 - Fine-Tuning LLaMA 2 Models using a single GPU, QLoRA and AI Notebooks (https://blog.ovhcloud.com/fine-tuning-llama-2-models-using-a-single-gpu-qlora-and-ai-notebooks/)
 - Fine-Tuning Embedding Model with PEFT and LoRA (https://medium.com/@kelvin.lu.au/fine-tuning-embedding-model-with-peft-and-lora-3b6f08987c24)
+- Optimizing your LLM in production (https://huggingface.co/blog/optimize-llm)
 
 
 #### 🤖 Lightning AI ⚡⚡⚡
