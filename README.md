@@ -879,6 +879,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - Transformer Taxonomy (https://kipp.ly/transformer-taxonomy/)
 - Retentive Networks (RetNet) Explained: The much-awaited Transformers-killer is here (https://medium.com/ai-fusion-labs/retentive-networks-retnet-explained-the-much-awaited-transformers-killer-is-here-6c17e3e8add8)
 - Large Language Models: SBERT — Sentence-BERT (https://towardsdatascience.com/sbert-deb3d4aef8a4)
+- Inside the Matrix: Visualizing Matrix Multiplication, Attention and Beyond (https://pytorch.org/blog/inside-the-matrix/)
 
 
 #### 🤖 Transformer Toolkit / Techniques / Methods
