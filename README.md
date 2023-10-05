@@ -670,6 +670,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - Icons, backgrounds, templates, graphics, etc for presentations:
 - > https://www.flaticon.com/
 - > https://www.freepik.com/
+- News API - Search worldwide news with code (https://newsapi.org/)
 
 
 ## 👍 Job / Interview / DS Portfolio
