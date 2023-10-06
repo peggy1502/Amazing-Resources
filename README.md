@@ -883,6 +883,13 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - Large Language Models: SBERT — Sentence-BERT (https://towardsdatascience.com/sbert-deb3d4aef8a4)
 - Inside the Matrix: Visualizing Matrix Multiplication, Attention and Beyond (https://pytorch.org/blog/inside-the-matrix/)
 
+#### 🤖 Transformer Libraries
+- AWQ: Activation-aware Weight Quantization for LLM Compression and Acceleration [Paper] (https://github.com/mit-han-lab/llm-awq)
+- AutoAWQ (https://github.com/casper-hansen/AutoAWQ)
+- Microsoft DeepSpeed - Deep learning optimization software suite for both training and inference (https://github.com/microsoft/DeepSpeed)  (https://www.deepspeed.ai/)
+- DeepSpeed Chat - Easy, Fast and Affordable RLHF Training of ChatGPT-like Models at All Scales (https://github.com/microsoft/DeepSpeedExamples/tree/master/applications/DeepSpeed-Chat)  (https://github.com/microsoft/DeepSpeed/tree/master/blogs/deepspeed-chat)
+- 🤗 PEFT: Parameter-Efficient Fine-Tuning of Billion-Scale Models on Low-Resource Hardware (https://huggingface.co/blog/peft) (https://github.com/huggingface/peft)
+- bitsandbytes - 8-bit optimizers, matrix multiplication (LLM.int8()), and quantization functions (https://github.com/TimDettmers/bitsandbytes)
 
 #### 🤖 Transformer Toolkit / Techniques / Methods
 - 🤗 The Large Language Model Training Handbook (https://github.com/huggingface/llm_training_handbook)
@@ -895,8 +902,6 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - RLHF: Reinforcement Learning from Human Feedback (https://huyenchip.com/2023/05/02/rlhf.html)
 - Building LLM applications for production (https://huyenchip.com/2023/04/11/llm-engineering.html)
 - Instruction tuning datasets to train (text and multi-modal) chat-based LLMs (GPT-4, ChatGPT,LLaMA,Alpaca) (https://github.com/yaodongC/awesome-instruction-dataset)
-- 🤗 PEFT: Parameter-Efficient Fine-Tuning of Billion-Scale Models on Low-Resource Hardware (https://huggingface.co/blog/peft) (https://github.com/huggingface/peft)
-- bitsandbytes - 8-bit optimizers, matrix multiplication (LLM.int8()), and quantization functions (https://github.com/TimDettmers/bitsandbytes)
 - A Gentle Introduction to 8-bit Matrix Multiplication for transformers at scale using Hugging Face Transformers, Accelerate and bitsandbytes (https://huggingface.co/blog/hf-bitsandbytes-integration)
 - Making LLMs even more accessible with bitsandbytes, 4-bit quantization and QLoRA (https://huggingface.co/blog/4bit-transformers-bitsandbytes)
 - > General notebook (https://colab.research.google.com/drive/1ge2F1QSK8Q7h0hn3YKuBCOAS0bK8E0wf?usp=sharing#scrollTo=OQdUx-aQScdR)
@@ -937,11 +942,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - Fine-Tuning Embedding Model with PEFT and LoRA (https://medium.com/@kelvin.lu.au/fine-tuning-embedding-model-with-peft-and-lora-3b6f08987c24)
 - Optimizing your LLM in production (https://huggingface.co/blog/optimize-llm)
 
-#### 🤖 Transformer Libraries
-- AWQ: Activation-aware Weight Quantization for LLM Compression and Acceleration [Paper] (https://github.com/mit-han-lab/llm-awq)
-- AutoAWQ (https://github.com/casper-hansen/AutoAWQ)
-- Microsoft DeepSpeed - Deep learning optimization software suite for both training and inference (https://github.com/microsoft/DeepSpeed)  (https://www.deepspeed.ai/)
-- DeepSpeed Chat - Easy, Fast and Affordable RLHF Training of ChatGPT-like Models at All Scales (https://github.com/microsoft/DeepSpeedExamples/tree/master/applications/DeepSpeed-Chat)  (https://github.com/microsoft/DeepSpeed/tree/master/blogs/deepspeed-chat)
+
 
 #### 🤖 Lightning AI ⚡⚡⚡
 - 📖 Lightning Fabric Documentation (https://lightning.ai/docs/fabric/stable/)
@@ -985,12 +986,13 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - vLLM: Easy, Fast, and Cheap LLM Serving with PagedAttention (https://github.com/vllm-project/vllm)  (https://vllm.ai/)
 - TGI: Text Generation Inference - Fast optimized inference for LLMs (https://github.com/huggingface/text-generation-inference)
 - LMDeploy: a toolkit for compressing, deploying, and serving LLM (https://github.com/InternLM/lmdeploy)
+- OpenVINO: an open-source toolkit for optimizing and deploying AI inference (https://github.com/openvinotoolkit)  (https://docs.openvino.ai/2023.0/home.html)
 - How continuous batching enables 23x throughput in LLM inference while reducing p50 latency (https://www.anyscale.com/blog/continuous-batching-llm-inference)
 - 🤗 Text Generation Inference (https://github.com/huggingface/text-generation-inference)
 - Squeeze more out of your GPU for LLM inference—a tutorial on Accelerate & DeepSpeed (https://preemo.medium.com/squeeze-more-out-of-your-gpu-for-llm-inference-a-tutorial-on-accelerate-deepspeed-610fce3025fd)
 - Performance bottlenecks in deploying LLMs—a primer for ML researchers (https://preemo.medium.com/performance-bottlenecks-in-deploying-llms-a-primer-for-ml-researchers-c2b51c2084a8)
 - Inference using the pre-trained Alpaca-LoRA (https://www.mlexpert.io/machine-learning/tutorials/alpaca-and-llama-inference) (https://colab.research.google.com/drive/15VstUxU48CT3mRudFrj3FIv6Z4cIXnon?usp=sharing)
-- OpenVINO (https://docs.openvino.ai/2023.0/home.html)
+
   
 #### 🤖 Transformer / LLM Data Curator
 - Curating Trillion-Token Datasets: Introducing NVIDIA NeMo Data Curator (https://developer.nvidia.com/blog/curating-trillion-token-datasets-introducing-nemo-data-curator/)
