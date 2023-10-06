@@ -937,6 +937,11 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - Fine-Tuning Embedding Model with PEFT and LoRA (https://medium.com/@kelvin.lu.au/fine-tuning-embedding-model-with-peft-and-lora-3b6f08987c24)
 - Optimizing your LLM in production (https://huggingface.co/blog/optimize-llm)
 
+#### 🤖 Transformer Libraries
+- AWQ: Activation-aware Weight Quantization for LLM Compression and Acceleration [Paper] (https://github.com/mit-han-lab/llm-awq)
+- AutoAWQ (https://github.com/casper-hansen/AutoAWQ)
+- Microsoft DeepSpeed - Deep learning optimization software suite for both training and inference (https://github.com/microsoft/DeepSpeed)  (https://www.deepspeed.ai/)
+- DeepSpeed Chat - Easy, Fast and Affordable RLHF Training of ChatGPT-like Models at All Scales (https://github.com/microsoft/DeepSpeedExamples/tree/master/applications/DeepSpeed-Chat)  (https://github.com/microsoft/DeepSpeed/tree/master/blogs/deepspeed-chat)
 
 #### 🤖 Lightning AI ⚡⚡⚡
 - 📖 Lightning Fabric Documentation (https://lightning.ai/docs/fabric/stable/)
