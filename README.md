@@ -982,7 +982,9 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 
 #### 🤖 Transformer / LLM Inference / Deployment
 - 7 Ways To Speed Up Inference of Your Hosted LLMs (https://betterprogramming.pub/speed-up-llm-inference-83653aa24c47)
-- vLLM (https://github.com/vllm-project/vllm)
+- vLLM: Easy, Fast, and Cheap LLM Serving with PagedAttention (https://github.com/vllm-project/vllm)  (https://vllm.ai/)
+- TGI: Text Generation Inference - Fast optimized inference for LLMs (https://github.com/huggingface/text-generation-inference)
+- LMDeploy: a toolkit for compressing, deploying, and serving LLM (https://github.com/InternLM/lmdeploy)
 - How continuous batching enables 23x throughput in LLM inference while reducing p50 latency (https://www.anyscale.com/blog/continuous-batching-llm-inference)
 - 🤗 Text Generation Inference (https://github.com/huggingface/text-generation-inference)
 - Squeeze more out of your GPU for LLM inference—a tutorial on Accelerate & DeepSpeed (https://preemo.medium.com/squeeze-more-out-of-your-gpu-for-llm-inference-a-tutorial-on-accelerate-deepspeed-610fce3025fd)
