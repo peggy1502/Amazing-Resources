@@ -889,7 +889,10 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - Microsoft DeepSpeed - Deep learning optimization software suite for both training and inference (https://github.com/microsoft/DeepSpeed)  (https://www.deepspeed.ai/)
 - DeepSpeed Chat - Easy, Fast and Affordable RLHF Training of ChatGPT-like Models at All Scales (https://github.com/microsoft/DeepSpeedExamples/tree/master/applications/DeepSpeed-Chat)  (https://github.com/microsoft/DeepSpeed/tree/master/blogs/deepspeed-chat)
 - 🤗 PEFT: Parameter-Efficient Fine-Tuning of Billion-Scale Models on Low-Resource Hardware (https://huggingface.co/blog/peft) (https://github.com/huggingface/peft)
+- 🤗 TRL - Transformer Reinforcement Learning (https://github.com/huggingface/trl)  (https://huggingface.co/docs/trl/index)
 - bitsandbytes - 8-bit optimizers, matrix multiplication (LLM.int8()), and quantization functions (https://github.com/TimDettmers/bitsandbytes)
+- AutoGPTQ: LLMs quantization package with user-friendly apis, based on GPTQ algorithm (Post-Training Quantization) (https://github.com/PanQiWei/AutoGPTQ)
+
 
 #### 🤖 Transformer Toolkit / Techniques / Methods
 - 🤗 The Large Language Model Training Handbook (https://github.com/huggingface/llm_training_handbook)
@@ -984,11 +987,10 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 #### 🤖 Transformer / LLM Inference / Deployment
 - 7 Ways To Speed Up Inference of Your Hosted LLMs (https://betterprogramming.pub/speed-up-llm-inference-83653aa24c47)
 - vLLM: Easy, Fast, and Cheap LLM Serving with PagedAttention (https://github.com/vllm-project/vllm)  (https://vllm.ai/)
-- TGI: Text Generation Inference - Fast optimized inference for LLMs (https://github.com/huggingface/text-generation-inference)
+- 🤗 TGI: Text Generation Inference - Fast optimized inference for LLMs (https://github.com/huggingface/text-generation-inference)
 - LMDeploy: a toolkit for compressing, deploying, and serving LLM (https://github.com/InternLM/lmdeploy)
 - OpenVINO: an open-source toolkit for optimizing and deploying AI inference (https://github.com/openvinotoolkit)  (https://docs.openvino.ai/2023.0/home.html)
 - How continuous batching enables 23x throughput in LLM inference while reducing p50 latency (https://www.anyscale.com/blog/continuous-batching-llm-inference)
-- 🤗 Text Generation Inference (https://github.com/huggingface/text-generation-inference)
 - Squeeze more out of your GPU for LLM inference—a tutorial on Accelerate & DeepSpeed (https://preemo.medium.com/squeeze-more-out-of-your-gpu-for-llm-inference-a-tutorial-on-accelerate-deepspeed-610fce3025fd)
 - Performance bottlenecks in deploying LLMs—a primer for ML researchers (https://preemo.medium.com/performance-bottlenecks-in-deploying-llms-a-primer-for-ml-researchers-c2b51c2084a8)
 - Inference using the pre-trained Alpaca-LoRA (https://www.mlexpert.io/machine-learning/tutorials/alpaca-and-llama-inference) (https://colab.research.google.com/drive/15VstUxU48CT3mRudFrj3FIv6Z4cIXnon?usp=sharing)
