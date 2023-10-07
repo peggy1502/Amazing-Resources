@@ -892,6 +892,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - 🤗 TRL - Transformer Reinforcement Learning (https://github.com/huggingface/trl)  (https://huggingface.co/docs/trl/index)
 - bitsandbytes - 8-bit optimizers, matrix multiplication (LLM.int8()), and quantization functions (https://github.com/TimDettmers/bitsandbytes)
 - AutoGPTQ: LLMs quantization package with user-friendly apis, based on GPTQ algorithm (Post-Training Quantization) (https://github.com/PanQiWei/AutoGPTQ)
+- Quantize 🤗 Transformers models (https://huggingface.co/docs/transformers/main_classes/quantization)
 
 
 #### 🤖 Transformer Toolkit / Techniques / Methods
@@ -943,7 +944,6 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - Fine-tune Llama 2 with SFT and DPO (https://medium.com/@anchen.li/fine-tune-llama-2-with-sft-and-dpo-8b57cf3ec69)
 - Fine-Tuning LLaMA 2 Models using a single GPU, QLoRA and AI Notebooks (https://blog.ovhcloud.com/fine-tuning-llama-2-models-using-a-single-gpu-qlora-and-ai-notebooks/)
 - Fine-Tuning Embedding Model with PEFT and LoRA (https://medium.com/@kelvin.lu.au/fine-tuning-embedding-model-with-peft-and-lora-3b6f08987c24)
-- Optimizing your LLM in production (https://huggingface.co/blog/optimize-llm)
 
 
 
@@ -994,6 +994,8 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - Squeeze more out of your GPU for LLM inference—a tutorial on Accelerate & DeepSpeed (https://preemo.medium.com/squeeze-more-out-of-your-gpu-for-llm-inference-a-tutorial-on-accelerate-deepspeed-610fce3025fd)
 - Performance bottlenecks in deploying LLMs—a primer for ML researchers (https://preemo.medium.com/performance-bottlenecks-in-deploying-llms-a-primer-for-ml-researchers-c2b51c2084a8)
 - Inference using the pre-trained Alpaca-LoRA (https://www.mlexpert.io/machine-learning/tutorials/alpaca-and-llama-inference) (https://colab.research.google.com/drive/15VstUxU48CT3mRudFrj3FIv6Z4cIXnon?usp=sharing)
+- Optimizing your LLM in production (https://huggingface.co/blog/optimize-llm)
+
 
   
 #### 🤖 Transformer / LLM Data Curator
