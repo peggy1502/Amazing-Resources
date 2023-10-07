@@ -891,7 +891,8 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - 🤗 PEFT: Parameter-Efficient Fine-Tuning of Billion-Scale Models on Low-Resource Hardware (https://huggingface.co/blog/peft) (https://github.com/huggingface/peft)
 - 🤗 TRL - Transformer Reinforcement Learning (https://github.com/huggingface/trl)  (https://huggingface.co/docs/trl/index)
 - bitsandbytes - 8-bit optimizers, matrix multiplication (LLM.int8()), and quantization functions (https://github.com/TimDettmers/bitsandbytes)
-- AutoGPTQ: LLMs quantization package with user-friendly apis, based on GPTQ algorithm (Post-Training Quantization) (https://github.com/PanQiWei/AutoGPTQ)
+- GPTQ: Accurate Post-training Compression for Generative Pretrained Transformers (https://github.com/IST-DASLab/gptq)
+- AutoGPTQ: LLMs quantization package with user-friendly apis, based on GPTQ algorithm (https://github.com/PanQiWei/AutoGPTQ)
 - Quantize 🤗 Transformers models (https://huggingface.co/docs/transformers/main_classes/quantization)
 
 
