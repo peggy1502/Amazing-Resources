@@ -1028,6 +1028,9 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - > https://maartengr.github.io/BERTopic/getting_started/best_practices/best_practices.html
 
 #### 🤖 Q&A
+- Danswer: OpenSource Enterprise Question-Answering tool (https://github.com/danswer-ai/danswer)  (https://docs.danswer.dev/introduction)
+- > Host a Llama 2 API on GPU for Free (https://medium.com/@yuhongsun96/host-a-llama-2-api-on-gpu-for-free-a5311463c183)
+- > How to Augment LLMs with Private Data (https://medium.com/@yuhongsun96/how-to-augment-llms-with-private-data-29349bd8ae9f)
 - How to build an AI that can answer questions about your website (https://platform.openai.com/docs/tutorials/web-qa-embeddings)
 - openai-cookbook
 - > https://github.com/openai/openai-cookbook/tree/3826607431929af5d58ba442aa3c2893009f637b/examples/fine-tuned_qa
@@ -1042,6 +1045,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - Running Llama 2 on CPU Inference Locally for Document Q&A (https://towardsdatascience.com/running-llama-2-on-cpu-inference-for-document-q-a-3d636037a3d8) $$ (https://github.com/kennethleungty/Llama-2-Open-Source-LLM-CPU-Inference)
 - Using LLaMA 2.0, FAISS and LangChain for Question-Answering on Your Own Data (https://medium.com/@murtuza753/using-llama-2-0-faiss-and-langchain-for-question-answering-on-your-own-data-682241488476)
 - How to Fine-tune Llama 2 with LoRA for Question Answering: A Guide for Practitioners (https://deci.ai/blog/fine-tune-llama-2-with-lora-for-question-answering/)
+- Generative AI Lifecycle Patterns (https://dr-arsanjani.medium.com/the-generative-ai-lifecycle-1b0c7d9463ec)
 
 #### Discussion on LLM Padding / Formatting Function
 - Why does the falcon QLoRA tutorial code use eos_token as pad_token? - use TemplateProcessing (https://discuss.huggingface.co/t/why-does-the-falcon-qlora-tutorial-code-use-eos-token-as-pad-token/45954/14?u=brando)
