@@ -987,6 +987,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - Parrot_paraphraser_on_T5 (https://huggingface.co/prithivida/parrot_paraphraser_on_T5)
 - T0pp (https://huggingface.co/bigscience/T0pp) (https://huggingface.co/GroNLP/T0pp-sharded)
 - Persimmon-8B: The best fully permissively-licensed model in the 8B class (https://www.adept.ai/blog/persimmon-8b)
+- Mistral Transformer (https://github.com/mistralai/mistral-src)  (https://mistral.ai/news/announcing-mistral-7b/)
 
 #### 🤖 Transformer / LLM Inference / Deployment
 - 7 Ways To Speed Up Inference of Your Hosted LLMs (https://betterprogramming.pub/speed-up-llm-inference-83653aa24c47)
