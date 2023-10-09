@@ -1000,6 +1000,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - Performance bottlenecks in deploying LLMs—a primer for ML researchers (https://preemo.medium.com/performance-bottlenecks-in-deploying-llms-a-primer-for-ml-researchers-c2b51c2084a8)
 - Inference using the pre-trained Alpaca-LoRA (https://www.mlexpert.io/machine-learning/tutorials/alpaca-and-llama-inference) (https://colab.research.google.com/drive/15VstUxU48CT3mRudFrj3FIv6Z4cIXnon?usp=sharing)
 - Optimizing your LLM in production (https://huggingface.co/blog/optimize-llm)
+- Efficient Streaming Language Models with Attention Sinks (https://github.com/mit-han-lab/streaming-llm) (https://arxiv.org/pdf/2309.17453.pdf)
 
 
   
