@@ -671,6 +671,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - > https://www.flaticon.com/
 - > https://www.freepik.com/
 - News API - Search worldwide news with code (https://newsapi.org/)
+- MkDocs: static site generator that's geared towards building project documentation (https://www.mkdocs.org/)  (https://github.com/mkdocs/mkdocs)
 
 
 ## 👍 Job / Interview / DS Portfolio
@@ -1078,6 +1079,12 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - AutoGPT Agent Custom Instruction (https://shard-tsunami-ffe.notion.site/AutoGPT-Agent-Custom-Instruction-9826d664c53e4f50a5f814378c19a89d)
 - Practitioners guide to fine-tune LLMs for domain-specific use case (https://cismography.medium.com/practitioners-guide-to-fine-tune-llms-for-domain-specific-use-case-part-1-4561714d874f)
 - Practical insights while fine-tuning LLMs for domain-specific use cases and best practices (https://cismography.medium.com/practical-insights-while-fine-tuning-llms-for-domain-specific-use-cases-and-best-practices-aa986c799777)
+
+#### Agent
+- AutoGPT: the heart of the open-source agent ecosystem (https://github.com/Significant-Gravitas/AutoGPT)
+- The Official AutoGPT Forge Tutorial Series (https://aiedge.medium.com/autogpt-forge-e3de53cc58ec)
+- AutoGPT Tutorial: Creating an Agent Powered Research Assistant with Auto-GPT-Forge (https://lablab.ai/t/autogpt-tutorial-creating-a-research-assistant-with-auto-gpt-forge)
+- Decoding Auto-GPT (https://maartengrootendorst.substack.com/p/decoding-auto-gpt)
 
 
 
