@@ -442,6 +442,8 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - Answer Chat AI (https://www.answerchatai.com/)
 - AI Explorables (https://pair.withgoogle.com/explorables/)
 - > Do Machine Learning Models Memorize or Generalize? (https://pair.withgoogle.com/explorables/grokking/)
+- Tensor Puzzles (https://github.com/srush/Tensor-Puzzles)
+- GPU Puzzles (https://github.com/srush/GPU-Puzzles)
 
 ## 👍 GitHub Repositories
 - PyTorch Image Models (https://github.com/rwightman/pytorch-image-models)
