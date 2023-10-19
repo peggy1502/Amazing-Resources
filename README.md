@@ -1042,6 +1042,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 
 #### 🤖 Q&A
 - Danswer: OpenSource Enterprise Question-Answering tool (https://github.com/danswer-ai/danswer)  (https://docs.danswer.dev/introduction)
+- DocsGPT: GPT-powered chat for documentation (https://docsgpt.arc53.com/)  (https://github.com/arc53/DocsGPT)
 - > Host a Llama 2 API on GPU for Free (https://medium.com/@yuhongsun96/host-a-llama-2-api-on-gpu-for-free-a5311463c183)
 - > How to Augment LLMs with Private Data (https://medium.com/@yuhongsun96/how-to-augment-llms-with-private-data-29349bd8ae9f)
 - How to build an AI that can answer questions about your website (https://platform.openai.com/docs/tutorials/web-qa-embeddings)
