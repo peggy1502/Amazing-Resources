@@ -444,6 +444,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - > Do Machine Learning Models Memorize or Generalize? (https://pair.withgoogle.com/explorables/grokking/)
 - Tensor Puzzles (https://github.com/srush/Tensor-Puzzles)
 - GPU Puzzles (https://github.com/srush/GPU-Puzzles)
+- Insanely Useful Websites (https://insanelyusefulwebsites.com)
 
 ## 👍 GitHub Repositories
 - PyTorch Image Models (https://github.com/rwightman/pytorch-image-models)
@@ -950,6 +951,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - Fine-tune Llama 2 with SFT and DPO (https://medium.com/@anchen.li/fine-tune-llama-2-with-sft-and-dpo-8b57cf3ec69)
 - Fine-Tuning LLaMA 2 Models using a single GPU, QLoRA and AI Notebooks (https://blog.ovhcloud.com/fine-tuning-llama-2-models-using-a-single-gpu-qlora-and-ai-notebooks/)
 - Fine-Tuning Embedding Model with PEFT and LoRA (https://medium.com/@kelvin.lu.au/fine-tuning-embedding-model-with-peft-and-lora-3b6f08987c24)
+- [Video] Jeremy Howard: A Hackers' Guide to Language Models (https://www.youtube.com/watch?v=jkrNMKz9pWU)
 
 
 
@@ -991,6 +993,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - T0pp (https://huggingface.co/bigscience/T0pp) (https://huggingface.co/GroNLP/T0pp-sharded)
 - Persimmon-8B: The best fully permissively-licensed model in the 8B class (https://www.adept.ai/blog/persimmon-8b)
 - Mistral Transformer (https://github.com/mistralai/mistral-src)  (https://mistral.ai/news/announcing-mistral-7b/)
+- MiniGPT-v2: Large Language Model as a Unified Interface for Vision-Language Multi-task Learning (https://minigpt-v2.github.io/)
 
 #### 🤖 Transformer / LLM Inference / Deployment
 - 7 Ways To Speed Up Inference of Your Hosted LLMs (https://betterprogramming.pub/speed-up-llm-inference-83653aa24c47)
@@ -1074,6 +1077,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 
 #### Prompt Engineering / Instructions
 - Enprompt 360 - AI Prompts Generator (https://www.kickstarter.com/projects/enprompt360/enprompt-360)
+- Awesome ChatGPT Prompts (https://prompts.chat/)
 - Prompt Engineering Guide (https://www.promptingguide.ai/techniques)
 - The Power of Prompt Engineering: Building Your Own Personal Assistant (https://ai.plainenglish.io/the-power-of-prompt-engineering-personalizing-your-ai-model-5a1b9671b8c5)
 - What I Learned Pushing Prompt Engineering to the Limit (https://towardsdatascience.com/what-i-learned-pushing-prompt-engineering-to-the-limit-c40f0740641f)
