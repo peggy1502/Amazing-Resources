@@ -737,6 +737,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - Salary Negotiation: Make More Money, Be More Valued (https://www.kalzumeus.com/2012/01/23/salary-negotiation/)
 
 ## 👍 System Design
+- ByteByteGo - System Design 101 (https://blog.bytebytego.com/) (https://github.com/ByteByteGoHq/system-design-101) 
 - System Design Interview (https://systeminterview.com/scale-from-zero-to-millions-of-users.php)
 - SYSTEM DESIGN INTERVIEW PREPARATION SERIES (https://www.codekarle.com/)
 - The complete guide to system design in 2022 (https://www.educative.io/blog/complete-guide-to-system-design#filestorage)
@@ -1042,6 +1043,8 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - Topic Modeling with Llama 2 (https://maartengrootendorst.substack.com/p/topic-modeling-with-llama-2) (https://towardsdatascience.com/topic-modeling-with-llama-2-85177d01e174) $$ (https://colab.research.google.com/drive/1QCERSMUjqGetGGujdrvv_6_EeoIcd_9M?usp=sharing) 
 - > https://maartengr.github.io/BERTopic/algorithm/algorithm.html
 - > https://maartengr.github.io/BERTopic/getting_started/best_practices/best_practices.html
+- Mastering PDFs: Extracting Sections, Headings, Paragraphs, and Tables with Cutting-Edge Parser (https://blog.llamaindex.ai/mastering-pdfs-extracting-sections-headings-paragraphs-and-tables-with-cutting-edge-parser-faea18870125)
+- > LayoutPDFReader (https://github.com/nlmatics/llmsherpa#layoutpdfreader)
 
 #### 🤖 Q&A
 - Danswer: OpenSource Enterprise Question-Answering tool (https://github.com/danswer-ai/danswer)  (https://docs.danswer.dev/introduction)
@@ -1086,6 +1089,8 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - AutoGPT Agent Custom Instruction (https://shard-tsunami-ffe.notion.site/AutoGPT-Agent-Custom-Instruction-9826d664c53e4f50a5f814378c19a89d)
 - Practitioners guide to fine-tune LLMs for domain-specific use case (https://cismography.medium.com/practitioners-guide-to-fine-tune-llms-for-domain-specific-use-case-part-1-4561714d874f)
 - Practical insights while fine-tuning LLMs for domain-specific use cases and best practices (https://cismography.medium.com/practical-insights-while-fine-tuning-llms-for-domain-specific-use-cases-and-best-practices-aa986c799777)
+- A New Prompt Engineering Technique Has Been Introduced Called Step-Back Prompting (https://cobusgreyling.medium.com/a-new-prompt-engineering-technique-has-been-introduced-called-step-back-prompting-b00e8954cacb)
+- The LangChain Implementation Of DeepMind’s Step-Back Prompting (https://cobusgreyling.medium.com/the-langchain-implementation-of-deepminds-step-back-prompting-9d698cf3e0c2)
 
 #### Agent
 - AutoGPT: the heart of the open-source agent ecosystem (https://github.com/Significant-Gravitas/AutoGPT)
