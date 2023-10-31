@@ -955,6 +955,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - Fine-Tuning LLaMA 2 Models using a single GPU, QLoRA and AI Notebooks (https://blog.ovhcloud.com/fine-tuning-llama-2-models-using-a-single-gpu-qlora-and-ai-notebooks/)
 - Fine-Tuning Embedding Model with PEFT and LoRA (https://medium.com/@kelvin.lu.au/fine-tuning-embedding-model-with-peft-and-lora-3b6f08987c24)
 - [Video] Jeremy Howard: A Hackers' Guide to Language Models (https://www.youtube.com/watch?v=jkrNMKz9pWU)
+- 🤗 The Alignment Handbook - Robust recipes to align language models with human and AI preferences (https://github.com/huggingface/alignment-handbook/tree/main)  (https://www.linkedin.com/posts/philipp-schmid-a6a2bb196_what-if-we-could-distill-the-alignment-from-activity-7123567109128806400-jgEg)  (https://www.linkedin.com/posts/thom-wolf_ai-knowledgesharing-opensource-activity-7123588019839713280-EqhV)
 
 
 
