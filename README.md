@@ -1018,7 +1018,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - Curating Trillion-Token Datasets: Introducing NVIDIA NeMo Data Curator (https://developer.nvidia.com/blog/curating-trillion-token-datasets-introducing-nemo-data-curator/)
 - ftfy: fixes text for you (https://github.com/rspeer/python-ftfy)
 
-#### 🤖 Transformer Sample Applications
+#### 🤖 Transformer / LLM Sample Applications
 - Beyond Classification With Transformers and Hugging Face (https://towardsdatascience.com/beyond-classification-with-transformers-and-hugging-face-d38c75f574fb)
 - Faster Text Classification with Naive Bayes and GPUs (https://developer.nvidia.com/blog/faster-text-classification-with-naive-bayes-and-gpus)
 - Classifying Multimodal Data using Transformers (https://github.com/dsaidgovsg/multimodal-learning-hands-on-tutorial)
@@ -1048,6 +1048,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - > https://maartengr.github.io/BERTopic/getting_started/best_practices/best_practices.html
 - Mastering PDFs: Extracting Sections, Headings, Paragraphs, and Tables with Cutting-Edge Parser (https://blog.llamaindex.ai/mastering-pdfs-extracting-sections-headings-paragraphs-and-tables-with-cutting-edge-parser-faea18870125)
 - > LayoutPDFReader (https://github.com/nlmatics/llmsherpa#layoutpdfreader)
+- Multimodal Retrieval with Text Embedding and CLIP Image Embedding for Backyard Birds (https://github.com/wenqiglantz/multi_modal_retrieval_backyard_birds)
 
 #### 🤖 Q&A
 - Danswer: OpenSource Enterprise Question-Answering tool (https://github.com/danswer-ai/danswer)  (https://docs.danswer.dev/introduction)
