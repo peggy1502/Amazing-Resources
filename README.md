@@ -1049,6 +1049,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - Mastering PDFs: Extracting Sections, Headings, Paragraphs, and Tables with Cutting-Edge Parser (https://blog.llamaindex.ai/mastering-pdfs-extracting-sections-headings-paragraphs-and-tables-with-cutting-edge-parser-faea18870125)
 - > LayoutPDFReader (https://github.com/nlmatics/llmsherpa#layoutpdfreader)
 - Multimodal Retrieval with Text Embedding and CLIP Image Embedding for Backyard Birds (https://github.com/wenqiglantz/multi_modal_retrieval_backyard_birds)
+- LlamaIndex Chat (https://github.com/run-llama/chat-llamaindex)
 
 #### 🤖 Q&A
 - Danswer: OpenSource Enterprise Question-Answering tool (https://github.com/danswer-ai/danswer)  (https://docs.danswer.dev/introduction)
