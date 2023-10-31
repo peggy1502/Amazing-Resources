@@ -575,6 +575,8 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - Calculus and Differentiation Primer (https://sebastianraschka.com/pdf/books/dlb/appendix_d_calculus.pdf)
 - Understanding Automatic Differentiation in 30 lines of Python (https://vmartin.fr/understanding-automatic-differentiation-in-30-lines-of-python.html)
 - What Are Floating-point Numbers? (https://www.baseclass.io/newsletter/floating-point-numbers)
+- Monte Carlo Simulation — a practical guide (https://towardsdatascience.com/monte-carlo-simulation-a-practical-guide-85da45597f0e)
+- Gradient Descent Algorithm — a deep dive (https://towardsdatascience.com/gradient-descent-algorithm-a-deep-dive-cf04e8115f21)
 
 ## 👍 Datasets
 - 24 Free Datasets for Building an Irresistible Portfolio (2022) (https://www.dataquest.io/blog/free-datasets-for-projects/)
