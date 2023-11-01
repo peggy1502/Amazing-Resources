@@ -577,6 +577,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - What Are Floating-point Numbers? (https://www.baseclass.io/newsletter/floating-point-numbers)
 - Monte Carlo Simulation — a practical guide (https://towardsdatascience.com/monte-carlo-simulation-a-practical-guide-85da45597f0e)
 - Gradient Descent Algorithm — a deep dive (https://towardsdatascience.com/gradient-descent-algorithm-a-deep-dive-cf04e8115f21)
+- What's behind matrix multiplication? (https://www.tivadardanka.com/blog/behind-matrix-multiplication)
 
 ## 👍 Datasets
 - 24 Free Datasets for Building an Irresistible Portfolio (2022) (https://www.dataquest.io/blog/free-datasets-for-projects/)
@@ -822,6 +823,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - Debugging in PyTorch (https://uvadlc-notebooks.readthedocs.io/en/latest/tutorial_notebooks/guide3/Debugging_PyTorch.html)
 - TorchMetrics - How do we use it, and what's the difference between .update() and .forward()? (https://sebastianraschka.com/blog/2022/torchmetrics.html) (https://github.com/rasbt/torchmetrics-blog/blob/main/torchmetrics-update-forward.ipynb)
 - PyTorch training codes with AverageMeter & ProgressMeter (https://docs.openvino.ai/2023.0/notebooks/302-pytorch-quantization-aware-training-with-output.html)
+- Hooks: the one PyTorch trick you must know (https://tivadardanka.com/blog/hooks-the-one-pytorch-trick-you-must-know)
 
 ## 🔦 PyTorch-Related Discussions
 - How to modify a pretrained model (https://discuss.pytorch.org/t/how-to-modify-a-pretrained-model/60509)
