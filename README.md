@@ -961,6 +961,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - Fine-Tuning Embedding Model with PEFT and LoRA (https://medium.com/@kelvin.lu.au/fine-tuning-embedding-model-with-peft-and-lora-3b6f08987c24)
 - [Video] Jeremy Howard: A Hackers' Guide to Language Models (https://www.youtube.com/watch?v=jkrNMKz9pWU)
 - 🤗 The Alignment Handbook - Robust recipes to align language models with human and AI preferences (https://github.com/huggingface/alignment-handbook/tree/main)  (https://www.linkedin.com/posts/philipp-schmid-a6a2bb196_what-if-we-could-distill-the-alignment-from-activity-7123567109128806400-jgEg)  (https://www.linkedin.com/posts/thom-wolf_ai-knowledgesharing-opensource-activity-7123588019839713280-EqhV)  (https://arxiv.org/pdf/2310.16944.pdf)
+- Efficient Fine-Tuning with LoRA: A Guide to Optimal Parameter Selection for Large Language Models (https://www.databricks.com/blog/efficient-fine-tuning-lora-guide-llms)
 
 
 
