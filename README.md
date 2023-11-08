@@ -405,6 +405,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - Facets - visualizations for understanding and analyzing machine learning datasets (https://github.com/PAIR-code/facets)
 - Alternatives to box plots: Using beeswarm and raincloud plots to summarise ecological data (https://labs.ala.org.au/posts/2023-08-28_alternatives-to-box-plots/post.html)
 - How to Create a Beautiful Polar Histogram With Python and Matplotlib (https://dev.to/oscarleo/how-to-create-a-beautiful-polar-histogram-with-python-and-matplotlib-400l)
+- Data Visualisation Guide (https://data.europa.eu/apps/data-visualisation-guide/)
 
 #### Colab
 - Google Colab Tips for Power Users (https://amitness.com/2020/06/google-colaboratory-tips/)
