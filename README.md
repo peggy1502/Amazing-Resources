@@ -841,6 +841,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - PyTorch vs TensorFlow in 2022 (https://www.assemblyai.com/blog/pytorch-vs-tensorflow-in-2022/)
 - What is the difference between `register_buffer` and `register_parameter` of `nn.Module` (https://discuss.pytorch.org/t/what-is-the-difference-between-register-buffer-and-register-parameter-of-nn-module/32723) (https://pytorch.org/docs/stable/generated/torch.nn.Module.html#torch.nn.Module.register_buffer)
 - Model.named_parameters() will lose some layer modules (https://discuss.pytorch.org/t/model-named-parameters-will-lose-some-layer-modules/14588)
+- model.parameters(), model.named_parameters(), model.state_dict() (https://blog.csdn.net/qq_36429555/article/details/118609604)
 
 ## ⏩ fast.ai
 - Jeremy Howard - Kaggle Notebooks (https://www.kaggle.com/jhoward/notebooks)
