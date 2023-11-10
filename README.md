@@ -950,6 +950,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - Fine-tuning LLMs - in simple notes - ROUGE, BLEU metrics - (https://teetracker.medium.com/fine-tuning-llms-9fe553a514d0)
 - Fine-tune Llama 2 with DPO - Direct Preference Optimization (https://huggingface.co/blog/dpo-trl)
 - Fine-Tuning Llama 2.0 with Single GPU Magic (https://ai.plainenglish.io/fine-tuning-llama2-0-with-qloras-single-gpu-magic-1b6a6679d436)
+- > Understanding Llama2: KV Cache, Grouped Query Attention, Rotary Embedding and More (https://ai.plainenglish.io/understanding-llama2-kv-cache-grouped-query-attention-rotary-embedding-and-more-c17e5f49a6d7)
 - > Mastering BERT Model: Building it from Scratch with Pytorch (https://medium.com/data-and-beyond/complete-guide-to-building-bert-model-from-sratch-3e6562228891)
 - > Exploring Dolly 2.0: Fine Tuning Your Own ChatGPT-like Model (https://ai.plainenglish.io/exploring-dolly-2-0-a-guide-to-training-your-own-chatgpt-like-model-dd9b785ff1df)
 - > GPT Model Behind the Scene: Exploring it from scratch with Pytorch (https://ai.plainenglish.io/creating-and-exploring-gpt-from-scratch-ffe84ac415a9)
@@ -962,6 +963,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - [Video] Jeremy Howard: A Hackers' Guide to Language Models (https://www.youtube.com/watch?v=jkrNMKz9pWU)
 - 🤗 The Alignment Handbook - Robust recipes to align language models with human and AI preferences (https://github.com/huggingface/alignment-handbook/tree/main)  (https://www.linkedin.com/posts/philipp-schmid-a6a2bb196_what-if-we-could-distill-the-alignment-from-activity-7123567109128806400-jgEg)  (https://www.linkedin.com/posts/thom-wolf_ai-knowledgesharing-opensource-activity-7123588019839713280-EqhV)  (https://arxiv.org/pdf/2310.16944.pdf)
 - Efficient Fine-Tuning with LoRA: A Guide to Optimal Parameter Selection for Large Language Models (https://www.databricks.com/blog/efficient-fine-tuning-lora-guide-llms)
+- LoRA — Intuitively and Exhaustively Explained (https://towardsdatascience.com/lora-intuitively-and-exhaustively-explained-e944a6bff46b)  $$ (https://github.com/DanielWarfield1/MLWritingAndResearch/blob/main/LoRA.ipynb)
 
 
 
