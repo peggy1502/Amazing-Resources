@@ -1061,6 +1061,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - > LayoutPDFReader (https://github.com/nlmatics/llmsherpa#layoutpdfreader)
 - Multimodal Retrieval with Text Embedding and CLIP Image Embedding for Backyard Birds (https://github.com/wenqiglantz/multi_modal_retrieval_backyard_birds)
 - LlamaIndex Chat (https://github.com/run-llama/chat-llamaindex)
+- LoRA for semantic similarity tasks (https://huggingface.co/docs/peft/task_guides/semantic-similarity-lora)
 
 #### 🤖 Q&A
 - Danswer: OpenSource Enterprise Question-Answering tool (https://github.com/danswer-ai/danswer)  (https://docs.danswer.dev/introduction)
