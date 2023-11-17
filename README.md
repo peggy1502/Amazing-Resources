@@ -679,7 +679,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - > https://www.freepik.com/
 - News API - Search worldwide news with code (https://newsapi.org/)
 - MkDocs: static site generator that's geared towards building project documentation (https://www.mkdocs.org/)  (https://github.com/mkdocs/mkdocs)
-- Material for MkDocs (https://www.youtube.com/watch?v=Q-YA_dA8C20)  (https://squidfunk.github.io/mkdocs-material/)  (https://github.com/squidfunk/mkdocs-material)  (https://www.stevemar.net/five-things-about-mkdocs/)  (https://docs.markhh.com/pages/tools/mkdocs_demo/)  (https://www.starfallprojects.co.uk/blog/mkdocs-material-blog-cover-image/)
+- Material for MkDocs (https://www.youtube.com/watch?v=Q-YA_dA8C20)  (https://squidfunk.github.io/mkdocs-material/)  (https://github.com/squidfunk/mkdocs-material)  (https://www.stevemar.net/five-things-about-mkdocs/)  (https://docs.markhh.com/pages/tools/mkdocs_demo/)  (https://www.starfallprojects.co.uk/blog/mkdocs-material-blog-cover-image/)  (https://www.codeinsideout.com/blog/site-setup/create-site-project/)
 
 
 ## 👍 Job / Interview / DS Portfolio
