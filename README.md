@@ -492,6 +492,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - Trax — Deep Learning with Clear Code and Speed (https://github.com/google/trax/tree/af3a38917bd1bc69cf5d25ce007e16185f22f050)
 - Lightning-Hydra-Template (https://github.com/ashleve/lightning-hydra-template)
 - https://github.com/ChanCheeKean/DataScience/
+- Tracking Progress in Natural Language Processing (https://github.com/sebastianruder/NLP-progress/tree/master)
 
 ## 👍 Kaggle
 - Kaggle Solutions (https://farid.one/kaggle-solutions/)
@@ -969,6 +970,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - Efficient Fine-Tuning with LoRA: A Guide to Optimal Parameter Selection for Large Language Models (https://www.databricks.com/blog/efficient-fine-tuning-lora-guide-llms)
 - LoRA — Intuitively and Exhaustively Explained (https://towardsdatascience.com/lora-intuitively-and-exhaustively-explained-e944a6bff46b)  $$ (https://github.com/DanielWarfield1/MLWritingAndResearch/blob/main/LoRA.ipynb)
 - Out-of-Domain Finetuning to Bootstrap Hallucination Detection (https://eugeneyan.com/writing/finetuning/) (https://github.com/eugeneyan/visualizing-finetunes)
+- Faster debug and development with tiny models, tokenizers and datasets (https://github.com/stas00/ml-engineering/blob/master/transformers/make-tiny-models.md)  (https://huggingface.co/stas/tiny-random-llama-2) (https://huggingface.co/stas/tiny-random-llama-2/blob/main/make_tiny_model.py)
 
 
 
