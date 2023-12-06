@@ -240,6 +240,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - Twitter's Recommendation Algorithm (https://blog.twitter.com/engineering/en_us/topics/open-source/2023/twitter-recommendation-algorithm) (https://github.com/twitter/the-algorithm) (https://github.com/twitter/the-algorithm-ml)
 - Personalized recommendations articles by Gaurav Chakravorty (https://www.linkedin.com/today/author/gauravchak?trk=article-ssr-frontend-pulse_more-articles)
 - Accelerating AI: Implementing Multi-GPU Distributed Training for Personalized Recommendations (https://multithreaded.stitchfix.com/blog/2023/06/08/distributed-model-training/)
+- How Instacart Uses Machine Learning-Driven Autocomplete to Help People Fill Their Carts (https://tech.instacart.com/how-instacart-uses-machine-learning-driven-autocomplete-to-help-people-fill-their-carts-9bc56d22bafb)
 
 #### Similarity Search / ANNS / Vector Indexing
 - Getting started with Vector DBs in Python (https://code.dblock.org/2023/06/16/getting-started-with-vector-dbs-in-python.html) (https://github.com/dblock/vectordb-hello-world/)
@@ -681,6 +682,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - News API - Search worldwide news with code (https://newsapi.org/)
 - MkDocs: static site generator that's geared towards building project documentation (https://www.mkdocs.org/)  (https://github.com/mkdocs/mkdocs)
 - Material for MkDocs (https://www.youtube.com/watch?v=Q-YA_dA8C20)  (https://squidfunk.github.io/mkdocs-material/)  (https://github.com/squidfunk/mkdocs-material)  (https://www.stevemar.net/five-things-about-mkdocs/)  (https://docs.markhh.com/pages/tools/mkdocs_demo/)  (https://www.starfallprojects.co.uk/blog/mkdocs-material-blog-cover-image/)  (https://www.codeinsideout.com/blog/site-setup/create-site-project/)  (https://blog.ktz.me/making-mkdocs-tables-look-like-github-markdown-tables/)
+- data load tool - dlt (https://dlthub.com/docs/intro)
 
 
 ## 👍 Job / Interview / DS Portfolio
@@ -971,6 +973,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - LoRA — Intuitively and Exhaustively Explained (https://towardsdatascience.com/lora-intuitively-and-exhaustively-explained-e944a6bff46b)  $$ (https://github.com/DanielWarfield1/MLWritingAndResearch/blob/main/LoRA.ipynb)
 - Out-of-Domain Finetuning to Bootstrap Hallucination Detection (https://eugeneyan.com/writing/finetuning/) (https://github.com/eugeneyan/visualizing-finetunes)
 - Faster debug and development with tiny models, tokenizers and datasets (https://github.com/stas00/ml-engineering/blob/master/transformers/make-tiny-models.md)  (https://huggingface.co/stas/tiny-random-llama-2) (https://huggingface.co/stas/tiny-random-llama-2/blob/main/make_tiny_model.py)
+- Mastering LLM Techniques: Inference Optimization (https://developer.nvidia.com/blog/mastering-llm-techniques-inference-optimization/)
 
 
 
@@ -1013,6 +1016,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - Persimmon-8B: The best fully permissively-licensed model in the 8B class (https://www.adept.ai/blog/persimmon-8b)
 - Mistral Transformer (https://github.com/mistralai/mistral-src)  (https://mistral.ai/news/announcing-mistral-7b/)
 - MiniGPT-v2: Large Language Model as a Unified Interface for Vision-Language Multi-task Learning (https://minigpt-v2.github.io/)
+- 8 Top Open-Source LLMs for 2024 and Their Uses (https://www.datacamp.com/blog/top-open-source-llms)
 
 #### 🤖 Transformer / LLM Inference / Deployment
 - 7 Ways To Speed Up Inference of Your Hosted LLMs (https://betterprogramming.pub/speed-up-llm-inference-83653aa24c47)
