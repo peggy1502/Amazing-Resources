@@ -683,6 +683,8 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - MkDocs: static site generator that's geared towards building project documentation (https://www.mkdocs.org/)  (https://github.com/mkdocs/mkdocs)
 - Material for MkDocs (https://www.youtube.com/watch?v=Q-YA_dA8C20)  (https://squidfunk.github.io/mkdocs-material/)  (https://github.com/squidfunk/mkdocs-material)  (https://www.stevemar.net/five-things-about-mkdocs/)  (https://docs.markhh.com/pages/tools/mkdocs_demo/)  (https://www.starfallprojects.co.uk/blog/mkdocs-material-blog-cover-image/)  (https://www.codeinsideout.com/blog/site-setup/create-site-project/)  (https://blog.ktz.me/making-mkdocs-tables-look-like-github-markdown-tables/)
 - data load tool - dlt (https://dlthub.com/docs/intro)
+- cleanlab automatically detects data and label issues in your ML datasets (https://docs.cleanlab.ai/stable/index.html)
+- Public APIs (https://github.com/public-apis/public-apis)
 
 
 ## 👍 Job / Interview / DS Portfolio
@@ -974,6 +976,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - Out-of-Domain Finetuning to Bootstrap Hallucination Detection (https://eugeneyan.com/writing/finetuning/) (https://github.com/eugeneyan/visualizing-finetunes)
 - Faster debug and development with tiny models, tokenizers and datasets (https://github.com/stas00/ml-engineering/blob/master/transformers/make-tiny-models.md)  (https://huggingface.co/stas/tiny-random-llama-2) (https://huggingface.co/stas/tiny-random-llama-2/blob/main/make_tiny_model.py)
 - Mastering LLM Techniques: Inference Optimization (https://developer.nvidia.com/blog/mastering-llm-techniques-inference-optimization/)
+- A Guide on 12 Tuning Strategies for Production-Ready RAG Applications (https://towardsdatascience.com/a-guide-on-12-tuning-strategies-for-production-ready-rag-applications-7ca646833439#341d)
 
 
 
@@ -1071,6 +1074,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - Multimodal Retrieval with Text Embedding and CLIP Image Embedding for Backyard Birds (https://github.com/wenqiglantz/multi_modal_retrieval_backyard_birds)
 - LlamaIndex Chat (https://github.com/run-llama/chat-llamaindex)
 - LoRA for semantic similarity tasks (https://huggingface.co/docs/peft/task_guides/semantic-similarity-lora)
+- Hands-on LLMs Course - Learn to Train and Deploy a Real-Time Financial Advisor (https://github.com/iusztinpaul/hands-on-llms)
 
 #### 🤖 Q&A
 - Danswer: OpenSource Enterprise Question-Answering tool (https://github.com/danswer-ai/danswer)  (https://docs.danswer.dev/introduction)
