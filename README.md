@@ -685,6 +685,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - data load tool - dlt (https://dlthub.com/docs/intro)
 - cleanlab automatically detects data and label issues in your ML datasets (https://docs.cleanlab.ai/stable/index.html)
 - Public APIs (https://github.com/public-apis/public-apis)
+- How to configure VS Code for AI, ML and MLOps development in Python 🛠️️ (https://mlops.community/how-to-configure-vs-code-for-ai-ml-and-mlops-development-in-python-%F0%9F%9B%A0%ef%b8%8f%ef%b8%8f/)
 
 
 ## 👍 Job / Interview / DS Portfolio
@@ -1075,6 +1076,8 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - LlamaIndex Chat (https://github.com/run-llama/chat-llamaindex)
 - LoRA for semantic similarity tasks (https://huggingface.co/docs/peft/task_guides/semantic-similarity-lora)
 - Hands-on LLMs Course - Learn to Train and Deploy a Real-Time Financial Advisor (https://github.com/iusztinpaul/hands-on-llms)
+- Forging a Personal Chatbot with OpenAI API, Chroma DB, HuggingFace Spaces, and Gradio 🔥 (https://mlops.community/forging-a-personal-chatbot-with-openai-api-chroma-db-huggingface-spaces-and-gradio-%f0%9f%94%a5/)
+
 
 #### 🤖 Q&A
 - Danswer: OpenSource Enterprise Question-Answering tool (https://github.com/danswer-ai/danswer)  (https://docs.danswer.dev/introduction)
