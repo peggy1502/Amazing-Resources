@@ -1081,6 +1081,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - LoRA for semantic similarity tasks (https://huggingface.co/docs/peft/task_guides/semantic-similarity-lora)
 - Hands-on LLMs Course - Learn to Train and Deploy a Real-Time Financial Advisor (https://github.com/iusztinpaul/hands-on-llms)
 - Forging a Personal Chatbot with OpenAI API, Chroma DB, HuggingFace Spaces, and Gradio 🔥 (https://mlops.community/forging-a-personal-chatbot-with-openai-api-chroma-db-huggingface-spaces-and-gradio-%f0%9f%94%a5/)
+- How to Convert Any Text Into a Graph of Concepts (https://towardsdatascience.com/how-to-convert-any-text-into-a-graph-of-concepts-110844f22a1a)  (https://github.com/rahulnyk/knowledge_graph)
 
 
 #### 🤖 Q&A
