@@ -152,6 +152,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - Competitive Programmer’s Handbook (https://cses.fi/book/book.pdf)
 - Free and/or open source books on machine learning, statistics, data mining, etc (https://github.com/josephmisiti/awesome-machine-learning/blob/master/books.md)
 - Lucene in Action - Second Edition (https://livebook.manning.com/book/lucene-in-action-second-edition/appendix-b/)
+- Build a Large Language Model (From Scratch) by Sebastian Raschka (https://github.com/rasbt/LLMs-from-scratch)
 
 ## 👍 Papers
 - 2015 Cyclical Learning Rates for Training Neural Networks (https://arxiv.org/abs/1506.01186)
