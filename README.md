@@ -758,6 +758,8 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - awesome-scalability (https://github.com/binhnguyennus/awesome-scalability)
 - System Architecture (https://orrsella.gitbooks.io/soft-eng-interview-prep/content/topics/system-architecture.html)
 - Dynamo: Amazon’s Highly Available Key-value Store (https://www.allthingsdistributed.com/files/amazon-dynamo-sosp2007.pdf)
+- System Design Series by Sanil Khurana (https://medium.com/@sanilkhurana7)
+- > System Design Series: The Ultimate Guide for Building High-Performance Data Streaming Systems from Scratch! (https://towardsdatascience.com/system-design-series-0-to-100-guide-to-data-streaming-systems-3dd584bd28fa)
 
 ## 👍 Algorithms / Technical Coding 
 - Dynamic Programming Patterns (https://leetcode.com/discuss/general-discussion/458695/dynamic-programming-patterns)
