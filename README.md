@@ -1124,6 +1124,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - Practical insights while fine-tuning LLMs for domain-specific use cases and best practices (https://cismography.medium.com/practical-insights-while-fine-tuning-llms-for-domain-specific-use-cases-and-best-practices-aa986c799777)
 - A New Prompt Engineering Technique Has Been Introduced Called Step-Back Prompting (https://cobusgreyling.medium.com/a-new-prompt-engineering-technique-has-been-introduced-called-step-back-prompting-b00e8954cacb)
 - The LangChain Implementation Of DeepMind’s Step-Back Prompting (https://cobusgreyling.medium.com/the-langchain-implementation-of-deepminds-step-back-prompting-9d698cf3e0c2)
+- Open AI - Prompt engineering guide (https://platform.openai.com/docs/guides/prompt-engineering)
 
 #### Agent
 - AutoGPT: the heart of the open-source agent ecosystem (https://github.com/Significant-Gravitas/AutoGPT)
