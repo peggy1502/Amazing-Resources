@@ -981,6 +981,8 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - Out-of-Domain Finetuning to Bootstrap Hallucination Detection (https://eugeneyan.com/writing/finetuning/) (https://github.com/eugeneyan/visualizing-finetunes)
 - Faster debug and development with tiny models, tokenizers and datasets (https://github.com/stas00/ml-engineering/blob/master/transformers/make-tiny-models.md)  (https://huggingface.co/stas/tiny-random-llama-2) (https://huggingface.co/stas/tiny-random-llama-2/blob/main/make_tiny_model.py)
 - Mastering LLM Techniques: Inference Optimization (https://developer.nvidia.com/blog/mastering-llm-techniques-inference-optimization/)
+- The Novice's LLM Training Guide (https://rentry.org/llm-training)
+- Fast Llama 2 on CPUs With Sparse Fine-Tuning and DeepSparse (https://neuralmagic.com/blog/fast-llama-2-on-cpus-with-sparse-fine-tuning-and-deepsparse/)
 
 #### 🤖 RAG
 - A Guide on 12 Tuning Strategies for Production-Ready RAG Applications (https://towardsdatascience.com/a-guide-on-12-tuning-strategies-for-production-ready-rag-applications-7ca646833439#341d)
@@ -1041,6 +1043,8 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - Optimizing your LLM in production (https://huggingface.co/blog/optimize-llm)
 - StreamingLLM: Efficient Streaming Language Models with Attention Sinks (https://github.com/mit-han-lab/streaming-llm) (https://arxiv.org/pdf/2309.17453.pdf)
 - S-LoRA: Serving Thousands of Concurrent LoRA Adapters (https://github.com/s-lora/s-lora)
+- DeepSparse by Neural Magic - Sparsity-aware deep learning inference runtime for CPUs (https://github.com/neuralmagic/deepsparse/tree/main)
+- SparseML by Neural Magic - an open-source model optimization toolkit that enables you to create inference-optimized sparse models using pruning, quantization, and distillation algorithms (https://github.com/neuralmagic/sparseml)
 
 
   
