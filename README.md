@@ -981,8 +981,10 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - Out-of-Domain Finetuning to Bootstrap Hallucination Detection (https://eugeneyan.com/writing/finetuning/) (https://github.com/eugeneyan/visualizing-finetunes)
 - Faster debug and development with tiny models, tokenizers and datasets (https://github.com/stas00/ml-engineering/blob/master/transformers/make-tiny-models.md)  (https://huggingface.co/stas/tiny-random-llama-2) (https://huggingface.co/stas/tiny-random-llama-2/blob/main/make_tiny_model.py)
 - Mastering LLM Techniques: Inference Optimization (https://developer.nvidia.com/blog/mastering-llm-techniques-inference-optimization/)
-- A Guide on 12 Tuning Strategies for Production-Ready RAG Applications (https://towardsdatascience.com/a-guide-on-12-tuning-strategies-for-production-ready-rag-applications-7ca646833439#341d)
 
+#### 🤖 RAG
+- A Guide on 12 Tuning Strategies for Production-Ready RAG Applications (https://towardsdatascience.com/a-guide-on-12-tuning-strategies-for-production-ready-rag-applications-7ca646833439#341d)
+- Advanced RAG Techniques: an Illustrated Overview (https://pub.towardsai.net/advanced-rag-techniques-an-illustrated-overview-04d193d8fec6)
 
 
 #### 🤖 Lightning AI ⚡⚡⚡
