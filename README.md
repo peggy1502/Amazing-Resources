@@ -988,7 +988,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - Mastering LLM Techniques: Inference Optimization (https://developer.nvidia.com/blog/mastering-llm-techniques-inference-optimization/)
 - The Novice's LLM Training Guide (https://rentry.org/llm-training)
 - Fast Llama 2 on CPUs With Sparse Fine-Tuning and DeepSparse (https://neuralmagic.com/blog/fast-llama-2-on-cpus-with-sparse-fine-tuning-and-deepsparse/)
-- LLM Distillation Playbook - Practical best practices for distilling large language models (https://github.com/predibase/llm_distillation_playbook)
+- LLM Distillation Playbook (by Predibase) - Practical best practices for distilling large language models (https://github.com/predibase/llm_distillation_playbook)
 
 #### 🤖 RAG
 - A Guide on 12 Tuning Strategies for Production-Ready RAG Applications (https://towardsdatascience.com/a-guide-on-12-tuning-strategies-for-production-ready-rag-applications-7ca646833439#341d)
