@@ -741,6 +741,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - Scarlet Ink by Dave Anderson - Interview Advice (https://www.scarletink.com/tag/interviewing/)
 - > How can I recover a job offer I rejected, or a job I quit? (https://www.scarletink.com/questions-answers-reddit-cscareerquestions-experiment/)
 - > Writing and Speaking Clearly and Concisely (https://www.scarletink.com/writing-speaking-clearly-concisely/)
+- ML Systems Design Interview Guide (http://patrickhalina.com/posts/ml-systems-design-interview-guide/)
 
 ## 👍 Salary Negotiation
 - level.fyi (https://www.levels.fyi/Salaries/Data-Scientist/Singapore/)
@@ -761,6 +762,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - Dynamo: Amazon’s Highly Available Key-value Store (https://www.allthingsdistributed.com/files/amazon-dynamo-sosp2007.pdf)
 - System Design Series by Sanil Khurana (https://medium.com/@sanilkhurana7)
 - > System Design Series: The Ultimate Guide for Building High-Performance Data Streaming Systems from Scratch! (https://towardsdatascience.com/system-design-series-0-to-100-guide-to-data-streaming-systems-3dd584bd28fa)
+- ML Systems Design Interview Guide (http://patrickhalina.com/posts/ml-systems-design-interview-guide/)
 
 ## 👍 Algorithms / Technical Coding 
 - Dynamic Programming Patterns (https://leetcode.com/discuss/general-discussion/458695/dynamic-programming-patterns)
@@ -983,6 +985,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - Mastering LLM Techniques: Inference Optimization (https://developer.nvidia.com/blog/mastering-llm-techniques-inference-optimization/)
 - The Novice's LLM Training Guide (https://rentry.org/llm-training)
 - Fast Llama 2 on CPUs With Sparse Fine-Tuning and DeepSparse (https://neuralmagic.com/blog/fast-llama-2-on-cpus-with-sparse-fine-tuning-and-deepsparse/)
+- LLM Distillation Playbook - Practical best practices for distilling large language models (https://github.com/predibase/llm_distillation_playbook)
 
 #### 🤖 RAG
 - A Guide on 12 Tuning Strategies for Production-Ready RAG Applications (https://towardsdatascience.com/a-guide-on-12-tuning-strategies-for-production-ready-rag-applications-7ca646833439#341d)
