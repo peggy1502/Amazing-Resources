@@ -1049,6 +1049,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - Optimizing your LLM in production (https://huggingface.co/blog/optimize-llm)
 - StreamingLLM: Efficient Streaming Language Models with Attention Sinks (https://github.com/mit-han-lab/streaming-llm) (https://arxiv.org/pdf/2309.17453.pdf)
 - S-LoRA: Serving Thousands of Concurrent LoRA Adapters (https://github.com/s-lora/s-lora)
+- > Recipe for Serving Thousands of Concurrent LoRA Adapters (https://lmsys.org/blog/2023-11-15-slora/)
 - DeepSparse by Neural Magic - Sparsity-aware deep learning inference runtime for CPUs (https://github.com/neuralmagic/deepsparse/tree/main)
 - SparseML by Neural Magic - an open-source model optimization toolkit that enables you to create inference-optimized sparse models using pruning, quantization, and distillation algorithms (https://github.com/neuralmagic/sparseml)
 
