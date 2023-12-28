@@ -429,6 +429,9 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - Rethinking Stream Processing and Streaming Databases (https://betterprogramming.pub/rethinking-stream-processing-and-streaming-databases-21076aaec375)
 - Why You Shouldn’t Invest In Vector Databases? (https://medium.com/data-engineer-things/why-you-shouldnt-invest-in-vector-databases-c0cd3f59d23c)
 - Building and operating a pretty big storage system called S3 (https://www.allthingsdistributed.com/2023/07/building-and-operating-a-pretty-big-storage-system.html)
+
+#### Reinforcement Learning
+- Develop Your First AI Agent: Deep Q-Learning (https://towardsdatascience.com/develop-your-first-ai-agent-deep-q-learning-375876ee2472)
   
 ## 👍 Interesting and Fun
 - A Visual Guide to Regular Expression (https://amitness.com/regex/)
