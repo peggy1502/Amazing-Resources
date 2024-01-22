@@ -1000,6 +1000,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 #### 🤖 RAG
 - A Guide on 12 Tuning Strategies for Production-Ready RAG Applications (https://towardsdatascience.com/a-guide-on-12-tuning-strategies-for-production-ready-rag-applications-7ca646833439#341d)
 - Advanced RAG Techniques: an Illustrated Overview (https://pub.towardsai.net/advanced-rag-techniques-an-illustrated-overview-04d193d8fec6)
+- A Cheat Sheet and Some Recipes For Building Advanced RAG (https://blog.llamaindex.ai/a-cheat-sheet-and-some-recipes-for-building-advanced-rag-803a9d94c41b)
 
 
 #### 🤖 Lightning AI ⚡⚡⚡
