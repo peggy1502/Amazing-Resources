@@ -1064,6 +1064,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - > Recipe for Serving Thousands of Concurrent LoRA Adapters (https://lmsys.org/blog/2023-11-15-slora/)
 - DeepSparse by Neural Magic - Sparsity-aware deep learning inference runtime for CPUs (https://github.com/neuralmagic/deepsparse/tree/main)
 - SparseML by Neural Magic - an open-source model optimization toolkit that enables you to create inference-optimized sparse models using pruning, quantization, and distillation algorithms (https://github.com/neuralmagic/sparseml)
+- Marlin - Mixed Auto-Regressive Linear kernel, an extremely optimized FP16xINT4 matmul kernel aimed at LLM inference (https://github.com/IST-DASLab/marlin)
 
 
   
