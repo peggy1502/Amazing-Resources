@@ -425,6 +425,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - Cross-validation (https://www.datamuni.com/@abhishek/basics-of-cross-validation)
 - 7 Cool Python Packages Kagglers Are Using Without Telling You (https://towardsdatascience.com/7-cool-python-packages-kagglers-are-using-without-telling-you-e83298781cf4)
 - Fastest Way to Read Excel in Python (https://hakibenita.com/fast-excel-python)
+- Efficiently iterating over rows in a Pandas DataFrame (https://towardsdatascience.com/efficiently-iterating-over-rows-in-a-pandas-dataframe-7dd5f9992c01)
 
 #### Database / Storage
 - Blogs about streaming database (https://medium.com/@yingjunwu)
