@@ -271,6 +271,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - RAFT: Reusable Accelerated Functions and Tools for Vector Search and More (https://github.com/rapidsai/raft)
 - RAFT IVF-PQ tutorial (https://github.com/rapidsai/raft/blob/28b789404bedfa8dd82675fc4221f6db927c0422/notebooks/tutorial_ivf_pq.ipynb)
 - CAGRA: Highly Parallel Graph Construction and Approximate Nearest Neighbor Search for GPUs (Cuda Anns GRAph-based) (https://arxiv.org/pdf/2308.15136v1.pdf) (https://docs.rapids.ai/api/raft/nightly/pylibraft_api/neighbors/#cagra)
+- Geospatial Vector Search: Building an AI-Powered Geo-Aware News Search (https://levelup.gitconnected.com/geospatial-vector-search-building-an-ai-powered-geo-aware-news-search-6cbda8919465)
 
 
 #### Search / Code Search / Information Retrieval
