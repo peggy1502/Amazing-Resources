@@ -424,6 +424,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - 7 Actionable Tips on How to Use Python to Become a Finance Guru (https://sdsclub.com/7-actionable-tips-on-how-to-use-python-to-become-a-finance-guru/)
 - Cross-validation (https://www.datamuni.com/@abhishek/basics-of-cross-validation)
 - 7 Cool Python Packages Kagglers Are Using Without Telling You (https://towardsdatascience.com/7-cool-python-packages-kagglers-are-using-without-telling-you-e83298781cf4)
+- Fastest Way to Read Excel in Python (https://hakibenita.com/fast-excel-python)
 
 #### Database / Storage
 - Blogs about streaming database (https://medium.com/@yingjunwu)
