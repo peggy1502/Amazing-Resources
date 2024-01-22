@@ -1000,6 +1000,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - Fast Llama 2 on CPUs With Sparse Fine-Tuning and DeepSparse (https://neuralmagic.com/blog/fast-llama-2-on-cpus-with-sparse-fine-tuning-and-deepsparse/)
 - LLM Distillation Playbook (by Predibase) - Practical best practices for distilling large language models (https://github.com/predibase/llm_distillation_playbook)
 - Preference Tuning LLMs with Direct Preference Optimization Methods -  evaluation of Direct Preference Optimization (DPO), Identity Preference Optimisation (IPO) and Kahneman-Tversky Optimisation (KTO) (https://huggingface.co/blog/pref-tuning)
+- Merge Large Language Models with mergekit (https://towardsdatascience.com/merge-large-language-models-with-mergekit-2118fb392b54)
 
 #### 🤖 RAG
 - A Guide on 12 Tuning Strategies for Production-Ready RAG Applications (https://towardsdatascience.com/a-guide-on-12-tuning-strategies-for-production-ready-rag-applications-7ca646833439#341d)
