@@ -929,6 +929,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - AutoGPTQ: LLMs quantization package with user-friendly apis, based on GPTQ algorithm (https://github.com/PanQiWei/AutoGPTQ)
 - Quantize 🤗 Transformers models (https://huggingface.co/docs/transformers/main_classes/quantization)
 - Which Quantization Method is Right for You? (GPTQ vs. GGUF vs. AWQ) (https://maartengrootendorst.substack.com/p/which-quantization-method-is-right)
+- Optimum-Benchmark 🏋️ (https://github.com/huggingface/optimum-benchmark)
 
 
 #### 🤖 Transformer Toolkit / Techniques / Methods
