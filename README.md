@@ -1072,6 +1072,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - SparseML by Neural Magic - an open-source model optimization toolkit that enables you to create inference-optimized sparse models using pruning, quantization, and distillation algorithms (https://github.com/neuralmagic/sparseml)
 - Marlin - Mixed Auto-Regressive Linear kernel, an extremely optimized FP16xINT4 matmul kernel aimed at LLM inference (https://github.com/IST-DASLab/marlin)
 - LLM Maybe LongLM: Self-Extend LLM Context Window Without Tuning (https://github.com/datamllab/LongLM)  (https://www.reddit.com/r/LocalLLaMA/comments/18x8g6c/llm_maybe_longlm_selfextend_llm_context_window/)
+- Flash-Decoding for long-context inference (https://pytorch.org/blog/flash-decoding/)
 
 
   
