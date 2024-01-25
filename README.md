@@ -815,6 +815,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - Dodge The Lasers — Fantastic Question From Google’s hiring challenge (https://towardsdatascience.com/dodge-the-lasers-fantastic-question-from-googles-hiring-challenge-72363d95fec)
 
 ## 🔦 PyTorch-Related
+- PyTorch 2 Internals (https://blog.christianperone.com/2023/12/pytorch-2-internals-talk/)
 - Torch Tensor Operations (https://jhui.github.io/2018/02/09/PyTorch-Basic-operations/)
 - Optimize PyTorch Performance for Speed and Memory Efficiency (18 Tips) - (https://towardsdatascience.com/optimize-pytorch-performance-for-speed-and-memory-efficiency-2022-84f453916ea6)
 - Faster Deep Learning Training with PyTorch – a 2021 Guide (https://efficientdl.com/faster-deep-learning-in-pytorch-a-guide/)
