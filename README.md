@@ -47,6 +47,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - Haystack (https://haystack.deepset.ai/tutorials)
 - Zero to GPT (https://github.com/VikParuchuri/zero_to_gpt)
 - Interactive Coding Challenges (https://github.com/donnemartin/interactive-coding-challenges)
+- Machine Learning and AI Books (https://mltechniques.com/shop/)
 
 
 ## 👍 Cheat Sheets
