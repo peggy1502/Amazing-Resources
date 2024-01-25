@@ -923,6 +923,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - Retentive Networks (RetNet) Explained: The much-awaited Transformers-killer is here (https://medium.com/ai-fusion-labs/retentive-networks-retnet-explained-the-much-awaited-transformers-killer-is-here-6c17e3e8add8)
 - Large Language Models: SBERT — Sentence-BERT (https://towardsdatascience.com/sbert-deb3d4aef8a4)
 - Inside the Matrix: Visualizing Matrix Multiplication, Attention and Beyond (https://pytorch.org/blog/inside-the-matrix/)
+- How context sizes of 100k tokens and longer are achieved (https://www.linkedin.com/posts/andriyburkov_in-case-you-were-wondering-how-context-sizes-activity-7154922110354604032-Tx1a)
 
 #### 🤖 Transformer Libraries
 - AWQ: Activation-aware Weight Quantization for LLM Compression and Acceleration [Paper] (https://github.com/mit-han-lab/llm-awq)
@@ -1077,6 +1078,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 #### 🤖 Transformer / LLM Data Curator
 - Curating Trillion-Token Datasets: Introducing NVIDIA NeMo Data Curator (https://developer.nvidia.com/blog/curating-trillion-token-datasets-introducing-nemo-data-curator/)
 - ftfy: fixes text for you (https://github.com/rspeer/python-ftfy)
+  
 
 #### 🤖 Transformer / LLM Sample Applications
 - Beyond Classification With Transformers and Hugging Face (https://towardsdatascience.com/beyond-classification-with-transformers-and-hugging-face-d38c75f574fb)
