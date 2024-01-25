@@ -1054,6 +1054,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - Mistral Transformer (https://github.com/mistralai/mistral-src)  (https://mistral.ai/news/announcing-mistral-7b/)
 - MiniGPT-v2: Large Language Model as a Unified Interface for Vision-Language Multi-task Learning (https://minigpt-v2.github.io/)
 - 8 Top Open-Source LLMs for 2024 and Their Uses (https://www.datacamp.com/blog/top-open-source-llms)
+- 01-ai/Yi-34B (https://huggingface.co/01-ai/Yi-34B)
 
 #### 🤖 Transformer / LLM Inference / Deployment
 - 7 Ways To Speed Up Inference of Your Hosted LLMs (https://betterprogramming.pub/speed-up-llm-inference-83653aa24c47)
