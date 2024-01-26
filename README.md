@@ -414,6 +414,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - How to Create a Beautiful Polar Histogram With Python and Matplotlib (https://dev.to/oscarleo/how-to-create-a-beautiful-polar-histogram-with-python-and-matplotlib-400l)
 - Data Visualisation Guide (https://data.europa.eu/apps/data-visualisation-guide/)
 - What is Gephi? Meet this useful network analysis tool (https://medium.com/@vespinozag/what-is-gephi-meet-this-useful-network-analysis-tool-628a1b42428c)  (https://github.com/gephi/gephi)
+- The Perfect Way to Smooth Your Noisy Data - using Whittaker-Eilers Smoothing (https://towardsdatascience.com/the-perfect-way-to-smooth-your-noisy-data-4f3fe6b44440)
 
 #### Colab
 - Google Colab Tips for Power Users (https://amitness.com/2020/06/google-colaboratory-tips/)
