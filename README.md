@@ -1033,9 +1033,12 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - Finetuning Falcon LLMs More Efficiently With LoRA and Adapters (https://lightning.ai/pages/community/finetuning-falcon-efficiently/)
 - The Falcon has landed in the Hugging Face ecosystem (https://huggingface.co/blog/falcon) (https://colab.research.google.com/drive/1BiQiw31DT7-cDp1-0ySXvvhzqomTdI-o?usp=sharing)
 
-#### 🤖 Transformer Models / Timeline
+#### 🤖 LLM Leaderboard
 - 🤗 Open LLM Leaderboard (https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard)
 - 🤗 Massive Text Embedding Benchmark (MTEB) Leaderboard (https://huggingface.co/spaces/mteb/leaderboard)
+- Hughes Hallucination Evaluation Model (HHEM) leaderboard (https://huggingface.co/spaces/vectara/leaderboard)  (https://github.com/vectara/hallucination-leaderboard)
+
+#### 🤖 Transformer Models / Timeline
 - 7 Basic NLP Models to Empower Your ML Application (https://zilliz.com/learn/7-nlp-models)
 - 7 models on HuggingFace you probably didn’t know existed (https://towardsdatascience.com/7-models-on-huggingface-you-probably-didnt-knew-existed-f3d079a4fd7c)
 - ChatGPT, GenerativeAI and LLMs Timeline (https://github.com/hollobit/GenAI_LLM_timeline)
