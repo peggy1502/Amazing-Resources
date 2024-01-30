@@ -48,6 +48,8 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - Zero to GPT (https://github.com/VikParuchuri/zero_to_gpt)
 - Interactive Coding Challenges (https://github.com/donnemartin/interactive-coding-challenges)
 - Machine Learning and AI Books (https://mltechniques.com/shop/)
+- Google Machine Learning Education (https://developers.google.com/machine-learning)
+- > https://developers.google.com/machine-learning/guides/deep-learning-tuning-playbook/faq
 
 
 ## 👍 Cheat Sheets
