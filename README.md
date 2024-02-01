@@ -1010,6 +1010,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - Merge Large Language Models with mergekit (https://towardsdatascience.com/merge-large-language-models-with-mergekit-2118fb392b54)
 - 🤗 How to Fine-Tune LLMs in 2024 with Hugging Face (https://www.philschmid.de/fine-tune-llms-in-2024-with-trl)
 - 🤗 makeMoE: Implement a Sparse Mixture of Experts Language Model from Scratch (https://huggingface.co/blog/AviSoori1x/makemoe-from-scratch)
+- Function Calling Datasets, Training and Inference (https://www.youtube.com/watch?v=hHn_cV5WUDI)
 
 #### 🤖 RAG
 - A Guide on 12 Tuning Strategies for Production-Ready RAG Applications (https://towardsdatascience.com/a-guide-on-12-tuning-strategies-for-production-ready-rag-applications-7ca646833439#341d)
