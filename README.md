@@ -1008,6 +1008,8 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - LLM Distillation Playbook (by Predibase) - Practical best practices for distilling large language models (https://github.com/predibase/llm_distillation_playbook)
 - Preference Tuning LLMs with Direct Preference Optimization Methods -  evaluation of Direct Preference Optimization (DPO), Identity Preference Optimisation (IPO) and Kahneman-Tversky Optimisation (KTO) (https://huggingface.co/blog/pref-tuning)
 - Merge Large Language Models with mergekit (https://towardsdatascience.com/merge-large-language-models-with-mergekit-2118fb392b54)
+- 🤗 How to Fine-Tune LLMs in 2024 with Hugging Face (https://www.philschmid.de/fine-tune-llms-in-2024-with-trl)
+- 🤗 makeMoE: Implement a Sparse Mixture of Experts Language Model from Scratch (https://huggingface.co/blog/AviSoori1x/makemoe-from-scratch)
 
 #### 🤖 RAG
 - A Guide on 12 Tuning Strategies for Production-Ready RAG Applications (https://towardsdatascience.com/a-guide-on-12-tuning-strategies-for-production-ready-rag-applications-7ca646833439#341d)
@@ -1035,6 +1037,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - Falcon – A guide to finetune and inference (https://lightning.ai/pages/blog/falcon-a-guide-to-finetune-and-inference/)
 - Finetuning Falcon LLMs More Efficiently With LoRA and Adapters (https://lightning.ai/pages/community/finetuning-falcon-efficiently/)
 - The Falcon has landed in the Hugging Face ecosystem (https://huggingface.co/blog/falcon) (https://colab.research.google.com/drive/1BiQiw31DT7-cDp1-0ySXvvhzqomTdI-o?usp=sharing)
+- Improve LLMs With Proxy-Tuning (https://lightning.ai/lightning-ai/studios/improve-llms-with-proxy-tuning)
 
 #### 🤖 LLM Leaderboard
 - 🤗 Open LLM Leaderboard (https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard)
