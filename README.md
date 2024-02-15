@@ -943,6 +943,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - Quantize 🤗 Transformers models (https://huggingface.co/docs/transformers/main_classes/quantization)
 - Which Quantization Method is Right for You? (GPTQ vs. GGUF vs. AWQ) (https://maartengrootendorst.substack.com/p/which-quantization-method-is-right)
 - Optimum-Benchmark 🏋️ (https://github.com/huggingface/optimum-benchmark)
+- NEFTune - add random noise to the embedding vectors of the training data during the forward pass of fine-tuning (https://github.com/neelsjain/NEFTune)
 
 
 #### 🤖 Transformer Toolkit / Techniques / Methods
@@ -1086,6 +1087,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - Marlin - Mixed Auto-Regressive Linear kernel, an extremely optimized FP16xINT4 matmul kernel aimed at LLM inference (https://github.com/IST-DASLab/marlin)
 - LLM Maybe LongLM: Self-Extend LLM Context Window Without Tuning (https://github.com/datamllab/LongLM)  (https://www.reddit.com/r/LocalLLaMA/comments/18x8g6c/llm_maybe_longlm_selfextend_llm_context_window/)
 - Flash-Decoding for long-context inference (https://pytorch.org/blog/flash-decoding/)
+- 10 Ways To Run LLMs Locally And Which One Works Best For You (https://matilabs.ai/2024/02/07/run-llms-locally/)
 
 
   
