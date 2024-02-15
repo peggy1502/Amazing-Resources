@@ -701,6 +701,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - cleanlab automatically detects data and label issues in your ML datasets (https://docs.cleanlab.ai/stable/index.html)
 - Public APIs (https://github.com/public-apis/public-apis)
 - How to configure VS Code for AI, ML and MLOps development in Python 🛠️️ (https://mlops.community/how-to-configure-vs-code-for-ai-ml-and-mlops-development-in-python-%F0%9F%9B%A0%ef%b8%8f%ef%b8%8f/)
+- Great Tables - Absolutely Delightful Table-making in Python (https://posit-dev.github.io/great-tables/articles/intro.html)
 
 
 ## 👍 Job / Interview / DS Portfolio
