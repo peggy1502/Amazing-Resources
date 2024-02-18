@@ -1132,6 +1132,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - Hands-on LLMs Course - Learn to Train and Deploy a Real-Time Financial Advisor (https://github.com/iusztinpaul/hands-on-llms)
 - Forging a Personal Chatbot with OpenAI API, Chroma DB, HuggingFace Spaces, and Gradio 🔥 (https://mlops.community/forging-a-personal-chatbot-with-openai-api-chroma-db-huggingface-spaces-and-gradio-%f0%9f%94%a5/)
 - How to Convert Any Text Into a Graph of Concepts (https://towardsdatascience.com/how-to-convert-any-text-into-a-graph-of-concepts-110844f22a1a)  (https://github.com/rahulnyk/knowledge_graph)
+- Embed English Wikipedia under 5 dollars (https://lightning.ai/lightning-ai/studios/embed-english-wikipedia-under-5-dollars~01hg0zg8fyybp7p1sma6g9dkzm)
 
 
 #### 🤖 Q&A
