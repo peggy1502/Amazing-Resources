@@ -108,6 +108,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - Is it the end for Apache Airflow? (https://uncledata.medium.com/is-it-the-end-for-apache-airflow-81ef027becf4)
 - Scalable data preparation & ML using Apache Spark on AWS (https://github.com/debnsuma/sagemaker-studio-emr-spark)
 - Interactively fine-tune Falcon-40B and other LLMs on Amazon SageMaker Studio notebooks using QLoRA (https://aws.amazon.com/blogs/machine-learning/interactively-fine-tune-falcon-40b-and-other-llms-on-amazon-sagemaker-studio-notebooks-using-qlora/)
+- Boost your Resume with these Five AWS Projects: Easy, Intermediate, and Expert Levels with Repository Links (https://towardsaws.com/boost-your-resume-with-this-five-aws-projects-easy-intermediate-and-expert-levels-with-6224eef9e2ae)
 
 ## 👍 Videos
 - StatQuest (https://statquest.org/video-index/)
