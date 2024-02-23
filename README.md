@@ -1168,6 +1168,10 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - Padding Large Language Models — Examples with Llama 2 (https://towardsdatascience.com/padding-large-language-models-examples-with-llama-2-199fb10df8ff) $$
 - [SFTTrainer] Fix non packed dataset #444 - Example of formatting_func on alpaca dataset (https://github.com/huggingface/trl/pull/444)
 
+#### Merging weights with quantized model
+- Merging QLoRA weights with quantized model (https://gist.github.com/ChrisHayduk/1a53463331f52dca205e55982baf9930)
+- LoRA Adapters: When a Naive Merge Leads to Poor Performance (https://kaitchup.substack.com/p/lora-adapters-when-a-naive-merge)
+
 #### Prompt Engineering / Instructions
 - Enprompt 360 - AI Prompts Generator (https://www.kickstarter.com/projects/enprompt360/enprompt-360)
 - Awesome ChatGPT Prompts (https://prompts.chat/)
