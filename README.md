@@ -1076,6 +1076,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - MiniGPT-v2: Large Language Model as a Unified Interface for Vision-Language Multi-task Learning (https://minigpt-v2.github.io/)
 - 8 Top Open-Source LLMs for 2024 and Their Uses (https://www.datacamp.com/blog/top-open-source-llms)
 - 01-ai/Yi-34B (https://huggingface.co/01-ai/Yi-34B)
+- OLMo: Open Language Model (https://github.com/allenai/OLMo/tree/main)  (https://github.com/allenai/OLMo/blob/main/scripts/train.py)
 
 #### 🤖 Transformer / LLM Inference / Deployment
 - 7 Ways To Speed Up Inference of Your Hosted LLMs (https://betterprogramming.pub/speed-up-llm-inference-83653aa24c47)
