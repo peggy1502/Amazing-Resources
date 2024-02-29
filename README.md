@@ -946,6 +946,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - Optimum-Benchmark 🏋️ (https://github.com/huggingface/optimum-benchmark)
 - NEFTune - add random noise to the embedding vectors of the training data during the forward pass of fine-tuning (https://github.com/neelsjain/NEFTune)
 - LoRA+: Efficient Low Rank Adaptation of Large Models (https://github.com/nikhil-ghosh-berkeley/loraplus)
+- DoRA: Weight-Decomposed Low-Rank Adaptation (https://github.com/catid/dora/tree/main)
 
 
 #### 🤖 Transformer Toolkit / Techniques / Methods
