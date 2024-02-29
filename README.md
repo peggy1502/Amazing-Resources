@@ -945,6 +945,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - Which Quantization Method is Right for You? (GPTQ vs. GGUF vs. AWQ) (https://maartengrootendorst.substack.com/p/which-quantization-method-is-right)
 - Optimum-Benchmark 🏋️ (https://github.com/huggingface/optimum-benchmark)
 - NEFTune - add random noise to the embedding vectors of the training data during the forward pass of fine-tuning (https://github.com/neelsjain/NEFTune)
+- LoRA+: Efficient Low Rank Adaptation of Large Models (https://github.com/nikhil-ghosh-berkeley/loraplus)
 
 
 #### 🤖 Transformer Toolkit / Techniques / Methods
@@ -1019,6 +1020,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - 🤗 How to Fine-Tune LLMs in 2024 with Hugging Face (https://www.philschmid.de/fine-tune-llms-in-2024-with-trl)
 - 🤗 makeMoE: Implement a Sparse Mixture of Experts Language Model from Scratch (https://huggingface.co/blog/AviSoori1x/makemoe-from-scratch)
 - Function Calling Datasets, Training and Inference (https://www.youtube.com/watch?v=hHn_cV5WUDI)
+- [Video] Fine tuning Optimizations - DoRA, NEFT, LoRA+, Unsloth (https://www.youtube.com/watch?v=ae2lbmtTY5A)
 
 #### 🤖 RAG
 - A Guide on 12 Tuning Strategies for Production-Ready RAG Applications (https://towardsdatascience.com/a-guide-on-12-tuning-strategies-for-production-ready-rag-applications-7ca646833439#341d)
