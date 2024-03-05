@@ -63,6 +63,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - Bayesian (https://blogs.kent.ac.uk/jonw/files/2015/04/Puza2005.pdf)
 - https://github.com/kailashahirwar/cheatsheets-ai
 - pip command options (https://manpages.debian.org/stretch/python-pip/pip.1)
+- RAG cheatsheet (https://miro.com/app/board/uXjVNvklNmc=/)
 
 ## 👍 AWS / SageMaker
 - How do I terminate active resources that I no longer need on my AWS account? (https://aws.amazon.com/premiumsupport/knowledge-center/terminate-resources-account-closure/)
@@ -704,6 +705,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - Public APIs (https://github.com/public-apis/public-apis)
 - How to configure VS Code for AI, ML and MLOps development in Python 🛠️️ (https://mlops.community/how-to-configure-vs-code-for-ai-ml-and-mlops-development-in-python-%F0%9F%9B%A0%ef%b8%8f%ef%b8%8f/)
 - Great Tables - Absolutely Delightful Table-making in Python (https://posit-dev.github.io/great-tables/articles/intro.html)
+- Chunk visualizer (https://huggingface.co/spaces/m-ric/chunk_visualizer)
 
 
 ## 👍 Job / Interview / DS Portfolio
@@ -1029,6 +1031,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - Advanced RAG Techniques: an Illustrated Overview (https://pub.towardsai.net/advanced-rag-techniques-an-illustrated-overview-04d193d8fec6)
 - A Cheat Sheet and Some Recipes For Building Advanced RAG (https://blog.llamaindex.ai/a-cheat-sheet-and-some-recipes-for-building-advanced-rag-803a9d94c41b)
 - > https://d3ddy8balm3goa.cloudfront.net/llamaindex/rag-cheat-sheet-final.svg
+- RAG cheatsheet (https://miro.com/app/board/uXjVNvklNmc=/)
 
 
 #### 🤖 Lightning AI ⚡⚡⚡
