@@ -630,6 +630,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - Unsplash (https://unsplash.com/data)
 - Instruction tuning datasets to train (text and multi-modal) chat-based LLMs (GPT-4, ChatGPT,LLaMA,Alpaca) (https://github.com/yaodongC/awesome-instruction-dataset)
 - Randomizing Very Large Datasets (https://towardsdatascience.com/randomizing-very-large-datasets-e2b14e507725)
+- Python-Code-23k-ShareGPT (https://huggingface.co/datasets/ajibawa-2023/Python-Code-23k-ShareGPT)
 
 ## 👍 Synthetic Data
 - MOSTLY AI, the #1 Synthetic Data Platform (https://mostly.ai/)
@@ -950,6 +951,8 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - NEFTune - add random noise to the embedding vectors of the training data during the forward pass of fine-tuning (https://github.com/neelsjain/NEFTune)
 - LoRA+: Efficient Low Rank Adaptation of Large Models (https://github.com/nikhil-ghosh-berkeley/loraplus)
 - DoRA: Weight-Decomposed Low-Rank Adaptation (https://github.com/catid/dora/tree/main)
+- tensor_parallel - much faster than huggingface's device_map and lightweight than vLLM? (https://github.com/BlackSamorez/tensor_parallel)
+- FastChat - platform for training, serving, and evaluating large language model based chatbots (https://github.com/lm-sys/FastChat)
 
 
 #### 🤖 Transformer Toolkit / Techniques / Methods
@@ -1102,6 +1105,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - LLM Maybe LongLM: Self-Extend LLM Context Window Without Tuning (https://github.com/datamllab/LongLM)  (https://www.reddit.com/r/LocalLLaMA/comments/18x8g6c/llm_maybe_longlm_selfextend_llm_context_window/)
 - Flash-Decoding for long-context inference (https://pytorch.org/blog/flash-decoding/)
 - 10 Ways To Run LLMs Locally And Which One Works Best For You (https://matilabs.ai/2024/02/07/run-llms-locally/)
+- Towards 100x Speedup: Full Stack Transformer Inference Optimization (https://yaofu.notion.site/Towards-100x-Speedup-Full-Stack-Transformer-Inference-Optimization-43124c3688e14cffaf2f1d6cbdf26c6c)
 
 
   
@@ -1185,6 +1189,9 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - Merging QLoRA weights with quantized model (https://gist.github.com/ChrisHayduk/1a53463331f52dca205e55982baf9930)
 - LoRA Adapters: When a Naive Merge Leads to Poor Performance (https://kaitchup.substack.com/p/lora-adapters-when-a-naive-merge)
 
+#### Merge / Fusion / MoE
+- FuseChat: Knowledge Fusion of Chat Models (https://github.com/fanqiwan/FuseLLM/tree/main/FuseChat)
+  
 #### Prompt Engineering / Instructions
 - Enprompt 360 - AI Prompts Generator (https://www.kickstarter.com/projects/enprompt360/enprompt-360)
 - Awesome ChatGPT Prompts (https://prompts.chat/)
@@ -1205,6 +1212,9 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - The Official AutoGPT Forge Tutorial Series (https://aiedge.medium.com/autogpt-forge-e3de53cc58ec)
 - AutoGPT Tutorial: Creating an Agent Powered Research Assistant with Auto-GPT-Forge (https://lablab.ai/t/autogpt-tutorial-creating-a-research-assistant-with-auto-gpt-forge)
 - Decoding Auto-GPT (https://maartengrootendorst.substack.com/p/decoding-auto-gpt)
+
+#### LLM - Misc
+- How Do Language Models put Attention Weights over Long Context? (https://yaofu.notion.site/How-Do-Language-Models-put-Attention-Weights-over-Long-Context-10250219d5ce42e8b465087c383a034e)  (https://github.com/FranxYao/Long-Context-Data-Engineering)
 
 
 
