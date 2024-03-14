@@ -1218,6 +1218,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 
 #### LLM - Misc
 - How Do Language Models put Attention Weights over Long Context? (https://yaofu.notion.site/How-Do-Language-Models-put-Attention-Weights-over-Long-Context-10250219d5ce42e8b465087c383a034e)  (https://github.com/FranxYao/Long-Context-Data-Engineering)
+- AI Watermarking 101: Tools and Techniques (https://huggingface.co/blog/watermarking)
 
 
 
