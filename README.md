@@ -762,6 +762,8 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - Scarlet Ink by Dave Anderson - Interview Advice (https://www.scarletink.com/tag/interviewing/)
 - > How can I recover a job offer I rejected, or a job I quit? (https://www.scarletink.com/questions-answers-reddit-cscareerquestions-experiment/)
 - > Writing and Speaking Clearly and Concisely (https://www.scarletink.com/writing-speaking-clearly-concisely/)
+- The Top 3 Resume Mistakes Costing You the Job (https://blog.bytebytego.com/p/the-top-3-resume-mistakes-costing)
+- The Amazon “secret” of controllable inputs for your career (https://levelupwithethanevans.substack.com/p/the-amazon-secret-of-controllable)
 - ML Systems Design Interview Guide (http://patrickhalina.com/posts/ml-systems-design-interview-guide/)
 
 ## 👍 Salary Negotiation
