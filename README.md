@@ -1084,6 +1084,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - 8 Top Open-Source LLMs for 2024 and Their Uses (https://www.datacamp.com/blog/top-open-source-llms)
 - 01-ai/Yi-34B (https://huggingface.co/01-ai/Yi-34B)
 - OLMo: Open Language Model (https://github.com/allenai/OLMo/tree/main)  (https://github.com/allenai/OLMo/blob/main/scripts/train.py)
+- Genstruct-7B, an instruction-generation model (https://huggingface.co/NousResearch/Genstruct-7B)  (https://huggingface.co/NousResearch/Genstruct-7B/blob/main/notebook.ipynb)
 
 #### 🤖 Transformer / LLM Inference / Deployment
 - 7 Ways To Speed Up Inference of Your Hosted LLMs (https://betterprogramming.pub/speed-up-llm-inference-83653aa24c47)
