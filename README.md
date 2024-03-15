@@ -1223,6 +1223,13 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - GGUF, the long way around (https://vickiboykis.com/2024/02/28/gguf-the-long-way-around/)
 - A Comprehensive Guide to Modeling Techniques in Mixed-Integer Linear Programming - Convert ideas into mathematical expressions to solve operations research problems (https://towardsdatascience.com/a-comprehensive-guide-to-modeling-techniques-in-mixed-integer-linear-programming-3e96cc1bc03d)
 
+#### Unsloth
+- Make LLM Fine-tuning 2x faster with Unsloth and 🤗 TRL (https://huggingface.co/blog/unsloth-trl)
+- https://unsloth.ai/blog
+- https://github.com/unslothai/unsloth
+- https://www.kaggle.com/code/danielhanchen/kaggle-mistral-7b-unsloth-notebook
+
+
 
 
 
