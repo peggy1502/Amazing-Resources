@@ -1109,6 +1109,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - Flash-Decoding for long-context inference (https://pytorch.org/blog/flash-decoding/)
 - 10 Ways To Run LLMs Locally And Which One Works Best For You (https://matilabs.ai/2024/02/07/run-llms-locally/)
 - Towards 100x Speedup: Full Stack Transformer Inference Optimization (https://yaofu.notion.site/Towards-100x-Speedup-Full-Stack-Transformer-Inference-Optimization-43124c3688e14cffaf2f1d6cbdf26c6c)
+- Deploy Deep Learning Models at Scale using NVIDIA Triton Inference Server (https://github.com/decodingml/articles-code/tree/main/articles/computer_vision/deploy_deep_learning_at_scale_nvidia_triton_server)
 
 
   
