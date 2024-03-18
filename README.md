@@ -1155,6 +1155,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - How to Convert Any Text Into a Graph of Concepts (https://towardsdatascience.com/how-to-convert-any-text-into-a-graph-of-concepts-110844f22a1a)  (https://github.com/rahulnyk/knowledge_graph)
 - Embed English Wikipedia under 5 dollars (https://lightning.ai/lightning-ai/studios/embed-english-wikipedia-under-5-dollars~01hg0zg8fyybp7p1sma6g9dkzm)
 - Fine-Tuning Mistral 7b in Google Colab with QLoRA (complete guide) (https://medium.com/@codersama/fine-tuning-mistral-7b-in-google-colab-with-qlora-complete-guide-60e12d437cca)
+- LLM Twin Course: Building Your Production-Ready AI Replica (https://github.com/decodingml/llm-twin-course)
 
 
 #### 🤖 Q&A
