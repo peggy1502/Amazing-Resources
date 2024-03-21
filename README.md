@@ -936,6 +936,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - Large Language Models: SBERT — Sentence-BERT (https://towardsdatascience.com/sbert-deb3d4aef8a4)
 - Inside the Matrix: Visualizing Matrix Multiplication, Attention and Beyond (https://pytorch.org/blog/inside-the-matrix/)
 - How context sizes of 100k tokens and longer are achieved (https://www.linkedin.com/posts/andriyburkov_in-case-you-were-wondering-how-context-sizes-activity-7154922110354604032-Tx1a)
+- KV caching (https://medium.com/@plienhar/llm-inference-series-3-kv-caching-unveiled-048152e461c8)  (https://medium.com/@plienhar/llm-inference-series-4-kv-caching-a-deeper-look-4ba9a77746c8)
 
 #### 🤖 Transformer Libraries
 - AWQ: Activation-aware Weight Quantization for LLM Compression and Acceleration [Paper] (https://github.com/mit-han-lab/llm-awq)
@@ -1117,6 +1118,8 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - 10 Ways To Run LLMs Locally And Which One Works Best For You (https://matilabs.ai/2024/02/07/run-llms-locally/)
 - Towards 100x Speedup: Full Stack Transformer Inference Optimization (https://yaofu.notion.site/Towards-100x-Speedup-Full-Stack-Transformer-Inference-Optimization-43124c3688e14cffaf2f1d6cbdf26c6c)
 - Deploy Deep Learning Models at Scale using NVIDIA Triton Inference Server (https://github.com/decodingml/articles-code/tree/main/articles/computer_vision/deploy_deep_learning_at_scale_nvidia_triton_server)
+- LMDeploy - a toolkit for compressing, deploying, and serving LLM (https://github.com/InternLM/lmdeploy)
+- LLM Inference Series: 5. Dissecting model performance (https://medium.com/@plienhar/llm-inference-series-5-dissecting-model-performance-6144aa93168f)
 
 
   
