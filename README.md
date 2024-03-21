@@ -957,6 +957,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - tensor_parallel - much faster than huggingface's device_map and lightweight than vLLM? (https://github.com/BlackSamorez/tensor_parallel)
 - FastChat - platform for training, serving, and evaluating large language model based chatbots (https://github.com/lm-sys/FastChat)
 - Half-Quadratic Quantization (HQQ) (https://mobiusml.github.io/hqq_blog/)  (https://github.com/mobiusml/hqq)
+- AQLM - Extreme Compression of Large Language Models via Additive Quantization (https://github.com/Vahe1994/AQLM)  (https://towardsdatascience.com/the-aqlm-quantization-algorithm-explained-8cf33e4a783e)
 
 
 #### 🤖 Transformer Toolkit / Techniques / Methods
