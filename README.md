@@ -955,6 +955,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - DoRA: Weight-Decomposed Low-Rank Adaptation (https://github.com/catid/dora/tree/main)
 - tensor_parallel - much faster than huggingface's device_map and lightweight than vLLM? (https://github.com/BlackSamorez/tensor_parallel)
 - FastChat - platform for training, serving, and evaluating large language model based chatbots (https://github.com/lm-sys/FastChat)
+- Half-Quadratic Quantization (HQQ) (https://mobiusml.github.io/hqq_blog/)  (https://github.com/mobiusml/hqq)
 
 
 #### 🤖 Transformer Toolkit / Techniques / Methods
@@ -1065,6 +1066,11 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - 🤗 Massive Text Embedding Benchmark (MTEB) Leaderboard (https://huggingface.co/spaces/mteb/leaderboard)
 - Hughes Hallucination Evaluation Model (HHEM) leaderboard (https://huggingface.co/spaces/vectara/leaderboard)  (https://github.com/vectara/hallucination-leaderboard)
 
+#### 🤖 LLM Evaluation
+- FastChat - platform for training, serving, and evaluating large language model based chatbots (https://github.com/lm-sys/FastChat)
+- LLM Evaluation Metrics: Everything You Need for LLM Evaluation (https://www.confident-ai.com/blog/llm-evaluation-metrics-everything-you-need-for-llm-evaluation)
+- DeepEval - open-source LLM evaluation framework specialized for unit testing LLM outputs (https://github.com/confident-ai/deepeval)
+
 #### 🤖 Transformer Models / Timeline
 - 7 Basic NLP Models to Empower Your ML Application (https://zilliz.com/learn/7-nlp-models)
 - 7 models on HuggingFace you probably didn’t know existed (https://towardsdatascience.com/7-models-on-huggingface-you-probably-didnt-knew-existed-f3d079a4fd7c)
@@ -1087,6 +1093,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - 01-ai/Yi-34B (https://huggingface.co/01-ai/Yi-34B)
 - OLMo: Open Language Model (https://github.com/allenai/OLMo/tree/main)  (https://github.com/allenai/OLMo/blob/main/scripts/train.py)
 - Genstruct-7B, an instruction-generation model (https://huggingface.co/NousResearch/Genstruct-7B)  (https://huggingface.co/NousResearch/Genstruct-7B/blob/main/notebook.ipynb)
+- Grok-1, a 314 billion parameter Mixture-of-Experts model (https://github.com/xai-org/grok-1)
 
 #### 🤖 Transformer / LLM Inference / Deployment
 - 7 Ways To Speed Up Inference of Your Hosted LLMs (https://betterprogramming.pub/speed-up-llm-inference-83653aa24c47)
