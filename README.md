@@ -1163,12 +1163,13 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - Multimodal Retrieval with Text Embedding and CLIP Image Embedding for Backyard Birds (https://github.com/wenqiglantz/multi_modal_retrieval_backyard_birds)
 - LlamaIndex Chat (https://github.com/run-llama/chat-llamaindex)
 - LoRA for semantic similarity tasks (https://huggingface.co/docs/peft/task_guides/semantic-similarity-lora)
-- Hands-on LLMs Course - Learn to Train and Deploy a Real-Time Financial Advisor (https://github.com/iusztinpaul/hands-on-llms)
 - Forging a Personal Chatbot with OpenAI API, Chroma DB, HuggingFace Spaces, and Gradio 🔥 (https://mlops.community/forging-a-personal-chatbot-with-openai-api-chroma-db-huggingface-spaces-and-gradio-%f0%9f%94%a5/)
 - How to Convert Any Text Into a Graph of Concepts (https://towardsdatascience.com/how-to-convert-any-text-into-a-graph-of-concepts-110844f22a1a)  (https://github.com/rahulnyk/knowledge_graph)
 - Embed English Wikipedia under 5 dollars (https://lightning.ai/lightning-ai/studios/embed-english-wikipedia-under-5-dollars~01hg0zg8fyybp7p1sma6g9dkzm)
 - Fine-Tuning Mistral 7b in Google Colab with QLoRA (complete guide) (https://medium.com/@codersama/fine-tuning-mistral-7b-in-google-colab-with-qlora-complete-guide-60e12d437cca)
+- Hands-on LLMs Course - Learn to Train and Deploy a Real-Time Financial Advisor (https://github.com/iusztinpaul/hands-on-llms)
 - LLM Twin Course: Building Your Production-Ready AI Replica (https://github.com/decodingml/llm-twin-course)
+- The Full Stack 7-Steps MLOps Framework (https://github.com/iusztinpaul/energy-forecasting)
 
 
 #### 🤖 Q&A
