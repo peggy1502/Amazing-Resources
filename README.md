@@ -420,6 +420,8 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - Data Visualisation Guide (https://data.europa.eu/apps/data-visualisation-guide/)
 - What is Gephi? Meet this useful network analysis tool (https://medium.com/@vespinozag/what-is-gephi-meet-this-useful-network-analysis-tool-628a1b42428c)  (https://github.com/gephi/gephi)
 - The Perfect Way to Smooth Your Noisy Data - using Whittaker-Eilers Smoothing (https://towardsdatascience.com/the-perfect-way-to-smooth-your-noisy-data-4f3fe6b44440)
+- Scikit-learn Visualization Guide: Making Models Speak (https://www.dataleadsfuture.com/scikit-learn-visualization-guide-making-models-speak/)
+- 6 python libraries to make beautiful maps (https://medium.com/@alexroz/6-python-libraries-to-make-beautiful-maps-9fb9edb28b27)
 
 #### Colab
 - Google Colab Tips for Power Users (https://amitness.com/2020/06/google-colaboratory-tips/)
