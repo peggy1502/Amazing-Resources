@@ -1044,6 +1044,9 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - A Cheat Sheet and Some Recipes For Building Advanced RAG (https://blog.llamaindex.ai/a-cheat-sheet-and-some-recipes-for-building-advanced-rag-803a9d94c41b)
 - > https://d3ddy8balm3goa.cloudfront.net/llamaindex/rag-cheat-sheet-final.svg
 - RAG cheatsheet (https://miro.com/app/board/uXjVNvklNmc=/)
+- From paper to prod! A guide to improving your semantic search with HyDE (https://aimodels.substack.com/p/from-paper-to-prod-a-guide-to-improving)
+- Improving the Semantic Search Tool (https://puddles-of-water.medium.com/improving-the-semantic-search-tool-ef0442f7e972)
+- Binary and Scalar Embedding Quantization for Significantly Faster & Cheaper Retrieval (https://huggingface.co/blog/embedding-quantization)
 
 
 #### 🤖 Lightning AI ⚡⚡⚡
