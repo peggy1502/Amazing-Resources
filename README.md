@@ -110,6 +110,8 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - Scalable data preparation & ML using Apache Spark on AWS (https://github.com/debnsuma/sagemaker-studio-emr-spark)
 - Interactively fine-tune Falcon-40B and other LLMs on Amazon SageMaker Studio notebooks using QLoRA (https://aws.amazon.com/blogs/machine-learning/interactively-fine-tune-falcon-40b-and-other-llms-on-amazon-sagemaker-studio-notebooks-using-qlora/)
 - Boost your Resume with these Five AWS Projects: Easy, Intermediate, and Expert Levels with Repository Links (https://towardsaws.com/boost-your-resume-with-this-five-aws-projects-easy-intermediate-and-expert-levels-with-6224eef9e2ae)
+- Building End-to-End Machine Learning Pipelines with Amazon SageMaker: A Step-by-Step Guide (https://medium.com/anolytics/building-end-to-end-machine-learning-pipelines-with-amazon-sagemaker-a-step-by-step-guide-8531f73b38cd)
+- How to optimize AWS Lambda & Kinesis to process 5 million records per minute (https://towardsaws.com/how-to-optimize-aws-lambda-kinesis-to-process-5-million-messages-c3ed5a143c2d)
 
 ## 👍 Videos
 - StatQuest (https://statquest.org/video-index/)
