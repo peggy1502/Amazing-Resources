@@ -1055,7 +1055,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - From paper to prod! A guide to improving your semantic search with HyDE (https://aimodels.substack.com/p/from-paper-to-prod-a-guide-to-improving)
 - Improving the Semantic Search Tool (https://puddles-of-water.medium.com/improving-the-semantic-search-tool-ef0442f7e972)
 - Binary and Scalar Embedding Quantization for Significantly Faster & Cheaper Retrieval (https://huggingface.co/blog/embedding-quantization)
-
+- 100x Faster — Scaling Your RAG App for Billions of Embeddings - Computing Cosine Similarity in parallel - using Chunkdot (https://medium.com/gitconnected/100x-faster-scaling-your-rag-app-for-billions-of-embeddings-ded34fccd16a)  (https://github.com/rragundez/chunkdot/)
 
 #### 🤖 Lightning AI ⚡⚡⚡
 - 📖 Lightning Fabric Documentation (https://lightning.ai/docs/fabric/stable/)
