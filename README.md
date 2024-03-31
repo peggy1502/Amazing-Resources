@@ -915,7 +915,9 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - Understanding Transformers: A Step-by-Step Math Example — Part 1 (https://medium.com/@fareedkhandev/understanding-transformers-a-step-by-step-math-example-part-1-a7809015150a)
 - > Solving Transformer by Hand: A Step-by-Step Math Example (https://levelup.gitconnected.com/understanding-transformers-from-start-to-end-a-step-by-step-math-example-16d4e64e6eb1)
 - > Building a Million-Parameter LLM from Scratch Using Python - A Step-by-Step Guide to Replicating LLaMA Architecture (https://levelup.gitconnected.com/building-a-million-parameter-llm-from-scratch-using-python-f612398f06c2)
-- Understanding and Coding the Self-Attention Mechanism of Large Language Models From Scratch (https://sebastianraschka.com/blog/2023/self-attention-from-scratch.html)
+- Understanding and Coding Self-Attention, Multi-Head Attention, Cross-Attention, and Causal-Attention in LLMs (https://magazine.sebastianraschka.com/p/understanding-and-coding-self-attention)
+- > https://github.com/rasbt/LLMs-from-scratch/blob/main/ch03/01_main-chapter-code/ch03.ipynb
+- > https://github.com/rasbt/LLMs-from-scratch/blob/main/ch03/01_main-chapter-code/multihead-attention.ipynb
 - Concept of self-attention (https://www.linkedin.com/posts/ugcPost-6882314741088321536-PNqG) (https://www.linkedin.com/feed/update/urn:li:activity:6879010048421445633)
 - Transformers from Scratch - great explanation on dot products and matrix multiplication (https://e2eml.school/transformers.html)
 - TRANSFORMERS FROM SCRATCH (https://peterbloem.nl/blog/transformers)
