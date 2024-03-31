@@ -918,6 +918,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - Understanding and Coding Self-Attention, Multi-Head Attention, Cross-Attention, and Causal-Attention in LLMs (https://magazine.sebastianraschka.com/p/understanding-and-coding-self-attention)
 - > https://github.com/rasbt/LLMs-from-scratch/blob/main/ch03/01_main-chapter-code/ch03.ipynb
 - > https://github.com/rasbt/LLMs-from-scratch/blob/main/ch03/01_main-chapter-code/multihead-attention.ipynb
+- > https://github.com/rasbt/LLMs-from-scratch/tree/main/ch03/02_bonus_efficient-multihead-attention
 - Concept of self-attention (https://www.linkedin.com/posts/ugcPost-6882314741088321536-PNqG) (https://www.linkedin.com/feed/update/urn:li:activity:6879010048421445633)
 - Transformers from Scratch - great explanation on dot products and matrix multiplication (https://e2eml.school/transformers.html)
 - TRANSFORMERS FROM SCRATCH (https://peterbloem.nl/blog/transformers)
