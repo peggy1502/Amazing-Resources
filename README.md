@@ -909,8 +909,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - The Annotated Transformer - with PyTorch codes
 - > Original: (http://nlp.seas.harvard.edu/2018/04/03/attention.html)
 - > v2022: (http://nlp.seas.harvard.edu/annotated-transformer/)
-- Deconstructing BERT, Part 2: Visualizing the Inner Workings of Attention (https://towardsdatascience.com/deconstructing-bert-part-2-visualizing-the-inner-workings-of-attention-60a16d86b5c1) 
-- Transformers Explained Visually (Part 3): Multi-head Attention, deep dive (https://towardsdatascience.com/transformers-explained-visually-part-3-multi-head-attention-deep-dive-1c1ff1024853)
+
 - Attention? Attention! (https://lilianweng.github.io/posts/2018-06-24-attention/)
 - The Transformer Family (https://lilianweng.github.io/posts/2020-04-07-the-transformer-family/)
 - The Transformer Family Version 2.0 (https://lilianweng.github.io/posts/2023-01-27-the-transformer-family-v2/)
@@ -925,7 +924,6 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - How Transformers work in deep learning and NLP: an intuitive introduction (https://theaisummer.com/transformer/)
 - Getting Meaning from Text: Self-attention Step-by-step Video (https://pub.towardsai.net/getting-meaning-from-text-self-attention-step-by-step-video-7d8f49694f89) (https://www.youtube.com/watch?v=-9vVhYEXeyQ&t=570s)
 - Transformer Architecture: The Positional Encoding (https://kazemnejad.com/blog/transformer_architecture_positional_encoding/)
-- Explainable AI: Visualizing Attention in Transformers (https://generativeai.pub/explainable-ai-visualizing-attention-in-transformers-4eb931a2c0f8)  (https://www.topbots.com/deconstructing-bert-part-1/)  (https://www.topbots.com/deconstructing-bert-part-2/)  (https://www.topbots.com/openai-gpt-2-visualization/)
 - Explained: Multi-head Attention (Part 1) (https://storrs.io/attention/)
 - Explained: Multi-head Attention (Part 2) (https://storrs.io/multihead-attention/)
 - Deep learning explainer: a simple single cell classification model (https://storrs.io/sc-deep-learning-explainer/)
@@ -938,9 +936,17 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - Transformer Taxonomy (https://kipp.ly/transformer-taxonomy/)
 - Retentive Networks (RetNet) Explained: The much-awaited Transformers-killer is here (https://medium.com/ai-fusion-labs/retentive-networks-retnet-explained-the-much-awaited-transformers-killer-is-here-6c17e3e8add8)
 - Large Language Models: SBERT — Sentence-BERT (https://towardsdatascience.com/sbert-deb3d4aef8a4)
-- Inside the Matrix: Visualizing Matrix Multiplication, Attention and Beyond (https://pytorch.org/blog/inside-the-matrix/)
 - How context sizes of 100k tokens and longer are achieved (https://www.linkedin.com/posts/andriyburkov_in-case-you-were-wondering-how-context-sizes-activity-7154922110354604032-Tx1a)
 - KV caching (https://medium.com/@plienhar/llm-inference-series-3-kv-caching-unveiled-048152e461c8)  (https://medium.com/@plienhar/llm-inference-series-4-kv-caching-a-deeper-look-4ba9a77746c8)
+
+#### 🤖 Transformer / Attention / LLM Visualization
+- LLM Visualization (https://bbycroft.net/llm)
+- AttentionViz: A Global View of Transformer Attention (https://catherinesyeh.github.io/attn-docs/)
+- Inside the Matrix: Visualizing Matrix Multiplication, Attention and Beyond (https://pytorch.org/blog/inside-the-matrix/)
+- Explainable AI: Visualizing Attention in Transformers (https://generativeai.pub/explainable-ai-visualizing-attention-in-transformers-4eb931a2c0f8)  (https://www.topbots.com/deconstructing-bert-part-1/)  (https://www.topbots.com/deconstructing-bert-part-2/)  (https://www.topbots.com/openai-gpt-2-visualization/)
+- Deconstructing BERT, Part 2: Visualizing the Inner Workings of Attention (https://towardsdatascience.com/deconstructing-bert-part-2-visualizing-the-inner-workings-of-attention-60a16d86b5c1) 
+- Transformers Explained Visually (Part 3): Multi-head Attention, deep dive (https://towardsdatascience.com/transformers-explained-visually-part-3-multi-head-attention-deep-dive-1c1ff1024853)
+
 
 #### 🤖 Transformer Libraries
 - AWQ: Activation-aware Weight Quantization for LLM Compression and Acceleration [Paper] (https://github.com/mit-han-lab/llm-awq)
@@ -1130,7 +1136,6 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - Deploy Deep Learning Models at Scale using NVIDIA Triton Inference Server (https://github.com/decodingml/articles-code/tree/main/articles/computer_vision/deploy_deep_learning_at_scale_nvidia_triton_server)
 - LMDeploy - a toolkit for compressing, deploying, and serving LLM (https://github.com/InternLM/lmdeploy)
 - LLM Inference Series: 5. Dissecting model performance (https://medium.com/@plienhar/llm-inference-series-5-dissecting-model-performance-6144aa93168f)
-
 
   
 #### 🤖 Transformer / LLM Data Curator
