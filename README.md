@@ -1092,6 +1092,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - FastChat - platform for training, serving, and evaluating large language model based chatbots (https://github.com/lm-sys/FastChat)
 - LLM Evaluation Metrics: Everything You Need for LLM Evaluation (https://www.confident-ai.com/blog/llm-evaluation-metrics-everything-you-need-for-llm-evaluation)
 - DeepEval - open-source LLM evaluation framework specialized for unit testing LLM outputs (https://github.com/confident-ai/deepeval)
+- LLM Task-Specific Evals that Do & Don't Work (https://eugeneyan.com/writing/evals/)
 
 #### 🤖 Transformer Models / Timeline
 - 7 Basic NLP Models to Empower Your ML Application (https://zilliz.com/learn/7-nlp-models)
