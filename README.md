@@ -936,7 +936,6 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - GPT in 60 Lines of NumPy (https://jaykmody.com/blog/gpt-from-scratch/)
 - x-transformers - A concise but fully-featured transformer, complete with a set of promising experimental features from various papers (https://github.com/lucidrains/x-transformers/tree/main)
 - Transformer Taxonomy (https://kipp.ly/transformer-taxonomy/)
-- Retentive Networks (RetNet) Explained: The much-awaited Transformers-killer is here (https://medium.com/ai-fusion-labs/retentive-networks-retnet-explained-the-much-awaited-transformers-killer-is-here-6c17e3e8add8)
 - Large Language Models: SBERT — Sentence-BERT (https://towardsdatascience.com/sbert-deb3d4aef8a4)
 - How context sizes of 100k tokens and longer are achieved (https://www.linkedin.com/posts/andriyburkov_in-case-you-were-wondering-how-context-sizes-activity-7154922110354604032-Tx1a)
 - KV caching (https://medium.com/@plienhar/llm-inference-series-3-kv-caching-unveiled-048152e461c8)  (https://medium.com/@plienhar/llm-inference-series-4-kv-caching-a-deeper-look-4ba9a77746c8)
@@ -1261,8 +1260,10 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - https://github.com/unslothai/unsloth
 - https://www.kaggle.com/code/danielhanchen/kaggle-mistral-7b-unsloth-notebook
 
-
-
+#### Transformer Alternatives
+- Retentive Networks (RetNet) Explained: The much-awaited Transformers-killer is here (https://medium.com/ai-fusion-labs/retentive-networks-retnet-explained-the-much-awaited-transformers-killer-is-here-6c17e3e8add8)
+- Mamba Explained - The State Space Model taking on Transformers (https://www.kolaayonrinde.com/blog/2024/02/11/mamba.html)
+- Introducing Jamba: AI21's Groundbreaking SSM-Transformer Model (https://www.ai21.com/blog/announcing-jamba)
 
 
 
