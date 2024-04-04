@@ -139,8 +139,6 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - Andrej Karpathy - Neural Networks: Zero to Hero (https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ) (https://github.com/0ssamaak0/Karpathy-Neural-Networks-Zero-to-Hero)
 - NLP Summit (https://www.nlpsummit.org/)
 
-
-
 ## 👍 Books
 - The Hundred-Page Machine Learning Book (http://themlbook.com/wiki/doku.php)
 - Machine Learning Engineering (http://www.mlebook.com/wiki/doku.php)
@@ -280,6 +278,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - RAFT IVF-PQ tutorial (https://github.com/rapidsai/raft/blob/28b789404bedfa8dd82675fc4221f6db927c0422/notebooks/tutorial_ivf_pq.ipynb)
 - CAGRA: Highly Parallel Graph Construction and Approximate Nearest Neighbor Search for GPUs (Cuda Anns GRAph-based) (https://arxiv.org/pdf/2308.15136v1.pdf) (https://docs.rapids.ai/api/raft/nightly/pylibraft_api/neighbors/#cagra)
 - Geospatial Vector Search: Building an AI-Powered Geo-Aware News Search (https://levelup.gitconnected.com/geospatial-vector-search-building-an-ai-powered-geo-aware-news-search-6cbda8919465)
+- MyScale - A Deep Dive into SQL Vector Databases (https://myscale.com/blog/what-is-sql-vector-databases/)
 
 
 #### Search / Code Search / Information Retrieval
@@ -443,6 +442,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - Rethinking Stream Processing and Streaming Databases (https://betterprogramming.pub/rethinking-stream-processing-and-streaming-databases-21076aaec375)
 - Why You Shouldn’t Invest In Vector Databases? (https://medium.com/data-engineer-things/why-you-shouldnt-invest-in-vector-databases-c0cd3f59d23c)
 - Building and operating a pretty big storage system called S3 (https://www.allthingsdistributed.com/2023/07/building-and-operating-a-pretty-big-storage-system.html)
+- MyScale - A Deep Dive into SQL Vector Databases (https://myscale.com/blog/what-is-sql-vector-databases/)
 
 #### Reinforcement Learning
 - Develop Your First AI Agent: Deep Q-Learning (https://towardsdatascience.com/develop-your-first-ai-agent-deep-q-learning-375876ee2472)
@@ -591,6 +591,8 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - Maths is Fun (https://www.mathsisfun.com/)
 - Matrix Multiplication (http://matrixmultiplication.xyz/)
 - The Matrix Calculus You Need For Deep Learning (https://explained.ai/matrix-calculus/)
+- What's behind matrix multiplication? (https://www.tivadardanka.com/blog/behind-matrix-multiplication)
+- Descriptive Matrix Operations with Einops - example with multi-query attention (https://www.kolaayonrinde.com/blog/2024/01/08/einops.html)
 - Geometric Mean (https://www.mathsisfun.com/numbers/geometric-mean.html)
 - Dot Product (https://www.mathsisfun.com/algebra/vectors-dot-product.html)
 - Things that confused me about cross-entropy (https://chris-said.io/2020/12/26/two-things-that-confused-me-about-cross-entropy/)
@@ -601,7 +603,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - What Are Floating-point Numbers? (https://www.baseclass.io/newsletter/floating-point-numbers)
 - Monte Carlo Simulation — a practical guide (https://towardsdatascience.com/monte-carlo-simulation-a-practical-guide-85da45597f0e)
 - Gradient Descent Algorithm — a deep dive (https://towardsdatascience.com/gradient-descent-algorithm-a-deep-dive-cf04e8115f21)
-- What's behind matrix multiplication? (https://www.tivadardanka.com/blog/behind-matrix-multiplication)
+
 
 ## 👍 Datasets
 - 24 Free Datasets for Building an Irresistible Portfolio (2022) (https://www.dataquest.io/blog/free-datasets-for-projects/)
@@ -1114,6 +1116,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - OLMo: Open Language Model (https://github.com/allenai/OLMo/tree/main)  (https://github.com/allenai/OLMo/blob/main/scripts/train.py)
 - Genstruct-7B, an instruction-generation model (https://huggingface.co/NousResearch/Genstruct-7B)  (https://huggingface.co/NousResearch/Genstruct-7B/blob/main/notebook.ipynb)
 - Grok-1, a 314 billion parameter Mixture-of-Experts model (https://github.com/xai-org/grok-1)
+- Qwen1.5-MoE: Matching 7B Model Performance with 1/3 Activated Parameters (https://qwenlm.github.io/blog/qwen-moe/)
 
 #### 🤖 Transformer / LLM Inference / Deployment
 - 7 Ways To Speed Up Inference of Your Hosted LLMs (https://betterprogramming.pub/speed-up-llm-inference-83653aa24c47)
