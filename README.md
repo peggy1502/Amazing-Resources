@@ -1150,6 +1150,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 #### 🤖 Transformer / LLM Data Curator
 - Curating Trillion-Token Datasets: Introducing NVIDIA NeMo Data Curator (https://developer.nvidia.com/blog/curating-trillion-token-datasets-introducing-nemo-data-curator/)
 - ftfy: fixes text for you (https://github.com/rspeer/python-ftfy)
+- Cosmopedia: how to create large-scale synthetic data for pre-training (https://huggingface.co/blog/cosmopedia)  (https://github.com/huggingface/cosmopedia)
   
 
 #### 🤖 Transformer / LLM Sample Applications
