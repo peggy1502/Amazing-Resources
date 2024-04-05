@@ -1050,6 +1050,8 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - 🤗 makeMoE: Implement a Sparse Mixture of Experts Language Model from Scratch (https://huggingface.co/blog/AviSoori1x/makemoe-from-scratch)
 - Function Calling Datasets, Training and Inference (https://www.youtube.com/watch?v=hHn_cV5WUDI)
 - [Video] Fine tuning Optimizations - DoRA, NEFT, LoRA+, Unsloth (https://www.youtube.com/watch?v=ae2lbmtTY5A)
+- GaLore: Advancing Large Model Training on Consumer-grade Hardware (https://huggingface.co/blog/galore)  (https://github.com/jiaweizzhao/galore)
+- > Memory-efficient LLM Training with GaLore (https://medium.com/@geronimo7/llm-training-on-consumer-gpus-with-galore-d25075143cfb)  (https://github.com/geronimi73/3090_shorts/blob/main/nb_galore_llama2-7b.ipynb)
 
 #### 🤖 RAG
 - A Guide on 12 Tuning Strategies for Production-Ready RAG Applications (https://towardsdatascience.com/a-guide-on-12-tuning-strategies-for-production-ready-rag-applications-7ca646833439#341d)
