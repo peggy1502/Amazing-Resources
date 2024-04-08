@@ -279,6 +279,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - CAGRA: Highly Parallel Graph Construction and Approximate Nearest Neighbor Search for GPUs (Cuda Anns GRAph-based) (https://arxiv.org/pdf/2308.15136v1.pdf) (https://docs.rapids.ai/api/raft/nightly/pylibraft_api/neighbors/#cagra)
 - Geospatial Vector Search: Building an AI-Powered Geo-Aware News Search (https://levelup.gitconnected.com/geospatial-vector-search-building-an-ai-powered-geo-aware-news-search-6cbda8919465)
 - MyScale - A Deep Dive into SQL Vector Databases (https://myscale.com/blog/what-is-sql-vector-databases/)
+- Vector DB Comparison (https://superlinked.com/vector-db-comparison/)
 
 
 #### Search / Code Search / Information Retrieval
@@ -1065,6 +1066,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - Improving the Semantic Search Tool (https://puddles-of-water.medium.com/improving-the-semantic-search-tool-ef0442f7e972)
 - Binary and Scalar Embedding Quantization for Significantly Faster & Cheaper Retrieval (https://huggingface.co/blog/embedding-quantization)
 - 100x Faster — Scaling Your RAG App for Billions of Embeddings - Computing Cosine Similarity in parallel - using Chunkdot (https://medium.com/gitconnected/100x-faster-scaling-your-rag-app-for-billions-of-embeddings-ded34fccd16a)  (https://github.com/rragundez/chunkdot/)
+- Advanced Retrieval for AI with Chroma (https://www.deeplearning.ai/short-courses/advanced-retrieval-for-ai/)
 
 #### 🤖 Lightning AI ⚡⚡⚡
 - 📖 Lightning Fabric Documentation (https://lightning.ai/docs/fabric/stable/)
