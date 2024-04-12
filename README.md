@@ -1277,6 +1277,8 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - Retentive Networks (RetNet) Explained: The much-awaited Transformers-killer is here (https://medium.com/ai-fusion-labs/retentive-networks-retnet-explained-the-much-awaited-transformers-killer-is-here-6c17e3e8add8)
 - Mamba Explained - The State Space Model taking on Transformers (https://www.kolaayonrinde.com/blog/2024/02/11/mamba.html)
 - Introducing Jamba: AI21's Groundbreaking SSM-Transformer Model (https://www.ai21.com/blog/announcing-jamba)
+- ModuleFormer: a MoE-based architecture that includes two different types of experts: stick-breaking attention heads and feedforward experts (https://github.com/IBM/ModuleFormer)
+- JetMoE: Reaching LLaMA2 Performance with 0.1M Dollars (https://research.myshell.ai/jetmoe)
 
 
 
