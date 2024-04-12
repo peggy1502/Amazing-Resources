@@ -1267,6 +1267,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - A Comprehensive Guide to Modeling Techniques in Mixed-Integer Linear Programming - Convert ideas into mathematical expressions to solve operations research problems (https://towardsdatascience.com/a-comprehensive-guide-to-modeling-techniques-in-mixed-integer-linear-programming-3e96cc1bc03d)
 - Mastering ML Configurations by leveraging OmegaConf and Hydra (https://decodingml.substack.com/p/mastering-ml-configurations-by-leveraging)
 - UltraChat - example training script with Accelerator (https://github.com/thunlp/UltraChat/blob/main/train/train_legacy/train.py)
+- Using LESS Data to Tune Models (https://www.cs.princeton.edu/~smalladi/blog/2024/04/04/dataselection/)
 
 #### Unsloth
 - Make LLM Fine-tuning 2x faster with Unsloth and 🤗 TRL (https://huggingface.co/blog/unsloth-trl)
