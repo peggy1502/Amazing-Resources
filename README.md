@@ -1157,6 +1157,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - Deploy Deep Learning Models at Scale using NVIDIA Triton Inference Server (https://github.com/decodingml/articles-code/tree/main/articles/computer_vision/deploy_deep_learning_at_scale_nvidia_triton_server)
 - LMDeploy - a toolkit for compressing, deploying, and serving LLM (https://github.com/InternLM/lmdeploy)
 - LLM Inference Series: 5. Dissecting model performance (https://medium.com/@plienhar/llm-inference-series-5-dissecting-model-performance-6144aa93168f)
+- How to compute LLM embeddings 3X faster with model quantization - with ONNX model quantization / ONNX transformer optimization (https://medium.com/nixiesearch/how-to-compute-llm-embeddings-3x-faster-with-model-quantization-25523d9b4ce5)
 
   
 #### 🤖 Transformer / LLM Data Curator
