@@ -714,6 +714,9 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - How to configure VS Code for AI, ML and MLOps development in Python 🛠️️ (https://mlops.community/how-to-configure-vs-code-for-ai-ml-and-mlops-development-in-python-%F0%9F%9B%A0%ef%b8%8f%ef%b8%8f/)
 - Great Tables - Absolutely Delightful Table-making in Python (https://posit-dev.github.io/great-tables/articles/intro.html)
 - Chunk visualizer (https://huggingface.co/spaces/m-ric/chunk_visualizer)
+- Bytewax - Stream processing purely in Python (https://bytewax.io/)
+- Unstructured - Preprocess and structure unstructured text documents (such as PDFs, XML and HTML) for use in downstream machine learning tasks (https://unstructured-io.github.io/unstructured/core/cleaning.html)
+- Upstash Serverless Kafka & Vector Database (https://upstash.com/)
 
 
 ## 👍 Job / Interview / DS Portfolio
