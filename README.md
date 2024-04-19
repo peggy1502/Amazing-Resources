@@ -112,6 +112,8 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - Boost your Resume with these Five AWS Projects: Easy, Intermediate, and Expert Levels with Repository Links (https://towardsaws.com/boost-your-resume-with-this-five-aws-projects-easy-intermediate-and-expert-levels-with-6224eef9e2ae)
 - Building End-to-End Machine Learning Pipelines with Amazon SageMaker: A Step-by-Step Guide (https://medium.com/anolytics/building-end-to-end-machine-learning-pipelines-with-amazon-sagemaker-a-step-by-step-guide-8531f73b38cd)
 - How to optimize AWS Lambda & Kinesis to process 5 million records per minute (https://towardsaws.com/how-to-optimize-aws-lambda-kinesis-to-process-5-million-messages-c3ed5a143c2d)
+- Deploying a Trained CTGAN Model on an EC2 Instance: A Step-by-Step Guide (https://tutorialsdojo.com/deploying-a-trained-ctgan-model-on-an-ec2-instance-a-step-by-step-guide/)
+- > Serverless Model Deployment in AWS: Streamlining with Lambda, Docker, and S3 (https://tutorialsdojo.com/serverless-model-deployment-in-aws-streamlining-with-lambda-docker-and-s3/)
 
 ## 👍 Videos
 - StatQuest (https://statquest.org/video-index/)
