@@ -1278,6 +1278,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - Mastering ML Configurations by leveraging OmegaConf and Hydra (https://decodingml.substack.com/p/mastering-ml-configurations-by-leveraging)
 - UltraChat - example training script with Accelerator (https://github.com/thunlp/UltraChat/blob/main/train/train_legacy/train.py)
 - Using LESS Data to Tune Models (https://www.cs.princeton.edu/~smalladi/blog/2024/04/04/dataselection/)
+- Techniques for training large neural networks - Data parallelism, Pipeline parallelism, Tensor parallelism, Mixture-of-Experts (MoE), and other memory saving designs (https://openai.com/research/techniques-for-training-large-neural-networks)
 
 #### Unsloth
 - Make LLM Fine-tuning 2x faster with Unsloth and 🤗 TRL (https://huggingface.co/blog/unsloth-trl)
