@@ -404,7 +404,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - Out-of-bag validation for random forests (https://medium.com/data-science-at-microsoft/out-of-bag-validation-for-random-forests-378f2b292560) (https://github.com/PilCAki/machine-learning-tips/blob/main/Out%20Of%20Bag%20Validation%20for%20Random%20Forests.ipynb)
 - Yes you should understand backprop (https://karpathy.medium.com/yes-you-should-understand-backprop-e2f06eab496b) (https://www.youtube.com/watch?v=i94OvYb6noo)
 - A Comprehensive Overview of Regression Evaluation Metrics (https://developer.nvidia.com/blog/a-comprehensive-overview-of-regression-evaluation-metrics/)
-- Exploring Location Data Using a Hexagon Grid (https://towardsdatascience.com/exploring-location-data-using-a-hexagon-grid-3509b68b04a2)
+- Exploring Location Data Using a Hexagon Grid (https://towardsdatascience.com/exploring-location-data-using-a-hexagon-grid-3509b68b04a2)  (https://github.com/sktahtin4/Helsinki-city-bikes)
 - > H3: Uber’s Hexagonal Hierarchical Spatial Index (https://www.uber.com/en-FI/blog/h3/)  (https://h3geo.org/docs/)
 - > H3 hexagon data viewer (https://wolf-h3-viewer.glitch.me/)
 
