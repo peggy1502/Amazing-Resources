@@ -918,6 +918,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - The Annotated Transformer - with PyTorch codes
 - > Original: (http://nlp.seas.harvard.edu/2018/04/03/attention.html)
 - > v2022: (http://nlp.seas.harvard.edu/annotated-transformer/)
+- Transformers: How Do They Transform Your Data? - explanation with codes (https://towardsdatascience.com/transformers-how-do-they-transform-your-data-72d69e383e0d)  (https://github.com/maxime7770/Transformers-Insights)
 - Attention? Attention! (https://lilianweng.github.io/posts/2018-06-24-attention/)
 - The Transformer Family (https://lilianweng.github.io/posts/2020-04-07-the-transformer-family/)
 - The Transformer Family Version 2.0 (https://lilianweng.github.io/posts/2023-01-27-the-transformer-family-v2/)
