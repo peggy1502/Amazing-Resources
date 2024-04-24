@@ -474,6 +474,10 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - Tensor Puzzles (https://github.com/srush/Tensor-Puzzles)
 - GPU Puzzles (https://github.com/srush/GPU-Puzzles)
 - Insanely Useful Websites (https://insanelyusefulwebsites.com)
+- The Markov-chain Monte Carlo Interactive Gallery (https://chi-feng.github.io/mcmc-demo/app.html)  (https://chi-feng.github.io/mcmc-demo/)  (https://github.com/chi-feng/mcmc-demo)
+- Interactive Gaussian process regression demo (https://chi-feng.github.io/gp-demo/)  (https://github.com/chi-feng/gp-demo)
+- Visualizing {dplyr}’s mutate(), summarize(), group_by(), and ungroup() with animations (https://www.andrewheiss.com/blog/2024/04/04/group_by-summarize-ungroup-animations/)
+- > Tidy Animated Verbs - inner_join(), left_join(), right_join(), full_join(), semi_join(), anti_join(), union(), union_all(), intersect(), setdiff(), pivot_wider(), pivot_longer(), spread(), gather() (https://www.garrickadenbuie.com/project/tidyexplain/)
 
 ## 👍 GitHub Repositories
 - PyTorch Image Models (https://github.com/rwightman/pytorch-image-models)
