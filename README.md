@@ -724,6 +724,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - Bytewax - Stream processing purely in Python (https://bytewax.io/)
 - Unstructured - Preprocess and structure unstructured text documents (such as PDFs, XML and HTML) for use in downstream machine learning tasks (https://unstructured-io.github.io/unstructured/core/cleaning.html)
 - Upstash Serverless Kafka & Vector Database (https://upstash.com/)
+- Meet the NiceGUI: Your Soon-to-be Favorite Python UI Library (https://towardsdatascience.com/meet-the-nicegui-your-soon-to-be-favorite-python-ui-library-fb69f14bb0ac)  (https://nicegui.io/documentation)
 
 
 ## 👍 Job / Interview / DS Portfolio
