@@ -991,6 +991,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - FastChat - platform for training, serving, and evaluating large language model based chatbots (https://github.com/lm-sys/FastChat)
 - Half-Quadratic Quantization (HQQ) (https://mobiusml.github.io/hqq_blog/)  (https://github.com/mobiusml/hqq)
 - AQLM - Extreme Compression of Large Language Models via Additive Quantization (https://github.com/Vahe1994/AQLM)  (https://towardsdatascience.com/the-aqlm-quantization-algorithm-explained-8cf33e4a783e)
+- torchtune - A Native-PyTorch Library for LLM Fine-tuning (https://github.com/pytorch/torchtune)
 
 
 #### 🤖 Transformer Toolkit / Techniques / Methods
@@ -1142,6 +1143,8 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - Genstruct-7B, an instruction-generation model (https://huggingface.co/NousResearch/Genstruct-7B)  (https://huggingface.co/NousResearch/Genstruct-7B/blob/main/notebook.ipynb)
 - Grok-1, a 314 billion parameter Mixture-of-Experts model (https://github.com/xai-org/grok-1)
 - Qwen1.5-MoE: Matching 7B Model Performance with 1/3 Activated Parameters (https://qwenlm.github.io/blog/qwen-moe/)
+- Tiny but mighty: The Phi-3 small language models with big potential (https://news.microsoft.com/source/features/ai/the-phi-3-small-language-models-with-big-potential/)
+- > TinyStories: How Small Can Language Models Be and Still Speak Coherent English? (https://arxiv.org/pdf/2305.07759)
 
 #### 🤖 Transformer / LLM Inference / Deployment
 - 7 Ways To Speed Up Inference of Your Hosted LLMs (https://betterprogramming.pub/speed-up-llm-inference-83653aa24c47)
