@@ -648,6 +648,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - Instruction tuning datasets to train (text and multi-modal) chat-based LLMs (GPT-4, ChatGPT,LLaMA,Alpaca) (https://github.com/yaodongC/awesome-instruction-dataset)
 - Randomizing Very Large Datasets (https://towardsdatascience.com/randomizing-very-large-datasets-e2b14e507725)
 - Python-Code-23k-ShareGPT (https://huggingface.co/datasets/ajibawa-2023/Python-Code-23k-ShareGPT)
+- FineWeb: 15T tokens of of cleaned and deduplicated english web data from CommonCrawl (https://huggingface.co/datasets/HuggingFaceFW/fineweb)
 
 ## 👍 Synthetic Data
 - MOSTLY AI, the #1 Synthetic Data Platform (https://mostly.ai/)
@@ -1179,6 +1180,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - Curating Trillion-Token Datasets: Introducing NVIDIA NeMo Data Curator (https://developer.nvidia.com/blog/curating-trillion-token-datasets-introducing-nemo-data-curator/)
 - ftfy: fixes text for you (https://github.com/rspeer/python-ftfy)
 - Cosmopedia: how to create large-scale synthetic data for pre-training (https://huggingface.co/blog/cosmopedia)  (https://github.com/huggingface/cosmopedia)
+- DataTrove - a library to process, filter and deduplicate text data at a very large scale (https://github.com/huggingface/datatrove/)
   
 
 #### 🤖 Transformer / LLM Sample Applications
