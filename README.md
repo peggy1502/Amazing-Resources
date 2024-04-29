@@ -1145,6 +1145,8 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - Qwen1.5-MoE: Matching 7B Model Performance with 1/3 Activated Parameters (https://qwenlm.github.io/blog/qwen-moe/)
 - Tiny but mighty: The Phi-3 small language models with big potential (https://news.microsoft.com/source/features/ai/the-phi-3-small-language-models-with-big-potential/)
 - > TinyStories: How Small Can Language Models Be and Still Speak Coherent English? (https://arxiv.org/pdf/2305.07759)
+- OpenELM - An Efficient Language Model Family with Open-source Training and Inference Framework (https://arxiv.org/abs/2404.14619)  (https://huggingface.co/apple/OpenELM)  (https://github.com/apple/corenet)
+
 
 #### 🤖 Transformer / LLM Inference / Deployment
 - 7 Ways To Speed Up Inference of Your Hosted LLMs (https://betterprogramming.pub/speed-up-llm-inference-83653aa24c47)
@@ -1276,6 +1278,8 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - Open AI - Prompt engineering guide (https://platform.openai.com/docs/guides/prompt-engineering)
 - Inside the Leaked System Prompts of GPT-4, Gemini 1.5, Claude 3, and More (https://medium.com/gitconnected/inside-the-leaked-system-prompts-of-gpt-4-gemini-1-5-claude-3-and-more-4ecb3d22b447?sk=7e053318c47b260ee482a5c8b319dd83)
 - > https://gist.github.com/kennethleungty/74c8f1ad0c39ca006fddea5da449c390 / https://gist.github.com/kennethleungty/00b5a5d809fdda94eafe5d49ccff7729 / https://gist.github.com/kennethleungty/80ceeba091d7c777abe861ef46558363 / https://gist.github.com/kennethleungty/587693681583da71f90d2da28e733ec3
+- DSPy - a framework for algorithmically optimizing LM prompts and weights (https://github.com/stanfordnlp/dspy)
+- > Your Language Model Deserves Better Prompting (https://weaviate.io/blog/dspy-optimizers)  (https://github.com/weaviate/recipes/blob/main/integrations/weights_and_biases/wandb_logging_RAG_dspy_cohere.ipynb)
 
 #### Agent
 - AutoGPT: the heart of the open-source agent ecosystem (https://github.com/Significant-Gravitas/AutoGPT)
