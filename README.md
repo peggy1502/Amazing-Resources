@@ -657,6 +657,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - https://github.com/NVIDIA/NeMo/blob/r1.8.0/tutorials/nlp/Megatron_Synthetic_Tabular_Data_Generation.ipynb
 - Faiss SyntheticDataset (https://github.com/facebookresearch/faiss/blob/main/contrib/datasets.py#L72)(https://gist.github.com/mdouze/551ef6fa0722f2acf58fa2c6fce732d6#file-demo_pytorch_knn-ipynb)
 - YData Synthetic - generate synthetic tabular and time-series data (https://github.com/ydataai/ydata-synthetic)
+- Generate a synthetic domain-specific Q&A dataset in <30 minutes (https://decodingml.substack.com/p/problems-deploying-your-ml-models)
 
 ## 👍 Utilities / Tools
 - Future Tools (https://www.futuretools.io/)
