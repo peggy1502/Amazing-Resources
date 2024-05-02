@@ -1076,6 +1076,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - GaLore: Advancing Large Model Training on Consumer-grade Hardware (https://huggingface.co/blog/galore)  (https://github.com/jiaweizzhao/galore)
 - > Memory-efficient LLM Training with GaLore (https://medium.com/@geronimo7/llm-training-on-consumer-gpus-with-galore-d25075143cfb)  (https://github.com/geronimi73/3090_shorts/blob/main/nb_galore_llama2-7b.ipynb)
 - An Overview of the LoRA Family (https://towardsdatascience.com/an-overview-of-the-lora-family-515d81134725)
+- Efficiently fine-tune Llama 3 with PyTorch FSDP and Q-Lora (https://www.philschmid.de/fsdp-qlora-llama3)
 
 #### 🤖 RAG
 - A Guide on 12 Tuning Strategies for Production-Ready RAG Applications (https://towardsdatascience.com/a-guide-on-12-tuning-strategies-for-production-ready-rag-applications-7ca646833439#341d)
@@ -1225,6 +1226,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - Hands-on LLMs Course - Learn to Train and Deploy a Real-Time Financial Advisor (https://github.com/iusztinpaul/hands-on-llms)
 - LLM Twin Course: Building Your Production-Ready AI Replica (https://github.com/decodingml/llm-twin-course)
 - The Full Stack 7-Steps MLOps Framework (https://github.com/iusztinpaul/energy-forecasting)
+- Building DoorDash’s Product Knowledge Graph with Large Language Models (https://doordash.engineering/2024/04/23/building-doordashs-product-knowledge-graph-with-large-language-models/)
 
 
 #### 🤖 Q&A
@@ -1300,6 +1302,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - UltraChat - example training script with Accelerator (https://github.com/thunlp/UltraChat/blob/main/train/train_legacy/train.py)
 - Using LESS Data to Tune Models (https://www.cs.princeton.edu/~smalladi/blog/2024/04/04/dataselection/)
 - Techniques for training large neural networks - Data parallelism, Pipeline parallelism, Tensor parallelism, Mixture-of-Experts (MoE), and other memory saving designs (https://openai.com/research/techniques-for-training-large-neural-networks)
+- > Large Scale Transformer model training with Tensor Parallel (TP) (https://pytorch.org/tutorials/intermediate/TP_tutorial.html)
 
 #### Unsloth
 - Make LLM Fine-tuning 2x faster with Unsloth and 🤗 TRL (https://huggingface.co/blog/unsloth-trl)
