@@ -995,6 +995,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - Half-Quadratic Quantization (HQQ) (https://mobiusml.github.io/hqq_blog/)  (https://github.com/mobiusml/hqq)
 - AQLM - Extreme Compression of Large Language Models via Additive Quantization (https://github.com/Vahe1994/AQLM)  (https://towardsdatascience.com/the-aqlm-quantization-algorithm-explained-8cf33e4a783e)
 - torchtune - A Native-PyTorch Library for LLM Fine-tuning (https://github.com/pytorch/torchtune)
+- Prefect - Modern workflow orchestration for data and ML engineers (https://www.prefect.io/)
 
 
 #### 🤖 Transformer Toolkit / Techniques / Methods
