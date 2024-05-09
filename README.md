@@ -970,6 +970,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - Explainable AI: Visualizing Attention in Transformers (https://generativeai.pub/explainable-ai-visualizing-attention-in-transformers-4eb931a2c0f8)  (https://www.topbots.com/deconstructing-bert-part-1/)  (https://www.topbots.com/deconstructing-bert-part-2/)  (https://www.topbots.com/openai-gpt-2-visualization/)
 - Deconstructing BERT, Part 2: Visualizing the Inner Workings of Attention (https://towardsdatascience.com/deconstructing-bert-part-2-visualizing-the-inner-workings-of-attention-60a16d86b5c1) 
 - Transformers Explained Visually (Part 3): Multi-head Attention, deep dive (https://towardsdatascience.com/transformers-explained-visually-part-3-multi-head-attention-deep-dive-1c1ff1024853)
+- A Visual Guide to Vision Transformers (https://blog.mdturp.ch/posts/2024-04-05-visual_guide_to_vision_transformer.html)
 
 
 #### 🤖 Transformer Libraries
