@@ -1093,6 +1093,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - 100x Faster — Scaling Your RAG App for Billions of Embeddings - Computing Cosine Similarity in parallel - using Chunkdot (https://medium.com/gitconnected/100x-faster-scaling-your-rag-app-for-billions-of-embeddings-ded34fccd16a)  (https://github.com/rragundez/chunkdot/)
 - Advanced Retrieval for AI with Chroma (https://www.deeplearning.ai/short-courses/advanced-retrieval-for-ai/)
 - Chat with your code: RAG with Weaviate and LlamaIndex (https://lightning.ai/weaviate/studios/chat-with-your-code-rag-with-weaviate-and-llamaindex)
+- The 4 Advanced RAG Algorithms You Must Know to Implement (https://medium.com/decodingml/the-4-advanced-rag-algorithms-you-must-know-to-implement-5d0c7f1199d2)
 
 #### 🤖 Lightning AI ⚡⚡⚡
 - 📖 Lightning Fabric Documentation (https://lightning.ai/docs/fabric/stable/)
