@@ -997,6 +997,9 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - AQLM - Extreme Compression of Large Language Models via Additive Quantization (https://github.com/Vahe1994/AQLM)  (https://towardsdatascience.com/the-aqlm-quantization-algorithm-explained-8cf33e4a783e)
 - torchtune - A Native-PyTorch Library for LLM Fine-tuning (https://github.com/pytorch/torchtune)
 - Prefect - Modern workflow orchestration for data and ML engineers (https://www.prefect.io/)
+- Modal - serverless platform to run generative AI models, large-scale batch jobs, job queues, etc (https://modal.com/)
+- > Beating Proprietary Models with a Quick Fine-Tune - Finetuning Quora Embeddings (https://modal.com/blog/fine-tuning-embeddings)  (https://github.com/567-labs/fastllm/blob/main/applications/finetune-quora-embeddings/Readme.md)
+- > Fine-tune an LLM in minutes (ft. Llama 2, CodeLlama, Mistral, etc.) (https://modal.com/docs/examples/llm-finetuning)  (https://github.com/modal-labs/llm-finetuning)
 
 
 #### 🤖 Transformer Toolkit / Techniques / Methods
