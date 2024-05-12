@@ -1311,6 +1311,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - Using LESS Data to Tune Models (https://www.cs.princeton.edu/~smalladi/blog/2024/04/04/dataselection/)
 - Techniques for training large neural networks - Data parallelism, Pipeline parallelism, Tensor parallelism, Mixture-of-Experts (MoE), and other memory saving designs (https://openai.com/research/techniques-for-training-large-neural-networks)
 - > Large Scale Transformer model training with Tensor Parallel (TP) (https://pytorch.org/tutorials/intermediate/TP_tutorial.html)
+- Best Embedding Model — OpenAI / Cohere / Google / E5 / BGE - An In-depth Comparison of Multilingual Embedding Models (https://medium.com/@lars.chr.wiik/best-embedding-model-openai-cohere-google-e5-bge-931bfa1962dc)  topic dataset (https://github.com/LarsChrWiik/lars_datasets/tree/main/topics_dataset_50)
 
 #### Unsloth
 - Make LLM Fine-tuning 2x faster with Unsloth and 🤗 TRL (https://huggingface.co/blog/unsloth-trl)
