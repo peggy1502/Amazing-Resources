@@ -64,6 +64,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - https://github.com/kailashahirwar/cheatsheets-ai
 - pip command options (https://manpages.debian.org/stretch/python-pip/pip.1)
 - RAG cheatsheet (https://miro.com/app/board/uXjVNvklNmc=/)
+- 28 Jupyter Notebook Tips, Tricks, and Shortcuts (https://www.dataquest.io/blog/jupyter-notebook-tips-tricks-shortcuts/)
 
 ## 👍 AWS / SageMaker
 - How do I terminate active resources that I no longer need on my AWS account? (https://aws.amazon.com/premiumsupport/knowledge-center/terminate-resources-account-closure/)
@@ -1184,6 +1185,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - LMDeploy - a toolkit for compressing, deploying, and serving LLM (https://github.com/InternLM/lmdeploy)
 - LLM Inference Series: 5. Dissecting model performance (https://medium.com/@plienhar/llm-inference-series-5-dissecting-model-performance-6144aa93168f)
 - How to compute LLM embeddings 3X faster with model quantization - with ONNX model quantization / ONNX transformer optimization (https://medium.com/nixiesearch/how-to-compute-llm-embeddings-3x-faster-with-model-quantization-25523d9b4ce5)
+- A Hitchhiker’s Guide to Speculative Decoding (https://pytorch.org/blog/hitchhikers-guide-speculative-decoding/)
 
   
 #### 🤖 Transformer / LLM Data Curator
@@ -1235,6 +1237,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - LLM Twin Course: Building Your Production-Ready AI Replica (https://github.com/decodingml/llm-twin-course)
 - The Full Stack 7-Steps MLOps Framework (https://github.com/iusztinpaul/energy-forecasting)
 - Building DoorDash’s Product Knowledge Graph with Large Language Models (https://doordash.engineering/2024/04/23/building-doordashs-product-knowledge-graph-with-large-language-models/)
+- Musings on building a Generative AI product - at LinkedIn (https://www.linkedin.com/blog/engineering/generative-ai/musings-on-building-a-generative-ai-product)
 
 
 #### 🤖 Q&A
