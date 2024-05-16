@@ -1238,6 +1238,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - The Full Stack 7-Steps MLOps Framework (https://github.com/iusztinpaul/energy-forecasting)
 - Building DoorDash’s Product Knowledge Graph with Large Language Models (https://doordash.engineering/2024/04/23/building-doordashs-product-knowledge-graph-with-large-language-models/)
 - Musings on building a Generative AI product - at LinkedIn (https://www.linkedin.com/blog/engineering/generative-ai/musings-on-building-a-generative-ai-product)
+- How We Finetuned a Large Language Model to Search Patents & Generate New Patents (https://www.activeloop.ai/resources/how-we-finetuned-a-large-language-model-to-search-patents-generate-new-patents/)
 
 
 #### 🤖 Q&A
