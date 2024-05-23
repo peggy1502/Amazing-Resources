@@ -1197,6 +1197,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - ftfy: fixes text for you (https://github.com/rspeer/python-ftfy)
 - Cosmopedia: how to create large-scale synthetic data for pre-training (https://huggingface.co/blog/cosmopedia)  (https://github.com/huggingface/cosmopedia)
 - DataTrove - a library to process, filter and deduplicate text data at a very large scale (https://github.com/huggingface/datatrove/)
+- Guidance - control how LLM output is structured (https://github.com/guidance-ai/guidance)
   
 
 #### 🤖 Transformer / LLM Sample Applications
