@@ -1004,6 +1004,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - Modal - serverless platform to run generative AI models, large-scale batch jobs, job queues, etc (https://modal.com/)
 - > Beating Proprietary Models with a Quick Fine-Tune - Finetuning Quora Embeddings (https://modal.com/blog/fine-tuning-embeddings)  (https://github.com/567-labs/fastllm/blob/main/applications/finetune-quora-embeddings/Readme.md)
 - > Fine-tune an LLM in minutes (ft. Llama 2, CodeLlama, Mistral, etc.) (https://modal.com/docs/examples/llm-finetuning)  (https://github.com/modal-labs/llm-finetuning)
+- Model Explorer - a powerful graph visualization tool that helps one understand, debug, and optimize ML models (https://ai.google.dev/edge/model-explorer)  (https://research.google/blog/model-explorer/)
 
 
 #### 🤖 Transformer Toolkit / Techniques / Methods
