@@ -732,6 +732,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - Unstructured - Preprocess and structure unstructured text documents (such as PDFs, XML and HTML) for use in downstream machine learning tasks (https://unstructured-io.github.io/unstructured/core/cleaning.html)
 - Upstash Serverless Kafka & Vector Database (https://upstash.com/)
 - Meet the NiceGUI: Your Soon-to-be Favorite Python UI Library (https://towardsdatascience.com/meet-the-nicegui-your-soon-to-be-favorite-python-ui-library-fb69f14bb0ac)  (https://nicegui.io/documentation)
+- imodels - Interpretable ML package (https://github.com/csinva/imodels)
 
 
 ## 👍 Job / Interview / DS Portfolio
@@ -972,6 +973,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - Deconstructing BERT, Part 2: Visualizing the Inner Workings of Attention (https://towardsdatascience.com/deconstructing-bert-part-2-visualizing-the-inner-workings-of-attention-60a16d86b5c1) 
 - Transformers Explained Visually (Part 3): Multi-head Attention, deep dive (https://towardsdatascience.com/transformers-explained-visually-part-3-multi-head-attention-deep-dive-1c1ff1024853)
 - A Visual Guide to Vision Transformers (https://blog.mdturp.ch/posts/2024-04-05-visual_guide_to_vision_transformer.html)
+- llama3 implemented from scratch (https://github.com/naklecha/llama3-from-scratch/blob/main/README.md)
 
 
 #### 🤖 Transformer Libraries
