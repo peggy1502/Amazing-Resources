@@ -1307,6 +1307,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - > https://gist.github.com/kennethleungty/74c8f1ad0c39ca006fddea5da449c390 / https://gist.github.com/kennethleungty/00b5a5d809fdda94eafe5d49ccff7729 / https://gist.github.com/kennethleungty/80ceeba091d7c777abe861ef46558363 / https://gist.github.com/kennethleungty/587693681583da71f90d2da28e733ec3
 - DSPy - a framework for algorithmically optimizing LM prompts and weights (https://github.com/stanfordnlp/dspy)
 - > Your Language Model Deserves Better Prompting (https://weaviate.io/blog/dspy-optimizers)  (https://github.com/weaviate/recipes/blob/main/integrations/weights_and_biases/wandb_logging_RAG_dspy_cohere.ipynb)
+- Prompting Fundamentals and How to Apply them Effectively (https://eugeneyan.com/writing/prompting/)
 
 #### Agent
 - AutoGPT: the heart of the open-source agent ecosystem (https://github.com/Significant-Gravitas/AutoGPT)
@@ -1325,6 +1326,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - Techniques for training large neural networks - Data parallelism, Pipeline parallelism, Tensor parallelism, Mixture-of-Experts (MoE), and other memory saving designs (https://openai.com/research/techniques-for-training-large-neural-networks)
 - > Large Scale Transformer model training with Tensor Parallel (TP) (https://pytorch.org/tutorials/intermediate/TP_tutorial.html)
 - Best Embedding Model — OpenAI / Cohere / Google / E5 / BGE - An In-depth Comparison of Multilingual Embedding Models (https://medium.com/@lars.chr.wiik/best-embedding-model-openai-cohere-google-e5-bge-931bfa1962dc)  topic dataset (https://github.com/LarsChrWiik/lars_datasets/tree/main/topics_dataset_50)
+- Training and Finetuning Embedding Models with Sentence Transformers v3 (https://huggingface.co/blog/train-sentence-transformers)
 
 #### Unsloth
 - Make LLM Fine-tuning 2x faster with Unsloth and 🤗 TRL (https://huggingface.co/blog/unsloth-trl)
