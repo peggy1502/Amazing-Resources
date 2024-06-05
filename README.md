@@ -641,15 +641,10 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - > Clair dataset (https://www.kaggle.com/datasets/rtatman/fraudulent-email-corpus)
 - CSE-CIC-IDS2018 on AWS - Dataset for Network Intrusion Detection (https://www.unb.ca/cic/datasets/ids-2018.html)
 - MIcrosoft News Dataset (MIND) (https://docs.microsoft.com/en-us/azure/open-datasets/dataset-microsoft-news?tabs=azureml-opendatasets) (https://www.kaggle.com/datasets/arashnic/mind-news-dataset)
-- DBPedia (https://www.dbpedia.org/resources/individual/) (http://downloads.dbpedia.org/wiki-archive/dbpedia-version-2016-04.html) (http://downloads.dbpedia.org/2016-04/core/)
-- Common Crawl (https://commoncrawl.org/the-data/get-started/)
-- c4 (https://tensorflow.org/datasets/catalog/c4)
 - 190k+ Medium Articles (https://www.kaggle.com/datasets/fabiochiusano/medium-articles)
 - Unsplash (https://unsplash.com/data)
-- Instruction tuning datasets to train (text and multi-modal) chat-based LLMs (GPT-4, ChatGPT,LLaMA,Alpaca) (https://github.com/yaodongC/awesome-instruction-dataset)
 - Randomizing Very Large Datasets (https://towardsdatascience.com/randomizing-very-large-datasets-e2b14e507725)
-- Python-Code-23k-ShareGPT (https://huggingface.co/datasets/ajibawa-2023/Python-Code-23k-ShareGPT)
-- FineWeb: 15T tokens of of cleaned and deduplicated english web data from CommonCrawl (https://huggingface.co/datasets/HuggingFaceFW/fineweb)
+
 
 ## 👍 Synthetic Data
 - MOSTLY AI, the #1 Synthetic Data Platform (https://mostly.ai/)
@@ -1327,6 +1322,18 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - > Large Scale Transformer model training with Tensor Parallel (TP) (https://pytorch.org/tutorials/intermediate/TP_tutorial.html)
 - Best Embedding Model — OpenAI / Cohere / Google / E5 / BGE - An In-depth Comparison of Multilingual Embedding Models (https://medium.com/@lars.chr.wiik/best-embedding-model-openai-cohere-google-e5-bge-931bfa1962dc)  topic dataset (https://github.com/LarsChrWiik/lars_datasets/tree/main/topics_dataset_50)
 - Training and Finetuning Embedding Models with Sentence Transformers v3 (https://huggingface.co/blog/train-sentence-transformers)
+
+#### LLM - Dataset
+- DBPedia (https://www.dbpedia.org/resources/individual/) (http://downloads.dbpedia.org/wiki-archive/dbpedia-version-2016-04.html) (http://downloads.dbpedia.org/2016-04/core/)
+- Common Crawl (https://commoncrawl.org/the-data/get-started/)
+- c4 - A colossal, cleaned version of Common Crawl's web crawl corpus (https://tensorflow.org/datasets/catalog/c4)
+- Instruction tuning datasets to train (text and multi-modal) chat-based LLMs (GPT-4, ChatGPT, LLaMA, Alpaca) (https://github.com/yaodongC/awesome-instruction-dataset)
+- Python-Code-23k-ShareGPT (https://huggingface.co/datasets/ajibawa-2023/Python-Code-23k-ShareGPT)
+- UltraFeedback Binarized -  a pre-processed version of the UltraFeedback dataset and was used to train Zephyr-7Β-β (https://huggingface.co/datasets/HuggingFaceH4/ultrafeedback_binarized)
+- [Blog post] FineWeb: decanting the web for the finest text data at scale (https://huggingface.co/spaces/HuggingFaceFW/blogpost-fineweb-v1)
+- > FineWeb: 15T tokens (44TB disk space) of cleaned and deduplicated english web data from CommonCrawl, for LLM pretraining (https://huggingface.co/datasets/HuggingFaceFW/fineweb)
+- > FineWeb-Edu: 1.3T tokens of educational web pages filtered from 🍷 FineWeb dataset (https://huggingface.co/datasets/HuggingFaceFW/fineweb-edu)
+- > FineWeb-Edu-score-2: 5.4T tokens of educational web pages filtered from 🍷 FineWeb dataset (https://huggingface.co/datasets/HuggingFaceFW/fineweb-edu-score-2)
 
 #### Unsloth
 - Make LLM Fine-tuning 2x faster with Unsloth and 🤗 TRL (https://huggingface.co/blog/unsloth-trl)
