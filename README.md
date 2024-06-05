@@ -1213,6 +1213,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - > FineWeb: 15T tokens (44TB disk space) of cleaned and deduplicated english web data from CommonCrawl, for LLM pretraining (https://huggingface.co/datasets/HuggingFaceFW/fineweb)
 - > FineWeb-Edu: 1.3T tokens of educational web pages filtered from 🍷 FineWeb dataset (https://huggingface.co/datasets/HuggingFaceFW/fineweb-edu)
 - > FineWeb-Edu-score-2: 5.4T tokens of educational web pages filtered from 🍷 FineWeb dataset (https://huggingface.co/datasets/HuggingFaceFW/fineweb-edu-score-2)
+- Dolma
 
   
 #### 🤖 Transformer / LLM Sample Applications
