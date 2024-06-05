@@ -1196,6 +1196,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - Cosmopedia: how to create large-scale synthetic data for pre-training (https://huggingface.co/blog/cosmopedia)  (https://github.com/huggingface/cosmopedia)
 - DataTrove - a library to process, filter and deduplicate text data at a very large scale (https://github.com/huggingface/datatrove/)
 - Guidance - control how LLM output is structured (https://github.com/guidance-ai/guidance)
+- Large-scale Near-deduplication Behind BigCode (https://huggingface.co/blog/dedup)
 
 #### 🤖 Transformer / LLM Dataset
 - DBPedia (https://www.dbpedia.org/resources/individual/) (http://downloads.dbpedia.org/wiki-archive/dbpedia-version-2016-04.html) (http://downloads.dbpedia.org/2016-04/core/)
