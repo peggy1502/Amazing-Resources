@@ -1196,8 +1196,20 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - Cosmopedia: how to create large-scale synthetic data for pre-training (https://huggingface.co/blog/cosmopedia)  (https://github.com/huggingface/cosmopedia)
 - DataTrove - a library to process, filter and deduplicate text data at a very large scale (https://github.com/huggingface/datatrove/)
 - Guidance - control how LLM output is structured (https://github.com/guidance-ai/guidance)
-  
 
+#### 🤖 Transformer / LLM Dataset
+- DBPedia (https://www.dbpedia.org/resources/individual/) (http://downloads.dbpedia.org/wiki-archive/dbpedia-version-2016-04.html) (http://downloads.dbpedia.org/2016-04/core/)
+- Common Crawl (https://commoncrawl.org/the-data/get-started/)
+- c4 - A colossal, cleaned version of Common Crawl's web crawl corpus (https://tensorflow.org/datasets/catalog/c4)
+- Instruction tuning datasets to train (text and multi-modal) chat-based LLMs (GPT-4, ChatGPT, LLaMA, Alpaca) (https://github.com/yaodongC/awesome-instruction-dataset)
+- Python-Code-23k-ShareGPT (https://huggingface.co/datasets/ajibawa-2023/Python-Code-23k-ShareGPT)
+- UltraFeedback Binarized -  a pre-processed version of the UltraFeedback dataset and was used to train Zephyr-7Β-β (https://huggingface.co/datasets/HuggingFaceH4/ultrafeedback_binarized)
+- [Blog post] FineWeb: decanting the web for the finest text data at scale (https://huggingface.co/spaces/HuggingFaceFW/blogpost-fineweb-v1)
+- > FineWeb: 15T tokens (44TB disk space) of cleaned and deduplicated english web data from CommonCrawl, for LLM pretraining (https://huggingface.co/datasets/HuggingFaceFW/fineweb)
+- > FineWeb-Edu: 1.3T tokens of educational web pages filtered from 🍷 FineWeb dataset (https://huggingface.co/datasets/HuggingFaceFW/fineweb-edu)
+- > FineWeb-Edu-score-2: 5.4T tokens of educational web pages filtered from 🍷 FineWeb dataset (https://huggingface.co/datasets/HuggingFaceFW/fineweb-edu-score-2)
+
+  
 #### 🤖 Transformer / LLM Sample Applications
 - Beyond Classification With Transformers and Hugging Face (https://towardsdatascience.com/beyond-classification-with-transformers-and-hugging-face-d38c75f574fb)
 - Faster Text Classification with Naive Bayes and GPUs (https://developer.nvidia.com/blog/faster-text-classification-with-naive-bayes-and-gpus)
@@ -1322,18 +1334,6 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - > Large Scale Transformer model training with Tensor Parallel (TP) (https://pytorch.org/tutorials/intermediate/TP_tutorial.html)
 - Best Embedding Model — OpenAI / Cohere / Google / E5 / BGE - An In-depth Comparison of Multilingual Embedding Models (https://medium.com/@lars.chr.wiik/best-embedding-model-openai-cohere-google-e5-bge-931bfa1962dc)  topic dataset (https://github.com/LarsChrWiik/lars_datasets/tree/main/topics_dataset_50)
 - Training and Finetuning Embedding Models with Sentence Transformers v3 (https://huggingface.co/blog/train-sentence-transformers)
-
-#### LLM - Dataset
-- DBPedia (https://www.dbpedia.org/resources/individual/) (http://downloads.dbpedia.org/wiki-archive/dbpedia-version-2016-04.html) (http://downloads.dbpedia.org/2016-04/core/)
-- Common Crawl (https://commoncrawl.org/the-data/get-started/)
-- c4 - A colossal, cleaned version of Common Crawl's web crawl corpus (https://tensorflow.org/datasets/catalog/c4)
-- Instruction tuning datasets to train (text and multi-modal) chat-based LLMs (GPT-4, ChatGPT, LLaMA, Alpaca) (https://github.com/yaodongC/awesome-instruction-dataset)
-- Python-Code-23k-ShareGPT (https://huggingface.co/datasets/ajibawa-2023/Python-Code-23k-ShareGPT)
-- UltraFeedback Binarized -  a pre-processed version of the UltraFeedback dataset and was used to train Zephyr-7Β-β (https://huggingface.co/datasets/HuggingFaceH4/ultrafeedback_binarized)
-- [Blog post] FineWeb: decanting the web for the finest text data at scale (https://huggingface.co/spaces/HuggingFaceFW/blogpost-fineweb-v1)
-- > FineWeb: 15T tokens (44TB disk space) of cleaned and deduplicated english web data from CommonCrawl, for LLM pretraining (https://huggingface.co/datasets/HuggingFaceFW/fineweb)
-- > FineWeb-Edu: 1.3T tokens of educational web pages filtered from 🍷 FineWeb dataset (https://huggingface.co/datasets/HuggingFaceFW/fineweb-edu)
-- > FineWeb-Edu-score-2: 5.4T tokens of educational web pages filtered from 🍷 FineWeb dataset (https://huggingface.co/datasets/HuggingFaceFW/fineweb-edu-score-2)
 
 #### Unsloth
 - Make LLM Fine-tuning 2x faster with Unsloth and 🤗 TRL (https://huggingface.co/blog/unsloth-trl)
