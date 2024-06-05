@@ -1197,6 +1197,8 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - DataTrove - a library to process, filter and deduplicate text data at a very large scale (https://github.com/huggingface/datatrove/)
 - Guidance - control how LLM output is structured (https://github.com/guidance-ai/guidance)
 - Large-scale Near-deduplication Behind BigCode (https://huggingface.co/blog/dedup)
+- Dolma Toolkit - curation of large datasets for (pre)-training ML models (https://github.com/allenai/dolma)
+  
 
 #### 🤖 Transformer / LLM Dataset
 - DBPedia (https://www.dbpedia.org/resources/individual/) (http://downloads.dbpedia.org/wiki-archive/dbpedia-version-2016-04.html) (http://downloads.dbpedia.org/2016-04/core/)
@@ -1213,7 +1215,8 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - > FineWeb: 15T tokens (44TB disk space) of cleaned and deduplicated english web data from CommonCrawl, for LLM pretraining (https://huggingface.co/datasets/HuggingFaceFW/fineweb)
 - > FineWeb-Edu: 1.3T tokens of educational web pages filtered from 🍷 FineWeb dataset (https://huggingface.co/datasets/HuggingFaceFW/fineweb-edu)
 - > FineWeb-Edu-score-2: 5.4T tokens of educational web pages filtered from 🍷 FineWeb dataset (https://huggingface.co/datasets/HuggingFaceFW/fineweb-edu-score-2)
-- Dolma
+- Dolma - Used to train OLMo on 3 trillion tokens from a diverse mix of web content, academic publications, code, books, and encyclopedic materials, with quality filtering, fuzzy deduplication (https://blog.allenai.org/dolma-3-trillion-tokens-open-llm-corpus-9a0ff4b8da64) (https://huggingface.co/datasets/allenai/dolma)
+
 
   
 #### 🤖 Transformer / LLM Sample Applications
