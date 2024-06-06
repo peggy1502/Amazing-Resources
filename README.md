@@ -452,6 +452,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - Why You Shouldn’t Invest In Vector Databases? (https://medium.com/data-engineer-things/why-you-shouldnt-invest-in-vector-databases-c0cd3f59d23c)
 - Building and operating a pretty big storage system called S3 (https://www.allthingsdistributed.com/2023/07/building-and-operating-a-pretty-big-storage-system.html)
 - MyScale - A Deep Dive into SQL Vector Databases (https://myscale.com/blog/what-is-sql-vector-databases/)
+- Building a weather data warehouse part I: Loading a trillion rows of weather data into TimescaleDB (https://aliramadhan.me/2024/03/31/trillion-rows.html)
 
 #### Reinforcement Learning
 - Develop Your First AI Agent: Deep Q-Learning (https://towardsdatascience.com/develop-your-first-ai-agent-deep-q-learning-375876ee2472)
