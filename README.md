@@ -1344,6 +1344,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - > Large Scale Transformer model training with Tensor Parallel (TP) (https://pytorch.org/tutorials/intermediate/TP_tutorial.html)
 - Best Embedding Model — OpenAI / Cohere / Google / E5 / BGE - An In-depth Comparison of Multilingual Embedding Models (https://medium.com/@lars.chr.wiik/best-embedding-model-openai-cohere-google-e5-bge-931bfa1962dc)  topic dataset (https://github.com/LarsChrWiik/lars_datasets/tree/main/topics_dataset_50)
 - Training and Finetuning Embedding Models with Sentence Transformers v3 (https://huggingface.co/blog/train-sentence-transformers)
+- What can LLMs never do? (https://www.strangeloopcanon.com/p/what-can-llms-never-do)
 
 #### Unsloth
 - Make LLM Fine-tuning 2x faster with Unsloth and 🤗 TRL (https://huggingface.co/blog/unsloth-trl)
