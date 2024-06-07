@@ -115,6 +115,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - How to optimize AWS Lambda & Kinesis to process 5 million records per minute (https://towardsaws.com/how-to-optimize-aws-lambda-kinesis-to-process-5-million-messages-c3ed5a143c2d)
 - Deploying a Trained CTGAN Model on an EC2 Instance: A Step-by-Step Guide (https://tutorialsdojo.com/deploying-a-trained-ctgan-model-on-an-ec2-instance-a-step-by-step-guide/)
 - > Serverless Model Deployment in AWS: Streamlining with Lambda, Docker, and S3 (https://tutorialsdojo.com/serverless-model-deployment-in-aws-streamlining-with-lambda-docker-and-s3/)
+- Demystifying AWS Storage: S3, EBS, and EFS (https://www.linkedin.com/comm/pulse/demystifying-aws-storage-s3-ebs-efs-neal-k-davis-zj84e)
 
 ## 👍 Videos
 - StatQuest (https://statquest.org/video-index/)
@@ -307,6 +308,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - Google - Challenges in Building Large-Scale Information Retrieval Systems (http://static.googleusercontent.com/media/research.google.com/en//people/jeff/WSDM09-keynote.pdf)
 - A guide to Google Search ranking systems (https://developers.google.com/search/docs/appearance/ranking-systems-guide)
 - How to ARCHITECT a search engine like Google Search (https://newsletter.theaiedge.io/p/how-to-architect-a-search-engine)
+- Evaluation Metrics for Search and Recommendation Systems (https://weaviate.io/blog/retrieval-evaluation-metrics)
 
 #### Search Ranking
 - Using Cross-Encoders as reranker in multistage vector search (https://weaviate.io/blog/cross-encoders-as-reranker)
