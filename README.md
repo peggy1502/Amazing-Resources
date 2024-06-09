@@ -1220,6 +1220,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - > FineWeb-Edu: 1.3T tokens of educational web pages filtered from 🍷 FineWeb dataset (https://huggingface.co/datasets/HuggingFaceFW/fineweb-edu)
 - > FineWeb-Edu-score-2: 5.4T tokens of educational web pages filtered from 🍷 FineWeb dataset (https://huggingface.co/datasets/HuggingFaceFW/fineweb-edu-score-2)
 - Dolma - Used to train OLMo on 3 trillion tokens from a diverse mix of web content, academic publications, code, books, and encyclopedic materials, with quality filtering, fuzzy deduplication (https://blog.allenai.org/dolma-3-trillion-tokens-open-llm-corpus-9a0ff4b8da64) (https://huggingface.co/datasets/allenai/dolma)
+- TinyStories - synthetically generated (by GPT-3.5 and GPT-4) short stories that only use a small vocabulary (https://huggingface.co/datasets/roneneldan/TinyStories)
 
 
   
