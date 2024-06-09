@@ -1144,7 +1144,6 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - Comprehensive LLM model zoo (https://crfm.stanford.edu/ecosystem-graphs/index.html?mode=table)
 - Totally Open Chatgpt (https://github.com/nichtdax/awesome-totally-open-chatgpt)
 - Open LLMs (https://github.com/eugeneyan/open-llms)
-- GPT4All (https://github.com/nomic-ai/gpt4all)
 - TII open-sourced Falcon LLM (https://huggingface.co/tiiuae)
 - Question generator with context (https://huggingface.co/voidful/bart-eqg-question-generator)
 - T5 One Line Summary (https://huggingface.co/snrspeaks/t5-one-line-summary)
@@ -1192,6 +1191,8 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - How to compute LLM embeddings 3X faster with model quantization - with ONNX model quantization / ONNX transformer optimization (https://medium.com/nixiesearch/how-to-compute-llm-embeddings-3x-faster-with-model-quantization-25523d9b4ce5)
 - A Hitchhiker’s Guide to Speculative Decoding (https://pytorch.org/blog/hitchhikers-guide-speculative-decoding/)
 
+#### 🤖 Transformer / LLM Platform / Software
+- GPT4All - run open-source LLMs on your own computer (https://github.com/nomic-ai/gpt4all)
   
 #### 🤖 Transformer / LLM Data Curator
 - Curating Trillion-Token Datasets: Introducing NVIDIA NeMo Data Curator (https://developer.nvidia.com/blog/curating-trillion-token-datasets-introducing-nemo-data-curator/)
