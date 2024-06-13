@@ -255,6 +255,8 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - Personalized recommendations articles by Gaurav Chakravorty (https://www.linkedin.com/today/author/gauravchak?trk=article-ssr-frontend-pulse_more-articles)
 - Accelerating AI: Implementing Multi-GPU Distributed Training for Personalized Recommendations (https://multithreaded.stitchfix.com/blog/2023/06/08/distributed-model-training/)
 - How Instacart Uses Machine Learning-Driven Autocomplete to Help People Fill Their Carts (https://tech.instacart.com/how-instacart-uses-machine-learning-driven-autocomplete-to-help-people-fill-their-carts-9bc56d22bafb)
+- Is this the ChatGPT moment for recommendation systems? (https://www.shaped.ai/blog/is-this-the-chatgpt-moment-for-recommendation-systems)
+
 
 #### Similarity Search / ANNS / Vector Indexing
 - Getting started with Vector DBs in Python (https://code.dblock.org/2023/06/16/getting-started-with-vector-dbs-in-python.html) (https://github.com/dblock/vectordb-hello-world/)
