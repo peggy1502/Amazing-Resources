@@ -1102,6 +1102,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - Advanced Retrieval for AI with Chroma (https://www.deeplearning.ai/short-courses/advanced-retrieval-for-ai/)
 - Chat with your code: RAG with Weaviate and LlamaIndex (https://lightning.ai/weaviate/studios/chat-with-your-code-rag-with-weaviate-and-llamaindex)
 - The 4 Advanced RAG Algorithms You Must Know to Implement (https://medium.com/decodingml/the-4-advanced-rag-algorithms-you-must-know-to-implement-5d0c7f1199d2)
+- FlashRAG: A Python Toolkit for Efficient RAG Research (https://github.com/ruc-nlpir/flashrag)
 
 #### 🤖 Lightning AI ⚡⚡⚡
 - 📖 Lightning Fabric Documentation (https://lightning.ai/docs/fabric/stable/)
@@ -1347,9 +1348,11 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - Using LESS Data to Tune Models (https://www.cs.princeton.edu/~smalladi/blog/2024/04/04/dataselection/)
 - Techniques for training large neural networks - Data parallelism, Pipeline parallelism, Tensor parallelism, Mixture-of-Experts (MoE), and other memory saving designs (https://openai.com/research/techniques-for-training-large-neural-networks)
 - > Large Scale Transformer model training with Tensor Parallel (TP) (https://pytorch.org/tutorials/intermediate/TP_tutorial.html)
+- YaFSDP - a Sharded Data Parallelism framework (https://github.com/yandex/YaFSDP)  (https://habr.com/ru/companies/yandex/articles/817509/)
 - Best Embedding Model — OpenAI / Cohere / Google / E5 / BGE - An In-depth Comparison of Multilingual Embedding Models (https://medium.com/@lars.chr.wiik/best-embedding-model-openai-cohere-google-e5-bge-931bfa1962dc)  topic dataset (https://github.com/LarsChrWiik/lars_datasets/tree/main/topics_dataset_50)
 - Training and Finetuning Embedding Models with Sentence Transformers v3 (https://huggingface.co/blog/train-sentence-transformers)
 - What can LLMs never do? (https://www.strangeloopcanon.com/p/what-can-llms-never-do)
+- What We’ve Learned From A Year of Building with LLMs (https://applied-llms.org/)
 
 #### Unsloth
 - Make LLM Fine-tuning 2x faster with Unsloth and 🤗 TRL (https://huggingface.co/blog/unsloth-trl)
