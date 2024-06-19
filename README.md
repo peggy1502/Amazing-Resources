@@ -1339,7 +1339,8 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - The Official AutoGPT Forge Tutorial Series (https://aiedge.medium.com/autogpt-forge-e3de53cc58ec)
 - AutoGPT Tutorial: Creating an Agent Powered Research Assistant with Auto-GPT-Forge (https://lablab.ai/t/autogpt-tutorial-creating-a-research-assistant-with-auto-gpt-forge)
 - Decoding Auto-GPT (https://maartengrootendorst.substack.com/p/decoding-auto-gpt)
-- Empower Functions -  a family of LLMs that offer GPT-4 level capabilities for real-world "tool using" use cases (https://github.com/empower-ai/empower-functions) 
+- Empower Functions -  a family of LLMs that offer GPT-4 level capabilities for real-world "tool using" use cases (https://github.com/empower-ai/empower-functions)
+- Multi-Agent Software Development through Cross-Team Collaboration (https://arxiv.org/pdf/2406.08979v1)  (https://github.com/OpenBMB/ChatDev)
 
 #### LLM - Misc
 - How Do Language Models put Attention Weights over Long Context? (https://yaofu.notion.site/How-Do-Language-Models-put-Attention-Weights-over-Long-Context-10250219d5ce42e8b465087c383a034e)  (https://github.com/FranxYao/Long-Context-Data-Engineering)
