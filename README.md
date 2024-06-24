@@ -1043,7 +1043,8 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - The Secret Sauce behind 100K context window in LLMs: all tricks in one place (https://blog.gopenai.com/how-to-speed-up-llms-and-use-100k-context-window-all-tricks-in-one-place-ffd40577b4c)
 - All You Need to Know to Build Your First LLM App (https://towardsdatascience.com/all-you-need-to-know-to-build-your-first-llm-app-eb982c78ffac) $$
 - Neural Networks: Zero to Hero - A course by Andrej Karpathy - Syllabus & links to videos (https://karpathy.ai/zero-to-hero.html)
-- > [Video] Let's build GPT: from scratch, in code, spelled out. (https://www.youtube.com/watch?v=kCc8FmEb1nY)
+- > [Video] Let's build GPT: from scratch, in code, spelled out (https://www.youtube.com/watch?v=kCc8FmEb1nY)
+- > [Video] Let's reproduce GPT-2 (124M) (https://www.youtube.com/watch?v=l8pRSuU81PU)
 - Decoding Strategies in Large Language Models (https://towardsdatascience.com/decoding-strategies-in-large-language-models-9733a8f70539) $$
 - Interactively fine-tune Falcon-40B and other LLMs on Amazon SageMaker Studio notebooks using QLoRA (https://aws.amazon.com/blogs/machine-learning/interactively-fine-tune-falcon-40b-and-other-llms-on-amazon-sagemaker-studio-notebooks-using-qlora/) (https://github.com/aws-samples/amazon-sagemaker-generativeai/blob/main/studio-notebook-fine-tuning/falcon-40b-qlora-finetune-summarize.ipynb)
 - [Codes] CVPR 2023 - Scaling PyTorch Model Training With Minimal Code Changes (https://github.com/rasbt/cvpr2023)
@@ -1224,6 +1225,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - > FineWeb-Edu-score-2: 5.4T tokens of educational web pages filtered from 🍷 FineWeb dataset (https://huggingface.co/datasets/HuggingFaceFW/fineweb-edu-score-2)
 - Dolma - Used to train OLMo on 3 trillion tokens from a diverse mix of web content, academic publications, code, books, and encyclopedic materials, with quality filtering, fuzzy deduplication (https://blog.allenai.org/dolma-3-trillion-tokens-open-llm-corpus-9a0ff4b8da64) (https://huggingface.co/datasets/allenai/dolma)
 - TinyStories - synthetically generated (by GPT-3.5 and GPT-4) short stories that only use a small vocabulary (https://huggingface.co/datasets/roneneldan/TinyStories)
+- GenQA - over 10M cleaned and deduplicated instruction samples generated from a handful of carefully designed prompts (https://huggingface.co/datasets/tomg-group-umd/GenQA)
 
 
   
