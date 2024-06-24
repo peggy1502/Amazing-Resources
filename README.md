@@ -919,10 +919,6 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - https://github.com/fylls/genome-sequencing
 
 ## 🤖 Transformer Architecture / Anatomy / Guide 
-- Numbers every LLM Developer should know (https://github.com/ray-project/llm-numbers#1-mb-gpu-memory-required-for-1-token-of-output-with-a-13b-parameter-model)
-- Transformer Math 101 (https://blog.eleuther.ai/transformer-math/)
-- LLM Parameter Counting (https://kipp.ly/transformer-param-count/)
-- Transformer Inference Arithmetic (https://kipp.ly/transformer-inference-arithmetic/)
 - AI Canon - a curated list of resources (https://a16z.com/2023/05/25/ai-canon/)
 - A Very Gentle Introduction to Large Language Models without the Hype - 38 min read (https://mark-riedl.medium.com/a-very-gentle-introduction-to-large-language-models-without-the-hype-5f67941fa59e)
 - The Animated Transformer (https://prvnsmpth.github.io/animated-transformer/)
@@ -975,6 +971,18 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - A Visual Guide to Vision Transformers (https://blog.mdturp.ch/posts/2024-04-05-visual_guide_to_vision_transformer.html)
 - llama3 implemented from scratch (https://github.com/naklecha/llama3-from-scratch/blob/main/README.md)
 
+## 🤖 Transformer Maths 
+- Numbers every LLM Developer should know (https://github.com/ray-project/llm-numbers#1-mb-gpu-memory-required-for-1-token-of-output-with-a-13b-parameter-model)
+- Transformer Math 101 (https://blog.eleuther.ai/transformer-math/)
+- LLM Parameter Counting (https://kipp.ly/transformer-param-count/)
+- Transformer Inference Arithmetic (https://kipp.ly/transformer-inference-arithmetic/)
+- Calculating GPU memory for serving LLMs (https://www.substratus.ai/blog/calculating-gpu-memory-for-llm)
+- Can you run it? LLM version (https://huggingface.co/spaces/Vokturz/can-it-run-llm)
+- 🤗 Model Memory Calculator (https://huggingface.co/spaces/hf-accelerate/model-memory-usage)
+- VRAM Estimator - Estimate GPU VRAM usage of transformer-based models (https://vram.asmirnov.xyz/)
+- Model training anatomy (https://huggingface.co/docs/transformers/model_memory_anatomy)
+- Estimate the Memory Consumption of LLMs for Inference and Fine-tuning (https://kaitchup.substack.com/p/estimate-the-memory-consumption-of)  (https://colab.research.google.com/drive/1J_r9gB849RL4R4PXC8o05KkNeUXhBXoO?usp=sharing)
+- LLM Explorer (https://llm.extractum.io/)
 
 #### 🤖 Transformer Libraries
 - AWQ: Activation-aware Weight Quantization for LLM Compression and Acceleration [Paper] (https://github.com/mit-han-lab/llm-awq)
