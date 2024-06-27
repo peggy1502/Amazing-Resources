@@ -1367,6 +1367,9 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - Training and Finetuning Embedding Models with Sentence Transformers v3 (https://huggingface.co/blog/train-sentence-transformers)
 - What can LLMs never do? (https://www.strangeloopcanon.com/p/what-can-llms-never-do)
 - What We’ve Learned From A Year of Building with LLMs (https://applied-llms.org/)
+- Uncensor any LLM with abliteration (https://huggingface.co/blog/mlabonne/abliteration)  (https://colab.research.google.com/drive/1VYm3hOcvCpbGiqKZb141gJwjdmmCcVpR?usp=sharing)
+- > abliterator.py (https://github.com/FailSpy/abliterator)
+- > TransformerLens - A library for mechanistic interpretability of GPT-style language models (https://github.com/TransformerLensOrg/TransformerLens)  (https://transformerlensorg.github.io/TransformerLens/)
 
 #### Unsloth
 - Make LLM Fine-tuning 2x faster with Unsloth and 🤗 TRL (https://huggingface.co/blog/unsloth-trl)
