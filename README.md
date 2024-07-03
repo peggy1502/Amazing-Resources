@@ -1372,6 +1372,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - Uncensor any LLM with abliteration (https://huggingface.co/blog/mlabonne/abliteration)  (https://colab.research.google.com/drive/1VYm3hOcvCpbGiqKZb141gJwjdmmCcVpR?usp=sharing)
 - > abliterator.py (https://github.com/FailSpy/abliterator)
 - > TransformerLens - A library for mechanistic interpretability of GPT-style language models (https://github.com/TransformerLensOrg/TransformerLens)  (https://transformerlensorg.github.io/TransformerLens/)
+- From bare metal to a 70B model: infrastructure set-up and scripts (https://imbue.com/research/70b-infrastructure/)
 
 #### Unsloth
 - Make LLM Fine-tuning 2x faster with Unsloth and 🤗 TRL (https://huggingface.co/blog/unsloth-trl)
