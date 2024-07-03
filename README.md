@@ -1139,6 +1139,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 
 #### 🤖 LLM Leaderboard
 - 🤗 Open LLM Leaderboard (https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard)
+- 🤗 Open LLM Leaderboard V2 (https://huggingface.co/spaces/open-llm-leaderboard/open_llm_leaderboard)
 - 🤗 Massive Text Embedding Benchmark (MTEB) Leaderboard (https://huggingface.co/spaces/mteb/leaderboard)
 - Hughes Hallucination Evaluation Model (HHEM) leaderboard (https://huggingface.co/spaces/vectara/leaderboard)  (https://github.com/vectara/hallucination-leaderboard)
 
