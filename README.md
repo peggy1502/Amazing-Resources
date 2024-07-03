@@ -321,7 +321,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - > https://www.sbert.net/examples/training/ms_marco/README.html#marginmse
 
 
-#### Lucene / Solr / Elasticsearch
+#### Lucene / Solr / Elasticsearch / BM25
 - Grokking Solr Trie Fields (http://mentaldetritus.blogspot.com/2013/01/grokking-solr-trie-fields.html)
 - Mastering ElasticSearch (https://hoclaptrinhdanang.com/downloads/pdf/elasticsearch/Mastering%20ElasticSearch-PDF.pdf)
 - Elasticsearch Kernel Analysis - Data Model (https://zhuanlan.zhihu.com/p/34680841)
@@ -372,6 +372,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - > Berlin Buzzwords 2017: Adrien Grand - Running slow queries with Lucene (https://www.youtube.com/watch?v=p51vIDWHWqk&list=PLq-odUc2x7i-9Nijx-WfoRMoAfHC9XzTt&index=16)
 - > (2020) Bruno Roustant – A Journey to Write a New Lucene PostingsFormat (https://www.youtube.com/watch?v=av0yQY3pklA&list=PLq-odUc2x7i_YTCOTQ6p3m-kqpvEXGvbT&index=44)
 - > (2020) Uwe Schindler - Ask Me Anything: Lucene 9 (https://www.youtube.com/watch?v=RvoH_pVvXz0&list=PLq-odUc2x7i_YTCOTQ6p3m-kqpvEXGvbT&index=10)
+- BM25 for Python: Achieving high performance while simplifying dependencies with BM25S⚡ (https://huggingface.co/blog/xhluca/bm25s)  (https://bm25s.github.io/)
 
 
 #### General ML/DL Articles
