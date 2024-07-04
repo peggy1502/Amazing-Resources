@@ -373,7 +373,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - > (2020) Bruno Roustant – A Journey to Write a New Lucene PostingsFormat (https://www.youtube.com/watch?v=av0yQY3pklA&list=PLq-odUc2x7i_YTCOTQ6p3m-kqpvEXGvbT&index=44)
 - > (2020) Uwe Schindler - Ask Me Anything: Lucene 9 (https://www.youtube.com/watch?v=RvoH_pVvXz0&list=PLq-odUc2x7i_YTCOTQ6p3m-kqpvEXGvbT&index=10)
 - BM25 for Python: Achieving high performance while simplifying dependencies with BM25S⚡ (https://huggingface.co/blog/xhluca/bm25s)  (https://bm25s.github.io/)
-
+- What AI Engineers Should Know about Search (https://softwaredoug.com/blog/2024/06/25/what-ai-engineers-need-to-know-search)
 
 #### General ML/DL Articles
 - A Recipe for Training Neural Networks (http://karpathy.github.io/2019/04/25/recipe/)
