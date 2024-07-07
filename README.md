@@ -1236,6 +1236,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - Dolma - Used to train OLMo on 3 trillion tokens from a diverse mix of web content, academic publications, code, books, and encyclopedic materials, with quality filtering, fuzzy deduplication (https://blog.allenai.org/dolma-3-trillion-tokens-open-llm-corpus-9a0ff4b8da64) (https://huggingface.co/datasets/allenai/dolma)
 - TinyStories - synthetically generated (by GPT-3.5 and GPT-4) short stories that only use a small vocabulary (https://huggingface.co/datasets/roneneldan/TinyStories)
 - GenQA - over 10M cleaned and deduplicated instruction samples generated from a handful of carefully designed prompts (https://huggingface.co/datasets/tomg-group-umd/GenQA)
+- Persona Hub - Scaling Synthetic Data Creation with 1,000,000,000 Personas (https://github.com/tencent-ailab/persona-hub) (https://huggingface.co/datasets/proj-persona/PersonaHub)
 
 
   
