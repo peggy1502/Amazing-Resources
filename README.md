@@ -116,6 +116,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - Deploying a Trained CTGAN Model on an EC2 Instance: A Step-by-Step Guide (https://tutorialsdojo.com/deploying-a-trained-ctgan-model-on-an-ec2-instance-a-step-by-step-guide/)
 - > Serverless Model Deployment in AWS: Streamlining with Lambda, Docker, and S3 (https://tutorialsdojo.com/serverless-model-deployment-in-aws-streamlining-with-lambda-docker-and-s3/)
 - Demystifying AWS Storage: S3, EBS, and EFS (https://www.linkedin.com/comm/pulse/demystifying-aws-storage-s3-ebs-efs-neal-k-davis-zj84e)
+- Amazon AI Fairness and Explainability with Amazon SageMaker Clarify (https://www.linkedin.com/comm/pulse/amazon-ai-fairness-explainability-sagemaker-clarify-jon-bonso-vnfzc)
 
 ## 👍 Videos
 - StatQuest (https://statquest.org/video-index/)
