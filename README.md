@@ -1117,6 +1117,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - The 4 Advanced RAG Algorithms You Must Know to Implement (https://medium.com/decodingml/the-4-advanced-rag-algorithms-you-must-know-to-implement-5d0c7f1199d2)
 - FlashRAG: A Python Toolkit for Efficient RAG Research (https://github.com/ruc-nlpir/flashrag)
 - ColPali: Efficient Document Retrieval with Vision Language Models (https://github.com/ManuelFay/colpali) (https://huggingface.co/vidore)
+- NVIDIA Introduces RankRAG: A Novel RAG Framework that Instruction-Tunes a Single LLM for the Dual Purposes of Top-k Context Ranking and Answer Generation in RAG (https://www.marktechpost.com/2024/07/09/nvidia-introduces-rankrag-a-novel-rag-framework-that-instruction-tunes-a-single-llm-for-the-dual-purposes-of-top-k-context-ranking-and-answer-generation-in-rag/)  (https://arxiv.org/pdf/2407.02485)
 
 #### 🤖 Lightning AI ⚡⚡⚡
 - 📖 Lightning Fabric Documentation (https://lightning.ai/docs/fabric/stable/)
@@ -1379,6 +1380,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - Training a 70B model from scratch: open-source tools, evaluation datasets, and learnings (https://imbue.com/research/70b-intro/)
 - > From bare metal to a 70B model: infrastructure set-up and scripts (https://imbue.com/research/70b-infrastructure/)
 - > Ensuring accurate model evaluations: open-sourced, cleaned datasets for models that reason and code (https://imbue.com/research/70b-evals/)
+- Aleksa Gordić’s Post: Amazing list of techniques for improving the stability of training large ML models (LLMs, diffusion, etc) (https://www.linkedin.com/feed/update/urn:li:activity:7215624025639645184/)
 
 #### Unsloth
 - Make LLM Fine-tuning 2x faster with Unsloth and 🤗 TRL (https://huggingface.co/blog/unsloth-trl)
