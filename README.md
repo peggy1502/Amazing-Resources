@@ -1116,6 +1116,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - Chat with your code: RAG with Weaviate and LlamaIndex (https://lightning.ai/weaviate/studios/chat-with-your-code-rag-with-weaviate-and-llamaindex)
 - The 4 Advanced RAG Algorithms You Must Know to Implement (https://medium.com/decodingml/the-4-advanced-rag-algorithms-you-must-know-to-implement-5d0c7f1199d2)
 - FlashRAG: A Python Toolkit for Efficient RAG Research (https://github.com/ruc-nlpir/flashrag)
+- ColPali: Efficient Document Retrieval with Vision Language Models (https://github.com/ManuelFay/colpali) (https://huggingface.co/vidore)
 
 #### 🤖 Lightning AI ⚡⚡⚡
 - 📖 Lightning Fabric Documentation (https://lightning.ai/docs/fabric/stable/)
@@ -1238,6 +1239,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - TinyStories - synthetically generated (by GPT-3.5 and GPT-4) short stories that only use a small vocabulary (https://huggingface.co/datasets/roneneldan/TinyStories)
 - GenQA - over 10M cleaned and deduplicated instruction samples generated from a handful of carefully designed prompts (https://huggingface.co/datasets/tomg-group-umd/GenQA)
 - Persona Hub - Scaling Synthetic Data Creation with 1,000,000,000 Personas (https://github.com/tencent-ailab/persona-hub) (https://huggingface.co/datasets/proj-persona/PersonaHub)
+- APIGen Function-Calling Datasets (https://huggingface.co/datasets/Salesforce/xlam-function-calling-60k)
 
 
   
