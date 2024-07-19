@@ -962,7 +962,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - How context sizes of 100k tokens and longer are achieved (https://www.linkedin.com/posts/andriyburkov_in-case-you-were-wondering-how-context-sizes-activity-7154922110354604032-Tx1a)
 - KV caching (https://medium.com/@plienhar/llm-inference-series-3-kv-caching-unveiled-048152e461c8)  (https://medium.com/@plienhar/llm-inference-series-4-kv-caching-a-deeper-look-4ba9a77746c8)
 
-#### 🤖 Transformer / Attention / LLM Visualization
+### 🤖 Transformer / Attention / LLM Visualization
 - BertViz - tool for visualizing attention in Transformer model (https://github.com/jessevig/bertviz)
 - LLM Visualization (https://bbycroft.net/llm)
 - AttentionViz: A Global View of Transformer Attention (https://catherinesyeh.github.io/attn-docs/)
@@ -972,6 +972,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - Transformers Explained Visually (Part 3): Multi-head Attention, deep dive (https://towardsdatascience.com/transformers-explained-visually-part-3-multi-head-attention-deep-dive-1c1ff1024853)
 - A Visual Guide to Vision Transformers (https://blog.mdturp.ch/posts/2024-04-05-visual_guide_to_vision_transformer.html)
 - llama3 implemented from scratch (https://github.com/naklecha/llama3-from-scratch/blob/main/README.md)
+- The Illustrated AlphaFold (https://elanapearl.github.io/blog/2024/the-illustrated-alphafold/)
 
 ## 🤖 Transformer Maths 
 - Numbers every LLM Developer should know (https://github.com/ray-project/llm-numbers#1-mb-gpu-memory-required-for-1-token-of-output-with-a-13b-parameter-model)
