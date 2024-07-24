@@ -1242,6 +1242,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - GenQA - over 10M cleaned and deduplicated instruction samples generated from a handful of carefully designed prompts (https://huggingface.co/datasets/tomg-group-umd/GenQA)
 - Persona Hub - Scaling Synthetic Data Creation with 1,000,000,000 Personas (https://github.com/tencent-ailab/persona-hub) (https://huggingface.co/datasets/proj-persona/PersonaHub)
 - APIGen Function-Calling Datasets (https://huggingface.co/datasets/Salesforce/xlam-function-calling-60k)
+- The Tome - Compiled from 9 publicly available datasets, curated and designed for training LLMs with a focus on instruction following (https://huggingface.co/datasets/arcee-ai/The-Tome)
 
 
   
