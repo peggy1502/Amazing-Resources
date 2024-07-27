@@ -1180,6 +1180,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - Tiny but mighty: The Phi-3 small language models with big potential (https://news.microsoft.com/source/features/ai/the-phi-3-small-language-models-with-big-potential/)
 - > TinyStories: How Small Can Language Models Be and Still Speak Coherent English? (https://arxiv.org/pdf/2305.07759)
 - OpenELM - An Efficient Language Model Family with Open-source Training and Inference Framework - using layer-wise scaling strategy (https://arxiv.org/abs/2404.14619)  (https://huggingface.co/apple/OpenELM)  (https://github.com/apple/corenet)
+- Llama 3.1 - 405B, 70B & 8B with multilinguality and long context (https://huggingface.co/blog/llama31)
 
 
 #### 🤖 Transformer / LLM Inference / Deployment
