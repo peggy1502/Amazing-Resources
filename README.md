@@ -1220,6 +1220,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - Guidance - control how LLM output is structured (https://github.com/guidance-ai/guidance)
 - Large-scale Near-deduplication Behind BigCode (https://huggingface.co/blog/dedup)
 - Dolma Toolkit - curation of large datasets for (pre)-training ML models (https://github.com/allenai/dolma)
+- Distilabel - framework for synthetic data and AI feedback (https://github.com/argilla-io/distilabel)
   
 
 #### 🤖 Transformer / LLM Dataset
@@ -1243,6 +1244,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - Persona Hub - Scaling Synthetic Data Creation with 1,000,000,000 Personas (https://github.com/tencent-ailab/persona-hub) (https://huggingface.co/datasets/proj-persona/PersonaHub)
 - APIGen Function-Calling Datasets (https://huggingface.co/datasets/Salesforce/xlam-function-calling-60k)
 - The Tome - Compiled from 9 publicly available datasets, curated and designed for training LLMs with a focus on instruction following (https://huggingface.co/datasets/arcee-ai/The-Tome)
+- distilabel-intel-orca-dpo-pairs (for preference tuning) (https://huggingface.co/datasets/argilla/distilabel-intel-orca-dpo-pairs)
 
 
   
