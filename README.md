@@ -973,6 +973,8 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - A Visual Guide to Vision Transformers (https://blog.mdturp.ch/posts/2024-04-05-visual_guide_to_vision_transformer.html)
 - llama3 implemented from scratch (https://github.com/naklecha/llama3-from-scratch/blob/main/README.md)
 - The Illustrated AlphaFold (https://elanapearl.github.io/blog/2024/the-illustrated-alphafold/)
+- A Visual Guide to Quantization (https://newsletter.maartengrootendorst.com/p/a-visual-guide-to-quantization)
+- A Visual Guide to Mamba and State Space Models (https://newsletter.maartengrootendorst.com/p/a-visual-guide-to-mamba-and-state)
 
 ## 🤖 Transformer Maths 
 - Numbers every LLM Developer should know (https://github.com/ray-project/llm-numbers#1-mb-gpu-memory-required-for-1-token-of-output-with-a-13b-parameter-model)
