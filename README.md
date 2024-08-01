@@ -164,6 +164,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - Lucene in Action - Second Edition (https://livebook.manning.com/book/lucene-in-action-second-edition/appendix-b/)
 - Build a Large Language Model (From Scratch) by Sebastian Raschka (https://github.com/rasbt/LLMs-from-scratch)
 - Machine Learning Q and AI book by Sebastian Raschka (https://github.com/rasbt/MachineLearning-QandAI-book)
+- Hands-On Large Language Models - by Jay Alammar and Maarten Grootendorst (https://github.com/HandsOnLLM/Hands-On-Large-Language-Models)
 
 ## 👍 Papers
 - 2015 Cyclical Learning Rates for Training Neural Networks (https://arxiv.org/abs/1506.01186)
