@@ -990,6 +990,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - Model training anatomy (https://huggingface.co/docs/transformers/model_memory_anatomy)
 - Estimate the Memory Consumption of LLMs for Inference and Fine-tuning (https://kaitchup.substack.com/p/estimate-the-memory-consumption-of)  (https://colab.research.google.com/drive/1J_r9gB849RL4R4PXC8o05KkNeUXhBXoO?usp=sharing)
 - LLM Explorer (https://llm.extractum.io/)
+- Memory Requirements for LLM Training and Inference (https://medium.com/@manuelescobar-dev/memory-requirements-for-llm-training-and-inference-97e4ab08091b)
 
 #### 🤖 Transformer Libraries
 - AWQ: Activation-aware Weight Quantization for LLM Compression and Acceleration [Paper] (https://github.com/mit-han-lab/llm-awq)
