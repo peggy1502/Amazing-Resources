@@ -50,6 +50,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - Machine Learning and AI Books (https://mltechniques.com/shop/)
 - Google Machine Learning Education (https://developers.google.com/machine-learning)
 - > https://developers.google.com/machine-learning/guides/deep-learning-tuning-playbook/faq
+- Large Language Model Course - by Maxime Labonne (https://github.com/mlabonne/llm-course)
 
 
 ## 👍 Cheat Sheets
