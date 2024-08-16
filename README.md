@@ -1106,6 +1106,8 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - > Memory-efficient LLM Training with GaLore (https://medium.com/@geronimo7/llm-training-on-consumer-gpus-with-galore-d25075143cfb)  (https://github.com/geronimi73/3090_shorts/blob/main/nb_galore_llama2-7b.ipynb)
 - An Overview of the LoRA Family (https://towardsdatascience.com/an-overview-of-the-lora-family-515d81134725)
 - Efficiently fine-tune Llama 3 with PyTorch FSDP and Q-Lora (https://www.philschmid.de/fsdp-qlora-llama3)  (https://github.com/philschmid/deep-learning-pytorch-huggingface/blob/main/training/scripts/run_fsdp_qlora.py)
+- FlexAttention: The Flexibility of PyTorch with the Performance of FlashAttention (https://pytorch.org/blog/flexattention/)
+- Quantization-Aware Training for Large Language Models with PyTorch (https://pytorch.org/blog/quantization-aware-training/)  (https://pytorch.org/torchtune/main/tutorials/qat_finetune.html)
 
 #### 🤖 RAG
 - A Guide on 12 Tuning Strategies for Production-Ready RAG Applications (https://towardsdatascience.com/a-guide-on-12-tuning-strategies-for-production-ready-rag-applications-7ca646833439#341d)
@@ -1214,6 +1216,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - LLM Inference Series: 5. Dissecting model performance (https://medium.com/@plienhar/llm-inference-series-5-dissecting-model-performance-6144aa93168f)
 - How to compute LLM embeddings 3X faster with model quantization - with ONNX model quantization / ONNX transformer optimization (https://medium.com/nixiesearch/how-to-compute-llm-embeddings-3x-faster-with-model-quantization-25523d9b4ce5)
 - A Hitchhiker’s Guide to Speculative Decoding (https://pytorch.org/blog/hitchhikers-guide-speculative-decoding/)
+- Achieving Faster Open-Source Llama3 Serving with SGLang Runtime (vs. TensorRT-LLM, vLLM) (https://lmsys.org/blog/2024-07-25-sglang-llama3/)  (https://github.com/sgl-project/sglang)
 
 #### 🤖 Transformer / LLM Platform / Software
 - GPT4All - run open-source LLMs on your own computer (https://github.com/nomic-ai/gpt4all)
