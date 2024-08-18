@@ -320,8 +320,10 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - Bi-Encoder vs. Cross-Encoder (https://www.sbert.net/examples/applications/cross-encoder/#bi-encoder-vs-cross-encoder)
 - Improving information retrieval in the Elastic Stack: Introducing Elastic Learned Sparse Encoder, our new retrieval model (https://www.elastic.co/search-labs/may-2023-launch-information-retrieval-elasticsearch-ai-model)
 - Hybrid Search: SPLADE (Sparse Encoder) (https://medium.com/@sowmiyajaganathan/hybrid-search-splade-sparse-encoder-neural-retrieval-models-d092e5f46913)
+- What is a Sparse Vector? How to Achieve Vector-based Hybrid Search - and using SPLADE (https://qdrant.tech/articles/sparse-vectors/)
 - State-of-the-art MS MARCO Models (https://twitter.com/Nils_Reimers/status/1435544757388857345)
 - > https://www.sbert.net/examples/training/ms_marco/README.html#marginmse
+- ranx ([raŋks]) is a library of fast ranking evaluation metrics (https://amenra.github.io/ranx/)
 
 
 #### Lucene / Solr / Elasticsearch / BM25
@@ -1189,6 +1191,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - > TinyStories: How Small Can Language Models Be and Still Speak Coherent English? (https://arxiv.org/pdf/2305.07759)
 - OpenELM - An Efficient Language Model Family with Open-source Training and Inference Framework - using layer-wise scaling strategy (https://arxiv.org/abs/2404.14619)  (https://huggingface.co/apple/OpenELM)  (https://github.com/apple/corenet)
 - Llama 3.1 - 405B, 70B & 8B with multilinguality and long context (https://huggingface.co/blog/llama31)
+- HERMES 3 TECHNICAL REPORT - instruct and chat tuned models created by fine-tuning Llama 3.1 8B, 70B, and 405B (https://nousresearch.com/wp-content/uploads/2024/08/Hermes-3-Technical-Report.pdf)
 
 
 #### 🤖 Transformer / LLM Inference / Deployment
