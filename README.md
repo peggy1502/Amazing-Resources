@@ -1256,6 +1256,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - APIGen Function-Calling Datasets (https://huggingface.co/datasets/Salesforce/xlam-function-calling-60k)
 - The Tome - Compiled from 9 publicly available datasets, curated and designed for training LLMs with a focus on instruction following (https://huggingface.co/datasets/arcee-ai/The-Tome)
 - distilabel-intel-orca-dpo-pairs (for preference tuning) (https://huggingface.co/datasets/argilla/distilabel-intel-orca-dpo-pairs)
+- MINT-1T: Scaling Open-Source Multimodal Data by 10x: A Multimodal Dataset with One Trillion Tokens (https://blog.salesforceairesearch.com/mint-1t/) (https://huggingface.co/collections/mlfoundations/mint-1t-6690216ca4d0df7e518dde1c)
 
 
   
