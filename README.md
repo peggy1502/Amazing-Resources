@@ -52,6 +52,8 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - > https://developers.google.com/machine-learning/guides/deep-learning-tuning-playbook/faq
 - Large Language Model Course - by Maxime Labonne (https://github.com/mlabonne/llm-course)
 - Parlance Labs - Educational resources on LLMs (https://parlance-labs.com/education/)
+- Start Machine Learning in 2024 - Become an expert for free! (https://github.com/louisfb01/start-machine-learning)
+- Start with Large Language Models (LLMs) - Become an expert for free! (https://github.com/louisfb01/start-llms)
 
 
 ## 👍 Cheat Sheets
@@ -1222,6 +1224,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - How to compute LLM embeddings 3X faster with model quantization - with ONNX model quantization / ONNX transformer optimization (https://medium.com/nixiesearch/how-to-compute-llm-embeddings-3x-faster-with-model-quantization-25523d9b4ce5)
 - A Hitchhiker’s Guide to Speculative Decoding (https://pytorch.org/blog/hitchhikers-guide-speculative-decoding/)
 - Achieving Faster Open-Source Llama3 Serving with SGLang Runtime (vs. TensorRT-LLM, vLLM) (https://lmsys.org/blog/2024-07-25-sglang-llama3/)  (https://github.com/sgl-project/sglang)
+- Awesome Production Machine Learning - open source libraries that will help you deploy, monitor, version, scale, and secure your production machine learning (https://github.com/EthicalML/awesome-production-machine-learning)
 
 #### 🤖 Transformer / LLM Platform / Software
 - GPT4All - run open-source LLMs on your own computer (https://github.com/nomic-ai/gpt4all)
