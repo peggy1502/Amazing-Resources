@@ -742,6 +742,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - Upstash Serverless Kafka & Vector Database (https://upstash.com/)
 - Meet the NiceGUI: Your Soon-to-be Favorite Python UI Library (https://towardsdatascience.com/meet-the-nicegui-your-soon-to-be-favorite-python-ui-library-fb69f14bb0ac)  (https://nicegui.io/documentation)
 - imodels - Interpretable ML package (https://github.com/csinva/imodels)
+- Video generation (https://klingai.com/)
 
 
 ## 👍 Job / Interview / DS Portfolio
