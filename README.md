@@ -288,7 +288,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - Accelerating Vector Search: Fine-Tuning GPU Index Algorithms (https://developer.nvidia.com/blog/accelerating-vector-search-fine-tuning-gpu-index-algorithms/)  (https://github.com/rapidsai/raft/blob/HEAD/notebooks/VectorSearch_QuestionRetrieval.ipynb)
 - RAFT: Reusable Accelerated Functions and Tools for Vector Search and More (https://github.com/rapidsai/raft)
 - RAFT IVF-PQ tutorial (https://github.com/rapidsai/raft/blob/28b789404bedfa8dd82675fc4221f6db927c0422/notebooks/tutorial_ivf_pq.ipynb)
-- CAGRA: Highly Parallel Graph Construction and Approximate Nearest Neighbor Search for GPUs (Cuda Anns GRAph-based) (https://arxiv.org/pdf/2308.15136v1.pdf) (https://docs.rapids.ai/api/raft/nightly/pylibraft_api/neighbors/#cagra)
+- CAGRA: Highly Parallel Graph Construction and Approximate Nearest Neighbor Search for GPUs (Cuda Anns GRAph-based) (https://arxiv.org/pdf/2308.15136) (https://docs.rapids.ai/api/raft/nightly/pylibraft_api/neighbors/#cagra)
 - Geospatial Vector Search: Building an AI-Powered Geo-Aware News Search (https://levelup.gitconnected.com/geospatial-vector-search-building-an-ai-powered-geo-aware-news-search-6cbda8919465)
 - MyScale - A Deep Dive into SQL Vector Databases (https://myscale.com/blog/what-is-sql-vector-databases/)
 - Vector DB Comparison (https://superlinked.com/vector-db-comparison/)
@@ -317,6 +317,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - A guide to Google Search ranking systems (https://developers.google.com/search/docs/appearance/ranking-systems-guide)
 - How to ARCHITECT a search engine like Google Search (https://newsletter.theaiedge.io/p/how-to-architect-a-search-engine)
 - Evaluation Metrics for Search and Recommendation Systems (https://weaviate.io/blog/retrieval-evaluation-metrics)
+  
 
 #### Search Ranking
 - Using Cross-Encoders as reranker in multistage vector search (https://weaviate.io/blog/cross-encoders-as-reranker)
@@ -327,6 +328,9 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - State-of-the-art MS MARCO Models (https://twitter.com/Nils_Reimers/status/1435544757388857345)
 - > https://www.sbert.net/examples/training/ms_marco/README.html#marginmse
 - ranx ([raŋks]) is a library of fast ranking evaluation metrics (https://amenra.github.io/ranx/)
+- How Google Search ranking works (https://searchengineland.com/how-google-search-ranking-works-445141)
+- > FAQ: All about the Google RankBrain algorithm (https://searchengineland.com/faq-all-about-the-new-google-rankbrain-algorithm-234440)
+- > A guide to Google: Origins, history and key moments in search (https://searchengineland.com/guide/google)
 
 
 #### Lucene / Solr / Elasticsearch / BM25
