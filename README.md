@@ -1116,6 +1116,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - Efficiently fine-tune Llama 3 with PyTorch FSDP and Q-Lora (https://www.philschmid.de/fsdp-qlora-llama3)  (https://github.com/philschmid/deep-learning-pytorch-huggingface/blob/main/training/scripts/run_fsdp_qlora.py)
 - FlexAttention: The Flexibility of PyTorch with the Performance of FlashAttention (https://pytorch.org/blog/flexattention/)
 - Quantization-Aware Training for Large Language Models with PyTorch (https://pytorch.org/blog/quantization-aware-training/)  (https://pytorch.org/torchtune/main/tutorials/qat_finetune.html)
+- 🤗 Efficient Deep Learning: A Comprehensive Overview of Optimization Techniques (https://huggingface.co/blog/Isayoften/optimization-rush)
 
 #### 🤖 RAG
 - A Guide on 12 Tuning Strategies for Production-Ready RAG Applications (https://towardsdatascience.com/a-guide-on-12-tuning-strategies-for-production-ready-rag-applications-7ca646833439#341d)
