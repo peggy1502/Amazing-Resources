@@ -1232,6 +1232,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - A Hitchhiker’s Guide to Speculative Decoding (https://pytorch.org/blog/hitchhikers-guide-speculative-decoding/)
 - Achieving Faster Open-Source Llama3 Serving with SGLang Runtime (vs. TensorRT-LLM, vLLM) (https://lmsys.org/blog/2024-07-25-sglang-llama3/)  (https://github.com/sgl-project/sglang)
 - Awesome Production Machine Learning - open source libraries that will help you deploy, monitor, version, scale, and secure your production machine learning (https://github.com/EthicalML/awesome-production-machine-learning)
+- NanoFlow - a throughput-oriented high-performance serving framework for LLMs (https://github.com/efeslab/Nanoflow)  (https://arxiv.org/pdf/2408.12757)
 
 #### 🤖 Transformer / LLM Platform / Software
 - GPT4All - run open-source LLMs on your own computer (https://github.com/nomic-ai/gpt4all)
