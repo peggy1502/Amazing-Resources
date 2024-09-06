@@ -1426,6 +1426,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - ModuleFormer: a MoE-based architecture that includes two different types of experts: stick-breaking attention heads and feedforward experts (https://github.com/IBM/ModuleFormer)
 - JetMoE: Reaching LLaMA2 Performance with 0.1M Dollars (https://research.myshell.ai/jetmoe)
 - SUPRA: Scalable UPtraining for Recurrent Attention - uptrain a transformer to a linear RNN (https://github.com/TRI-ML/linear_open_lm)  (https://huggingface.co/TRI-ML/mistral-supra)
+- [Video] Understanding Mamba and State Space Models (https://www.youtube.com/watch?v=iskuX3Ak9Uk) 
 
 
 
