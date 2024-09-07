@@ -1202,11 +1202,13 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - OpenELM - An Efficient Language Model Family with Open-source Training and Inference Framework - using layer-wise scaling strategy (https://arxiv.org/abs/2404.14619)  (https://huggingface.co/apple/OpenELM)  (https://github.com/apple/corenet)
 - Llama 3.1 - 405B, 70B & 8B with multilinguality and long context (https://huggingface.co/blog/llama31)
 - HERMES 3 TECHNICAL REPORT - instruct and chat tuned models created by fine-tuning Llama 3.1 8B, 70B, and 405B (https://nousresearch.com/wp-content/uploads/2024/08/Hermes-3-Technical-Report.pdf)
-
+- OLMoE - Open Mixture-of-Experts Language Models - fully open source (https://huggingface.co/allenai/OLMoE-1B-7B-0924)  (https://arxiv.org/abs/2409.02060)
+  
 
 #### 🤖 Transformer / LLM Inference / Deployment
 - 7 Ways To Speed Up Inference of Your Hosted LLMs (https://betterprogramming.pub/speed-up-llm-inference-83653aa24c47)
 - vLLM: Easy, Fast, and Cheap LLM Serving with PagedAttention (https://github.com/vllm-project/vllm)  (https://vllm.ai/)
+- > vLLM v0.6.0: 2.7x Throughput Improvement and 5x Latency Reduction (https://blog.vllm.ai/2024/09/05/perf-update.html)
 - 🤗 TGI: Text Generation Inference - Fast optimized inference for LLMs (https://github.com/huggingface/text-generation-inference)
 - LMDeploy: a toolkit for compressing, deploying, and serving LLM (https://github.com/InternLM/lmdeploy)
 - OpenVINO: an open-source toolkit for optimizing and deploying AI inference (https://github.com/openvinotoolkit)  (https://docs.openvino.ai/2023.0/home.html)
@@ -1233,6 +1235,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - Achieving Faster Open-Source Llama3 Serving with SGLang Runtime (vs. TensorRT-LLM, vLLM) (https://lmsys.org/blog/2024-07-25-sglang-llama3/)  (https://github.com/sgl-project/sglang)
 - Awesome Production Machine Learning - open source libraries that will help you deploy, monitor, version, scale, and secure your production machine learning (https://github.com/EthicalML/awesome-production-machine-learning)
 - NanoFlow - a throughput-oriented high-performance serving framework for LLMs (https://github.com/efeslab/Nanoflow)  (https://arxiv.org/pdf/2408.12757)
+- GuideLLM - evaluating and optimizing the deployment of large language models (LLMs) (https://github.com/neuralmagic/guidellm)
 
 #### 🤖 Transformer / LLM Platform / Software
 - GPT4All - run open-source LLMs on your own computer (https://github.com/nomic-ai/gpt4all)
