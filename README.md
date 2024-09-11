@@ -325,6 +325,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - Improving information retrieval in the Elastic Stack: Introducing Elastic Learned Sparse Encoder, our new retrieval model (https://www.elastic.co/search-labs/may-2023-launch-information-retrieval-elasticsearch-ai-model)
 - Hybrid Search: SPLADE (Sparse Encoder) (https://medium.com/@sowmiyajaganathan/hybrid-search-splade-sparse-encoder-neural-retrieval-models-d092e5f46913)
 - What is a Sparse Vector? How to Achieve Vector-based Hybrid Search - and using SPLADE (https://qdrant.tech/articles/sparse-vectors/)
+- SPLADERunner (https://github.com/PrithivirajDamodaran/SPLADERunner)  (https://huggingface.co/prithivida/Splade_PP_en_v1)
 - State-of-the-art MS MARCO Models (https://twitter.com/Nils_Reimers/status/1435544757388857345)
 - > https://www.sbert.net/examples/training/ms_marco/README.html#marginmse
 - ranx ([raŋks]) is a library of fast ranking evaluation metrics (https://amenra.github.io/ranx/)
