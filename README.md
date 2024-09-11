@@ -1240,6 +1240,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 
 #### 🤖 Transformer / LLM Platform / Software
 - GPT4All - run open-source LLMs on your own computer (https://github.com/nomic-ai/gpt4all)
+- LLaMA-Factory - Efficiently Fine-Tune 100+ LLMs in WebUI (https://github.com/hiyouga/LLaMA-Factory)
   
 #### 🤖 Transformer / LLM Data Curator
 - Curating Trillion-Token Datasets: Introducing NVIDIA NeMo Data Curator (https://developer.nvidia.com/blog/curating-trillion-token-datasets-introducing-nemo-data-curator/)
