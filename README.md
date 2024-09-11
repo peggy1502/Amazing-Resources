@@ -1236,6 +1236,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - Awesome Production Machine Learning - open source libraries that will help you deploy, monitor, version, scale, and secure your production machine learning (https://github.com/EthicalML/awesome-production-machine-learning)
 - NanoFlow - a throughput-oriented high-performance serving framework for LLMs (https://github.com/efeslab/Nanoflow)  (https://arxiv.org/pdf/2408.12757)
 - GuideLLM - evaluating and optimizing the deployment of large language models (LLMs) (https://github.com/neuralmagic/guidellm)
+- LLM Compressor - create compressed models for faster inference with vLLM (https://github.com/vllm-project/llm-compressor)  (https://neuralmagic.com/blog/llm-compressor-is-here-faster-inference-with-vllm/)
 
 #### 🤖 Transformer / LLM Platform / Software
 - GPT4All - run open-source LLMs on your own computer (https://github.com/nomic-ai/gpt4all)
