@@ -1122,6 +1122,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - FlexAttention: The Flexibility of PyTorch with the Performance of FlashAttention (https://pytorch.org/blog/flexattention/)
 - Quantization-Aware Training for Large Language Models with PyTorch (https://pytorch.org/blog/quantization-aware-training/)  (https://pytorch.org/torchtune/main/tutorials/qat_finetune.html)
 - 🤗 Efficient Deep Learning: A Comprehensive Overview of Optimization Techniques (https://huggingface.co/blog/Isayoften/optimization-rush)
+- FLUTE: Flexible Lookup Table Engine for LUT-quantized LLMs (https://github.com/HanGuo97/flute)
 
 #### 🤖 RAG
 - A Guide on 12 Tuning Strategies for Production-Ready RAG Applications (https://towardsdatascience.com/a-guide-on-12-tuning-strategies-for-production-ready-rag-applications-7ca646833439#341d)
@@ -1419,6 +1420,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - > From bare metal to a 70B model: infrastructure set-up and scripts (https://imbue.com/research/70b-infrastructure/)
 - > Ensuring accurate model evaluations: open-sourced, cleaned datasets for models that reason and code (https://imbue.com/research/70b-evals/)
 - Aleksa Gordić’s Post: Amazing list of techniques for improving the stability of training large ML models (LLMs, diffusion, etc) (https://www.linkedin.com/feed/update/urn:li:activity:7215624025639645184/)
+- The AdEMAMix Optimizer: Better, Faster, Older. A simple modification of the Adam optimizer with a mixture of two Exponential Moving Average (EMA) (https://github.com/nanowell/AdEMAMix-Optimizer-Pytorch/)
 
 #### Unsloth
 - Make LLM Fine-tuning 2x faster with Unsloth and 🤗 TRL (https://huggingface.co/blog/unsloth-trl)
