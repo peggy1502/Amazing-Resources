@@ -426,6 +426,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - Exploring Location Data Using a Hexagon Grid (https://towardsdatascience.com/exploring-location-data-using-a-hexagon-grid-3509b68b04a2)  (https://github.com/sktahtin4/Helsinki-city-bikes)
 - > H3: Uber’s Hexagonal Hierarchical Spatial Index (https://www.uber.com/en-FI/blog/h3/)  (https://h3geo.org/docs/)
 - > H3 hexagon data viewer (https://wolf-h3-viewer.glitch.me/)
+- imbalanced-learn - tools dealing with classification with imbalanced classes (https://imbalanced-learn.org/stable/index.html)
 
 #### Time Series
 - Predicting Credit Defaults Using Time-Series Models with Recursive Neural Networks and XGBoost (https://developer.nvidia.com/blog/predicting-credit-defaults-using-time-series-models-with-recursive-neural-networks-and-xgboost/) (https://github.com/daxiongshu/triton_amex)
@@ -1140,8 +1141,11 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - The 4 Advanced RAG Algorithms You Must Know to Implement (https://medium.com/decodingml/the-4-advanced-rag-algorithms-you-must-know-to-implement-5d0c7f1199d2)
 - FlashRAG: A Python Toolkit for Efficient RAG Research (https://github.com/ruc-nlpir/flashrag)
 - ColPali: Efficient Document Retrieval with Vision Language Models (https://github.com/ManuelFay/colpali) (https://huggingface.co/vidore)
+- > Byaldi - wrapper around the ColPali (https://github.com/AnswerDotAI/byaldi/)
+- > Multimodal RAG using ColPali (with Byaldi) and Qwen2-VL (https://github.com/merveenoyan/smol-vision/blob/main/ColPali_%2B_Qwen2_VL.ipynb)
 - NVIDIA Introduces RankRAG: A Novel RAG Framework that Instruction-Tunes a Single LLM for the Dual Purposes of Top-k Context Ranking and Answer Generation in RAG (https://www.marktechpost.com/2024/07/09/nvidia-introduces-rankrag-a-novel-rag-framework-that-instruction-tunes-a-single-llm-for-the-dual-purposes-of-top-k-context-ranking-and-answer-generation-in-rag/)  (https://arxiv.org/pdf/2407.02485)
 - Late Chunking in Long-Context Embedding Models (https://jina.ai/news/late-chunking-in-long-context-embedding-models/)  (https://github.com/jina-ai/late-chunking/)
+
 
 #### 🤖 Lightning AI ⚡⚡⚡
 - 📖 Lightning Fabric Documentation (https://lightning.ai/docs/fabric/stable/)
