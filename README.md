@@ -1143,6 +1143,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - ColPali: Efficient Document Retrieval with Vision Language Models (https://github.com/ManuelFay/colpali) (https://huggingface.co/vidore)
 - > Byaldi - wrapper around the ColPali (https://github.com/AnswerDotAI/byaldi/)
 - > Multimodal RAG using ColPali (with Byaldi) and Qwen2-VL (https://github.com/merveenoyan/smol-vision/blob/main/ColPali_%2B_Qwen2_VL.ipynb)
+- > Chat with your PDFs using byaldi + Claude (https://github.com/AnswerDotAI/byaldi/blob/main/examples/chat_with_your_pdf.ipynb)
 - NVIDIA Introduces RankRAG: A Novel RAG Framework that Instruction-Tunes a Single LLM for the Dual Purposes of Top-k Context Ranking and Answer Generation in RAG (https://www.marktechpost.com/2024/07/09/nvidia-introduces-rankrag-a-novel-rag-framework-that-instruction-tunes-a-single-llm-for-the-dual-purposes-of-top-k-context-ranking-and-answer-generation-in-rag/)  (https://arxiv.org/pdf/2407.02485)
 - Late Chunking in Long-Context Embedding Models (https://jina.ai/news/late-chunking-in-long-context-embedding-models/)  (https://github.com/jina-ai/late-chunking/)
 
