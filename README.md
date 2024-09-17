@@ -1146,6 +1146,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - > Chat with your PDFs using byaldi + Claude (https://github.com/AnswerDotAI/byaldi/blob/main/examples/chat_with_your_pdf.ipynb)
 - NVIDIA Introduces RankRAG: A Novel RAG Framework that Instruction-Tunes a Single LLM for the Dual Purposes of Top-k Context Ranking and Answer Generation in RAG (https://www.marktechpost.com/2024/07/09/nvidia-introduces-rankrag-a-novel-rag-framework-that-instruction-tunes-a-single-llm-for-the-dual-purposes-of-top-k-context-ranking-and-answer-generation-in-rag/)  (https://arxiv.org/pdf/2407.02485)
 - Late Chunking in Long-Context Embedding Models (https://jina.ai/news/late-chunking-in-long-context-embedding-models/)  (https://github.com/jina-ai/late-chunking/)
+- Reader-LM: Small Language Models for Cleaning and Converting HTML to Markdown (https://jina.ai/news/reader-lm-small-language-models-for-cleaning-and-converting-html-to-markdown/)  (https://colab.research.google.com/drive/1wXWyj5hOxEHY6WeHbOwEzYAC0WB1I5uA#scrollTo=ad-fjFOQxoFG)
 
 
 #### 🤖 Lightning AI ⚡⚡⚡
@@ -1426,6 +1427,8 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - > Ensuring accurate model evaluations: open-sourced, cleaned datasets for models that reason and code (https://imbue.com/research/70b-evals/)
 - Aleksa Gordić’s Post: Amazing list of techniques for improving the stability of training large ML models (LLMs, diffusion, etc) (https://www.linkedin.com/feed/update/urn:li:activity:7215624025639645184/)
 - The AdEMAMix Optimizer: Better, Faster, Older. A simple modification of the Adam optimizer with a mixture of two Exponential Moving Average (EMA) (https://github.com/nanowell/AdEMAMix-Optimizer-Pytorch/)
+- Generating Human-level Text with Contrastive Search in Transformers (https://huggingface.co/blog/introducing-csearch)
+- > A Contrastive Framework for Neural Text Generation (https://github.com/yxuansu/SimCTG)
 
 #### Unsloth
 - Make LLM Fine-tuning 2x faster with Unsloth and 🤗 TRL (https://huggingface.co/blog/unsloth-trl)
