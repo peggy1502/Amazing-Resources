@@ -1438,6 +1438,9 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - PEFT Finetuning Quick Start Notebook (https://github.com/meta-llama/llama-recipes/blob/main/recipes/quickstart/finetuning/quickstart_peft_finetuning.ipynb)
 - > https://github.com/meta-llama/llama-recipes/blob/main/src/llama_recipes/finetuning.py
 - > https://github.com/meta-llama/llama-recipes/blob/main/src/llama_recipes/utils/train_utils.py
+- RAFT: Adapting Language Model to Domain Specific RAG (https://gorilla.cs.berkeley.edu/blogs/9_raft.html)
+- > https://github.com/meta-llama/llama-recipes/tree/main/recipes/use_cases/end2end-recipes/RAFT-Chatbot
+- > https://github.com/meta-llama/llama-recipes/blob/main/recipes/use_cases/end2end-recipes/RAFT-Chatbot/raft_utils.py
   
 
 #### Unsloth
