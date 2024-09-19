@@ -1334,6 +1334,9 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - Musings on building a Generative AI product - at LinkedIn (https://www.linkedin.com/blog/engineering/generative-ai/musings-on-building-a-generative-ai-product)
 - How We Finetuned a Large Language Model to Search Patents & Generate New Patents (https://www.activeloop.ai/resources/how-we-finetuned-a-large-language-model-to-search-patents-generate-new-patents/)
 - Structured LLM Output and Function Calling with Guidance - and Tool Use (https://lightning.ai/lightning-ai/studios/structured-llm-output-and-function-calling-with-guidance)
+- Function calling (https://platform.openai.com/docs/guides/function-calling)
+- > How to use functions with a knowledge base - to summarize arXiv articles (https://cookbook.openai.com/examples/how_to_call_functions_for_knowledge_retrieval)
+- Fine-tuning examples (Style and tone, Structured output, Tool calling, Function calling) (https://platform.openai.com/docs/guides/fine-tuning/fine-tuning-examples)
 
 
 #### 🤖 Q&A
@@ -1429,6 +1432,13 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - The AdEMAMix Optimizer: Better, Faster, Older. A simple modification of the Adam optimizer with a mixture of two Exponential Moving Average (EMA) (https://github.com/nanowell/AdEMAMix-Optimizer-Pytorch/)
 - Generating Human-level Text with Contrastive Search in Transformers (https://huggingface.co/blog/introducing-csearch)
 - > A Contrastive Framework for Neural Text Generation (https://github.com/yxuansu/SimCTG)
+
+
+#### Llama
+- PEFT Finetuning Quick Start Notebook (https://github.com/meta-llama/llama-recipes/blob/main/recipes/quickstart/finetuning/quickstart_peft_finetuning.ipynb)
+- > https://github.com/meta-llama/llama-recipes/blob/main/src/llama_recipes/finetuning.py
+- > https://github.com/meta-llama/llama-recipes/blob/main/src/llama_recipes/utils/train_utils.py
+  
 
 #### Unsloth
 - Make LLM Fine-tuning 2x faster with Unsloth and 🤗 TRL (https://huggingface.co/blog/unsloth-trl)
