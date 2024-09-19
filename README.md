@@ -1392,6 +1392,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - A New Prompt Engineering Technique Has Been Introduced Called Step-Back Prompting (https://cobusgreyling.medium.com/a-new-prompt-engineering-technique-has-been-introduced-called-step-back-prompting-b00e8954cacb)
 - The LangChain Implementation Of DeepMind’s Step-Back Prompting (https://cobusgreyling.medium.com/the-langchain-implementation-of-deepminds-step-back-prompting-9d698cf3e0c2)
 - Open AI - Prompt engineering guide (https://platform.openai.com/docs/guides/prompt-engineering)
+- Meta Llama - How-to guides - Prompting (https://www.llama.com/docs/how-to-guides/prompting)
 - Inside the Leaked System Prompts of GPT-4, Gemini 1.5, Claude 3, and More (https://medium.com/gitconnected/inside-the-leaked-system-prompts-of-gpt-4-gemini-1-5-claude-3-and-more-4ecb3d22b447?sk=7e053318c47b260ee482a5c8b319dd83)
 - > https://gist.github.com/kennethleungty/74c8f1ad0c39ca006fddea5da449c390 / https://gist.github.com/kennethleungty/00b5a5d809fdda94eafe5d49ccff7729 / https://gist.github.com/kennethleungty/80ceeba091d7c777abe861ef46558363 / https://gist.github.com/kennethleungty/587693681583da71f90d2da28e733ec3
 - DSPy - a framework for algorithmically optimizing LM prompts and weights (https://github.com/stanfordnlp/dspy)
