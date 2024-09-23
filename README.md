@@ -121,6 +121,8 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - > Serverless Model Deployment in AWS: Streamlining with Lambda, Docker, and S3 (https://tutorialsdojo.com/serverless-model-deployment-in-aws-streamlining-with-lambda-docker-and-s3/)
 - Demystifying AWS Storage: S3, EBS, and EFS (https://www.linkedin.com/comm/pulse/demystifying-aws-storage-s3-ebs-efs-neal-k-davis-zj84e)
 - Amazon AI Fairness and Explainability with Amazon SageMaker Clarify (https://www.linkedin.com/comm/pulse/amazon-ai-fairness-explainability-sagemaker-clarify-jon-bonso-vnfzc)
+- Introducing Amazon Kinesis Data Analytics Studio – Quickly Interact with Streaming Data Using SQL, Python, or Scala (https://aws.amazon.com/blogs/aws/introducing-amazon-kinesis-data-analytics-studio-quickly-interact-with-streaming-data-using-sql-python-or-scala/)
+- amazon-kinesis-data-generator (https://awslabs.github.io/amazon-kinesis-data-generator/)  (https://awslabs.github.io/amazon-kinesis-data-generator/web/help.html)
 
 ## 👍 Videos
 - StatQuest (https://statquest.org/video-index/)
