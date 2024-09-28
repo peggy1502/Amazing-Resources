@@ -1331,7 +1331,6 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - Fine-Tuning Mistral 7b in Google Colab with QLoRA (complete guide) (https://medium.com/@codersama/fine-tuning-mistral-7b-in-google-colab-with-qlora-complete-guide-60e12d437cca)
 - Hands-on LLMs Course - Learn to Train and Deploy a Real-Time Financial Advisor (https://github.com/iusztinpaul/hands-on-llms)
 - LLM Twin Course: Building Your Production-Ready AI Replica (https://github.com/decodingml/llm-twin-course)
-- The Full Stack 7-Steps MLOps Framework (https://github.com/iusztinpaul/energy-forecasting)
 - Building DoorDash’s Product Knowledge Graph with Large Language Models (https://doordash.engineering/2024/04/23/building-doordashs-product-knowledge-graph-with-large-language-models/)
 - Musings on building a Generative AI product - at LinkedIn (https://www.linkedin.com/blog/engineering/generative-ai/musings-on-building-a-generative-ai-product)
 - How We Finetuned a Large Language Model to Search Patents & Generate New Patents (https://www.activeloop.ai/resources/how-we-finetuned-a-large-language-model-to-search-patents-generate-new-patents/)
@@ -1340,6 +1339,9 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - > How to use functions with a knowledge base - to summarize arXiv articles (https://cookbook.openai.com/examples/how_to_call_functions_for_knowledge_retrieval)
 - Fine-tuning examples (Style and tone, Structured output, Tool calling, Function calling) (https://platform.openai.com/docs/guides/fine-tuning/fine-tuning-examples)
 
+#### MLOps
+- The Full Stack 7-Steps MLOps Framework (https://github.com/iusztinpaul/energy-forecasting)
+- MLOps-Basics (https://github.com/graviraja/MLOps-Basics)
 
 #### 🤖 Q&A
 - Danswer: OpenSource Enterprise Question-Answering tool (https://github.com/danswer-ai/danswer)  (https://docs.danswer.dev/introduction)
