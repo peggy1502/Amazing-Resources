@@ -589,6 +589,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - Ahead of AI (by Sebastian Raschka) (https://magazine.sebastianraschka.com/archive) (https://sebastianraschka.com/blog/)
 - The Kaitchup – AI on a Budget - by Benjamin Marie (https://kaitchup.substack.com/archive)
 - CheeKean (https://kean-chan.medium.com/)
+- Ryan O'Connor (https://www.assemblyai.com/blog/author/ryan/)
 
 ## 👍 Company Tech Blogs
 - Data.gov.sg Blog (https://blog.data.gov.sg/)
@@ -1127,6 +1128,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - Quantization-Aware Training for Large Language Models with PyTorch (https://pytorch.org/blog/quantization-aware-training/)  (https://pytorch.org/torchtune/main/tutorials/qat_finetune.html)
 - 🤗 Efficient Deep Learning: A Comprehensive Overview of Optimization Techniques (https://huggingface.co/blog/Isayoften/optimization-rush)
 - FLUTE: Flexible Lookup Table Engine for LUT-quantized LLMs (https://github.com/HanGuo97/flute)
+- 🤗 Fine-tuning LLMs to 1.58bit: extreme quantization made easy (https://huggingface.co/blog/1_58_llm_extreme_quantization)
 
 #### 🤖 RAG
 - A Guide on 12 Tuning Strategies for Production-Ready RAG Applications (https://towardsdatascience.com/a-guide-on-12-tuning-strategies-for-production-ready-rag-applications-7ca646833439#341d)
@@ -1438,6 +1440,12 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - The AdEMAMix Optimizer: Better, Faster, Older. A simple modification of the Adam optimizer with a mixture of two Exponential Moving Average (EMA) (https://github.com/nanowell/AdEMAMix-Optimizer-Pytorch/)
 - Generating Human-level Text with Contrastive Search in Transformers (https://huggingface.co/blog/introducing-csearch)
 - > A Contrastive Framework for Neural Text Generation (https://github.com/yxuansu/SimCTG)
+- Open Source LLM Tools (https://huyenchip.com/llama-police)
+- > What I learned from looking at 900 most popular open source AI tools (https://huyenchip.com/2024/03/14/ai-oss.html)
+- Imagen - Pytorch (https://github.com/lucidrains/imagen-pytorch)
+- > MinImagen - A Minimal implementation of the Imagen text-to-image model(https://github.com/AssemblyAI-Community/MinImagen)
+  > How Imagen Actually Works (https://www.assemblyai.com/blog/how-imagen-actually-works/)
+  > MinImagen - Build Your Own Imagen Text-to-Image Model (https://www.assemblyai.com/blog/minimagen-build-your-own-imagen-text-to-image-model/)
 
 
 #### Llama
