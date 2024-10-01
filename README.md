@@ -1152,6 +1152,9 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - NVIDIA Introduces RankRAG: A Novel RAG Framework that Instruction-Tunes a Single LLM for the Dual Purposes of Top-k Context Ranking and Answer Generation in RAG (https://www.marktechpost.com/2024/07/09/nvidia-introduces-rankrag-a-novel-rag-framework-that-instruction-tunes-a-single-llm-for-the-dual-purposes-of-top-k-context-ranking-and-answer-generation-in-rag/)  (https://arxiv.org/pdf/2407.02485)
 - Late Chunking in Long-Context Embedding Models (https://jina.ai/news/late-chunking-in-long-context-embedding-models/)  (https://github.com/jina-ai/late-chunking/)
 - Reader-LM: Small Language Models for Cleaning and Converting HTML to Markdown (https://jina.ai/news/reader-lm-small-language-models-for-cleaning-and-converting-html-to-markdown/)  (https://colab.research.google.com/drive/1wXWyj5hOxEHY6WeHbOwEzYAC0WB1I5uA#scrollTo=ad-fjFOQxoFG)
+- Not RAG, but RAG Fusion? Understanding Next-Gen Info Retrieval. (https://pub.towardsai.net/not-rag-but-rag-fusion-understanding-next-gen-info-retrieval-477788da02e2) $$
+- Goodbye, Text2SQL: Why Table-Augmented Generation (TAG) is the Future of AI-Driven Data Queries! (https://ai.plainenglish.io/goodbye-text2sql-why-table-augmented-generation-tag-is-the-future-of-ai-driven-data-queries-892e24e06922) $$
+- > LOTUS: A Query Engine For Processing Data with LLMs (https://github.com/TAG-Research/lotus)
 
 
 #### 🤖 Lightning AI ⚡⚡⚡
