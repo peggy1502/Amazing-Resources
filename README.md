@@ -1036,6 +1036,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - AQLM - Extreme Compression of Large Language Models via Additive Quantization (https://github.com/Vahe1994/AQLM)  (https://towardsdatascience.com/the-aqlm-quantization-algorithm-explained-8cf33e4a783e)
 - torchtune - A Native-PyTorch Library for LLM Fine-tuning (https://github.com/pytorch/torchtune)
 - torchao: PyTorch Architecture Optimization (https://github.com/pytorch/ao/)
+- > PyTorch Native Architecture Optimization: torchao (https://pytorch.org/blog/pytorch-native-architecture-optimization/)
 - Prefect - Modern workflow orchestration for data and ML engineers (https://www.prefect.io/)
 - Modal - serverless platform to run generative AI models, large-scale batch jobs, job queues, etc (https://modal.com/)
 - > Beating Proprietary Models with a Quick Fine-Tune - Finetuning Quora Embeddings (https://modal.com/blog/fine-tuning-embeddings)  (https://github.com/567-labs/fastllm/blob/main/applications/finetune-quora-embeddings/Readme.md)
@@ -1155,6 +1156,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - Not RAG, but RAG Fusion? Understanding Next-Gen Info Retrieval. (https://pub.towardsai.net/not-rag-but-rag-fusion-understanding-next-gen-info-retrieval-477788da02e2) $$
 - Goodbye, Text2SQL: Why Table-Augmented Generation (TAG) is the Future of AI-Driven Data Queries! (https://ai.plainenglish.io/goodbye-text2sql-why-table-augmented-generation-tag-is-the-future-of-ai-driven-data-queries-892e24e06922) $$
 - > LOTUS: A Query Engine For Processing Data with LLMs (https://github.com/TAG-Research/lotus)
+- MinerU - converts PDFs into machine-readable formats (e.g., markdown, JSON)(https://github.com/opendatalab/mineru)
 
 
 #### 🤖 Lightning AI ⚡⚡⚡
