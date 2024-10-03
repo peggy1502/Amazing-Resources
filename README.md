@@ -1157,6 +1157,7 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - Goodbye, Text2SQL: Why Table-Augmented Generation (TAG) is the Future of AI-Driven Data Queries! (https://ai.plainenglish.io/goodbye-text2sql-why-table-augmented-generation-tag-is-the-future-of-ai-driven-data-queries-892e24e06922) $$
 - > LOTUS: A Query Engine For Processing Data with LLMs (https://github.com/TAG-Research/lotus)
 - MinerU - converts PDFs into machine-readable formats (e.g., markdown, JSON)(https://github.com/opendatalab/mineru)
+- xRx is a framework for multi-modal conversational AI system (https://github.com/8090-inc/xrx-core)
 
 
 #### 🤖 Lightning AI ⚡⚡⚡
