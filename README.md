@@ -1,8 +1,6 @@
 # Amazing Resources
 List of references and online resources related to data science, machine learning and deep learning.
 
-Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
-
 ## 👍 Courses / Tutorials
 
 - fast.ai (https://www.fast.ai/)
@@ -1476,7 +1474,11 @@ Recent Deep Learning Links (https://deep-learning-links.carrd.co/)
 - ModuleFormer: a MoE-based architecture that includes two different types of experts: stick-breaking attention heads and feedforward experts (https://github.com/IBM/ModuleFormer)
 - JetMoE: Reaching LLaMA2 Performance with 0.1M Dollars (https://research.myshell.ai/jetmoe)
 - SUPRA: Scalable UPtraining for Recurrent Attention - uptrain a transformer to a linear RNN (https://github.com/TRI-ML/linear_open_lm)  (https://huggingface.co/TRI-ML/mistral-supra)
-- [Video] Understanding Mamba and State Space Models (https://www.youtube.com/watch?v=iskuX3Ak9Uk) 
+- [Video] Understanding Mamba and State Space Models (https://www.youtube.com/watch?v=iskuX3Ak9Uk)
+
+#### Google AI/ML Use Cases
+- 185 real-world gen AI use cases from the world's leading organizations (https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders)
+- Customers are putting Gemini to work (https://blog.google/products/google-cloud/gemini-at-work-ai-agents/)
 
 
 
