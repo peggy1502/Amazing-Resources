@@ -1410,6 +1410,8 @@ List of references and online resources related to data science, machine learnin
 - > Your Language Model Deserves Better Prompting (https://weaviate.io/blog/dspy-optimizers)  (https://github.com/weaviate/recipes/blob/main/integrations/weights_and_biases/wandb_logging_RAG_dspy_cohere.ipynb)
 - Prompting Fundamentals and How to Apply them Effectively (https://eugeneyan.com/writing/prompting/)
 - Discovering Preference Optimization Algorithms with and for Large Language Models - prompt an LLM to propose and implement new preference optimization loss functions based on previously-evaluated performance metrics (https://arxiv.org/pdf/2406.08414)
+- Large Language Models Are Human-Level Prompt Engineers -  Automatic Prompt Engineer (APE) (https://sites.google.com/view/automatic-prompt-engineer)
+- Large Language Models as Optimizers - Optimization by PROmpting (OPRO) (https://github.com/google-deepmind/opro/)
 
 #### Agent
 - AutoGPT: the heart of the open-source agent ecosystem (https://github.com/Significant-Gravitas/AutoGPT)
