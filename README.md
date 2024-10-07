@@ -1156,6 +1156,7 @@ List of references and online resources related to data science, machine learnin
 - > LOTUS: A Query Engine For Processing Data with LLMs (https://github.com/TAG-Research/lotus)
 - MinerU - converts PDFs into machine-readable formats (e.g., markdown, JSON)(https://github.com/opendatalab/mineru)
 - xRx is a framework for multi-modal conversational AI system (https://github.com/8090-inc/xrx-core)
+- GenAI with Python: RAG with LLM (Complete Tutorial) - with Pdf2image, PyTesseract, Ollama, ChromaDB, Streamlit (https://towardsdatascience.com/genai-with-python-rag-with-llm-complete-tutorial-c276dda6707b) $$
 
 
 #### 🤖 Lightning AI ⚡⚡⚡
