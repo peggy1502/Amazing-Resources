@@ -1412,6 +1412,7 @@ List of references and online resources related to data science, machine learnin
 - Discovering Preference Optimization Algorithms with and for Large Language Models - prompt an LLM to propose and implement new preference optimization loss functions based on previously-evaluated performance metrics (https://arxiv.org/pdf/2406.08414)
 - Large Language Models Are Human-Level Prompt Engineers -  Automatic Prompt Engineer (APE) (https://sites.google.com/view/automatic-prompt-engineer)
 - Large Language Models as Optimizers - Optimization by PROmpting (OPRO) (https://github.com/google-deepmind/opro/)
+- How to Make ChatGPT Write Like a Human: (7-Step Prompt) to Make Your Content Come Alive! (https://medium.com/@afghanbitani/how-to-make-chatgpt-write-like-a-human-7-step-prompt-to-make-your-content-come-alive-98e0cd51894f) $$
 
 #### Agent
 - AutoGPT: the heart of the open-source agent ecosystem (https://github.com/Significant-Gravitas/AutoGPT)
@@ -1420,6 +1421,7 @@ List of references and online resources related to data science, machine learnin
 - Decoding Auto-GPT (https://maartengrootendorst.substack.com/p/decoding-auto-gpt)
 - Empower Functions -  a family of LLMs that offer GPT-4 level capabilities for real-world "tool using" use cases (https://github.com/empower-ai/empower-functions)
 - Multi-Agent Software Development through Cross-Team Collaboration (https://arxiv.org/pdf/2406.08979v1)  (https://github.com/OpenBMB/ChatDev)
+- GenAI with Python: Build Agents from Scratch (Complete Tutorial) - with Ollama, LangChain, LangGraph (No GPU, No APIKEY) (https://towardsdatascience.com/genai-with-python-build-agents-from-scratch-complete-tutorial-4fc1e084e2ec) $$
 
 #### LLM - Misc
 - How Do Language Models put Attention Weights over Long Context? (https://yaofu.notion.site/How-Do-Language-Models-put-Attention-Weights-over-Long-Context-10250219d5ce42e8b465087c383a034e)  (https://github.com/FranxYao/Long-Context-Data-Engineering)
