@@ -808,6 +808,7 @@ List of references and online resources related to data science, machine learnin
 - The Top 3 Resume Mistakes Costing You the Job (https://blog.bytebytego.com/p/the-top-3-resume-mistakes-costing)
 - The Amazon “secret” of controllable inputs for your career (https://levelupwithethanevans.substack.com/p/the-amazon-secret-of-controllable)
 - ML Systems Design Interview Guide (http://patrickhalina.com/posts/ml-systems-design-interview-guide/)
+- Conquering the 2024 Job Market: My Journey to Multiple DS/MLE Offers I — Job Search Summary and Strategy (https://bertmclee.medium.com/conquering-the-2024-job-market-my-journey-to-multiple-ds-mle-offers-i-job-search-summary-and-92bd41cdd7c8)
 
 ## 👍 Salary Negotiation
 - level.fyi (https://www.levels.fyi/Salaries/Data-Scientist/Singapore/)
@@ -1423,6 +1424,7 @@ List of references and online resources related to data science, machine learnin
 - Empower Functions -  a family of LLMs that offer GPT-4 level capabilities for real-world "tool using" use cases (https://github.com/empower-ai/empower-functions)
 - Multi-Agent Software Development through Cross-Team Collaboration (https://arxiv.org/pdf/2406.08979v1)  (https://github.com/OpenBMB/ChatDev)
 - GenAI with Python: Build Agents from Scratch (Complete Tutorial) - with Ollama, LangChain, LangGraph (No GPU, No APIKEY) (https://towardsdatascience.com/genai-with-python-build-agents-from-scratch-complete-tutorial-4fc1e084e2ec) $$
+- Choosing Between LLM Agent Frameworks (https://towardsdatascience.com/choosing-between-llm-agent-frameworks-69019493b259)
 
 #### LLM - Misc
 - How Do Language Models put Attention Weights over Long Context? (https://yaofu.notion.site/How-Do-Language-Models-put-Attention-Weights-over-Long-Context-10250219d5ce42e8b465087c383a034e)  (https://github.com/FranxYao/Long-Context-Data-Engineering)
