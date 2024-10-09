@@ -427,8 +427,7 @@ List of references and online resources related to data science, machine learnin
 - > H3: Uber’s Hexagonal Hierarchical Spatial Index (https://www.uber.com/en-FI/blog/h3/)  (https://h3geo.org/docs/)
 - > H3 hexagon data viewer (https://wolf-h3-viewer.glitch.me/)
 - imbalanced-learn - tools dealing with classification with imbalanced classes (https://imbalanced-learn.org/stable/index.html)
-- Ten Python datetime pitfalls, and what libraries are (not) doing about it (https://dev.arie.bovenberg.net/blog/python-datetime-pitfalls/)
-- > Whenever - Typed and DST-safe datetimes for Python (https://github.com/ariebovenberg/whenever)  (https://whenever.readthedocs.io/en/latest/)
+
 
 #### Time Series
 - Predicting Credit Defaults Using Time-Series Models with Recursive Neural Networks and XGBoost (https://developer.nvidia.com/blog/predicting-credit-defaults-using-time-series-models-with-recursive-neural-networks-and-xgboost/) (https://github.com/daxiongshu/triton_amex)
@@ -466,6 +465,8 @@ List of references and online resources related to data science, machine learnin
 - 7 Cool Python Packages Kagglers Are Using Without Telling You (https://towardsdatascience.com/7-cool-python-packages-kagglers-are-using-without-telling-you-e83298781cf4)
 - Fastest Way to Read Excel in Python (https://hakibenita.com/fast-excel-python)
 - Efficiently iterating over rows in a Pandas DataFrame (https://towardsdatascience.com/efficiently-iterating-over-rows-in-a-pandas-dataframe-7dd5f9992c01)
+- Ten Python datetime pitfalls, and what libraries are (not) doing about it (https://dev.arie.bovenberg.net/blog/python-datetime-pitfalls/)
+- > Whenever - Typed and DST-safe datetimes for Python (https://github.com/ariebovenberg/whenever)  (https://whenever.readthedocs.io/en/latest/)
 
 #### Database / Storage
 - Blogs about streaming database (https://medium.com/@yingjunwu)
@@ -752,6 +753,8 @@ List of references and online resources related to data science, machine learnin
 - Meet the NiceGUI: Your Soon-to-be Favorite Python UI Library (https://towardsdatascience.com/meet-the-nicegui-your-soon-to-be-favorite-python-ui-library-fb69f14bb0ac)  (https://nicegui.io/documentation)
 - imodels - Interpretable ML package (https://github.com/csinva/imodels)
 - Video generation (https://klingai.com/)
+- Emergent Mind - the next generation of AI assistants for learning and research (https://www.emergentmind.com)
+- https://www.perplexity.ai/
 
 
 ## 👍 Job / Interview / DS Portfolio
@@ -1151,6 +1154,7 @@ List of references and online resources related to data science, machine learnin
 - > Byaldi - wrapper around the ColPali (https://github.com/AnswerDotAI/byaldi/)
 - > Multimodal RAG using ColPali (with Byaldi) and Qwen2-VL (https://github.com/merveenoyan/smol-vision/blob/main/ColPali_%2B_Qwen2_VL.ipynb)
 - > Chat with your PDFs using byaldi + Claude (https://github.com/AnswerDotAI/byaldi/blob/main/examples/chat_with_your_pdf.ipynb)
+- > Multimodal RAG with ColPali and Gemini : Financial Report Analysis Application (https://learnopencv.com/multimodal-rag-with-colpali/)
 - NVIDIA Introduces RankRAG: A Novel RAG Framework that Instruction-Tunes a Single LLM for the Dual Purposes of Top-k Context Ranking and Answer Generation in RAG (https://www.marktechpost.com/2024/07/09/nvidia-introduces-rankrag-a-novel-rag-framework-that-instruction-tunes-a-single-llm-for-the-dual-purposes-of-top-k-context-ranking-and-answer-generation-in-rag/)  (https://arxiv.org/pdf/2407.02485)
 - Late Chunking in Long-Context Embedding Models (https://jina.ai/news/late-chunking-in-long-context-embedding-models/)  (https://github.com/jina-ai/late-chunking/)
 - Reader-LM: Small Language Models for Cleaning and Converting HTML to Markdown (https://jina.ai/news/reader-lm-small-language-models-for-cleaning-and-converting-html-to-markdown/)  (https://colab.research.google.com/drive/1wXWyj5hOxEHY6WeHbOwEzYAC0WB1I5uA#scrollTo=ad-fjFOQxoFG)
@@ -1303,6 +1307,7 @@ List of references and online resources related to data science, machine learnin
 
   
 #### 🤖 Transformer / LLM Sample Applications
+- Text Summarization using T5: Fine-Tuning and Building Gradio App (https://learnopencv.com/text-summarization-using-t5/)
 - Beyond Classification With Transformers and Hugging Face (https://towardsdatascience.com/beyond-classification-with-transformers-and-hugging-face-d38c75f574fb)
 - Faster Text Classification with Naive Bayes and GPUs (https://developer.nvidia.com/blog/faster-text-classification-with-naive-bayes-and-gpus)
 - Classifying Multimodal Data using Transformers (https://github.com/dsaidgovsg/multimodal-learning-hands-on-tutorial)
