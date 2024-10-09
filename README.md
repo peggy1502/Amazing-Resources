@@ -427,6 +427,8 @@ List of references and online resources related to data science, machine learnin
 - > H3: Uber’s Hexagonal Hierarchical Spatial Index (https://www.uber.com/en-FI/blog/h3/)  (https://h3geo.org/docs/)
 - > H3 hexagon data viewer (https://wolf-h3-viewer.glitch.me/)
 - imbalanced-learn - tools dealing with classification with imbalanced classes (https://imbalanced-learn.org/stable/index.html)
+- Ten Python datetime pitfalls, and what libraries are (not) doing about it (https://dev.arie.bovenberg.net/blog/python-datetime-pitfalls/)
+- > Whenever - Typed and DST-safe datetimes for Python (https://github.com/ariebovenberg/whenever)  (https://whenever.readthedocs.io/en/latest/)
 
 #### Time Series
 - Predicting Credit Defaults Using Time-Series Models with Recursive Neural Networks and XGBoost (https://developer.nvidia.com/blog/predicting-credit-defaults-using-time-series-models-with-recursive-neural-networks-and-xgboost/) (https://github.com/daxiongshu/triton_amex)
