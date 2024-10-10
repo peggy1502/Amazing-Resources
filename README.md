@@ -998,6 +998,7 @@ List of references and online resources related to data science, machine learnin
 - A Visual Guide to Mamba and State Space Models (https://newsletter.maartengrootendorst.com/p/a-visual-guide-to-mamba-and-state)
 - Transformer Explainer (https://poloclub.github.io/transformer-explainer/)
 - Stable Diffusion Explained Step-by-Step with Visualization (https://medium.com/polo-club-of-data-science/stable-diffusion-explained-for-everyone-77b53f4f1c4)  (https://poloclub.github.io/diffusion-explainer/)
+- A Visual Guide to Mixture of Experts (MoE) (https://newsletter.maartengrootendorst.com/p/a-visual-guide-to-mixture-of-experts)
 
 ## 🤖 Transformer Maths 
 - Numbers every LLM Developer should know (https://github.com/ray-project/llm-numbers#1-mb-gpu-memory-required-for-1-token-of-output-with-a-13b-parameter-model)
