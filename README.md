@@ -754,6 +754,7 @@ List of references and online resources related to data science, machine learnin
 - imodels - Interpretable ML package (https://github.com/csinva/imodels)
 - Video generation (https://klingai.com/)
 - Emergent Mind - the next generation of AI assistants for learning and research (https://www.emergentmind.com)
+- Semantic Scholar - free, AI-powered research tool for scientific literature (https://www.semanticscholar.org)
 - https://www.perplexity.ai/
 - Overleaf online LaTeX editor (https://www.overleaf.com/)
 
