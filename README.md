@@ -755,6 +755,8 @@ List of references and online resources related to data science, machine learnin
 - Video generation (https://klingai.com/)
 - Emergent Mind - the next generation of AI assistants for learning and research (https://www.emergentmind.com)
 - https://www.perplexity.ai/
+- Overleaf online LaTeX editor (https://www.overleaf.com/)
+
 
 
 ## 👍 Job / Interview / DS Portfolio
