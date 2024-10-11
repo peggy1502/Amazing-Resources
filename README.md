@@ -1303,6 +1303,7 @@ List of references and online resources related to data science, machine learnin
 - TinyStories - synthetically generated (by GPT-3.5 and GPT-4) short stories that only use a small vocabulary (https://huggingface.co/datasets/roneneldan/TinyStories)
 - GenQA - over 10M cleaned and deduplicated instruction samples generated from a handful of carefully designed prompts (https://huggingface.co/datasets/tomg-group-umd/GenQA)
 - Persona Hub - Scaling Synthetic Data Creation with 1,000,000,000 Personas (https://github.com/tencent-ailab/persona-hub) (https://huggingface.co/datasets/proj-persona/PersonaHub)
+- FinePersonas - detailed personas for creating customized, realistic synthetic data (https://huggingface.co/datasets/argilla/FinePersonas-v0.1)
 - APIGen Function-Calling Datasets (https://huggingface.co/datasets/Salesforce/xlam-function-calling-60k)
 - The Tome - Compiled from 9 publicly available datasets, curated and designed for training LLMs with a focus on instruction following (https://huggingface.co/datasets/arcee-ai/The-Tome)
 - distilabel-intel-orca-dpo-pairs (for preference tuning) (https://huggingface.co/datasets/argilla/distilabel-intel-orca-dpo-pairs)
