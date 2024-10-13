@@ -1352,7 +1352,6 @@ List of references and online resources related to data science, machine learnin
 - Embed English Wikipedia under 5 dollars (https://lightning.ai/lightning-ai/studios/embed-english-wikipedia-under-5-dollars~01hg0zg8fyybp7p1sma6g9dkzm)
 - Fine-Tuning Mistral 7b in Google Colab with QLoRA (complete guide) (https://medium.com/@codersama/fine-tuning-mistral-7b-in-google-colab-with-qlora-complete-guide-60e12d437cca)
 - Hands-on LLMs Course - Learn to Train and Deploy a Real-Time Financial Advisor (https://github.com/iusztinpaul/hands-on-llms)
-- LLM Twin Course: Building Your Production-Ready AI Replica (https://github.com/decodingml/llm-twin-course)
 - Building DoorDash’s Product Knowledge Graph with Large Language Models (https://doordash.engineering/2024/04/23/building-doordashs-product-knowledge-graph-with-large-language-models/)
 - Musings on building a Generative AI product - at LinkedIn (https://www.linkedin.com/blog/engineering/generative-ai/musings-on-building-a-generative-ai-product)
 - How We Finetuned a Large Language Model to Search Patents & Generate New Patents (https://www.activeloop.ai/resources/how-we-finetuned-a-large-language-model-to-search-patents-generate-new-patents/)
@@ -1360,7 +1359,14 @@ List of references and online resources related to data science, machine learnin
 - Function calling (https://platform.openai.com/docs/guides/function-calling)
 - > How to use functions with a knowledge base - to summarize arXiv articles (https://cookbook.openai.com/examples/how_to_call_functions_for_knowledge_retrieval)
 - Fine-tuning examples (Style and tone, Structured output, Tool calling, Function calling) (https://platform.openai.com/docs/guides/fine-tuning/fine-tuning-examples)
-- From Posts to Reports: Leveraging LLMs for Social Media Data Mining - How to instruct LLMs to filter restaurant posts and extract critical insights for business growth (https://medium.com/decodingml/from-posts-to-reports-leveraging-llms-for-social-media-data-mining-6ebe0e2cdeb1)  (https://github.com/decodingml/articles-code/tree/main/articles/generative_ai/data_extraction_from_social_media_posts_using_llms)
+- LLM Twin Course: Building Your Production-Ready AI Replica (https://github.com/decodingml/llm-twin-course)  (https://medium.com/decodingml/an-end-to-end-framework-for-production-ready-llm-systems-by-building-your-llm-twin-2cc6bb01141f)
+  - Crawl data from Medium, Substack, Linkedin, GitHub
+  - Clean, normalize and load the data to MongoDB
+  - Send database changes to a RabbitMQ queue, and consume through a Bytewax streaming pipeline
+  - Clean, chunk, embed and load into Qdrant vector DB (refactor the cleaning, chunking, and embedding logic using Superlinked, load and index the vectors to Redis vector search)
+  - Fine-tune an LLM using QLoRA, using Comet ML experiment tracker 
+  - Deploy as a REST API, query with advanced RAG
+- From Posts to Reports: Leveraging LLMs for Social Media Data Mining - How to instruct LLMs to filter restaurant posts and extract giveaways, events, deals and discounts (https://medium.com/decodingml/from-posts-to-reports-leveraging-llms-for-social-media-data-mining-6ebe0e2cdeb1)  (https://github.com/decodingml/articles-code/tree/main/articles/generative_ai/data_extraction_from_social_media_posts_using_llms)
 
 #### MLOps
 - The Full Stack 7-Steps MLOps Framework (https://github.com/iusztinpaul/energy-forecasting)
