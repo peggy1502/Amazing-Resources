@@ -1361,11 +1361,11 @@ List of references and online resources related to data science, machine learnin
 - Fine-tuning examples (Style and tone, Structured output, Tool calling, Function calling) (https://platform.openai.com/docs/guides/fine-tuning/fine-tuning-examples)
 - LLM Twin Course: Building Your Production-Ready AI Replica (https://github.com/decodingml/llm-twin-course)  (https://medium.com/decodingml/an-end-to-end-framework-for-production-ready-llm-systems-by-building-your-llm-twin-2cc6bb01141f)
   - Crawl data from Medium, Substack, Linkedin, GitHub
-  - Clean, normalize and load the data to MongoDB
-  - Send database changes to a RabbitMQ queue, and consume through a Bytewax streaming pipeline
-  - Clean, chunk, embed and load into Qdrant vector DB (refactor the cleaning, chunking, and embedding logic using Superlinked, load and index the vectors to Redis vector search)
-  - Fine-tune an LLM using QLoRA, using Comet ML experiment tracker 
-  - Deploy as a REST API, query with advanced RAG
+  - Clean, normalize and load data into MongoDB
+  - Send database changes to RabbitMQ, and consume through Bytewax streaming pipeline
+  - Clean, chunk, embed and load into Qdrant vector DB (also refactor the cleaning, chunking, and embedding logic using Superlinked, and load and index the vectors to Redis vector search)
+  - Fine-tune LLM using QLoRA, use Comet ML experiment tracker 
+  - Deploy as REST API on Qwak, query with advanced RAG
 - From Posts to Reports: Leveraging LLMs for Social Media Data Mining - How to instruct LLMs to filter restaurant posts and extract giveaways, events, deals and discounts (https://medium.com/decodingml/from-posts-to-reports-leveraging-llms-for-social-media-data-mining-6ebe0e2cdeb1)  (https://github.com/decodingml/articles-code/tree/main/articles/generative_ai/data_extraction_from_social_media_posts_using_llms)
 
 #### MLOps
