@@ -1359,6 +1359,7 @@ List of references and online resources related to data science, machine learnin
 - Function calling (https://platform.openai.com/docs/guides/function-calling)
 - > How to use functions with a knowledge base - to summarize arXiv articles (https://cookbook.openai.com/examples/how_to_call_functions_for_knowledge_retrieval)
 - Fine-tuning examples (Style and tone, Structured output, Tool calling, Function calling) (https://platform.openai.com/docs/guides/fine-tuning/fine-tuning-examples)
+- From Posts to Reports: Leveraging LLMs for Social Media Data Mining - How to instruct LLMs to filter restaurant posts and extract critical insights for business growth (https://medium.com/decodingml/from-posts-to-reports-leveraging-llms-for-social-media-data-mining-6ebe0e2cdeb1)  (https://github.com/decodingml/articles-code/tree/main/articles/generative_ai/data_extraction_from_social_media_posts_using_llms)
 
 #### MLOps
 - The Full Stack 7-Steps MLOps Framework (https://github.com/iusztinpaul/energy-forecasting)
