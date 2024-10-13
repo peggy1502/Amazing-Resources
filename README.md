@@ -759,6 +759,7 @@ List of references and online resources related to data science, machine learnin
 - Semantic Scholar - free, AI-powered research tool for scientific literature (https://www.semanticscholar.org)
 - https://www.perplexity.ai/
 - Overleaf online LaTeX editor (https://www.overleaf.com/)
+- Instaloader - download pictures (or videos) along with their captions and other metadata from Instagram (https://instaloader.github.io/index.html)
 
 ## 👍 Job / Interview / DS Portfolio
 - Interview Query - Questions and Blogs (https://www.interviewquery.com/p/data-science-interview-questions)(https://www.interviewquery.com/articles)(https://www.interviewquery.com/blog)
