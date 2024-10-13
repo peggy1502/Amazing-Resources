@@ -432,7 +432,7 @@ List of references and online resources related to data science, machine learnin
 - A Comprehensive Overview of Regression Evaluation Metrics (https://developer.nvidia.com/blog/a-comprehensive-overview-of-regression-evaluation-metrics/)
 - A Comprehensive Guide to Interaction Terms in Linear Regression (https://developer.nvidia.com/blog/a-comprehensive-guide-to-interaction-terms-in-linear-regression/)
 - 
-#### Time Series
+### Time Series
 - Predicting Credit Defaults Using Time-Series Models with Recursive Neural Networks and XGBoost (https://developer.nvidia.com/blog/predicting-credit-defaults-using-time-series-models-with-recursive-neural-networks-and-xgboost/) (https://github.com/daxiongshu/triton_amex)
 - Three Approaches to Encoding Time Information as Features for ML Models (https://developer.nvidia.com/blog/three-approaches-to-encoding-time-information-as-features-for-ml-models/)
 - A Comprehensive Guide on Interaction Terms in Time Series Forecasting (https://developer.nvidia.com/blog/a-comprehensive-guide-on-interaction-terms-in-time-series-forecasting/)
@@ -468,7 +468,7 @@ List of references and online resources related to data science, machine learnin
 - Fastest Way to Read Excel in Python (https://hakibenita.com/fast-excel-python)
 - Efficiently iterating over rows in a Pandas DataFrame (https://towardsdatascience.com/efficiently-iterating-over-rows-in-a-pandas-dataframe-7dd5f9992c01)
 - Ten Python datetime pitfalls, and what libraries are (not) doing about it (https://dev.arie.bovenberg.net/blog/python-datetime-pitfalls/)
-- > Whenever - Typed and DST-safe datetimes for Python (https://github.com/ariebovenberg/whenever)  (https://whenever.readthedocs.io/en/latest/)
+  - Whenever - Typed and DST-safe datetimes for Python (https://github.com/ariebovenberg/whenever)  (https://whenever.readthedocs.io/en/latest/)
 
 ### Database / Storage 
 - Blogs about streaming database (https://medium.com/@yingjunwu)
@@ -846,7 +846,7 @@ List of references and online resources related to data science, machine learnin
 - Binary Search (https://www.youtube.com/watch?v=tgVSkMA8joQ)
 - Partition subset problem - all approaches explained (https://leetcode.com/problems/partition-equal-subset-sum/solutions/462699/Whiteboard-Editorial.-All-Approaches-explained)
 
-## 👍 Videos for Algorithms / Technical Coding / Interview Prep
+## 📺 Videos for Algorithms / Technical Coding / Interview Prep
 - Neet Code (https://www.youtube.com/c/NeetCode/playlists)
 - MIT 6.006 Introduction to Algorithms, Fall 2011 (https://www.youtube.com/playlist?list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb)
 - Vivekanand Khyade - Algorithm Every Day (https://www.youtube.com/user/vivekanandkhyade/playlists)
@@ -987,7 +987,7 @@ List of references and online resources related to data science, machine learnin
 - How context sizes of 100k tokens and longer are achieved (https://www.linkedin.com/posts/andriyburkov_in-case-you-were-wondering-how-context-sizes-activity-7154922110354604032-Tx1a)
 - KV caching (https://medium.com/@plienhar/llm-inference-series-3-kv-caching-unveiled-048152e461c8)  (https://medium.com/@plienhar/llm-inference-series-4-kv-caching-a-deeper-look-4ba9a77746c8)
 
-### 🤖 Transformer / Attention / LLM Visualization
+## 🤖 Transformer / Attention / LLM Visualization
 - BertViz - tool for visualizing attention in Transformer model (https://github.com/jessevig/bertviz)
 - LLM Visualization (https://bbycroft.net/llm)
 - AttentionViz: A Global View of Transformer Attention (https://catherinesyeh.github.io/attn-docs/)
@@ -1018,7 +1018,7 @@ List of references and online resources related to data science, machine learnin
 - LLM Explorer (https://llm.extractum.io/)
 - Memory Requirements for LLM Training and Inference (https://medium.com/@manuelescobar-dev/memory-requirements-for-llm-training-and-inference-97e4ab08091b)
 
-### 🤖 Transformer Libraries
+## 🤖 Transformer Libraries
 - AWQ: Activation-aware Weight Quantization for LLM Compression and Acceleration [Paper] (https://github.com/mit-han-lab/llm-awq)
 - AutoAWQ (https://github.com/casper-hansen/AutoAWQ)
 - Microsoft DeepSpeed - Deep learning optimization software suite for both training and inference (https://github.com/microsoft/DeepSpeed)  (https://www.deepspeed.ai/)
@@ -1053,7 +1053,7 @@ List of references and online resources related to data science, machine learnin
 - Model Explorer - a powerful graph visualization tool that helps one understand, debug, and optimize ML models (https://ai.google.dev/edge/model-explorer)  (https://research.google/blog/model-explorer/)
 
 
-#### 🤖 Transformer Toolkit / Techniques / Methods
+## 🤖 Transformer Toolkit / Techniques / Methods
 - 🤗 The Large Language Model Training Handbook (https://github.com/huggingface/llm_training_handbook)
 - 🤗 The Large Language Model Training Playbook (https://github.com/huggingface/large_language_model_training_playbook)
 - 🤗 Dataset map method - how to pass argument to the function (https://discuss.huggingface.co/t/dataset-map-method-how-to-pass-argument-to-the-function/16274)
@@ -1081,14 +1081,14 @@ List of references and online resources related to data science, machine learnin
 - Making LLMs lighter with AutoGPTQ and transformers (https://huggingface.co/blog/gptq-integration) (https://arxiv.org/pdf/2210.17323.pdf)
 - Introduction to Quantization cooked in 🤗 with 💗🧑‍🍳 (https://huggingface.co/blog/merve/quantization)
 - LLM.int8() and Emergent Features (https://timdettmers.com/2022/08/17/llm-int8-and-emergent-features/)
-- [Video] State of GPT - Learn about the training pipeline of GPT assistants (https://www.youtube.com/watch?v=bZQun8Y4L2A&t=1s)
+- 📺 State of GPT - Learn about the training pipeline of GPT assistants (https://www.youtube.com/watch?v=bZQun8Y4L2A&t=1s)
 - Google "We Have No Moat, And Neither Does OpenAI" (https://www.semianalysis.com/p/google-we-have-no-moat-and-neither)
 - Emerging Architectures for LLM Applications (https://a16z.com/2023/06/20/emerging-architectures-for-llm-applications/)
 - The Secret Sauce behind 100K context window in LLMs: all tricks in one place (https://blog.gopenai.com/how-to-speed-up-llms-and-use-100k-context-window-all-tricks-in-one-place-ffd40577b4c)
 - All You Need to Know to Build Your First LLM App (https://towardsdatascience.com/all-you-need-to-know-to-build-your-first-llm-app-eb982c78ffac) $$
 - Neural Networks: Zero to Hero - A course by Andrej Karpathy - Syllabus & links to videos (https://karpathy.ai/zero-to-hero.html)
-  - [Video] Let's build GPT: from scratch, in code, spelled out (https://www.youtube.com/watch?v=kCc8FmEb1nY)
-  - [Video] Let's reproduce GPT-2 (124M) (https://www.youtube.com/watch?v=l8pRSuU81PU)
+  - 📺 Let's build GPT: from scratch, in code, spelled out (https://www.youtube.com/watch?v=kCc8FmEb1nY)
+  - 📺 Let's reproduce GPT-2 (124M) (https://www.youtube.com/watch?v=l8pRSuU81PU)
 - Decoding Strategies in Large Language Models (https://towardsdatascience.com/decoding-strategies-in-large-language-models-9733a8f70539) $$
 - Interactively fine-tune Falcon-40B and other LLMs on Amazon SageMaker Studio notebooks using QLoRA (https://aws.amazon.com/blogs/machine-learning/interactively-fine-tune-falcon-40b-and-other-llms-on-amazon-sagemaker-studio-notebooks-using-qlora/) (https://github.com/aws-samples/amazon-sagemaker-generativeai/blob/main/studio-notebook-fine-tuning/falcon-40b-qlora-finetune-summarize.ipynb)
 - [Codes] CVPR 2023 - Scaling PyTorch Model Training With Minimal Code Changes (https://github.com/rasbt/cvpr2023)
@@ -1128,7 +1128,7 @@ List of references and online resources related to data science, machine learnin
 - 🤗 How to Fine-Tune LLMs in 2024 with Hugging Face (https://www.philschmid.de/fine-tune-llms-in-2024-with-trl)
 - 🤗 makeMoE: Implement a Sparse Mixture of Experts Language Model from Scratch (https://huggingface.co/blog/AviSoori1x/makemoe-from-scratch)
 - Function Calling Datasets, Training and Inference (https://www.youtube.com/watch?v=hHn_cV5WUDI)
-- [Video] Fine tuning Optimizations - DoRA, NEFT, LoRA+, Unsloth (https://www.youtube.com/watch?v=ae2lbmtTY5A)
+- 📺 Fine tuning Optimizations - DoRA, NEFT, LoRA+, Unsloth (https://www.youtube.com/watch?v=ae2lbmtTY5A)
 - DoRA Demystified: Visualising Weight-Decomposed Low-Rank Adaptation (https://shreyassk.substack.com/p/visualising-dora-weight-decomposed) (https://github.com/shreyassks/DoRA/)
 - GaLore: Advancing Large Model Training on Consumer-grade Hardware (https://huggingface.co/blog/galore)  (https://github.com/jiaweizzhao/galore)
   - Memory-efficient LLM Training with GaLore (https://medium.com/@geronimo7/llm-training-on-consumer-gpus-with-galore-d25075143cfb)  (https://github.com/geronimi73/3090_shorts/blob/main/nb_galore_llama2-7b.ipynb)
@@ -1140,12 +1140,12 @@ List of references and online resources related to data science, machine learnin
 - FLUTE: Flexible Lookup Table Engine for LUT-quantized LLMs (https://github.com/HanGuo97/flute)
 - 🤗 Fine-tuning LLMs to 1.58bit: extreme quantization made easy (https://huggingface.co/blog/1_58_llm_extreme_quantization)
 
-#### 🤖 RAG
+## 🤖 RAG
 - A Guide on 12 Tuning Strategies for Production-Ready RAG Applications (https://towardsdatascience.com/a-guide-on-12-tuning-strategies-for-production-ready-rag-applications-7ca646833439#341d)
 - Advanced RAG Techniques: an Illustrated Overview (https://pub.towardsai.net/advanced-rag-techniques-an-illustrated-overview-04d193d8fec6)
 - Advanced RAG Techniques (https://www.pinecone.io/learn/advanced-rag-techniques/)
 - A Cheat Sheet and Some Recipes For Building Advanced RAG (https://blog.llamaindex.ai/a-cheat-sheet-and-some-recipes-for-building-advanced-rag-803a9d94c41b)
-- > https://d3ddy8balm3goa.cloudfront.net/llamaindex/rag-cheat-sheet-final.svg
+  - https://d3ddy8balm3goa.cloudfront.net/llamaindex/rag-cheat-sheet-final.svg
 - RAG cheatsheet (https://miro.com/app/board/uXjVNvklNmc=/)
 - From paper to prod! A guide to improving your semantic search with HyDE (https://aimodels.substack.com/p/from-paper-to-prod-a-guide-to-improving)
 - Improving the Semantic Search Tool (https://puddles-of-water.medium.com/improving-the-semantic-search-tool-ef0442f7e972)
@@ -1156,22 +1156,22 @@ List of references and online resources related to data science, machine learnin
 - The 4 Advanced RAG Algorithms You Must Know to Implement (https://medium.com/decodingml/the-4-advanced-rag-algorithms-you-must-know-to-implement-5d0c7f1199d2)
 - FlashRAG: A Python Toolkit for Efficient RAG Research (https://github.com/ruc-nlpir/flashrag)
 - ColPali: Efficient Document Retrieval with Vision Language Models (https://github.com/ManuelFay/colpali) (https://huggingface.co/vidore)
-- > Byaldi - wrapper around the ColPali (https://github.com/AnswerDotAI/byaldi/)
-- > Multimodal RAG using ColPali (with Byaldi) and Qwen2-VL (https://github.com/merveenoyan/smol-vision/blob/main/ColPali_%2B_Qwen2_VL.ipynb)
-- > Chat with your PDFs using byaldi + Claude (https://github.com/AnswerDotAI/byaldi/blob/main/examples/chat_with_your_pdf.ipynb)
-- > Multimodal RAG with ColPali and Gemini : Financial Report Analysis Application (https://learnopencv.com/multimodal-rag-with-colpali/)
+  - Byaldi - wrapper around the ColPali (https://github.com/AnswerDotAI/byaldi/)
+  - Multimodal RAG using ColPali (with Byaldi) and Qwen2-VL (https://github.com/merveenoyan/smol-vision/blob/main/ColPali_%2B_Qwen2_VL.ipynb)
+  - Chat with your PDFs using byaldi + Claude (https://github.com/AnswerDotAI/byaldi/blob/main/examples/chat_with_your_pdf.ipynb)
+  - Multimodal RAG with ColPali and Gemini : Financial Report Analysis Application (https://learnopencv.com/multimodal-rag-with-colpali/)
 - NVIDIA Introduces RankRAG: A Novel RAG Framework that Instruction-Tunes a Single LLM for the Dual Purposes of Top-k Context Ranking and Answer Generation in RAG (https://www.marktechpost.com/2024/07/09/nvidia-introduces-rankrag-a-novel-rag-framework-that-instruction-tunes-a-single-llm-for-the-dual-purposes-of-top-k-context-ranking-and-answer-generation-in-rag/)  (https://arxiv.org/pdf/2407.02485)
 - Late Chunking in Long-Context Embedding Models (https://jina.ai/news/late-chunking-in-long-context-embedding-models/)  (https://github.com/jina-ai/late-chunking/)
 - Reader-LM: Small Language Models for Cleaning and Converting HTML to Markdown (https://jina.ai/news/reader-lm-small-language-models-for-cleaning-and-converting-html-to-markdown/)  (https://colab.research.google.com/drive/1wXWyj5hOxEHY6WeHbOwEzYAC0WB1I5uA#scrollTo=ad-fjFOQxoFG)
 - Not RAG, but RAG Fusion? Understanding Next-Gen Info Retrieval. (https://pub.towardsai.net/not-rag-but-rag-fusion-understanding-next-gen-info-retrieval-477788da02e2) $$
 - Goodbye, Text2SQL: Why Table-Augmented Generation (TAG) is the Future of AI-Driven Data Queries! (https://ai.plainenglish.io/goodbye-text2sql-why-table-augmented-generation-tag-is-the-future-of-ai-driven-data-queries-892e24e06922) $$
-- > LOTUS: A Query Engine For Processing Data with LLMs (https://github.com/TAG-Research/lotus)
+  - LOTUS: A Query Engine For Processing Data with LLMs (https://github.com/TAG-Research/lotus)
 - MinerU - converts PDFs into machine-readable formats (e.g., markdown, JSON)(https://github.com/opendatalab/mineru)
 - xRx is a framework for multi-modal conversational AI system (https://github.com/8090-inc/xrx-core)
 - GenAI with Python: RAG with LLM (Complete Tutorial) - with Pdf2image, PyTesseract, Ollama, ChromaDB, Streamlit (https://towardsdatascience.com/genai-with-python-rag-with-llm-complete-tutorial-c276dda6707b) $$
 
 
-#### 🤖 Lightning AI ⚡⚡⚡
+## 🤖 Lightning AI ⚡⚡⚡
 - 📖 Lightning Fabric Documentation (https://lightning.ai/docs/fabric/stable/)
 - [Codes] Build Your Own Trainer (https://github.com/Lightning-AI/lightning/tree/master/examples/fabric/build_your_own_trainer)
 - ✏️ Ahead of AI (by Sebastian Raschka) (https://magazine.sebastianraschka.com/archive) (https://sebastianraschka.com/blog/)
@@ -1192,20 +1192,20 @@ List of references and online resources related to data science, machine learnin
 - The Falcon has landed in the Hugging Face ecosystem (https://huggingface.co/blog/falcon) (https://colab.research.google.com/drive/1BiQiw31DT7-cDp1-0ySXvvhzqomTdI-o?usp=sharing)
 - Improve LLMs With Proxy-Tuning (https://lightning.ai/lightning-ai/studios/improve-llms-with-proxy-tuning)
 
-#### 🤖 LLM Leaderboard
+## 🤖 LLM Leaderboard
 - 🤗 Open LLM Leaderboard (https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard)
 - 🤗 Open LLM Leaderboard V2 (https://huggingface.co/spaces/open-llm-leaderboard/open_llm_leaderboard)
 - 🤗 Massive Text Embedding Benchmark (MTEB) Leaderboard (https://huggingface.co/spaces/mteb/leaderboard)
 - Hughes Hallucination Evaluation Model (HHEM) leaderboard (https://huggingface.co/spaces/vectara/leaderboard)  (https://github.com/vectara/hallucination-leaderboard)
 
-#### 🤖 LLM Evaluation
+## 🤖 LLM Evaluation
 - FastChat - platform for training, serving, and evaluating large language model based chatbots (https://github.com/lm-sys/FastChat)
 - LLM Evaluation Metrics: Everything You Need for LLM Evaluation (https://www.confident-ai.com/blog/llm-evaluation-metrics-everything-you-need-for-llm-evaluation)
 - DeepEval - open-source LLM evaluation framework specialized for unit testing LLM outputs (https://github.com/confident-ai/deepeval)
 - Language Model Evaluation Harness - based on tasks (https://github.com/EleutherAI/lm-evaluation-harness) (https://github.com/EleutherAI/lm-evaluation-harness/blob/main/docs/interface.md)
 - LLM Task-Specific Evals that Do & Don't Work (https://eugeneyan.com/writing/evals/)
 
-#### 🤖 Transformer Models / Timeline
+## 🤖 Transformer Models / Timeline
 - 7 Basic NLP Models to Empower Your ML Application (https://zilliz.com/learn/7-nlp-models)
 - 7 models on HuggingFace you probably didn’t know existed (https://towardsdatascience.com/7-models-on-huggingface-you-probably-didnt-knew-existed-f3d079a4fd7c)
 - ChatGPT, GenerativeAI and LLMs Timeline (https://github.com/hollobit/GenAI_LLM_timeline)
@@ -1229,17 +1229,17 @@ List of references and online resources related to data science, machine learnin
 - Grok-1, a 314 billion parameter Mixture-of-Experts model (https://github.com/xai-org/grok-1)
 - Qwen1.5-MoE: Matching 7B Model Performance with 1/3 Activated Parameters (https://qwenlm.github.io/blog/qwen-moe/)
 - Tiny but mighty: The Phi-3 small language models with big potential (https://news.microsoft.com/source/features/ai/the-phi-3-small-language-models-with-big-potential/)
-- > TinyStories: How Small Can Language Models Be and Still Speak Coherent English? (https://arxiv.org/pdf/2305.07759)
+  - TinyStories: How Small Can Language Models Be and Still Speak Coherent English? (https://arxiv.org/pdf/2305.07759)
 - OpenELM - An Efficient Language Model Family with Open-source Training and Inference Framework - using layer-wise scaling strategy (https://arxiv.org/abs/2404.14619)  (https://huggingface.co/apple/OpenELM)  (https://github.com/apple/corenet)
 - Llama 3.1 - 405B, 70B & 8B with multilinguality and long context (https://huggingface.co/blog/llama31)
 - HERMES 3 TECHNICAL REPORT - instruct and chat tuned models created by fine-tuning Llama 3.1 8B, 70B, and 405B (https://nousresearch.com/wp-content/uploads/2024/08/Hermes-3-Technical-Report.pdf)
 - OLMoE - Open Mixture-of-Experts Language Models - fully open source (https://huggingface.co/allenai/OLMoE-1B-7B-0924)  (https://arxiv.org/abs/2409.02060)
   
 
-#### 🤖 Transformer / LLM Inference / Deployment
+## 🤖 Transformer / LLM Inference / Deployment
 - 7 Ways To Speed Up Inference of Your Hosted LLMs (https://betterprogramming.pub/speed-up-llm-inference-83653aa24c47)
 - vLLM: Easy, Fast, and Cheap LLM Serving with PagedAttention (https://github.com/vllm-project/vllm)  (https://vllm.ai/)
-- > vLLM v0.6.0: 2.7x Throughput Improvement and 5x Latency Reduction (https://blog.vllm.ai/2024/09/05/perf-update.html)
+  - vLLM v0.6.0: 2.7x Throughput Improvement and 5x Latency Reduction (https://blog.vllm.ai/2024/09/05/perf-update.html)
 - 🤗 TGI: Text Generation Inference - Fast optimized inference for LLMs (https://github.com/huggingface/text-generation-inference)
 - LMDeploy: a toolkit for compressing, deploying, and serving LLM (https://github.com/InternLM/lmdeploy)
 - OpenVINO: an open-source toolkit for optimizing and deploying AI inference (https://github.com/openvinotoolkit)  (https://docs.openvino.ai/2023.0/home.html)
@@ -1250,7 +1250,7 @@ List of references and online resources related to data science, machine learnin
 - Optimizing your LLM in production (https://huggingface.co/blog/optimize-llm)
 - StreamingLLM: Efficient Streaming Language Models with Attention Sinks (https://github.com/mit-han-lab/streaming-llm) (https://arxiv.org/pdf/2309.17453.pdf)
 - S-LoRA: Serving Thousands of Concurrent LoRA Adapters (https://github.com/s-lora/s-lora)
-- > Recipe for Serving Thousands of Concurrent LoRA Adapters (https://lmsys.org/blog/2023-11-15-slora/)
+  - Recipe for Serving Thousands of Concurrent LoRA Adapters (https://lmsys.org/blog/2023-11-15-slora/)
 - DeepSparse by Neural Magic - Sparsity-aware deep learning inference runtime for CPUs (https://github.com/neuralmagic/deepsparse/tree/main)
 - SparseML by Neural Magic - an open-source model optimization toolkit that enables you to create inference-optimized sparse models using pruning, quantization, and distillation algorithms (https://github.com/neuralmagic/sparseml)
 - Marlin - Mixed Auto-Regressive Linear kernel, an extremely optimized FP16xINT4 matmul kernel aimed at LLM inference (https://github.com/IST-DASLab/marlin)
@@ -1269,11 +1269,11 @@ List of references and online resources related to data science, machine learnin
 - GuideLLM - evaluating and optimizing the deployment of large language models (LLMs) (https://github.com/neuralmagic/guidellm)
 - LLM Compressor - create compressed models for faster inference with vLLM (https://github.com/vllm-project/llm-compressor)  (https://neuralmagic.com/blog/llm-compressor-is-here-faster-inference-with-vllm/)
 
-#### 🤖 Transformer / LLM Platform / Software
+## 🤖 Transformer / LLM Platform / Software
 - GPT4All - run open-source LLMs on your own computer (https://github.com/nomic-ai/gpt4all)
 - LLaMA-Factory - Efficiently Fine-Tune 100+ LLMs in WebUI (https://github.com/hiyouga/LLaMA-Factory)
   
-#### 🤖 Transformer / LLM Data Curator
+## 🤖 Transformer / LLM Data Curator
 - Curating Trillion-Token Datasets: Introducing NVIDIA NeMo Data Curator (https://developer.nvidia.com/blog/curating-trillion-token-datasets-introducing-nemo-data-curator/)
 - ftfy: fixes text for you (https://github.com/rspeer/python-ftfy)
 - Cosmopedia: how to create large-scale synthetic data for pre-training (https://huggingface.co/blog/cosmopedia)  (https://github.com/huggingface/cosmopedia)
@@ -1285,7 +1285,7 @@ List of references and online resources related to data science, machine learnin
 - LLM Decontaminator (https://github.com/lm-sys/llm-decontaminator)
   
 
-#### 🤖 Transformer / LLM Dataset
+## 🤖 Transformer / LLM Dataset
 - DBPedia (https://www.dbpedia.org/resources/individual/) (http://downloads.dbpedia.org/wiki-archive/dbpedia-version-2016-04.html) (http://downloads.dbpedia.org/2016-04/core/)
 - Common Crawl (https://commoncrawl.org/the-data/get-started/)
 - c4 - A colossal, cleaned version of Common Crawl's web crawl corpus (https://tensorflow.org/datasets/catalog/c4)
@@ -1297,9 +1297,9 @@ List of references and online resources related to data science, machine learnin
 - Python-Code-23k-ShareGPT (https://huggingface.co/datasets/ajibawa-2023/Python-Code-23k-ShareGPT)
 - UltraFeedback Binarized - A pre-processed version of the UltraFeedback dataset and was used to train Zephyr-7Β-β (https://huggingface.co/datasets/HuggingFaceH4/ultrafeedback_binarized)
 - [Blog post] FineWeb: decanting the web for the finest text data at scale (https://huggingface.co/spaces/HuggingFaceFW/blogpost-fineweb-v1)
-- > FineWeb: 15T tokens (44TB disk space) of cleaned and deduplicated english web data from CommonCrawl, for LLM pretraining (https://huggingface.co/datasets/HuggingFaceFW/fineweb)
-- > FineWeb-Edu: 1.3T tokens of educational web pages filtered from 🍷 FineWeb dataset (https://huggingface.co/datasets/HuggingFaceFW/fineweb-edu)
-- > FineWeb-Edu-score-2: 5.4T tokens of educational web pages filtered from 🍷 FineWeb dataset (https://huggingface.co/datasets/HuggingFaceFW/fineweb-edu-score-2)
+  - FineWeb: 15T tokens (44TB disk space) of cleaned and deduplicated english web data from CommonCrawl, for LLM pretraining (https://huggingface.co/datasets/HuggingFaceFW/fineweb)
+  - FineWeb-Edu: 1.3T tokens of educational web pages filtered from 🍷 FineWeb dataset (https://huggingface.co/datasets/HuggingFaceFW/fineweb-edu)
+  - FineWeb-Edu-score-2: 5.4T tokens of educational web pages filtered from 🍷 FineWeb dataset (https://huggingface.co/datasets/HuggingFaceFW/fineweb-edu-score-2)
 - Dolma - Used to train OLMo on 3 trillion tokens from a diverse mix of web content, academic publications, code, books, and encyclopedic materials, with quality filtering, fuzzy deduplication (https://blog.allenai.org/dolma-3-trillion-tokens-open-llm-corpus-9a0ff4b8da64) (https://huggingface.co/datasets/allenai/dolma)
 - TinyStories - synthetically generated (by GPT-3.5 and GPT-4) short stories that only use a small vocabulary (https://huggingface.co/datasets/roneneldan/TinyStories)
 - GenQA - over 10M cleaned and deduplicated instruction samples generated from a handful of carefully designed prompts (https://huggingface.co/datasets/tomg-group-umd/GenQA)
@@ -1312,15 +1312,15 @@ List of references and online resources related to data science, machine learnin
 
 
   
-#### 🤖 Transformer / LLM Sample Applications
+## 🤖 Transformer / LLM Sample Applications
 - Text Summarization using T5: Fine-Tuning and Building Gradio App (https://learnopencv.com/text-summarization-using-t5/)
 - Beyond Classification With Transformers and Hugging Face (https://towardsdatascience.com/beyond-classification-with-transformers-and-hugging-face-d38c75f574fb)
 - Faster Text Classification with Naive Bayes and GPUs (https://developer.nvidia.com/blog/faster-text-classification-with-naive-bayes-and-gpus)
 - Classifying Multimodal Data using Transformers (https://github.com/dsaidgovsg/multimodal-learning-hands-on-tutorial)
 - Chris McCormick
-- > [Video] BERT Document Classification Tutorial with Code - including Semantic Similarity Search (https://www.youtube.com/watch?v=_eSGWNqKeeY)
-- > Combining Categorical and Numerical Features with Text in BERT (https://mccormickml.com/2021/06/29/combining-categorical-numerical-features-with-bert/)
-- > Smart Batching Tutorial - Speed Up BERT Training (https://mccormickml.com/2020/07/29/smart-batching-tutorial/)
+  - 📺 BERT Document Classification Tutorial with Code - including Semantic Similarity Search (https://www.youtube.com/watch?v=_eSGWNqKeeY)
+  - Combining Categorical and Numerical Features with Text in BERT (https://mccormickml.com/2021/06/29/combining-categorical-numerical-features-with-bert/)
+  - Smart Batching Tutorial - Speed Up BERT Training (https://mccormickml.com/2020/07/29/smart-batching-tutorial/)
 - [Discussion] How to use Bert for long text classification? (https://stackoverflow.com/questions/58636587/how-to-use-bert-for-long-text-classification/63413589#63413589)
 - Sentiment Analysis with BERT and Transformers by Hugging Face using PyTorch and Python (https://curiousily.com/posts/sentiment-analysis-with-bert-and-hugging-face-using-pytorch-and-python/)
 - Custom Named Entity Recognition with BERT (https://towardsdatascience.com/custom-named-entity-recognition-with-bert-cf1fd4510804)
@@ -1339,16 +1339,16 @@ List of references and online resources related to data science, machine learnin
 - Financial Document Classification with LayoutLMv3 - using OCR on document images (https://www.mlexpert.io/machine-learning/tutorials/document-classification-with-layoutlmv3) (https://colab.research.google.com/drive/1I0Qyajp_DFzKvQfUwwRc9p6fs6NfI-Kx?usp=sharing)
 - Making a web app generator with open ML models (https://huggingface.co/blog/text-to-webapp)
 - Topic Modeling with Llama 2 (https://maartengrootendorst.substack.com/p/topic-modeling-with-llama-2) (https://towardsdatascience.com/topic-modeling-with-llama-2-85177d01e174) $$ (https://colab.research.google.com/drive/1QCERSMUjqGetGGujdrvv_6_EeoIcd_9M?usp=sharing) 
-- > https://maartengr.github.io/BERTopic/algorithm/algorithm.html
-- > https://maartengr.github.io/BERTopic/getting_started/best_practices/best_practices.html
+  - https://maartengr.github.io/BERTopic/algorithm/algorithm.html
+  - https://maartengr.github.io/BERTopic/getting_started/best_practices/best_practices.html
 - Mastering PDFs: Extracting Sections, Headings, Paragraphs, and Tables with Cutting-Edge Parser (https://blog.llamaindex.ai/mastering-pdfs-extracting-sections-headings-paragraphs-and-tables-with-cutting-edge-parser-faea18870125)
-- > LayoutPDFReader (https://github.com/nlmatics/llmsherpa#layoutpdfreader)
+  - LayoutPDFReader (https://github.com/nlmatics/llmsherpa#layoutpdfreader)
 - Multimodal Retrieval with Text Embedding and CLIP Image Embedding for Backyard Birds (https://github.com/wenqiglantz/multi_modal_retrieval_backyard_birds)
 - LlamaIndex Chat (https://github.com/run-llama/chat-llamaindex)
 - LoRA for semantic similarity tasks (https://huggingface.co/docs/peft/task_guides/semantic-similarity-lora)
 - Forging a Personal Chatbot with OpenAI API, Chroma DB, HuggingFace Spaces, and Gradio 🔥 (https://mlops.community/forging-a-personal-chatbot-with-openai-api-chroma-db-huggingface-spaces-and-gradio-%f0%9f%94%a5/)
 - How to Convert Any Text Into a Graph of Concepts (https://towardsdatascience.com/how-to-convert-any-text-into-a-graph-of-concepts-110844f22a1a)  (https://github.com/rahulnyk/knowledge_graph)
-- > Text to Knowledge Graph Made Easy with Graph Maker (https://towardsdatascience.com/text-to-knowledge-graph-made-easy-with-graph-maker-f3f890c0dbe8)
+  - Text to Knowledge Graph Made Easy with Graph Maker (https://towardsdatascience.com/text-to-knowledge-graph-made-easy-with-graph-maker-f3f890c0dbe8)
 - Embed English Wikipedia under 5 dollars (https://lightning.ai/lightning-ai/studios/embed-english-wikipedia-under-5-dollars~01hg0zg8fyybp7p1sma6g9dkzm)
 - Fine-Tuning Mistral 7b in Google Colab with QLoRA (complete guide) (https://medium.com/@codersama/fine-tuning-mistral-7b-in-google-colab-with-qlora-complete-guide-60e12d437cca)
 - Hands-on LLMs Course - Learn to Train and Deploy a Real-Time Financial Advisor (https://github.com/iusztinpaul/hands-on-llms)
@@ -1357,7 +1357,7 @@ List of references and online resources related to data science, machine learnin
 - How We Finetuned a Large Language Model to Search Patents & Generate New Patents (https://www.activeloop.ai/resources/how-we-finetuned-a-large-language-model-to-search-patents-generate-new-patents/)
 - Structured LLM Output and Function Calling with Guidance - and Tool Use (https://lightning.ai/lightning-ai/studios/structured-llm-output-and-function-calling-with-guidance)
 - Function calling (https://platform.openai.com/docs/guides/function-calling)
-- > How to use functions with a knowledge base - to summarize arXiv articles (https://cookbook.openai.com/examples/how_to_call_functions_for_knowledge_retrieval)
+  - How to use functions with a knowledge base - to summarize arXiv articles (https://cookbook.openai.com/examples/how_to_call_functions_for_knowledge_retrieval)
 - Fine-tuning examples (Style and tone, Structured output, Tool calling, Function calling) (https://platform.openai.com/docs/guides/fine-tuning/fine-tuning-examples)
 - LLM Twin Course: Building Your Production-Ready AI Replica (https://github.com/decodingml/llm-twin-course)  (https://medium.com/decodingml/an-end-to-end-framework-for-production-ready-llm-systems-by-building-your-llm-twin-2cc6bb01141f)
   - Crawl data from Medium, Substack, Linkedin, GitHub
@@ -1368,19 +1368,19 @@ List of references and online resources related to data science, machine learnin
   - Deploy as REST API on Qwak, query with advanced RAG
 - From Posts to Reports: Leveraging LLMs for Social Media Data Mining - How to instruct LLMs to filter restaurant posts and extract giveaways, events, deals and discounts (https://medium.com/decodingml/from-posts-to-reports-leveraging-llms-for-social-media-data-mining-6ebe0e2cdeb1)  (https://github.com/decodingml/articles-code/tree/main/articles/generative_ai/data_extraction_from_social_media_posts_using_llms)
 
-#### MLOps
+## MLOps
 - The Full Stack 7-Steps MLOps Framework (https://github.com/iusztinpaul/energy-forecasting)
 - MLOps-Basics (https://github.com/graviraja/MLOps-Basics)
 
-#### 🤖 Q&A
+## 🤖 Q&A
 - Danswer: OpenSource Enterprise Question-Answering tool (https://github.com/danswer-ai/danswer)  (https://docs.danswer.dev/introduction)
 - DocsGPT: GPT-powered chat for documentation (https://docsgpt.arc53.com/)  (https://github.com/arc53/DocsGPT)
-- > Host a Llama 2 API on GPU for Free (https://medium.com/@yuhongsun96/host-a-llama-2-api-on-gpu-for-free-a5311463c183)
-- > How to Augment LLMs with Private Data (https://medium.com/@yuhongsun96/how-to-augment-llms-with-private-data-29349bd8ae9f)
+  - Host a Llama 2 API on GPU for Free (https://medium.com/@yuhongsun96/host-a-llama-2-api-on-gpu-for-free-a5311463c183)
+  - How to Augment LLMs with Private Data (https://medium.com/@yuhongsun96/how-to-augment-llms-with-private-data-29349bd8ae9f)
 - How to build an AI that can answer questions about your website (https://platform.openai.com/docs/tutorials/web-qa-embeddings)
 - openai-cookbook
-- > https://github.com/openai/openai-cookbook/tree/3826607431929af5d58ba442aa3c2893009f637b/examples/fine-tuned_qa
-- > https://github.com/openai/openai-cookbook/blob/main/examples/Question_answering_using_embeddings.ipynb
+  - https://github.com/openai/openai-cookbook/tree/3826607431929af5d58ba442aa3c2893009f637b/examples/fine-tuned_qa
+  - https://github.com/openai/openai-cookbook/blob/main/examples/Question_answering_using_embeddings.ipynb
 - Fine-Tune Transformer Models For Question Answering On Custom Data (https://towardsdatascience.com/fine-tune-transformer-models-for-question-answering-on-custom-data-513eaac37a80)
 - Revolutionise Your Q&A Bot with GPT-J: The Open-Source Game Changer as a Replacement for GPT-3 (https://medium.com/@maliahrajan/revolutionise-your-q-a-bot-with-gpt-j-the-open-source-game-changer-as-a-replacement-for-gpt-3-216bc4362b53)
 - How to build a Q&A web application using Python and Anvil (https://www.section.io/engineering-education/building-a-qa-web-application/)
@@ -1393,7 +1393,7 @@ List of references and online resources related to data science, machine learnin
 - How to Fine-tune Llama 2 with LoRA for Question Answering: A Guide for Practitioners (https://deci.ai/blog/fine-tune-llama-2-with-lora-for-question-answering/)
 - Generative AI Lifecycle Patterns (https://dr-arsanjani.medium.com/the-generative-ai-lifecycle-1b0c7d9463ec)
 
-#### Discussion on LLM Padding / Formatting Function
+## Discussion on LLM Padding / Formatting Function
 - Why does the falcon QLoRA tutorial code use eos_token as pad_token? - use TemplateProcessing (https://discuss.huggingface.co/t/why-does-the-falcon-qlora-tutorial-code-use-eos-token-as-pad-token/45954/14?u=brando)
 - Pad and eos distinction. (https://chat.openai.com/share/ebb9a9a2-71d3-4c97-a727-b6042494b9a9)
 - LLaMA FastTokenizer does not add eos_token_id at the end. #22794 (https://github.com/huggingface/transformers/issues/22794)
@@ -1404,14 +1404,14 @@ List of references and online resources related to data science, machine learnin
 - Padding Large Language Models — Examples with Llama 2 (https://towardsdatascience.com/padding-large-language-models-examples-with-llama-2-199fb10df8ff) $$
 - [SFTTrainer] Fix non packed dataset #444 - Example of formatting_func on alpaca dataset (https://github.com/huggingface/trl/pull/444)
 
-#### Merging weights with quantized model
+## Merging weights with quantized model
 - Merging QLoRA weights with quantized model (https://gist.github.com/ChrisHayduk/1a53463331f52dca205e55982baf9930)
 - LoRA Adapters: When a Naive Merge Leads to Poor Performance (https://kaitchup.substack.com/p/lora-adapters-when-a-naive-merge)
 
-#### Merge / Fusion / MoE
+## Merge / Fusion / MoE
 - FuseChat: Knowledge Fusion of Chat Models (https://github.com/fanqiwan/FuseLLM/tree/main/FuseChat)
   
-#### Prompt Engineering / Instructions
+## Prompt Engineering / Instructions
 - Enprompt 360 - AI Prompts Generator (https://www.kickstarter.com/projects/enprompt360/enprompt-360)
 - Awesome ChatGPT Prompts (https://prompts.chat/)
 - Prompt Engineering Guide (https://www.promptingguide.ai/techniques)
@@ -1427,16 +1427,16 @@ List of references and online resources related to data science, machine learnin
 - Open AI - Prompt engineering guide (https://platform.openai.com/docs/guides/prompt-engineering)
 - Meta Llama - How-to guides - Prompting (https://www.llama.com/docs/how-to-guides/prompting)
 - Inside the Leaked System Prompts of GPT-4, Gemini 1.5, Claude 3, and More (https://medium.com/gitconnected/inside-the-leaked-system-prompts-of-gpt-4-gemini-1-5-claude-3-and-more-4ecb3d22b447?sk=7e053318c47b260ee482a5c8b319dd83)
-- > https://gist.github.com/kennethleungty/74c8f1ad0c39ca006fddea5da449c390 / https://gist.github.com/kennethleungty/00b5a5d809fdda94eafe5d49ccff7729 / https://gist.github.com/kennethleungty/80ceeba091d7c777abe861ef46558363 / https://gist.github.com/kennethleungty/587693681583da71f90d2da28e733ec3
+  - https://gist.github.com/kennethleungty/74c8f1ad0c39ca006fddea5da449c390 / https://gist.github.com/kennethleungty/00b5a5d809fdda94eafe5d49ccff7729 / https://gist.github.com/kennethleungty/80ceeba091d7c777abe861ef46558363 / https://gist.github.com/kennethleungty/587693681583da71f90d2da28e733ec3
 - DSPy - a framework for algorithmically optimizing LM prompts and weights (https://github.com/stanfordnlp/dspy)
-- > Your Language Model Deserves Better Prompting (https://weaviate.io/blog/dspy-optimizers)  (https://github.com/weaviate/recipes/blob/main/integrations/weights_and_biases/wandb_logging_RAG_dspy_cohere.ipynb)
+  - Your Language Model Deserves Better Prompting (https://weaviate.io/blog/dspy-optimizers)  (https://github.com/weaviate/recipes/blob/main/integrations/weights_and_biases/wandb_logging_RAG_dspy_cohere.ipynb)
 - Prompting Fundamentals and How to Apply them Effectively (https://eugeneyan.com/writing/prompting/)
 - Discovering Preference Optimization Algorithms with and for Large Language Models - prompt an LLM to propose and implement new preference optimization loss functions based on previously-evaluated performance metrics (https://arxiv.org/pdf/2406.08414)
 - Large Language Models Are Human-Level Prompt Engineers -  Automatic Prompt Engineer (APE) (https://sites.google.com/view/automatic-prompt-engineer)
 - Large Language Models as Optimizers - Optimization by PROmpting (OPRO) (https://github.com/google-deepmind/opro/)
 - How to Make ChatGPT Write Like a Human: (7-Step Prompt) to Make Your Content Come Alive! (https://medium.com/@afghanbitani/how-to-make-chatgpt-write-like-a-human-7-step-prompt-to-make-your-content-come-alive-98e0cd51894f) $$
 
-#### Agent
+## Agent
 - AutoGPT: the heart of the open-source agent ecosystem (https://github.com/Significant-Gravitas/AutoGPT)
 - The Official AutoGPT Forge Tutorial Series (https://aiedge.medium.com/autogpt-forge-e3de53cc58ec)
 - AutoGPT Tutorial: Creating an Agent Powered Research Assistant with Auto-GPT-Forge (https://lablab.ai/t/autogpt-tutorial-creating-a-research-assistant-with-auto-gpt-forge)
@@ -1446,7 +1446,7 @@ List of references and online resources related to data science, machine learnin
 - GenAI with Python: Build Agents from Scratch (Complete Tutorial) - with Ollama, LangChain, LangGraph (No GPU, No APIKEY) (https://towardsdatascience.com/genai-with-python-build-agents-from-scratch-complete-tutorial-4fc1e084e2ec) $$
 - Choosing Between LLM Agent Frameworks (https://towardsdatascience.com/choosing-between-llm-agent-frameworks-69019493b259)
 
-#### LLM - Misc
+## LLM - Misc
 - How Do Language Models put Attention Weights over Long Context? (https://yaofu.notion.site/How-Do-Language-Models-put-Attention-Weights-over-Long-Context-10250219d5ce42e8b465087c383a034e)  (https://github.com/FranxYao/Long-Context-Data-Engineering)
 - AI Watermarking 101: Tools and Techniques (https://huggingface.co/blog/watermarking)
 - GGUF, the long way around (https://vickiboykis.com/2024/02/28/gguf-the-long-way-around/)
@@ -1455,55 +1455,55 @@ List of references and online resources related to data science, machine learnin
 - UltraChat - example training script with Accelerator (https://github.com/thunlp/UltraChat/blob/main/train/train_legacy/train.py)
 - Using LESS Data to Tune Models (https://www.cs.princeton.edu/~smalladi/blog/2024/04/04/dataselection/)
 - Techniques for training large neural networks - Data parallelism, Pipeline parallelism, Tensor parallelism, Mixture-of-Experts (MoE), and other memory saving designs (https://openai.com/research/techniques-for-training-large-neural-networks)
-- > Large Scale Transformer model training with Tensor Parallel (TP) (https://pytorch.org/tutorials/intermediate/TP_tutorial.html)
+  - Large Scale Transformer model training with Tensor Parallel (TP) (https://pytorch.org/tutorials/intermediate/TP_tutorial.html)
 - YaFSDP - a Sharded Data Parallelism framework (https://github.com/yandex/YaFSDP)  (https://habr.com/ru/companies/yandex/articles/817509/)
 - Best Embedding Model — OpenAI / Cohere / Google / E5 / BGE - An In-depth Comparison of Multilingual Embedding Models (https://medium.com/@lars.chr.wiik/best-embedding-model-openai-cohere-google-e5-bge-931bfa1962dc)  topic dataset (https://github.com/LarsChrWiik/lars_datasets/tree/main/topics_dataset_50)
 - Training and Finetuning Embedding Models with Sentence Transformers v3 (https://huggingface.co/blog/train-sentence-transformers)
 - What can LLMs never do? (https://www.strangeloopcanon.com/p/what-can-llms-never-do)
 - What We’ve Learned From A Year of Building with LLMs (https://applied-llms.org/)
 - Uncensor any LLM with abliteration (https://huggingface.co/blog/mlabonne/abliteration)  (https://colab.research.google.com/drive/1VYm3hOcvCpbGiqKZb141gJwjdmmCcVpR?usp=sharing)
-- > abliterator.py (https://github.com/FailSpy/abliterator)
-- > TransformerLens - A library for mechanistic interpretability of GPT-style language models (https://github.com/TransformerLensOrg/TransformerLens)  (https://transformerlensorg.github.io/TransformerLens/)
+  - abliterator.py (https://github.com/FailSpy/abliterator)
+  - TransformerLens - A library for mechanistic interpretability of GPT-style language models (https://github.com/TransformerLensOrg/TransformerLens)  (https://transformerlensorg.github.io/TransformerLens/)
 - Training a 70B model from scratch: open-source tools, evaluation datasets, and learnings (https://imbue.com/research/70b-intro/)
-- > From bare metal to a 70B model: infrastructure set-up and scripts (https://imbue.com/research/70b-infrastructure/)
-- > Ensuring accurate model evaluations: open-sourced, cleaned datasets for models that reason and code (https://imbue.com/research/70b-evals/)
+  - From bare metal to a 70B model: infrastructure set-up and scripts (https://imbue.com/research/70b-infrastructure/)
+  - Ensuring accurate model evaluations: open-sourced, cleaned datasets for models that reason and code (https://imbue.com/research/70b-evals/)
 - Aleksa Gordić’s Post: Amazing list of techniques for improving the stability of training large ML models (LLMs, diffusion, etc) (https://www.linkedin.com/feed/update/urn:li:activity:7215624025639645184/)
 - The AdEMAMix Optimizer: Better, Faster, Older. A simple modification of the Adam optimizer with a mixture of two Exponential Moving Average (EMA) (https://github.com/nanowell/AdEMAMix-Optimizer-Pytorch/)
 - Generating Human-level Text with Contrastive Search in Transformers (https://huggingface.co/blog/introducing-csearch)
-- > A Contrastive Framework for Neural Text Generation (https://github.com/yxuansu/SimCTG)
+  - A Contrastive Framework for Neural Text Generation (https://github.com/yxuansu/SimCTG)
 - Open Source LLM Tools (https://huyenchip.com/llama-police)
-- > What I learned from looking at 900 most popular open source AI tools (https://huyenchip.com/2024/03/14/ai-oss.html)
+  - What I learned from looking at 900 most popular open source AI tools (https://huyenchip.com/2024/03/14/ai-oss.html)
 - Imagen - Pytorch (https://github.com/lucidrains/imagen-pytorch)
-- > MinImagen - A Minimal implementation of the Imagen text-to-image model(https://github.com/AssemblyAI-Community/MinImagen)
-  > How Imagen Actually Works (https://www.assemblyai.com/blog/how-imagen-actually-works/)
-  > MinImagen - Build Your Own Imagen Text-to-Image Model (https://www.assemblyai.com/blog/minimagen-build-your-own-imagen-text-to-image-model/)
+  - MinImagen - A Minimal implementation of the Imagen text-to-image model(https://github.com/AssemblyAI-Community/MinImagen)
+  - How Imagen Actually Works (https://www.assemblyai.com/blog/how-imagen-actually-works/)
+  - MinImagen - Build Your Own Imagen Text-to-Image Model (https://www.assemblyai.com/blog/minimagen-build-your-own-imagen-text-to-image-model/)
 
 
-#### Llama
+## Llama
 - PEFT Finetuning Quick Start Notebook (https://github.com/meta-llama/llama-recipes/blob/main/recipes/quickstart/finetuning/quickstart_peft_finetuning.ipynb)
-- > https://github.com/meta-llama/llama-recipes/blob/main/src/llama_recipes/finetuning.py
-- > https://github.com/meta-llama/llama-recipes/blob/main/src/llama_recipes/utils/train_utils.py
+  - https://github.com/meta-llama/llama-recipes/blob/main/src/llama_recipes/finetuning.py
+  - https://github.com/meta-llama/llama-recipes/blob/main/src/llama_recipes/utils/train_utils.py
 - RAFT: Adapting Language Model to Domain Specific RAG (https://gorilla.cs.berkeley.edu/blogs/9_raft.html)
-- > https://github.com/meta-llama/llama-recipes/tree/main/recipes/use_cases/end2end-recipes/RAFT-Chatbot
-- > https://github.com/meta-llama/llama-recipes/blob/main/recipes/use_cases/end2end-recipes/RAFT-Chatbot/raft_utils.py
+  - https://github.com/meta-llama/llama-recipes/tree/main/recipes/use_cases/end2end-recipes/RAFT-Chatbot
+  - https://github.com/meta-llama/llama-recipes/blob/main/recipes/use_cases/end2end-recipes/RAFT-Chatbot/raft_utils.py
   
 
-#### Unsloth
+## Unsloth
 - Make LLM Fine-tuning 2x faster with Unsloth and 🤗 TRL (https://huggingface.co/blog/unsloth-trl)
 - https://unsloth.ai/blog
 - https://github.com/unslothai/unsloth
 - https://www.kaggle.com/code/danielhanchen/kaggle-mistral-7b-unsloth-notebook
 
-#### Transformer Alternatives
+## Transformer Alternatives
 - Retentive Networks (RetNet) Explained: The much-awaited Transformers-killer is here (https://medium.com/ai-fusion-labs/retentive-networks-retnet-explained-the-much-awaited-transformers-killer-is-here-6c17e3e8add8)
 - Mamba Explained - The State Space Model taking on Transformers (https://www.kolaayonrinde.com/blog/2024/02/11/mamba.html)
 - Introducing Jamba: AI21's Groundbreaking SSM-Transformer Model (https://www.ai21.com/blog/announcing-jamba)
 - ModuleFormer: a MoE-based architecture that includes two different types of experts: stick-breaking attention heads and feedforward experts (https://github.com/IBM/ModuleFormer)
 - JetMoE: Reaching LLaMA2 Performance with 0.1M Dollars (https://research.myshell.ai/jetmoe)
 - SUPRA: Scalable UPtraining for Recurrent Attention - uptrain a transformer to a linear RNN (https://github.com/TRI-ML/linear_open_lm)  (https://huggingface.co/TRI-ML/mistral-supra)
-- [Video] Understanding Mamba and State Space Models (https://www.youtube.com/watch?v=iskuX3Ak9Uk)
+- 📺 Understanding Mamba and State Space Models (https://www.youtube.com/watch?v=iskuX3Ak9Uk)
 
-#### Google AI/ML Use Cases
+## Google AI/ML Use Cases
 - 185 real-world gen AI use cases from the world's leading organizations (https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders)
 - Customers are putting Gemini to work (https://blog.google/products/google-cloud/gemini-at-work-ai-agents/)
 
