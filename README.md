@@ -1,13 +1,20 @@
 # Amazing Resources
 List of references and online resources related to data science, machine learning and deep learning.
 
-- [Courses and Tutorials](#-courses-and-tutorials)
+- [Courses / Tutorials](#-courses--tutorials)
 - [Cheat Sheets](#-cheat-sheets)
-- [AWS and SageMaker](#-aws-and-sagemaker)
+- [AWS / SageMaker](#-aws--sagemaker)
 - [Videos](#-videos)
 - [Books](#-books)
+- [Articles](#-articles)
+  - [CNN](#-cnn)
+  - [RNN](#-rnn)
+  - [NLP](#-nlp)
+  - [NVIDIA Recommender Systems](#-nvidia-recommender-systems)
+  - [Collaborative Filtering / Recommender Systems](#-collaborative-filtering--recommender-systems)
+  - [Similarity Search / ANNS / Vector Indexing](#-similarity-search--anns--vector-indexing)
 
-## 👍 Courses and Tutorials
+# 👍 Courses / Tutorials
 
 - fast.ai (https://www.fast.ai/)
 - Walk with fastai (https://walkwithfastai.com/)
@@ -60,7 +67,7 @@ List of references and online resources related to data science, machine learnin
 - Start with Large Language Models (LLMs) - Become an expert for free! (https://github.com/louisfb01/start-llms)
 
 
-## 👍 Cheat Sheets
+# 👍 Cheat Sheets
 - Jerry Hargrove - AWS Cloud Diagrams & Notes (https://www.awsgeek.com/)
 - Cheat Sheets for Machine Learning and Data Science - by Aqeel Anwar (https://sites.google.com/view/datascience-cheat-sheets)
 - Cheat Sheets for Machine Learning Interview Topics - by Aqeel Anwar (https://medium.com/swlh/cheat-sheets-for-machine-learning-interview-topics-51c2bc2bab4f)
@@ -74,7 +81,7 @@ List of references and online resources related to data science, machine learnin
 - RAG cheatsheet (https://miro.com/app/board/uXjVNvklNmc=/)
 - 28 Jupyter Notebook Tips, Tricks, and Shortcuts (https://www.dataquest.io/blog/jupyter-notebook-tips-tricks-shortcuts/)
 
-## 👍 AWS and SageMaker
+# ☁️ AWS / SageMaker
 - How do I terminate active resources that I no longer need on my AWS account? (https://aws.amazon.com/premiumsupport/knowledge-center/terminate-resources-account-closure/)
 - AWS Resource Hub (https://resources.awscloud.com/)
 - AWS Machine Learning University (https://aws.amazon.com/machine-learning/mlu/)
@@ -128,7 +135,7 @@ List of references and online resources related to data science, machine learnin
 - Introducing Amazon Kinesis Data Analytics Studio – Quickly Interact with Streaming Data Using SQL, Python, or Scala (https://aws.amazon.com/blogs/aws/introducing-amazon-kinesis-data-analytics-studio-quickly-interact-with-streaming-data-using-sql-python-or-scala/)
 - amazon-kinesis-data-generator (https://awslabs.github.io/amazon-kinesis-data-generator/)  (https://awslabs.github.io/amazon-kinesis-data-generator/web/help.html)
 
-## 📺 Videos
+# 📺 Videos
 - StatQuest (https://statquest.org/video-index/)
 - Making Friends with Machine Learning (https://decision.substack.com/p/making-friends-with-machine-learning)
 - Artificial Intelligence - All in One (https://www.youtube.com/c/ArtificialIntelligenceAllinOne)
@@ -154,7 +161,7 @@ List of references and online resources related to data science, machine learnin
 - Andrej Karpathy - Neural Networks: Zero to Hero (https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ) (https://github.com/0ssamaak0/Karpathy-Neural-Networks-Zero-to-Hero)
 - NLP Summit (https://www.nlpsummit.org/)
 
-## 📚 Books
+# 📚 Books
 - The Hundred-Page Machine Learning Book (http://themlbook.com/wiki/doku.php)
 - Machine Learning Engineering (http://www.mlebook.com/wiki/doku.php)
 - Approaching (Almost) Any Machine Learning Problem (https://github.com/abhishekkrthakur/approachingalmost/blob/master/AAAMLP.pdf)
@@ -176,7 +183,7 @@ List of references and online resources related to data science, machine learnin
 - Machine Learning Q and AI book - by Sebastian Raschka (https://github.com/rasbt/MachineLearning-QandAI-book)
 - Hands-On Large Language Models - by Jay Alammar and Maarten Grootendorst (https://github.com/HandsOnLLM/Hands-On-Large-Language-Models)
 
-## 👍 Papers
+# 👍 Papers
 - 2015 Cyclical Learning Rates for Training Neural Networks (https://arxiv.org/abs/1506.01186)
 - 2017 Decoupled Weight Decay Regularization (https://arxiv.org/abs/1711.05101)
 - 2018 Mixed Precision Training (https://arxiv.org/pdf/1710.03740.pdf)
@@ -185,9 +192,9 @@ List of references and online resources related to data science, machine learnin
 - 2022 Formal Algorithms for Transformers (https://arxiv.org/pdf/2207.09238.pdf)
 - 2023 Transformer models: an introduction and catalog (https://arxiv.org/pdf/2302.07730.pdf) (http://bit.ly/3YFqRn9)
 
-## 📑 Articles
+# 📑 Articles
 
-### CNN
+## 🖼️ CNN
 - Applied Deep Learning - Part 4: Convolutional Neural Networks (https://towardsdatascience.com/applied-deep-learning-part-4-convolutional-neural-networks-584bc134c1e2)
 - CNNs from different viewpoints (https://medium.com/impactai/cnns-from-different-viewpoints-fab7f52d159c)
 - Image Kernels - Explained Visually (https://setosa.io/ev/image-kernels/)
@@ -197,11 +204,11 @@ List of references and online resources related to data science, machine learnin
 - The 9 Deep Learning Papers You Need To Know About (Understanding CNNs Part 3) (https://adeshpande3.github.io/The-9-Deep-Learning-Papers-You-Need-To-Know-About.html)
 - CNN Explainer (https://poloclub.github.io/cnn-explainer/)
 
-### RNN
+## ↩️ RNN
 - Understanding LSTM Networks (http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
 - A Visual Guide to Recurrent Layers in Keras (https://amitness.com/2020/04/recurrent-layers-keras/)
 
-### NLP
+## ⁉️ NLP
 - A Visual Guide to FastText Word Embeddings (https://amitness.com/2020/06/fasttext-embeddings/)
 - The Illustrated Word2vec (https://jalammar.github.io/illustrated-word2vec/)
 - An Intuitive Understanding of Word Embeddings: From Count Vectors to Word2Vec (https://www.analyticsvidhya.com/blog/2017/06/word-embeddings-count-word2veec/)
@@ -210,7 +217,7 @@ List of references and online resources related to data science, machine learnin
 - Interactive Analysis of Sentence Embeddings (https://amitness.com/interactive-sentence-embeddings/)
 - Cosine Similarity for Vector Space Models (Part III) (https://blog.christianperone.com/2013/09/machine-learning-cosine-similarity-for-vector-space-models-part-iii/)
 
-### NVIDIA Recommender Systems
+## 💏 NVIDIA Recommender Systems
 - Recommender Systems competitions solutions (https://github.com/NVIDIA-Merlin/competitions)
 - NVIDIA at RecSys 2022 (https://www.nvidia.com/en-us/events/recsys/)
   - Tutorials (https://recsys.acm.org/recsys22/tutorials/)
@@ -238,7 +245,7 @@ List of references and online resources related to data science, machine learnin
 - How to Build a Winning Deep Learning Powered Recommender System-Part 3 (https://developer.nvidia.com/blog/how-to-build-a-winning-deep-learning-powered-recommender-system-part-3/) (https://github.com/NVIDIA-Merlin/competitions/tree/main/WSDM_WebTour2021_Challenge)
 - 📺 Mastering Multilingual Recommender Systems | Grandmaster Series E9 | Winning Amazon’s 2023 KDD Cup (https://www.youtube.com/watch?v=IECznzY_Ko4)
 
-### Collaborative Filtering / Recommender Systems
+## 💏 Collaborative Filtering / Recommender Systems
 - Microsoft - Recommenders - examples and best practices for building recommendation systems (https://github.com/microsoft/recommenders)
 - DeepRecSys: A System for Optimizing End-To-End At-scale Neural Recommendation Inference (https://github.com/harvard-acc/DeepRecSys)
 - Google Courses - Recommendation Systems (https://developers.google.com/machine-learning/recommendation)
@@ -271,7 +278,7 @@ List of references and online resources related to data science, machine learnin
 - How Instacart Uses Machine Learning-Driven Autocomplete to Help People Fill Their Carts (https://tech.instacart.com/how-instacart-uses-machine-learning-driven-autocomplete-to-help-people-fill-their-carts-9bc56d22bafb)
 - Is this the ChatGPT moment for recommendation systems? (https://www.shaped.ai/blog/is-this-the-chatgpt-moment-for-recommendation-systems)
 
-### Similarity Search / ANNS / Vector Indexing
+## 👫 Similarity Search / ANNS / Vector Indexing
 - Getting started with Vector DBs in Python (https://code.dblock.org/2023/06/16/getting-started-with-vector-dbs-in-python.html) (https://github.com/dblock/vectordb-hello-world/)
 - Pinecone - A managed, cloud-native vector database with a simple API (https://www.pinecone.io/learn/) (https://docs.pinecone.io/docs/examples)
 - Weaviate (https://weaviate.io/blog.html)
@@ -302,7 +309,7 @@ List of references and online resources related to data science, machine learnin
 - How to build a real-time News Search Engine using Vector DBs (https://medium.com/decodingml/how-to-build-a-real-time-news-search-engine-using-serverless-upstash-kafka-and-vector-db-6ba393e55024) (https://decodingml.substack.com/p/how-to-build-a-real-time-news-search)  (https://github.com/decodingml/articles-code/tree/main/articles/ml_system_design/real_time_news_search_with_upstash_kafka_and_vector_db)
 
 
-### Search / Code Search / Information Retrieval
+## 🌐 Search / Code Search / Information Retrieval
 - A brief history of code search at GitHub (https://github.blog/2021-12-15-a-brief-history-of-code-search-at-github/)
 - The technology behind GitHub’s new code search (https://github.blog/2023-02-06-the-technology-behind-githubs-new-code-search/)
 - Regular Expression Matching with a Trigram Index or How Google Code Search Worked (https://swtch.com/~rsc/regexp/regexp4.html)
@@ -325,7 +332,7 @@ List of references and online resources related to data science, machine learnin
 - Evaluation Metrics for Search and Recommendation Systems (https://weaviate.io/blog/retrieval-evaluation-metrics)
 - What AI Engineers Should Know about Search (https://softwaredoug.com/blog/2024/06/25/what-ai-engineers-need-to-know-search)  
 
-### Search Ranking
+## ⬆️ Search Ranking
 - Using Cross-Encoders as reranker in multistage vector search (https://weaviate.io/blog/cross-encoders-as-reranker)
 - Bi-Encoder vs. Cross-Encoder (https://www.sbert.net/examples/applications/cross-encoder/#bi-encoder-vs-cross-encoder)
 - Improving information retrieval in the Elastic Stack: Introducing Elastic Learned Sparse Encoder, our new retrieval model (https://www.elastic.co/search-labs/may-2023-launch-information-retrieval-elasticsearch-ai-model)
@@ -340,7 +347,7 @@ List of references and online resources related to data science, machine learnin
   - A guide to Google: Origins, history and key moments in search (https://searchengineland.com/guide/google)
 
 
-### Lucene / Solr / Elasticsearch / BM25
+## 👫 Lucene / Solr / Elasticsearch / BM25
 - Grokking Solr Trie Fields (http://mentaldetritus.blogspot.com/2013/01/grokking-solr-trie-fields.html)
 - Mastering ElasticSearch (https://hoclaptrinhdanang.com/downloads/pdf/elasticsearch/Mastering%20ElasticSearch-PDF.pdf)
 - Elasticsearch Kernel Analysis - Data Model (https://zhuanlan.zhihu.com/p/34680841)
@@ -394,7 +401,7 @@ List of references and online resources related to data science, machine learnin
 - BM25 for Python: Achieving high performance while simplifying dependencies with BM25S⚡ (https://huggingface.co/blog/xhluca/bm25s)  (https://bm25s.github.io/)
 
 
-### General ML/DL Articles
+## 📑 General ML/DL Articles
 - A Recipe for Training Neural Networks (http://karpathy.github.io/2019/04/25/recipe/)
 - The best machine learning and deep learning libraries (https://morioh.com/p/73998ba2a04e)
 - Neural Style Transfer with tf.keras (https://aihub.cloud.google.com/p/products%2F7f7495dd-6f66-4f8a-8c30-15f211ad6957)
@@ -438,16 +445,16 @@ List of references and online resources related to data science, machine learnin
 - A Comprehensive Overview of Regression Evaluation Metrics (https://developer.nvidia.com/blog/a-comprehensive-overview-of-regression-evaluation-metrics/)
 - A Comprehensive Guide to Interaction Terms in Linear Regression (https://developer.nvidia.com/blog/a-comprehensive-guide-to-interaction-terms-in-linear-regression/)
 - 
-### Time Series
+## ⏲️ Time Series
 - Predicting Credit Defaults Using Time-Series Models with Recursive Neural Networks and XGBoost (https://developer.nvidia.com/blog/predicting-credit-defaults-using-time-series-models-with-recursive-neural-networks-and-xgboost/) (https://github.com/daxiongshu/triton_amex)
 - Three Approaches to Encoding Time Information as Features for ML Models (https://developer.nvidia.com/blog/three-approaches-to-encoding-time-information-as-features-for-ml-models/)
 - A Comprehensive Guide on Interaction Terms in Time Series Forecasting (https://developer.nvidia.com/blog/a-comprehensive-guide-on-interaction-terms-in-time-series-forecasting/)
 
-### EDA / Data Visualization
+## 📊 EDA / Data Visualization
 - Plotly Fundamentals (https://plotly.com/python/plotly-fundamentals/)
 - CSS Color (https://developer.mozilla.org/en-US/docs/Web/CSS/color_value)
 - Flowing Data (https://flowingdata.com/)
-- 📊 Automatic EDA Libraries 📚 Comparisson (https://www.kaggle.com/andreshg/automatic-eda-libraries-comparisson/)
+- Automatic EDA Libraries Comparisson (https://www.kaggle.com/andreshg/automatic-eda-libraries-comparisson/)
 - [TPS-Jun] This is Original EDA & VIZ 😉 (https://www.kaggle.com/subinium/tps-jun-this-is-original-eda-viz/)
 - Netflix Data Visualization (https://www.kaggle.com/joshuaswords/netflix-data-visualization?scriptVersionId=58425238)(https://www.kaggle.com/joshuaswords)
 - Custom Word Cloud (https://www.kaggle.com/tarzon/custom-word-cloud/notebook)
@@ -462,11 +469,11 @@ List of references and online resources related to data science, machine learnin
 - 6 python libraries to make beautiful maps (https://medium.com/@alexroz/6-python-libraries-to-make-beautiful-maps-9fb9edb28b27)
 - Exploring ExplainerDashBoard, the easiest way to Develop Interactive DashBoards (https://towardsdatascience.com/build-dashboards-in-less-than-10-lines-of-code-835e9abeae4b) $$
 
-### Colab
+## 📘 Colab
 - Google Colab Tips for Power Users (https://amitness.com/2020/06/google-colaboratory-tips/)
 - Configuring Google Colab Like A Pro (https://medium.com/@robertbracco1/configuring-google-colab-like-a-pro-d61c253f7573)
 
-### Python
+## 🐍 Python 
 - Data manipulation with Python (https://www.mit.edu/~amidi/teaching/data-science-tools/study-guide/data-manipulation-with-python/)
 - Data Preprocessing Concepts with Python (https://pub.towardsai.net/data-preprocessing-concepts-with-python-b93c63f14bb6)
 - 7 Actionable Tips on How to Use Python to Become a Finance Guru (https://sdsclub.com/7-actionable-tips-on-how-to-use-python-to-become-a-finance-guru/)
@@ -476,7 +483,7 @@ List of references and online resources related to data science, machine learnin
 - Ten Python datetime pitfalls, and what libraries are (not) doing about it (https://dev.arie.bovenberg.net/blog/python-datetime-pitfalls/)
   - Whenever - Typed and DST-safe datetimes for Python (https://github.com/ariebovenberg/whenever)  (https://whenever.readthedocs.io/en/latest/)
 
-### Database / Storage 
+## 🗄️ Database / Storage 
 - Blogs about streaming database (https://medium.com/@yingjunwu)
 - Rethinking Stream Processing and Streaming Databases (https://betterprogramming.pub/rethinking-stream-processing-and-streaming-databases-21076aaec375)
 - Why You Shouldn’t Invest In Vector Databases? (https://medium.com/data-engineer-things/why-you-shouldnt-invest-in-vector-databases-c0cd3f59d23c)
@@ -484,7 +491,7 @@ List of references and online resources related to data science, machine learnin
 - MyScale - A Deep Dive into SQL Vector Databases (https://myscale.com/blog/what-is-sql-vector-databases/)
 - Building a weather data warehouse part I: Loading a trillion rows of weather data into TimescaleDB (https://aliramadhan.me/2024/03/31/trillion-rows.html)
 
-### Reinforcement Learning
+## 🏃 Reinforcement Learning
 - Develop Your First AI Agent: Deep Q-Learning (https://towardsdatascience.com/develop-your-first-ai-agent-deep-q-learning-375876ee2472)
   
 ## 👍 Interesting and Fun
@@ -566,7 +573,7 @@ List of references and online resources related to data science, machine learnin
 - Kaggle utils (https://github.com/daxiongshu/kaggle_utils)
 - Competition and Community Insights from NVIDIA’s Kaggle Grandmasters (https://developer.nvidia.com/blog/competition-and-community-insights-from-nvidias-kaggle-grandmasters/)
 
-## 👍 DeepNote
+## 📘 DeepNote
 - Abid (https://deepnote.com/@abid)
 
 ## 👍 Blogs
@@ -632,7 +639,7 @@ List of references and online resources related to data science, machine learnin
 - Zilliz (https://zilliz.com/learn)
 - Neptune (https://neptune.ai/blog)
 
-## 👍 Maths 
+## 🧮 Maths
 - Maths is Fun (https://www.mathsisfun.com/)
 - Matrix Multiplication (http://matrixmultiplication.xyz/)
 - The Matrix Calculus You Need For Deep Learning (https://explained.ai/matrix-calculus/)
@@ -687,7 +694,7 @@ List of references and online resources related to data science, machine learnin
 - YData Synthetic - generate synthetic tabular and time-series data (https://github.com/ydataai/ydata-synthetic)
 - Generate a synthetic domain-specific Q&A dataset in <30 minutes (https://decodingml.substack.com/p/problems-deploying-your-ml-models)
 
-## 👍 Utilities / Tools
+## 🛠️ Utilities / Tools
 - Future Tools (https://www.futuretools.io/)
 - Scanner App for Math and Science (https://mathpix.com/)
 - Readability (https://pypi.org/project/readability/)
@@ -825,7 +832,7 @@ List of references and online resources related to data science, machine learnin
 - ML Systems Design Interview Guide (http://patrickhalina.com/posts/ml-systems-design-interview-guide/)
 - Conquering the 2024 Job Market: My Journey to Multiple DS/MLE Offers I — Job Search Summary and Strategy (https://bertmclee.medium.com/conquering-the-2024-job-market-my-journey-to-multiple-ds-mle-offers-i-job-search-summary-and-92bd41cdd7c8)
 
-## 👍 Salary Negotiation
+## 💰 Salary Negotiation
 - level.fyi (https://www.levels.fyi/Salaries/Data-Scientist/Singapore/)
 - Ten Rules for Negotiating a Job Offer (https://haseebq.com/my-ten-rules-for-negotiating-a-job-offer/)
 - HOW TO NEGOTIATE SALARY: 9 TIPS FROM A PRO SALARY NEGOTIATOR (https://fearlesssalarynegotiation.com/salary-negotiation-guide/)
@@ -846,7 +853,7 @@ List of references and online resources related to data science, machine learnin
   - System Design Series: The Ultimate Guide for Building High-Performance Data Streaming Systems from Scratch! (https://towardsdatascience.com/system-design-series-0-to-100-guide-to-data-streaming-systems-3dd584bd28fa)
 - ML Systems Design Interview Guide (http://patrickhalina.com/posts/ml-systems-design-interview-guide/)
 
-## 👍 Algorithms / Technical Coding 
+## 🔤 Algorithms / Technical Coding 
 - Dynamic Programming Patterns (https://leetcode.com/discuss/general-discussion/458695/dynamic-programming-patterns)
 - Binary Search Template (https://leetcode.com/discuss/general-discussion/786126/Python-Powerful-Ultimate-Binary-Search-Template.-Solved-many-problems)
 - Binary Search (https://www.youtube.com/watch?v=tgVSkMA8joQ)
@@ -864,7 +871,7 @@ List of references and online resources related to data science, machine learnin
 - Tech Dummies Narendra L (https://www.youtube.com/c/TechDummiesNarendraL/videos)
 - Data Interview Pro - Emma (https://www.youtube.com/c/DataInterviewPro/playlists)
 
-## 👍 Bit Hacks
+## 🔢 Bit Hacks
 - Bit Hacks (https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-172-performance-engineering-of-software-systems-fall-2018/lecture-slides/MIT6_172F18_lec3.pdf)
 - Bit Twiddling Hacks (http://graphics.stanford.edu/~seander/bithacks.html)
 - Introduction to Low Level Bit Hacks (https://catonmat.net/low-level-bit-hacks)
@@ -943,11 +950,11 @@ List of references and online resources related to data science, machine learnin
 - Jeremy Howard - Kaggle Notebooks (https://www.kaggle.com/jhoward/notebooks)
 - fastkaggle (https://fastai.github.io/fastkaggle/)
 
-## NVIDIA eBooks
+## 📚 NVIDIA eBooks 
 - A Beginner’s Guide to Large Language Models (https://resources.nvidia.com/en-us-large-language-model-ebooks)
 - End-To-End Speech AI Pipelines (https://resources.nvidia.com/en-us-speech-ai-ebooks-nurture/part-2)
 
-## Genomic Data Science
+## 🧞 Genomic Data Science
 - https://github.com/fylls/genomic-data-science
 - https://github.com/fylls/genome-sequencing
 
@@ -1374,7 +1381,7 @@ List of references and online resources related to data science, machine learnin
   - Deploy as REST API on Qwak, query with advanced RAG
 - From Posts to Reports: Leveraging LLMs for Social Media Data Mining - How to instruct LLMs to filter restaurant posts and extract giveaways, events, deals and discounts (https://medium.com/decodingml/from-posts-to-reports-leveraging-llms-for-social-media-data-mining-6ebe0e2cdeb1)  (https://github.com/decodingml/articles-code/tree/main/articles/generative_ai/data_extraction_from_social_media_posts_using_llms)
 
-## MLOps
+## 🤖 MLOps
 - The Full Stack 7-Steps MLOps Framework (https://github.com/iusztinpaul/energy-forecasting)
 - MLOps-Basics (https://github.com/graviraja/MLOps-Basics)
 
@@ -1399,7 +1406,7 @@ List of references and online resources related to data science, machine learnin
 - How to Fine-tune Llama 2 with LoRA for Question Answering: A Guide for Practitioners (https://deci.ai/blog/fine-tune-llama-2-with-lora-for-question-answering/)
 - Generative AI Lifecycle Patterns (https://dr-arsanjani.medium.com/the-generative-ai-lifecycle-1b0c7d9463ec)
 
-## Discussion on LLM Padding / Formatting Function
+## 🤖 Discussion on LLM Padding / Formatting Function
 - Why does the falcon QLoRA tutorial code use eos_token as pad_token? - use TemplateProcessing (https://discuss.huggingface.co/t/why-does-the-falcon-qlora-tutorial-code-use-eos-token-as-pad-token/45954/14?u=brando)
 - Pad and eos distinction. (https://chat.openai.com/share/ebb9a9a2-71d3-4c97-a727-b6042494b9a9)
 - LLaMA FastTokenizer does not add eos_token_id at the end. #22794 (https://github.com/huggingface/transformers/issues/22794)
@@ -1410,14 +1417,14 @@ List of references and online resources related to data science, machine learnin
 - Padding Large Language Models — Examples with Llama 2 (https://towardsdatascience.com/padding-large-language-models-examples-with-llama-2-199fb10df8ff) $$
 - [SFTTrainer] Fix non packed dataset #444 - Example of formatting_func on alpaca dataset (https://github.com/huggingface/trl/pull/444)
 
-## Merging weights with quantized model
+## 🤖 Merging weights with quantized model
 - Merging QLoRA weights with quantized model (https://gist.github.com/ChrisHayduk/1a53463331f52dca205e55982baf9930)
 - LoRA Adapters: When a Naive Merge Leads to Poor Performance (https://kaitchup.substack.com/p/lora-adapters-when-a-naive-merge)
 
-## Merge / Fusion / MoE
+## 🤖 Merge / Fusion / MoE
 - FuseChat: Knowledge Fusion of Chat Models (https://github.com/fanqiwan/FuseLLM/tree/main/FuseChat)
   
-## Prompt Engineering / Instructions
+## 🤖 Prompt Engineering / Instructions
 - Enprompt 360 - AI Prompts Generator (https://www.kickstarter.com/projects/enprompt360/enprompt-360)
 - Awesome ChatGPT Prompts (https://prompts.chat/)
 - Prompt Engineering Guide (https://www.promptingguide.ai/techniques)
@@ -1442,7 +1449,7 @@ List of references and online resources related to data science, machine learnin
 - Large Language Models as Optimizers - Optimization by PROmpting (OPRO) (https://github.com/google-deepmind/opro/)
 - How to Make ChatGPT Write Like a Human: (7-Step Prompt) to Make Your Content Come Alive! (https://medium.com/@afghanbitani/how-to-make-chatgpt-write-like-a-human-7-step-prompt-to-make-your-content-come-alive-98e0cd51894f) $$
 
-## Agent
+## 🤖 Agent
 - AutoGPT: the heart of the open-source agent ecosystem (https://github.com/Significant-Gravitas/AutoGPT)
 - The Official AutoGPT Forge Tutorial Series (https://aiedge.medium.com/autogpt-forge-e3de53cc58ec)
 - AutoGPT Tutorial: Creating an Agent Powered Research Assistant with Auto-GPT-Forge (https://lablab.ai/t/autogpt-tutorial-creating-a-research-assistant-with-auto-gpt-forge)
@@ -1453,7 +1460,7 @@ List of references and online resources related to data science, machine learnin
 - Choosing Between LLM Agent Frameworks (https://towardsdatascience.com/choosing-between-llm-agent-frameworks-69019493b259)
 - V : AI Personal Trainer (https://github.com/pannaf/valkyrie)
 
-## LLM - Misc
+## 🤖 LLM - Misc
 - How Do Language Models put Attention Weights over Long Context? (https://yaofu.notion.site/How-Do-Language-Models-put-Attention-Weights-over-Long-Context-10250219d5ce42e8b465087c383a034e)  (https://github.com/FranxYao/Long-Context-Data-Engineering)
 - AI Watermarking 101: Tools and Techniques (https://huggingface.co/blog/watermarking)
 - GGUF, the long way around (https://vickiboykis.com/2024/02/28/gguf-the-long-way-around/)
@@ -1486,7 +1493,7 @@ List of references and online resources related to data science, machine learnin
   - MinImagen - Build Your Own Imagen Text-to-Image Model (https://www.assemblyai.com/blog/minimagen-build-your-own-imagen-text-to-image-model/)
 
 
-## Llama
+## 🤖 Llama
 - PEFT Finetuning Quick Start Notebook (https://github.com/meta-llama/llama-recipes/blob/main/recipes/quickstart/finetuning/quickstart_peft_finetuning.ipynb)
   - https://github.com/meta-llama/llama-recipes/blob/main/src/llama_recipes/finetuning.py
   - https://github.com/meta-llama/llama-recipes/blob/main/src/llama_recipes/utils/train_utils.py
@@ -1495,13 +1502,13 @@ List of references and online resources related to data science, machine learnin
   - https://github.com/meta-llama/llama-recipes/blob/main/recipes/use_cases/end2end-recipes/RAFT-Chatbot/raft_utils.py
   
 
-## Unsloth
+## 🤖 Unsloth
 - Make LLM Fine-tuning 2x faster with Unsloth and 🤗 TRL (https://huggingface.co/blog/unsloth-trl)
 - https://unsloth.ai/blog
 - https://github.com/unslothai/unsloth
 - https://www.kaggle.com/code/danielhanchen/kaggle-mistral-7b-unsloth-notebook
 
-## Transformer Alternatives
+## 🤖 Transformer Alternatives
 - Retentive Networks (RetNet) Explained: The much-awaited Transformers-killer is here (https://medium.com/ai-fusion-labs/retentive-networks-retnet-explained-the-much-awaited-transformers-killer-is-here-6c17e3e8add8)
 - Mamba Explained - The State Space Model taking on Transformers (https://www.kolaayonrinde.com/blog/2024/02/11/mamba.html)
 - Introducing Jamba: AI21's Groundbreaking SSM-Transformer Model (https://www.ai21.com/blog/announcing-jamba)
@@ -1510,7 +1517,7 @@ List of references and online resources related to data science, machine learnin
 - SUPRA: Scalable UPtraining for Recurrent Attention - uptrain a transformer to a linear RNN (https://github.com/TRI-ML/linear_open_lm)  (https://huggingface.co/TRI-ML/mistral-supra)
 - 📺 Understanding Mamba and State Space Models (https://www.youtube.com/watch?v=iskuX3Ak9Uk)
 
-## Google AI/ML Use Cases
+## 👍 Google AI/ML Use Cases
 - 185 real-world gen AI use cases from the world's leading organizations (https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders)
 - Customers are putting Gemini to work (https://blog.google/products/google-cloud/gemini-at-work-ai-agents/)
 
