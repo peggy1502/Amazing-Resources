@@ -1,7 +1,13 @@
 # Amazing Resources
 List of references and online resources related to data science, machine learning and deep learning.
 
-## 👍 Courses / Tutorials
+- [Courses and Tutorials](#-courses-and-tutorials)
+- [Cheat Sheets](#-cheat-sheets)
+- [AWS and SageMaker](#-aws-and-sagemaker)
+- [Videos](#-videos)
+- [Books](#-books)
+
+## 👍 Courses and Tutorials
 
 - fast.ai (https://www.fast.ai/)
 - Walk with fastai (https://walkwithfastai.com/)
@@ -68,7 +74,7 @@ List of references and online resources related to data science, machine learnin
 - RAG cheatsheet (https://miro.com/app/board/uXjVNvklNmc=/)
 - 28 Jupyter Notebook Tips, Tricks, and Shortcuts (https://www.dataquest.io/blog/jupyter-notebook-tips-tricks-shortcuts/)
 
-## 👍 AWS / SageMaker
+## 👍 AWS and SageMaker
 - How do I terminate active resources that I no longer need on my AWS account? (https://aws.amazon.com/premiumsupport/knowledge-center/terminate-resources-account-closure/)
 - AWS Resource Hub (https://resources.awscloud.com/)
 - AWS Machine Learning University (https://aws.amazon.com/machine-learning/mlu/)
