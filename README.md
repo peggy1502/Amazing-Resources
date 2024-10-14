@@ -12,6 +12,65 @@ List of references and online resources related to data science, machine learnin
 |👉[NVIDIA Recommender Systems](#-nvidia-recommender-systems) 👉[Collaborative Filtering / Recommender Systems](#-collaborative-filtering--recommender-systems) 👉[Similarity Search / ANNS / Vector Indexing](#-similarity-search--anns--vector-indexing)
 |👉[Search / Code Search / Information Retrieval](#-search--code-search--information-retrieval) 👉[Search Ranking](#-search-ranking) 👉[Lucene / Solr / Elasticsearch / BM25](#-lucene--solr--elasticsearch--bm25)
 
+Search / Code Search / Information Retrieval
+Search Ranking
+Lucene / Solr / Elasticsearch / BM25
+General ML/DL Articles
+Time Series
+EDA / Data Visualization
+Colab
+Python
+Database / Storage
+Reinforcement Learning
+Interesting and Fun
+GitHub Repositories
+Kaggle
+DeepNote
+Blogs
+Company Tech Blogs
+Maths
+Datasets
+Synthetic Data
+Utilities / Tools
+Job / Interview / DS Portfolio
+Salary Negotiation
+System Design
+Algorithms / Technical Coding
+Videos for Algorithms / Technical Coding / Interview Prep
+Bit Hacks
+Google foobar
+PyTorch-Related
+PyTorch-Related Discussions
+fast.ai
+NVIDIA eBooks
+Genomic Data Science
+Transformer Architecture / Anatomy / Guide
+Transformer / Attention / LLM Visualization
+Transformer Maths
+Transformer Libraries
+Transformer Toolkit / Techniques / Methods
+RAG
+Lightning AI
+LLM Leaderboard
+LLM Evaluation
+Transformer Models / Timeline
+Transformer / LLM Inference / Deployment
+Transformer / LLM Platform / Software
+Transformer / LLM Data Curator
+Transformer / LLM Dataset
+Transformer / LLM Sample Applications
+MLOps
+Q&A
+Discussion on LLM Padding / Formatting Function
+Merging weights with quantized model
+Merge / Fusion / MoE
+Prompt Engineering / Instructions
+Agent
+LLM - Misc
+Llama
+Unsloth
+Transformer Alternatives
+Google AI/ML Use Cases
 -->
 
 
