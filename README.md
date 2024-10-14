@@ -1,6 +1,7 @@
 # Amazing Resources
 List of references and online resources related to data science, machine learning and deep learning.
 
+<!--
 | Contents
 | --- 
 |👉[Courses / Tutorials](#-courses--tutorials) 👉[Cheat Sheets](#-cheat-sheets) 👉[AWS / SageMaker](#-aws--sagemaker) 👉[Videos](#-videos) 👉[Books](#-books)
@@ -11,7 +12,7 @@ List of references and online resources related to data science, machine learnin
 |👉[NVIDIA Recommender Systems](#-nvidia-recommender-systems) 👉[Collaborative Filtering / Recommender Systems](#-collaborative-filtering--recommender-systems) 👉[Similarity Search / ANNS / Vector Indexing](#-similarity-search--anns--vector-indexing)
 |👉[Search / Code Search / Information Retrieval](#-search--code-search--information-retrieval) 👉[Search Ranking](#-search-ranking) 👉[Lucene / Solr / Elasticsearch / BM25](#-lucene--solr--elasticsearch--bm25)
 
-
+-->
 
 
 
