@@ -1,21 +1,23 @@
 # Amazing Resources
 List of references and online resources related to data science, machine learning and deep learning.
 
-- [Courses / Tutorials](#-courses--tutorials)
-- [Cheat Sheets](#-cheat-sheets)
-- [AWS / SageMaker](#-aws--sagemaker)
-- [Videos](#-videos)
-- [Books](#-books)
-- [Articles](#-articles)
-  - [CNN](#-cnn)
-  - [RNN](#-rnn)
-  - [NLP](#-nlp)
-  - [NVIDIA Recommender Systems](#-nvidia-recommender-systems)
-  - [Collaborative Filtering / Recommender Systems](#-collaborative-filtering--recommender-systems)
-  - [Similarity Search / ANNS / Vector Indexing](#-similarity-search--anns--vector-indexing)
+| Contents
+| --- 
+|👉[Courses / Tutorials](#-courses--tutorials) 👉[Cheat Sheets](#-cheat-sheets) 👉[AWS / SageMaker](#-aws--sagemaker) 👉[Videos](#-videos) 👉[Books](#-books)
+
+| Articles
+| --- 
+|👉[CNN](#-cnn) 👉[RNN](#-rnn) 👉[NLP](#-nlp) 
+|👉[NVIDIA Recommender Systems](#-nvidia-recommender-systems) 👉[Collaborative Filtering / Recommender Systems](#-collaborative-filtering--recommender-systems) 👉[Similarity Search / ANNS / Vector Indexing](#-similarity-search--anns--vector-indexing)
+|👉[Search / Code Search / Information Retrieval](#-search--code-search--information-retrieval) 👉[Search Ranking](#-search-ranking) 👉[Lucene / Solr / Elasticsearch / BM25](#-lucene--solr--elasticsearch--bm25)
+
+
+
+
+
+
 
 # 👍 Courses / Tutorials
-
 - fast.ai (https://www.fast.ai/)
 - Walk with fastai (https://walkwithfastai.com/)
 - Practical Deep Learning for Coders (https://course.fast.ai/)
@@ -81,7 +83,7 @@ List of references and online resources related to data science, machine learnin
 - RAG cheatsheet (https://miro.com/app/board/uXjVNvklNmc=/)
 - 28 Jupyter Notebook Tips, Tricks, and Shortcuts (https://www.dataquest.io/blog/jupyter-notebook-tips-tricks-shortcuts/)
 
-# ☁️ AWS / SageMaker
+# 👍 AWS / SageMaker
 - How do I terminate active resources that I no longer need on my AWS account? (https://aws.amazon.com/premiumsupport/knowledge-center/terminate-resources-account-closure/)
 - AWS Resource Hub (https://resources.awscloud.com/)
 - AWS Machine Learning University (https://aws.amazon.com/machine-learning/mlu/)
