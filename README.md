@@ -1445,6 +1445,7 @@ List of references and online resources related to data science, machine learnin
 - Multi-Agent Software Development through Cross-Team Collaboration (https://arxiv.org/pdf/2406.08979v1)  (https://github.com/OpenBMB/ChatDev)
 - GenAI with Python: Build Agents from Scratch (Complete Tutorial) - with Ollama, LangChain, LangGraph (No GPU, No APIKEY) (https://towardsdatascience.com/genai-with-python-build-agents-from-scratch-complete-tutorial-4fc1e084e2ec) $$
 - Choosing Between LLM Agent Frameworks (https://towardsdatascience.com/choosing-between-llm-agent-frameworks-69019493b259)
+- V : AI Personal Trainer (https://github.com/pannaf/valkyrie)
 
 ## LLM - Misc
 - How Do Language Models put Attention Weights over Long Context? (https://yaofu.notion.site/How-Do-Language-Models-put-Attention-Weights-over-Long-Context-10250219d5ce42e8b465087c383a034e)  (https://github.com/FranxYao/Long-Context-Data-Engineering)
