@@ -375,7 +375,7 @@ Google AI/ML Use Cases
 - The technology behind GitHub’s new code search (https://github.blog/2023-02-06-the-technology-behind-githubs-new-code-search/)
 - Regular Expression Matching with a Trigram Index or How Google Code Search Worked (https://swtch.com/~rsc/regexp/regexp4.html)
   
-## 🌐 Search Engine / Code Search / Information Retrieval
+## 🌐 Search Engine / Information Retrieval
 - PROBABILISTIC DATA STRUCTURES FOR WEB ANALYTICS AND DATA MINING (https://highlyscalable.wordpress.com/2012/05/01/probabilistic-structures-web-analytics-data-mining/)
 - Big Data Counting: How To Count A Billion Distinct Objects Using Only 1.5KB Of Memory (http://highscalability.com/blog/2012/4/5/big-data-counting-how-to-count-a-billion-distinct-objects-us.html)
 - Roaring Bitmap (https://pypi.org/project/roaringbitmap/0.1/) (https://github.com/RoaringBitmap/RoaringBitmap)
