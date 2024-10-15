@@ -368,13 +368,14 @@ Google AI/ML Use Cases
 - Geospatial Vector Search: Building an AI-Powered Geo-Aware News Search (https://levelup.gitconnected.com/geospatial-vector-search-building-an-ai-powered-geo-aware-news-search-6cbda8919465)
 - MyScale - A Deep Dive into SQL Vector Databases (https://myscale.com/blog/what-is-sql-vector-databases/)
 - Vector DB Comparison (https://superlinked.com/vector-db-comparison/)
-- How to build a real-time News Search Engine using Vector DBs (https://medium.com/decodingml/how-to-build-a-real-time-news-search-engine-using-serverless-upstash-kafka-and-vector-db-6ba393e55024) (https://decodingml.substack.com/p/how-to-build-a-real-time-news-search)  (https://github.com/decodingml/articles-code/tree/main/articles/ml_system_design/real_time_news_search_with_upstash_kafka_and_vector_db)
+- How to build a real-time News Search Engine using Vector DBs - implementing a live news aggregating streaming pipeline with NewsAPI, NewsData, Apache Kafka, Bytewax, and Upstash Vector Database (https://medium.com/decodingml/how-to-build-a-real-time-news-search-engine-using-serverless-upstash-kafka-and-vector-db-6ba393e55024) (https://decodingml.substack.com/p/how-to-build-a-real-time-news-search)  (https://github.com/decodingml/articles-code/tree/main/articles/ml_system_design/real_time_news_search_with_upstash_kafka_and_vector_db)
 
-
-## 🌐 Search / Code Search / Information Retrieval
+## 🆎 Code Search 
 - A brief history of code search at GitHub (https://github.blog/2021-12-15-a-brief-history-of-code-search-at-github/)
 - The technology behind GitHub’s new code search (https://github.blog/2023-02-06-the-technology-behind-githubs-new-code-search/)
 - Regular Expression Matching with a Trigram Index or How Google Code Search Worked (https://swtch.com/~rsc/regexp/regexp4.html)
+  
+## 🌐 Search Engine / Code Search / Information Retrieval
 - PROBABILISTIC DATA STRUCTURES FOR WEB ANALYTICS AND DATA MINING (https://highlyscalable.wordpress.com/2012/05/01/probabilistic-structures-web-analytics-data-mining/)
 - Big Data Counting: How To Count A Billion Distinct Objects Using Only 1.5KB Of Memory (http://highscalability.com/blog/2012/4/5/big-data-counting-how-to-count-a-billion-distinct-objects-us.html)
 - Roaring Bitmap (https://pypi.org/project/roaringbitmap/0.1/) (https://github.com/RoaringBitmap/RoaringBitmap)
@@ -392,7 +393,9 @@ Google AI/ML Use Cases
 - A guide to Google Search ranking systems (https://developers.google.com/search/docs/appearance/ranking-systems-guide)
 - How to ARCHITECT a search engine like Google Search (https://newsletter.theaiedge.io/p/how-to-architect-a-search-engine)
 - Evaluation Metrics for Search and Recommendation Systems (https://weaviate.io/blog/retrieval-evaluation-metrics)
-- What AI Engineers Should Know about Search (https://softwaredoug.com/blog/2024/06/25/what-ai-engineers-need-to-know-search)  
+- What AI Engineers Should Know about Search (https://softwaredoug.com/blog/2024/06/25/what-ai-engineers-need-to-know-search)
+- Building a full-text search engine in 150 lines of Python code (https://bart.degoe.de/building-a-full-text-search-engine-150-lines-of-code/)  (https://github.com/bartdegoede/python-searchengine)
+- A search engine in 80 lines of Python (https://www.alexmolas.com/2024/02/05/a-search-engine-in-80-lines.html)  (https://github.com/alexmolas/microsearch)
 
 ## ⬆️ Search Ranking
 - Using Cross-Encoders as reranker in multistage vector search (https://weaviate.io/blog/cross-encoders-as-reranker)
@@ -701,7 +704,7 @@ Google AI/ML Use Cases
 - Zilliz (https://zilliz.com/learn)
 - Neptune (https://neptune.ai/blog)
 
-## 🧮 Maths
+## 🔟 Maths
 - Maths is Fun (https://www.mathsisfun.com/)
 - Matrix Multiplication (http://matrixmultiplication.xyz/)
 - The Matrix Calculus You Need For Deep Learning (https://explained.ai/matrix-calculus/)
@@ -755,6 +758,7 @@ Google AI/ML Use Cases
 - Faiss SyntheticDataset (https://github.com/facebookresearch/faiss/blob/main/contrib/datasets.py#L72)(https://gist.github.com/mdouze/551ef6fa0722f2acf58fa2c6fce732d6#file-demo_pytorch_knn-ipynb)
 - YData Synthetic - generate synthetic tabular and time-series data (https://github.com/ydataai/ydata-synthetic)
 - Generate a synthetic domain-specific Q&A dataset in <30 minutes (https://decodingml.substack.com/p/problems-deploying-your-ml-models)
+- How to Generate and Use Synthetic Data for Finetuning (https://eugeneyan.com/writing/synthetic/)
 
 ## 🛠️ Utilities / Tools
 - Future Tools (https://www.futuretools.io/)
@@ -1553,6 +1557,8 @@ Google AI/ML Use Cases
   - MinImagen - A Minimal implementation of the Imagen text-to-image model(https://github.com/AssemblyAI-Community/MinImagen)
   - How Imagen Actually Works (https://www.assemblyai.com/blog/how-imagen-actually-works/)
   - MinImagen - Build Your Own Imagen Text-to-Image Model (https://www.assemblyai.com/blog/minimagen-build-your-own-imagen-text-to-image-model/)
+- How to Beat Proprietary LLMs With Smaller Open Source Models (https://www.aidancooper.co.uk/how-to-beat-proprietary-llms/)
+- A Guide to Structured Outputs Using Constrained Decoding (https://www.aidancooper.co.uk/constrained-decoding/)
 
 
 ## 🤖 Llama
