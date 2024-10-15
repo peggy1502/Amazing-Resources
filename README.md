@@ -510,7 +510,7 @@ Google AI/ML Use Cases
 - A Comprehensive Overview of Regression Evaluation Metrics (https://developer.nvidia.com/blog/a-comprehensive-overview-of-regression-evaluation-metrics/)
 - A Comprehensive Guide to Interaction Terms in Linear Regression (https://developer.nvidia.com/blog/a-comprehensive-guide-to-interaction-terms-in-linear-regression/)
 - 
-## ⏲️ Time Series
+## ⏱️ Time Series
 - Predicting Credit Defaults Using Time-Series Models with Recursive Neural Networks and XGBoost (https://developer.nvidia.com/blog/predicting-credit-defaults-using-time-series-models-with-recursive-neural-networks-and-xgboost/) (https://github.com/daxiongshu/triton_amex)
 - Three Approaches to Encoding Time Information as Features for ML Models (https://developer.nvidia.com/blog/three-approaches-to-encoding-time-information-as-features-for-ml-models/)
 - A Comprehensive Guide on Interaction Terms in Time Series Forecasting (https://developer.nvidia.com/blog/a-comprehensive-guide-on-interaction-terms-in-time-series-forecasting/)
@@ -919,7 +919,7 @@ Google AI/ML Use Cases
   - System Design Series: The Ultimate Guide for Building High-Performance Data Streaming Systems from Scratch! (https://towardsdatascience.com/system-design-series-0-to-100-guide-to-data-streaming-systems-3dd584bd28fa)
 - ML Systems Design Interview Guide (http://patrickhalina.com/posts/ml-systems-design-interview-guide/)
 
-## 🔤 Algorithms / Technical Coding 
+## 🆎 Algorithms / Technical Coding
 - Dynamic Programming Patterns (https://leetcode.com/discuss/general-discussion/458695/dynamic-programming-patterns)
 - Binary Search Template (https://leetcode.com/discuss/general-discussion/786126/Python-Powerful-Ultimate-Binary-Search-Template.-Solved-many-problems)
 - Binary Search (https://www.youtube.com/watch?v=tgVSkMA8joQ)
