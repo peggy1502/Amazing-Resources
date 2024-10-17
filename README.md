@@ -748,6 +748,7 @@ Google AI/ML Use Cases
 - 190k+ Medium Articles (https://www.kaggle.com/datasets/fabiochiusano/medium-articles)
 - Unsplash (https://unsplash.com/data)
 - Randomizing Very Large Datasets (https://towardsdatascience.com/randomizing-very-large-datasets-e2b14e507725)
+- https://data.gov.sg/datasets
 
 
 ## 👍 Synthetic Data
