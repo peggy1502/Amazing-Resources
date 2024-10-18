@@ -1364,7 +1364,7 @@ Google AI/ML Use Cases
 - Dolma Toolkit - curation of large datasets for (pre)-training ML models (https://github.com/allenai/dolma)
 - Distilabel - framework for synthetic data and AI feedback (https://github.com/argilla-io/distilabel)
 - LLM Decontaminator (https://github.com/lm-sys/llm-decontaminator)
-  
+- Tutorial to demonstrate how to reproduce Zyda2 dataset, curated by Zyphra in collaboration with Nvidia using NeMo Curator (https://github.com/NVIDIA/NeMo-Curator/tree/main/tutorials/zyda2-tutorial)  (https://www.zyphra.com/post/building-zyda-2)
 
 ## 🤖 Transformer / LLM Dataset
 - DBPedia (https://www.dbpedia.org/resources/individual/) (http://downloads.dbpedia.org/wiki-archive/dbpedia-version-2016-04.html) (http://downloads.dbpedia.org/2016-04/core/)
@@ -1390,7 +1390,7 @@ Google AI/ML Use Cases
 - The Tome - Compiled from 9 publicly available datasets, curated and designed for training LLMs with a focus on instruction following (https://huggingface.co/datasets/arcee-ai/The-Tome)
 - distilabel-intel-orca-dpo-pairs (for preference tuning) (https://huggingface.co/datasets/argilla/distilabel-intel-orca-dpo-pairs)
 - MINT-1T: Scaling Open-Source Multimodal Data by 10x: A Multimodal Dataset with One Trillion Tokens (https://blog.salesforceairesearch.com/mint-1t/) (https://huggingface.co/collections/mlfoundations/mint-1t-6690216ca4d0df7e518dde1c)
-
+- Zyda-2 is a 5-trillion token dataset composed of filtered and cross-deduplicated DCLM, FineWeb-Edu, Zyda-1, and Dolma v1.7's Common Crawl portion (https://huggingface.co/datasets/Zyphra/Zyda-2)  (https://www.zyphra.com/post/building-zyda-2)
 
   
 ## 🤖 Transformer / LLM Sample Applications
