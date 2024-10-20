@@ -1448,6 +1448,7 @@ Google AI/ML Use Cases
   - Fine-tune LLM using QLoRA, use Comet ML experiment tracker 
   - Deploy as REST API on Qwak, query with advanced RAG
 - From Posts to Reports: Leveraging LLMs for Social Media Data Mining - How to instruct LLMs to filter restaurant posts and extract giveaways, events, deals and discounts (https://medium.com/decodingml/from-posts-to-reports-leveraging-llms-for-social-media-data-mining-6ebe0e2cdeb1)  (https://github.com/decodingml/articles-code/tree/main/articles/generative_ai/data_extraction_from_social_media_posts_using_llms)
+- I Fine-Tuned the Tiny Llama 3.2 1B to Replace GPT-4o - for classification task (https://towardsdatascience.com/i-fine-tuned-the-tiny-llama-3-2-1b-to-replace-gpt-4o-7ce1e5619f3d) $$ (https://colab.research.google.com/drive/1T5-zKWM_5OD21QHwXHiV9ixTRR7k3iB9?usp=sharing)
 
 ## 🤖 MLOps
 - The Full Stack 7-Steps MLOps Framework (https://github.com/iusztinpaul/energy-forecasting)
