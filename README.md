@@ -1562,6 +1562,7 @@ Google AI/ML Use Cases
   - MinImagen - Build Your Own Imagen Text-to-Image Model (https://www.assemblyai.com/blog/minimagen-build-your-own-imagen-text-to-image-model/)
 - How to Beat Proprietary LLMs With Smaller Open Source Models (https://www.aidancooper.co.uk/how-to-beat-proprietary-llms/)
 - A Guide to Structured Outputs Using Constrained Decoding (https://www.aidancooper.co.uk/constrained-decoding/)
+- The 6 Best LLM Tools To Run Models Locally (https://medium.com/@amosgyamfi/the-6-best-llm-tools-to-run-models-locally-eedd0f7c2bbd)
 
 
 ## 🤖 Llama
