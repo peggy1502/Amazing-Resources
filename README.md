@@ -534,6 +534,7 @@ Google AI/ML Use Cases
 - Scikit-learn Visualization Guide: Making Models Speak (https://www.dataleadsfuture.com/scikit-learn-visualization-guide-making-models-speak/)
 - 6 python libraries to make beautiful maps (https://medium.com/@alexroz/6-python-libraries-to-make-beautiful-maps-9fb9edb28b27)
 - Exploring ExplainerDashBoard, the easiest way to Develop Interactive DashBoards (https://towardsdatascience.com/build-dashboards-in-less-than-10-lines-of-code-835e9abeae4b) $$
+- What I've Learned Building Interactive Embedding Visualizations (https://cprimozic.net/blog/building-embedding-visualizations-from-user-profiles/)  (https://github.com/Ameobea/osu-beatmap-atlas/blob/main/notebooks/README.md)
 
 ## 📘 Colab
 - Google Colab Tips for Power Users (https://amitness.com/2020/06/google-colaboratory-tips/)
@@ -722,6 +723,7 @@ Google AI/ML Use Cases
 - What Are Floating-point Numbers? (https://www.baseclass.io/newsletter/floating-point-numbers)
 - Monte Carlo Simulation — a practical guide (https://towardsdatascience.com/monte-carlo-simulation-a-practical-guide-85da45597f0e)
 - Gradient Descent Algorithm — a deep dive (https://towardsdatascience.com/gradient-descent-algorithm-a-deep-dive-cf04e8115f21)
+- New Breakthrough Brings Matrix Multiplication Closer to Ideal (https://www.quantamagazine.org/new-breakthrough-brings-matrix-multiplication-closer-to-ideal-20240307/)
 
 
 ## 👍 Datasets
@@ -751,6 +753,7 @@ Google AI/ML Use Cases
 - Unsplash (https://unsplash.com/data)
 - Randomizing Very Large Datasets (https://towardsdatascience.com/randomizing-very-large-datasets-e2b14e507725)
 - https://data.gov.sg/datasets
+- EarthData - NASA Earth Observation Data (https://www.earthdata.nasa.gov/)
 
 
 ## 👍 Synthetic Data
