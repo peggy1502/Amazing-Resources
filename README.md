@@ -488,6 +488,7 @@ Google AI/ML Use Cases
 - Exploring Location Data Using a Hexagon Grid (https://towardsdatascience.com/exploring-location-data-using-a-hexagon-grid-3509b68b04a2)  (https://github.com/sktahtin4/Helsinki-city-bikes)
   - H3: Uber’s Hexagonal Hierarchical Spatial Index (https://www.uber.com/en-FI/blog/h3/)  (https://h3geo.org/docs/)
   - H3 hexagon data viewer (https://wolf-h3-viewer.glitch.me/)
+- How to use PostgreSQL for (military) geoanalytics tasks (https://klioba.com/how-to-use-postgresql-for-military-geoanalytics-tasks)  (https://klioba.com/public/presentations/PostGIS_Warfare_Export.pdf)  (http://download.geofabrik.de/osm-data-in-gis-formats-free.pdf)  (https://download.geofabrik.de/)
 
 #### Gradient / Momentum
 - Yes you should understand backprop (https://karpathy.medium.com/yes-you-should-understand-backprop-e2f06eab496b) (https://www.youtube.com/watch?v=i94OvYb6noo)
@@ -555,7 +556,8 @@ Google AI/ML Use Cases
 - Building and operating a pretty big storage system called S3 (https://www.allthingsdistributed.com/2023/07/building-and-operating-a-pretty-big-storage-system.html)
 - MyScale - A Deep Dive into SQL Vector Databases (https://myscale.com/blog/what-is-sql-vector-databases/)
 - Building a weather data warehouse part I: Loading a trillion rows of weather data into TimescaleDB (https://aliramadhan.me/2024/03/31/trillion-rows.html)
-
+- How to use PostgreSQL for (military) geoanalytics tasks (https://klioba.com/how-to-use-postgresql-for-military-geoanalytics-tasks)  (https://klioba.com/public/presentations/PostGIS_Warfare_Export.pdf)  (http://download.geofabrik.de/osm-data-in-gis-formats-free.pdf)  (https://download.geofabrik.de/)
+  
 ## 🏃 Reinforcement Learning
 - Develop Your First AI Agent: Deep Q-Learning (https://towardsdatascience.com/develop-your-first-ai-agent-deep-q-learning-375876ee2472)
   
