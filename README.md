@@ -196,6 +196,7 @@ Google AI/ML Use Cases
 - Amazon AI Fairness and Explainability with Amazon SageMaker Clarify (https://www.linkedin.com/comm/pulse/amazon-ai-fairness-explainability-sagemaker-clarify-jon-bonso-vnfzc)
 - Introducing Amazon Kinesis Data Analytics Studio – Quickly Interact with Streaming Data Using SQL, Python, or Scala (https://aws.amazon.com/blogs/aws/introducing-amazon-kinesis-data-analytics-studio-quickly-interact-with-streaming-data-using-sql-python-or-scala/)
 - amazon-kinesis-data-generator (https://awslabs.github.io/amazon-kinesis-data-generator/)  (https://awslabs.github.io/amazon-kinesis-data-generator/web/help.html)
+- Evaluate LLMs with Hugging Face Lighteval on Amazon SageMaker (https://www.philschmid.de/sagemaker-evaluate-llm-lighteval)
 
 # 📺 Videos
 - StatQuest (https://statquest.org/video-index/)
@@ -1568,6 +1569,7 @@ Google AI/ML Use Cases
 - How to Beat Proprietary LLMs With Smaller Open Source Models (https://www.aidancooper.co.uk/how-to-beat-proprietary-llms/)
 - A Guide to Structured Outputs Using Constrained Decoding (https://www.aidancooper.co.uk/constrained-decoding/)
 - The 6 Best LLM Tools To Run Models Locally (https://medium.com/@amosgyamfi/the-6-best-llm-tools-to-run-models-locally-eedd0f7c2bbd)
+- You can now train a 70b language model at home (https://www.answer.ai/posts/2024-03-06-fsdp-qlora.html)  (https://github.com/AnswerDotAI/fsdp_qlora/tree/main)
 
 
 ## 🤖 Llama
