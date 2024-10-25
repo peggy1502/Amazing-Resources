@@ -1572,6 +1572,8 @@ Google AI/ML Use Cases
 - A Guide to Structured Outputs Using Constrained Decoding (https://www.aidancooper.co.uk/constrained-decoding/)
 - The 6 Best LLM Tools To Run Models Locally (https://medium.com/@amosgyamfi/the-6-best-llm-tools-to-run-models-locally-eedd0f7c2bbd)
 - You can now train a 70b language model at home - Training LLMs with QLoRA + FSDP (https://www.answer.ai/posts/2024-03-06-fsdp-qlora.html)  (https://github.com/AnswerDotAI/fsdp_qlora/tree/main)
+- Bugs in LLM Training - Gradient Accumulation Fix (https://unsloth.ai/blog/gradient)
+  - 🤗 Fixing Gradient Accumulation (https://huggingface.co/blog/gradient_accumulation)
 
 
 ## 🤖 Llama
