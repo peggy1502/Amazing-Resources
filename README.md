@@ -675,6 +675,7 @@ Google AI/ML Use Cases
 - The Kaitchup – AI on a Budget - by Benjamin Marie (https://kaitchup.substack.com/archive)
 - CheeKean (https://kean-chan.medium.com/)
 - Ryan O'Connor (https://www.assemblyai.com/blog/author/ryan/)
+- Norsbook’s KDP Journey (https://medium.com/norsbooks-kdp-journey)
 
 ## 👍 Company Tech Blogs
 - Data.gov.sg Blog (https://blog.data.gov.sg/)
@@ -1361,6 +1362,10 @@ Google AI/ML Use Cases
 ## 🤖 Transformer / LLM Platform / Software
 - GPT4All - run open-source LLMs on your own computer (https://github.com/nomic-ai/gpt4all)
 - LLaMA-Factory - Efficiently Fine-Tune 100+ LLMs in WebUI (https://github.com/hiyouga/LLaMA-Factory)
+- Meta Lingua: a lean, efficient, and easy-to-hack codebase to research LLMs (https://github.com/facebookresearch/lingua)
+
+Resources
+ Readme
   
 ## 🤖 Transformer / LLM Data Curator
 - Curating Trillion-Token Datasets: Introducing NVIDIA NeMo Data Curator (https://developer.nvidia.com/blog/curating-trillion-token-datasets-introducing-nemo-data-curator/)
