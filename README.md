@@ -1139,6 +1139,7 @@ Google AI/ML Use Cases
   - Beating Proprietary Models with a Quick Fine-Tune - Finetuning Quora Embeddings (https://modal.com/blog/fine-tuning-embeddings)  (https://github.com/567-labs/fastllm/blob/main/applications/finetune-quora-embeddings/Readme.md)
   - Fine-tune an LLM in minutes (ft. Llama 2, CodeLlama, Mistral, etc.) (https://modal.com/docs/examples/llm-finetuning)  (https://github.com/modal-labs/llm-finetuning)
 - Model Explorer - a powerful graph visualization tool that helps one understand, debug, and optimize ML models (https://ai.google.dev/edge/model-explorer)  (https://research.google/blog/model-explorer/)
+- Intel AutoRound - weight-only quantization algorithm designed specifically for low-bit LLM inference (https://github.com/intel/auto-round)  (https://medium.com/intel-analytics-software/autoround-sota-weight-only-quantization-algorithm-for-llms-across-hardware-platforms-99fe6eac2861)
 
 
 ## 🤖 Transformer Toolkit / Techniques / Methods
