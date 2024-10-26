@@ -1580,6 +1580,7 @@ Resources
 - You can now train a 70b language model at home - Training LLMs with QLoRA + FSDP (https://www.answer.ai/posts/2024-03-06-fsdp-qlora.html)  (https://github.com/AnswerDotAI/fsdp_qlora/tree/main)
 - Bugs in LLM Training - Gradient Accumulation Fix (https://unsloth.ai/blog/gradient)
   - 🤗 Fixing Gradient Accumulation (https://huggingface.co/blog/gradient_accumulation)
+- SynthID Text - Identifying AI-generated content (https://huggingface.co/blog/synthid-text)  (https://deepmind.google/technologies/synthid/)
 
 
 ## 🤖 Llama
