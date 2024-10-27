@@ -1610,6 +1610,9 @@ Resources
 ## 👍 Google AI/ML Use Cases
 - 185 real-world gen AI use cases from the world's leading organizations (https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders)
 - Customers are putting Gemini to work (https://blog.google/products/google-cloud/gemini-at-work-ai-agents/)
+- 
+## Diffusion Models
+- The ABCs of Diffusion Models (https://medium.com/decodingml/the-abcs-of-diffusion-models-51902a331068)  (https://github.com/decodingml/articles-code/tree/main/articles/generative_ai/diffusion_models_fundamentals)
 
 
 
