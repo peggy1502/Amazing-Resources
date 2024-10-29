@@ -516,6 +516,7 @@ Google AI/ML Use Cases
 - Predicting Credit Defaults Using Time-Series Models with Recursive Neural Networks and XGBoost (https://developer.nvidia.com/blog/predicting-credit-defaults-using-time-series-models-with-recursive-neural-networks-and-xgboost/) (https://github.com/daxiongshu/triton_amex)
 - Three Approaches to Encoding Time Information as Features for ML Models (https://developer.nvidia.com/blog/three-approaches-to-encoding-time-information-as-features-for-ml-models/)
 - A Comprehensive Guide on Interaction Terms in Time Series Forecasting (https://developer.nvidia.com/blog/a-comprehensive-guide-on-interaction-terms-in-time-series-forecasting/)
+- Skforecast - works with any regressor compatible with the scikit-learn API, including LightGBM, XGBoost, CatBoost, Keras, etc (https://skforecast.org/0.13.0/index.html)  (https://github.com/skforecast/skforecast)
 
 ## 📊 EDA / Data Visualization
 - Plotly Fundamentals (https://plotly.com/python/plotly-fundamentals/)
