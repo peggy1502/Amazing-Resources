@@ -490,6 +490,7 @@ Google AI/ML Use Cases
   - H3: Uber’s Hexagonal Hierarchical Spatial Index (https://www.uber.com/en-FI/blog/h3/)  (https://h3geo.org/docs/)
   - H3 hexagon data viewer (https://wolf-h3-viewer.glitch.me/)
 - How to use PostgreSQL for (military) geoanalytics tasks (https://klioba.com/how-to-use-postgresql-for-military-geoanalytics-tasks)  (https://klioba.com/public/presentations/PostGIS_Warfare_Export.pdf)  (http://download.geofabrik.de/osm-data-in-gis-formats-free.pdf)  (https://download.geofabrik.de/)
+- Writing fast string ufuncs for NumPy 2.0 (https://labs.quansight.org/blog/numpy-string-ufuncs)
 
 #### Gradient / Momentum
 - Yes you should understand backprop (https://karpathy.medium.com/yes-you-should-understand-backprop-e2f06eab496b) (https://www.youtube.com/watch?v=i94OvYb6noo)
@@ -511,7 +512,7 @@ Google AI/ML Use Cases
 #### Regression
 - A Comprehensive Overview of Regression Evaluation Metrics (https://developer.nvidia.com/blog/a-comprehensive-overview-of-regression-evaluation-metrics/)
 - A Comprehensive Guide to Interaction Terms in Linear Regression (https://developer.nvidia.com/blog/a-comprehensive-guide-to-interaction-terms-in-linear-regression/)
-- 
+  
 ## ⏱️ Time Series
 - Predicting Credit Defaults Using Time-Series Models with Recursive Neural Networks and XGBoost (https://developer.nvidia.com/blog/predicting-credit-defaults-using-time-series-models-with-recursive-neural-networks-and-xgboost/) (https://github.com/daxiongshu/triton_amex)
 - Three Approaches to Encoding Time Information as Features for ML Models (https://developer.nvidia.com/blog/three-approaches-to-encoding-time-information-as-features-for-ml-models/)
