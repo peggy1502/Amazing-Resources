@@ -536,6 +536,7 @@ Google AI/ML Use Cases
 - 6 python libraries to make beautiful maps (https://medium.com/@alexroz/6-python-libraries-to-make-beautiful-maps-9fb9edb28b27)
 - Exploring ExplainerDashBoard, the easiest way to Develop Interactive DashBoards (https://towardsdatascience.com/build-dashboards-in-less-than-10-lines-of-code-835e9abeae4b) $$
 - What I've Learned Building Interactive Embedding Visualizations (https://cprimozic.net/blog/building-embedding-visualizations-from-user-profiles/)  (https://github.com/Ameobea/osu-beatmap-atlas/blob/main/notebooks/README.md)
+- Announcing Data Wrangler: Code-centric viewing and cleaning of tabular data in Visual Studio Code (https://devblogs.microsoft.com/python/announcing-data-wrangler-code-centric-viewing-and-cleaning-of-tabular-data-in-visual-studio-code/)
 
 ## 📘 Colab
 - Google Colab Tips for Power Users (https://amitness.com/2020/06/google-colaboratory-tips/)
