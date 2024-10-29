@@ -1229,7 +1229,7 @@ Google AI/ML Use Cases
 - Quantization-Aware Training for Large Language Models with PyTorch (https://pytorch.org/blog/quantization-aware-training/)  (https://pytorch.org/torchtune/main/tutorials/qat_finetune.html)
 - 🤗 Efficient Deep Learning: A Comprehensive Overview of Optimization Techniques (https://huggingface.co/blog/Isayoften/optimization-rush)
 - FLUTE: Flexible Lookup Table Engine for LUT-quantized LLMs (https://github.com/HanGuo97/flute)
-- 🤗 Fine-tuning LLMs to 1.58bit: extreme quantization made easy (https://huggingface.co/blog/1_58_llm_extreme_quantization)
+- 🤗 Fine-tuning LLMs to 1.58bit: extreme quantization made easy - with BitNet archictecture (https://huggingface.co/blog/1_58_llm_extreme_quantization)
 
 ## 🤖 RAG
 - A Guide on 12 Tuning Strategies for Production-Ready RAG Applications (https://towardsdatascience.com/a-guide-on-12-tuning-strategies-for-production-ready-rag-applications-7ca646833439#341d)
@@ -1359,6 +1359,7 @@ Google AI/ML Use Cases
 - NanoFlow - a throughput-oriented high-performance serving framework for LLMs (https://github.com/efeslab/Nanoflow)  (https://arxiv.org/pdf/2408.12757)
 - GuideLLM - evaluating and optimizing the deployment of large language models (LLMs) (https://github.com/neuralmagic/guidellm)
 - LLM Compressor - create compressed models for faster inference with vLLM (https://github.com/vllm-project/llm-compressor)  (https://neuralmagic.com/blog/llm-compressor-is-here-faster-inference-with-vllm/)
+- bitnet.cpp - Official inference framework for 1-bit LLMs (https://github.com/microsoft/BitNet)
 
 ## 🤖 Transformer / LLM Platform / Software
 - GPT4All - run open-source LLMs on your own computer (https://github.com/nomic-ai/gpt4all)
