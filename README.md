@@ -1546,6 +1546,7 @@ Resources
 - Multi-Agent Software Development through Cross-Team Collaboration (https://arxiv.org/pdf/2406.08979v1)  (https://github.com/OpenBMB/ChatDev)
 - GenAI with Python: Build Agents from Scratch (Complete Tutorial) - with Ollama, LangChain, LangGraph (No GPU, No APIKEY) (https://towardsdatascience.com/genai-with-python-build-agents-from-scratch-complete-tutorial-4fc1e084e2ec) $$
 - Choosing Between LLM Agent Frameworks (https://towardsdatascience.com/choosing-between-llm-agent-frameworks-69019493b259)
+- Atomic Agents (https://github.com/BrainBlend-AI/atomic-agents/) (https://generativeai.pub/forget-langchain-crewai-and-autogen-try-this-framework-and-never-look-back-e34e0b6c8068)
 - V : AI Personal Trainer (https://github.com/pannaf/valkyrie)
 
 ## 🤖 LLM - Misc
