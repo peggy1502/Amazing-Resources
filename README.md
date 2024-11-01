@@ -850,6 +850,7 @@ Google AI/ML Use Cases
 - https://www.perplexity.ai/
 - Overleaf online LaTeX editor (https://www.overleaf.com/)
 - Instaloader - download pictures (or videos) along with their captions and other metadata from Instagram (https://instaloader.github.io/index.html)
+- High Emotion Words (https://thepersuasionrevolution.com/380-high-emotion-persuasive-words/)
 
 ## 👍 Job / Interview / DS Portfolio
 - Interview Query - Questions and Blogs (https://www.interviewquery.com/p/data-science-interview-questions)(https://www.interviewquery.com/articles)(https://www.interviewquery.com/blog)
