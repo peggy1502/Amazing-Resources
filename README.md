@@ -1299,6 +1299,7 @@ Google AI/ML Use Cases
 - DeepEval - open-source LLM evaluation framework specialized for unit testing LLM outputs (https://github.com/confident-ai/deepeval)
 - Language Model Evaluation Harness - based on tasks (https://github.com/EleutherAI/lm-evaluation-harness) (https://github.com/EleutherAI/lm-evaluation-harness/blob/main/docs/interface.md)
 - LLM Task-Specific Evals that Do & Don't Work (https://eugeneyan.com/writing/evals/)
+- RULER: What’s the Real Context Size of Your Long-Context Language Models? Evaluate long-context language models with configurable sequence length and task complexity (https://github.com/NVIDIA/RULER)
 
 ## 🤖 Transformer Models / Timeline
 - 7 Basic NLP Models to Empower Your ML Application (https://zilliz.com/learn/7-nlp-models)
@@ -1364,14 +1365,13 @@ Google AI/ML Use Cases
 - GuideLLM - evaluating and optimizing the deployment of large language models (LLMs) (https://github.com/neuralmagic/guidellm)
 - LLM Compressor - create compressed models for faster inference with vLLM (https://github.com/vllm-project/llm-compressor)  (https://neuralmagic.com/blog/llm-compressor-is-here-faster-inference-with-vllm/)
 - bitnet.cpp - Official inference framework for 1-bit LLMs (https://github.com/microsoft/BitNet)
+- STRING - a training-free method to improve effective context length of popular RoPE-based LLMs (https://github.com/HKUNLP/STRING)
 
 ## 🤖 Transformer / LLM Platform / Software
 - GPT4All - run open-source LLMs on your own computer (https://github.com/nomic-ai/gpt4all)
 - LLaMA-Factory - Efficiently Fine-Tune 100+ LLMs in WebUI (https://github.com/hiyouga/LLaMA-Factory)
 - Meta Lingua: a lean, efficient, and easy-to-hack codebase to research LLMs (https://github.com/facebookresearch/lingua)
 
-Resources
- Readme
   
 ## 🤖 Transformer / LLM Data Curator
 - Curating Trillion-Token Datasets: Introducing NVIDIA NeMo Data Curator (https://developer.nvidia.com/blog/curating-trillion-token-datasets-introducing-nemo-data-curator/)
