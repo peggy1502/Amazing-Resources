@@ -545,6 +545,7 @@ Google AI/ML Use Cases
 - Configuring Google Colab Like A Pro (https://medium.com/@robertbracco1/configuring-google-colab-like-a-pro-d61c253f7573)
 
 ## 🐍 Python 
+- Advanced Python Topics Tutorial (https://www.geeksforgeeks.org/advanced-python-tutorials/)
 - Data manipulation with Python (https://www.mit.edu/~amidi/teaching/data-science-tools/study-guide/data-manipulation-with-python/)
 - Data Preprocessing Concepts with Python (https://pub.towardsai.net/data-preprocessing-concepts-with-python-b93c63f14bb6)
 - 7 Actionable Tips on How to Use Python to Become a Finance Guru (https://sdsclub.com/7-actionable-tips-on-how-to-use-python-to-become-a-finance-guru/)
