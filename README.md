@@ -205,6 +205,8 @@ Google AI/ML Use Cases
   - Part 1: A Simple Solution for Managing Cloud-Based ML-Training - How to Implement a Custom Training Solution Using Basic (Unmanaged) Cloud Service APIs (https://medium.com/towards-data-science/a-simple-solution-for-managing-cloud-based-ml-training-c80a69c6939a)
   - Part 2: How to Implement a Custom Training Solution Based on Amazon EC2 (https://medium.com/towards-data-science/how-to-implement-a-custom-training-solution-based-on-amazon-ec2-c91fcc2b145a)
   - Debugging and Tuning Amazon SageMaker Training Jobs with SageMaker SSH Helper (https://medium.com/towards-data-science/debugging-and-tuning-amazon-sagemaker-training-jobs-with-sagemaker-ssh-helper-51efeb4d03be)
+  - Part 1: Optimizing the use of limited AI training accelerators - Maximizing the Utility of Scarce AI Resources: A Kubernetes Approach (https://medium.com/towards-data-science/maximizing-the-utility-of-scarce-ai-resources-a-kubernetes-approach-0230ba53965b)
+  - Part 2: A Priority Based Scheduler for Amazon SageMaker Training Jobs (https://medium.com/towards-data-science/a-priority-based-scheduler-for-amazon-sagemaker-training-jobs-a225327e0a94)
 
 # 📺 Videos
 - StatQuest (https://statquest.org/video-index/)
