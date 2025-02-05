@@ -197,6 +197,14 @@ Google AI/ML Use Cases
 - Introducing Amazon Kinesis Data Analytics Studio – Quickly Interact with Streaming Data Using SQL, Python, or Scala (https://aws.amazon.com/blogs/aws/introducing-amazon-kinesis-data-analytics-studio-quickly-interact-with-streaming-data-using-sql-python-or-scala/)
 - amazon-kinesis-data-generator (https://awslabs.github.io/amazon-kinesis-data-generator/)  (https://awslabs.github.io/amazon-kinesis-data-generator/web/help.html)
 - Evaluate LLMs with Hugging Face Lighteval on Amazon SageMaker (https://www.philschmid.de/sagemaker-evaluate-llm-lighteval)
+- Chaim Rand
+  - Part 1: Instance Selection for Deep Learning (https://medium.com/towards-data-science/instance-selection-for-deep-learning-7463d774cff0)
+  - Part 2: Optimizing Instance Type Selection for AI Development in Cloud Spot Markets (https://medium.com/towards-data-science/optimizing-instance-type-selection-for-ai-development-in-cloud-spot-markets-a6e94804e8f3)
+  - Managing Your Cloud-Based Data Storage with Rclone (https://medium.com/towards-data-science/managing-your-cloud-based-data-storage-with-rclone-32fff991e0b3)
+  - Using Server-less Functions to Govern and Monitor Cloud-Based Training Experiments (https://medium.com/towards-data-science/using-server-less-functions-to-govern-and-monitor-cloud-based-training-experiments-755c43fba26b)
+  - Part 1: A Simple Solution for Managing Cloud-Based ML-Training - How to Implement a Custom Training Solution Using Basic (Unmanaged) Cloud Service APIs (https://medium.com/towards-data-science/a-simple-solution-for-managing-cloud-based-ml-training-c80a69c6939a)
+  - Part 2: How to Implement a Custom Training Solution Based on Amazon EC2 (https://medium.com/towards-data-science/how-to-implement-a-custom-training-solution-based-on-amazon-ec2-c91fcc2b145a)
+  - Debugging and Tuning Amazon SageMaker Training Jobs with SageMaker SSH Helper (https://medium.com/towards-data-science/debugging-and-tuning-amazon-sagemaker-training-jobs-with-sagemaker-ssh-helper-51efeb4d03be)
 
 # 📺 Videos
 - StatQuest (https://statquest.org/video-index/)
