@@ -1009,6 +1009,24 @@ Google AI/ML Use Cases
 - TorchMetrics - How do we use it, and what's the difference between .update() and .forward()? (https://sebastianraschka.com/blog/2022/torchmetrics.html) (https://github.com/rasbt/torchmetrics-blog/blob/main/torchmetrics-update-forward.ipynb)
 - PyTorch training codes with AverageMeter & ProgressMeter (https://docs.openvino.ai/2023.0/notebooks/302-pytorch-quantization-aware-training-with-output.html)
 - Hooks: the one PyTorch trick you must know (https://tivadardanka.com/blog/hooks-the-one-pytorch-trick-you-must-know)
+- Chaim Rand
+  - Part 1: PyTorch Model Performance Analysis and Optimization - Use PyTorch Profiler and TensorBoard (https://medium.com/towards-data-science/pytorch-model-performance-analysis-and-optimization-10c3c5822869)
+  - Part 2: Identify and Reduce CPU Computation In Your Training Step (https://medium.com/towards-data-science/pytorch-model-performance-analysis-and-optimization-part-2-3bc241be91)
+  - Part 3: Reduce "Cuda Memcpy Async" Events and Why You Should Beware of Boolean Mask Operations (https://medium.com/towards-data-science/pytorch-model-performance-analysis-and-optimization-part-3-1c5876d78fe2)
+  - Part 4: Solving Bottlenecks on the Data Input Pipeline (https://medium.com/towards-data-science/solving-bottlenecks-on-the-data-input-pipeline-with-pytorch-profiler-and-tensorboard-5dced134dbe9)
+  - Part 5: How to Optimize Your DL Data-Input Pipeline with a Custom PyTorch Operator (https://medium.com/towards-data-science/how-to-optimize-your-dl-data-input-pipeline-with-a-custom-pytorch-operator-7f8ea2da5206)
+  - Part 6: Identify and Analyze Performance Issues in the Backward Pass with PyTorch Profiler, PyTorch Hooks, and TensorBoard (https://medium.com/towards-data-science/pytorch-model-performance-analysis-and-optimization-part-6-b87412a0371b)
+  - Part 7: Efficient Metric Collection in PyTorch: Avoiding the Performance Pitfalls of TorchMetrics (https://chaimrand.medium.com/efficient-metric-collection-in-pytorch-avoiding-the-performance-pitfalls-of-torchmetrics-0dea81413681)
+- Chaim Rand
+  - Part 1: Accelerating PyTorch Training Workloads with FP8 (https://medium.com/towards-data-science/accelerating-pytorch-training-workloads-with-fp8-5a5123aec7d7)
+  - Part 2: PyTorch Native FP8 Data Types (https://medium.com/towards-data-science/pytorch-native-fp8-fedc06f1c9f7)
+- Chaim Rand
+  - Part 1: Accelerating AI/ML Model Training with Custom Operators (https://medium.com/towards-data-science/accelerating-ai-ml-model-training-with-custom-operators-163ef2a04b12)
+  - Part 2: Unleashing the Power of Triton: Mastering GPU Kernel Optimization in Python (https://medium.com/towards-data-science/unleashing-the-power-of-triton-mastering-gpu-kernel-optimization-in-python-160a3f52701e)
+  - Part 3: The Rise of Pallas: Unlocking TPU Potential with Custom Kernels (https://medium.com/towards-data-science/the-rise-of-pallas-unlocking-tpu-potential-with-custom-kernels-67be10ab846a)
+  - Part 3A: Implementing Sequential Algorithms on TPU (https://medium.com/towards-data-science/implementing-sequential-algorithms-on-tpu-41d75c6aaa95)
+  - Part 4: On the Programmability of AWS Trainium and Inferentia (https://medium.com/towards-data-science/on-the-programmability-of-aws-trainium-and-inferentia-cd455826e26c)
+  - 
 
 ## 🔦 PyTorch-Related Discussions
 - How to modify a pretrained model (https://discuss.pytorch.org/t/how-to-modify-a-pretrained-model/60509)
