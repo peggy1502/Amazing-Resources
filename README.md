@@ -885,6 +885,7 @@ Google AI/ML Use Cases
 - Ten Advanced SQL Concepts You Should Know for Data Science Interviews (https://towardsdatascience.com/ten-advanced-sql-concepts-you-should-know-for-data-science-interviews-4d7015ec74b0)
 - SQL Group By and Partition By Scenarios: When and How to Combine Data in Data Science (https://www.kdnuggets.com/sql-group-by-and-partition-by-scenarios-when-and-how-to-combine-data-in-data-science)
 - Creating a Data Science Portfolio (https://towardsdatascience.com/creating-a-data-science-portfolio-bd485382f49)
+- Build Your LLM Engineer Portfolio: A 3-Month Roadmap (https://pub.towardsai.net/build-your-llm-engineer-portfolio-a-3-month-roadmap-19826e39c185) $$
 - Data Science Portfolio (https://github.com/MaartenGr/projects)
 - Github digital cv example (https://github.com/March-08/digital-cv)
 - How to Build a Data Science Portfolio Website using Python (https://towardsdatascience.com/how-to-build-a-data-science-portfolio-website-using-python-79531426fde5)
