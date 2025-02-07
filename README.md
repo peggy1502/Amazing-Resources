@@ -1624,6 +1624,8 @@ Google AI/ML Use Cases
 - SynthID Text - Apply watermarks and identify AI-generated content (https://huggingface.co/blog/synthid-text)  (https://deepmind.google/technologies/synthid/)
 - How to Build ANYTHING You Imagine With DeepSeek-R1 (Zero Coding Required) (https://iamshobhitagarwal.medium.com/how-to-build-anything-you-imagine-with-deepseek-r1-zero-coding-required-free-0d582513e7ab) $$
   - BOLT.diy: Build UNLIMITED Apps in Minutes 🚀 (No Code Required) (https://www.youtube.com/watch?v=QQw47XzcKRQ)
+    - Form Setup Guide - NocoDB (https://www.youtube.com/watch?v=GEsFSadshpg)
+    - Email Automation - N8n (https://www.youtube.com/watch?v=gofNLKlrFCQ)
 
 
 ## 🤖 Llama
