@@ -127,6 +127,7 @@ Google AI/ML Use Cases
 - Parlance Labs - Educational resources on LLMs (https://parlance-labs.com/education/)
 - Start Machine Learning in 2024 - Become an expert for free! (https://github.com/louisfb01/start-machine-learning)
 - Start with Large Language Models (LLMs) - Become an expert for free! (https://github.com/louisfb01/start-llms)
+- Applied AI Blogs - Ultimate destination for mastering AI, data science, and machine learning through expert-guided resources and insights. (https://www.appliedaicourse.com/blog/)
 
 
 # 👍 Cheat Sheets
