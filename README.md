@@ -1403,6 +1403,9 @@ Google AI/ML Use Cases
 - GPT4All - run open-source LLMs on your own computer (https://github.com/nomic-ai/gpt4all)
 - LLaMA-Factory - Efficiently Fine-Tune 100+ LLMs in WebUI (https://github.com/hiyouga/LLaMA-Factory)
 - Meta Lingua: a lean, efficient, and easy-to-hack codebase to research LLMs (https://github.com/facebookresearch/lingua)
+- bolt.diy (Previously oTToDev) - Prompt, run, edit, and deploy full-stack web applications using any LLM you want! (https://github.com/stackblitz-labs/bolt.diy)
+- WebUI - Run AI Agent in your browser (https://github.com/browser-use/web-ui)
+- Free LLM API resources (https://github.com/cheahjs/free-llm-api-resources)
 
   
 ## 🤖 Transformer / LLM Data Curator
@@ -1619,6 +1622,8 @@ Google AI/ML Use Cases
 - Bugs in LLM Training - Gradient Accumulation Fix (https://unsloth.ai/blog/gradient)
   - 🤗 Fixing Gradient Accumulation (https://huggingface.co/blog/gradient_accumulation)
 - SynthID Text - Apply watermarks and identify AI-generated content (https://huggingface.co/blog/synthid-text)  (https://deepmind.google/technologies/synthid/)
+- How to Build ANYTHING You Imagine With DeepSeek-R1 (Zero Coding Required) (https://iamshobhitagarwal.medium.com/how-to-build-anything-you-imagine-with-deepseek-r1-zero-coding-required-free-0d582513e7ab) $$
+  - BOLT.diy: Build UNLIMITED Apps in Minutes 🚀 (No Code Required) (https://www.youtube.com/watch?v=QQw47XzcKRQ)
 
 
 ## 🤖 Llama
