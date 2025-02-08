@@ -350,6 +350,12 @@ Google AI/ML Use Cases
 - Accelerating AI: Implementing Multi-GPU Distributed Training for Personalized Recommendations (https://multithreaded.stitchfix.com/blog/2023/06/08/distributed-model-training/)
 - How Instacart Uses Machine Learning-Driven Autocomplete to Help People Fill Their Carts (https://tech.instacart.com/how-instacart-uses-machine-learning-driven-autocomplete-to-help-people-fill-their-carts-9bc56d22bafb)
 - Is this the ChatGPT moment for recommendation systems? (https://www.shaped.ai/blog/is-this-the-chatgpt-moment-for-recommendation-systems)
+- Hands-on H&M Real-Time Personalized Recommender (https://github.com/decodingml/personalized-recommender-course)
+  - Building a TikTok-like recommender (https://decodingml.substack.com/p/the-ultimate-recommender-system-framework)
+  - Feature pipelines for TikTok-like recommenders (https://decodingml.substack.com/p/feature-pipeline-for-tiktok-like)
+  - Training pipelines for TikTok-like recommenders (https://decodingml.substack.com/p/training-pipelines-for-tiktok-like)
+  - Deploy scalable TikTok-like recommenders (https://decodingml.substack.com/p/deploy-scalable-tiktok-like-recommenders)
+  - Using LLMs to build TikTok-like recommenders (https://decodingml.substack.com/p/using-llms-to-build-tiktok-like-recommenders)
 
 ## 👫 Similarity Search / ANNS / Vector Indexing
 - Getting started with Vector DBs in Python (https://code.dblock.org/2023/06/16/getting-started-with-vector-dbs-in-python.html) (https://github.com/dblock/vectordb-hello-world/)
@@ -380,6 +386,9 @@ Google AI/ML Use Cases
 - MyScale - A Deep Dive into SQL Vector Databases (https://myscale.com/blog/what-is-sql-vector-databases/)
 - Vector DB Comparison (https://superlinked.com/vector-db-comparison/)
 - How to build a real-time News Search Engine using Vector DBs - implementing a live news aggregating streaming pipeline with NewsAPI, NewsData, Apache Kafka, Bytewax, and Upstash Vector Database (https://medium.com/decodingml/how-to-build-a-real-time-news-search-engine-using-serverless-upstash-kafka-and-vector-db-6ba393e55024) (https://decodingml.substack.com/p/how-to-build-a-real-time-news-search)  (https://github.com/decodingml/articles-code/tree/main/articles/ml_system_design/real_time_news_search_with_upstash_kafka_and_vector_db)
+- Hands-on Amazon Tabular Semantic Search (https://github.com/decodingml/tabular-semantic-search-tutorial)
+  - Forget text-to-SQL: Use this natural query instead (https://decodingml.substack.com/p/forget-text-to-sql-use-this-natural)
+  - Stop using text-to-SQL for search. Here's why. (https://decodingml.substack.com/p/stop-using-text-to-sql-for-search)
 
 ## 🆎 Code Search 
 - A brief history of code search at GitHub (https://github.blog/2021-12-15-a-brief-history-of-code-search-at-github/)
