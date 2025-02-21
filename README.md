@@ -873,6 +873,7 @@ Google AI/ML Use Cases
 - High Emotion Words (https://thepersuasionrevolution.com/380-high-emotion-persuasive-words/)
 - Heptabase - visually make sense of your learning, research, and projects (https://heptabase.com/)
 - Jupyter Agent (https://huggingface.co/spaces/data-agents/jupyter-agent)
+- Lovable - Build web apps without coding (https://lovable.dev/)
 
 ## 👍 Job / Interview / DS Portfolio
 - Interview Query - Questions and Blogs (https://www.interviewquery.com/p/data-science-interview-questions)(https://www.interviewquery.com/articles)(https://www.interviewquery.com/blog)
