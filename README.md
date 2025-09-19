@@ -1669,8 +1669,11 @@ Google AI/ML Use Cases
 ## Diffusion Models
 - The ABCs of Diffusion Models (https://medium.com/decodingml/the-abcs-of-diffusion-models-51902a331068)  (https://github.com/decodingml/articles-code/tree/main/articles/generative_ai/diffusion_models_fundamentals)
 
+---
 
+[![Stargazers repo roster for @peggy1502/Amazing-Resources](https://reporoster.com/stars/peggy1502/Amazing-Resources)](https://github.com/peggy1502/Amazing-Resources/stargazers)
 
+[![Forkers repo roster for @peggy1502/Amazing-Resources](https://reporoster.com/forks/peggy1502/Amazing-Resources)](https://github.com/peggy1502/Amazing-Resources/network/members)
 
 
 
