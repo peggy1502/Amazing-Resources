@@ -510,6 +510,7 @@ Google AI/ML Use Cases
   - H3 hexagon data viewer (https://wolf-h3-viewer.glitch.me/)
 - How to use PostgreSQL for (military) geoanalytics tasks (https://klioba.com/how-to-use-postgresql-for-military-geoanalytics-tasks)  (https://klioba.com/public/presentations/PostGIS_Warfare_Export.pdf)  (http://download.geofabrik.de/osm-data-in-gis-formats-free.pdf)  (https://download.geofabrik.de/)
 - Writing fast string ufuncs for NumPy 2.0 (https://labs.quansight.org/blog/numpy-string-ufuncs)
+- The Kaggle Grandmasters Playbook: 7 Battle-Tested Modeling Techniques for Tabular Data (https://developer.nvidia.com/blog/the-kaggle-grandmasters-playbook-7-battle-tested-modeling-techniques-for-tabular-data/)
 
 #### Gradient / Momentum
 - Yes you should understand backprop (https://karpathy.medium.com/yes-you-should-understand-backprop-e2f06eab496b) (https://www.youtube.com/watch?v=i94OvYb6noo)
