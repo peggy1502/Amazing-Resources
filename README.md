@@ -1147,7 +1147,7 @@ Google AI/ML Use Cases
 - Can you run it? LLM version (https://huggingface.co/spaces/Vokturz/can-it-run-llm)
 - 🤗 Model Memory Calculator (https://huggingface.co/spaces/hf-accelerate/model-memory-usage)
 - VRAM Estimator - Estimate GPU VRAM usage of transformer-based models (https://vram.asmirnov.xyz/)
-- LLM VRAM Calculator - Estimate the VRAM/unified memory to run any LLM locally by size, quantization (Q4/Q8/FP16), and context length, with the 2026 consumer GPUs that fit (https://setupquarterly.com/reviews/llm-vram-calculator/)
+- LLM VRAM Calculator - Estimate the VRAM/unified memory to run any LLM locally by size, quantization (Q4/Q8/FP16), and context length, with the 2026 consumer GPUs that fit (https://verdictbits.com/reviews/llm-vram-calculator/)
 - Model training anatomy (https://huggingface.co/docs/transformers/model_memory_anatomy)
 - Estimate the Memory Consumption of LLMs for Inference and Fine-tuning (https://kaitchup.substack.com/p/estimate-the-memory-consumption-of)  (https://colab.research.google.com/drive/1J_r9gB849RL4R4PXC8o05KkNeUXhBXoO?usp=sharing)
 - LLM Explorer (https://llm.extractum.io/)
