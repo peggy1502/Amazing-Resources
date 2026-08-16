@@ -809,6 +809,7 @@ Google AI/ML Use Cases
 - Shorten URLs (https://bitly.com/)
 - Profile Pic Maker (https://pfpmaker.com/)
 - Pictory - Online Video Creator (https://pictory.ai/)
+- videos.social - Editable faceless video from blogs, PDFs, and prompts (https://videos.social/)
 - CapCut - Free Video Editor (https://www.capcut.com/)
 - Video Creation (https://invideo.io/)
 - Free Video Recording & Live Streaming (https://obsproject.com/)
