@@ -819,6 +819,7 @@ Google AI/ML Use Cases
 - BlobCity AI Seed Projects (https://github.com/blobcity/ai-seed)
 - Meta AI Frameworks, Tools, Libraries, Models (https://ai.facebook.com/tools)
 - Resume Worded (https://resumeworded.com/resume-bullet-points)
+- ResumeAI (https://withresumeai.com/) — free ATS checker + open State of ATS 2026 dataset
 - Mockaroo - Random Data Generator (https://mockaroo.com/)
 - Flourish - Beautiful and easy data visualization and storytelling (https://flourish.studio/)
 - Flameshot - screenshot software (https://github.com/flameshot-org/flameshot)
